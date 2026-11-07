@@ -1,3 +1,4 @@
+from co_pilot.card_store import stored_card
 import os
 import sys
 from PIL import Image, ImageDraw, ImageFont
@@ -32,6 +33,7 @@ def save_and_sync(canvas: Image.Image, filename: str) -> str:
 # ===========================================================================
 # 1. ALL 5 MASTERIES VIEW (IMAGE 1)
 # ===========================================================================
+@stored_card('player_name', 'level', 'spent_points')
 def render_all_5_mastery_trees_card(
     player_name: str = "Hugo",
     level: int = 100,
@@ -146,6 +148,7 @@ def render_all_5_mastery_trees_card(
 # ===========================================================================
 # 2. STATS BREAKDOWN (IMAGE 2) - NATURALLY GROUPED WITHOUT FLUFF
 # ===========================================================================
+@stored_card('player_name', 'level')
 def render_build_stats_summary_card(
     player_name: str = "Hugo",
     level: int = 100

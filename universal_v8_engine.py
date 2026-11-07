@@ -1,3 +1,4 @@
+from co_pilot.card_store import stored_card
 from typing import Optional, Dict, Any, List
 import re
 import os
@@ -161,6 +162,7 @@ HEROES_DATA = {
     }
 }
 
+@stored_card('char_key', 'is_french')
 def render_clean_character_card(char_key: str = "marie", is_french: bool = False) -> str:
     ck = char_key.lower().strip()
     if ck not in HEROES_DATA:
@@ -235,6 +237,7 @@ def render_clean_character_card(char_key: str = "marie", is_french: bool = False
 # ===========================================================================
 # 2. UNIVERSAL PURE ENGLISH COSMETIC CRAFTING CARDS
 # ===========================================================================
+@stored_card('skin_data')
 def render_pure_english_cosmetic_card(skin_data: dict) -> str:
     skin_name = skin_data.get("name", "Custom Skin")
     target_name = skin_data.get("target", "Weapon")
@@ -368,12 +371,13 @@ def render_pure_english_cosmetic_card(skin_data: dict) -> str:
         draw.text((tip_box[0] + 14, tip_box[1] + 28), f"• Resale Value : Sells to vendors for {fee_digits} Copper · Merchants do not sell this item", fill=(210, 205, 190), font=core.F_BODY)
         draw.text((tip_box[0] + 14, tip_box[1] + 48), "• Unlock Rule : Discover Schema in Chateau to permanently add to Appearance menu.", fill=(175, 170, 155), font=core.F_BODY)
 
-    clean_name = skin_name.lower().replace(" ", "_").replace("'", "")
-    clean_target = target_name.lower().replace(" ", "_")
+    clean_name = re.sub(r"[^a-z0-9_-]+", "_", skin_name.lower())
+    clean_target = re.sub(r"[^a-z0-9_-]+", "_", target_name.lower())
     clean_fn = f"skin_{clean_target}_{clean_name}.jpg"
     return save_and_sync(canvas, clean_fn)
 
 
+@stored_card('weapon_name', 'skin_list')
 def render_weapon_skins_showcase_sheet(weapon_name: str, skin_list: list) -> str:
     """
     Renders high-resolution 2400x1400 Obsidian showcase sheet displaying ALL official skins
@@ -427,11 +431,11 @@ def render_weapon_skins_showcase_sheet(weapon_name: str, skin_list: list) -> str
     tile_w = int((CANVAS_W - 2 * margin_x - (cols - 1) * gap_x) / cols)
     tile_h = int((CANVAS_H - margin_y - 20 - (rows - 1) * gap_y) / rows)
 
-    f_card_title = ImageFont.truetype("C:\\Windows\\Fonts\\segoeuib.ttf", 20)
-    f_badge = ImageFont.truetype("C:\\Windows\\Fonts\\segoeuib.ttf", 12)
-    f_body = ImageFont.truetype("C:\\Windows\\Fonts\\segoeui.ttf", 13)
-    f_body_bold = ImageFont.truetype("C:\\Windows\\Fonts\\segoeuib.ttf", 13)
-    f_tiny = ImageFont.truetype("C:\\Windows\\Fonts\\segoeui.ttf", 11)
+    f_card_title = core.load_font(core.SANS_BOLD, 20)
+    f_badge = core.load_font(core.SANS_BOLD, 12)
+    f_body = core.load_font(core.SANS_REG, 13)
+    f_body_bold = core.load_font(core.SANS_BOLD, 13)
+    f_tiny = core.load_font(core.SANS_REG, 11)
 
     rarity_colors = {
         "uncommon": (74, 222, 128),
@@ -515,6 +519,7 @@ def render_weapon_skins_showcase_sheet(weapon_name: str, skin_list: list) -> str
 # ===========================================================================
 # 2.5 DEDICATED RECIPE CARD RENDERER (ALL 110 RECIPES IN THE HUNGER)
 # ===========================================================================
+@stored_card('recipe_slug_or_name')
 def render_recipe_card(recipe_slug_or_name: str) -> str:
     """
     Renders high-resolution dossier for any recipe/schema in the game:
@@ -533,16 +538,14 @@ def render_recipe_card(recipe_slug_or_name: str) -> str:
     recipe_meta = drops_db.get(q_low)
     
     if not recipe_meta:
-        for k, v in drops_db.items():
-            if q_low in k or k in q_low or v.get("title", "").lower() in recipe_slug_or_name.lower():
-                recipe_meta = v
-                break
+        recipe_meta = next((v for v in drops_db.values()
+                            if v.get("title", "").casefold() == recipe_slug_or_name.casefold()), None)
 
     if not recipe_meta:
         conn = sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db"))
         c = conn.cursor()
-        c.execute("SELECT slug, name_en, category, rarity, sell_silver, sell_copper, best_container, vendor_buy FROM companion_items_cache WHERE slug LIKE ? OR name_en LIKE ? LIMIT 1",
-                  (f"%{q_low}%", f"%{recipe_slug_or_name}%"))
+        c.execute("SELECT slug, name_en, category, rarity, sell_silver, sell_copper, best_container, vendor_buy FROM companion_items_cache WHERE slug = ? OR name_en = ? LIMIT 1",
+                  (q_low, recipe_slug_or_name))
         row = c.fetchone()
         conn.close()
         if row:
@@ -559,16 +562,21 @@ def render_recipe_card(recipe_slug_or_name: str) -> str:
                 "unlocks": f"Allows crafting of item at Chateau Workshop"
             }
         else:
+            # The batch catalog includes recipes not present in the item cache.
+            # Use their actual metadata, never a different recipe's price/spawn.
+            with sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db")) as conn:
+                row = conn.execute(
+                    "SELECT slug, name, profession, level, rarity FROM recipes_full "
+                    "WHERE slug = ? OR name = ? LIMIT 1", (q_low, recipe_slug_or_name)
+                ).fetchone()
+            if row is None:
+                raise ValueError(f"No recipe data for {recipe_slug_or_name}")
             recipe_meta = {
-                "title": recipe_slug_or_name.title(),
-                "slug": q_low,
-                "rarity": "Epic",
-                "category": "Crafting Recipe",
-                "sell_display": "9 Silver 20 Copper",
-                "mob_drops": [],
-                "placed_drops": ["Sarlat Farm (Dupo Farrier workshop) · 1/6.7 (14.9% High Rate)"],
-                "vendor_buys": ["Henri at Chateau Hub (92 Silver)"],
-                "unlocks": "Crafting formula at Chateau Forge"
+                "title": row[1], "slug": row[0], "rarity": row[4] or "Unknown",
+                "category": "Crafting Recipe", "sell_display": "Not recorded",
+                "mob_drops": [], "placed_drops": [],
+                "vendor_buys": ["Not recorded"],
+                "unlocks": f"{row[2]} · Level {row[3]} · {row[1]}"
             }
 
     title = recipe_meta.get("title", recipe_slug_or_name.title())
@@ -652,7 +660,7 @@ def render_recipe_card(recipe_slug_or_name: str) -> str:
     else:
         placed = recipe_meta.get("placed_drops", [])
         mobs = recipe_meta.get("mob_drops", [])
-        l1 = f"• Placed World Loot : {placed[0]}" if placed else "• Placed World Loot : Static spawn in expedition workshop"
+        l1 = f"• Placed World Loot : {placed[0]}" if placed else "• Placed World Loot : Not recorded"
         l2 = f"• Mob Drop : {mobs[0]}" if mobs else f"• Chateau Merchant : {v_txt}"
         draw.text((p2[0] + 16, p2[1] + 40), l1[:70], fill=core.COLOR_PARCHMENT, font=core.F_BODY)
         draw.text((p2[0] + 16, p2[1] + 66), l2[:70], fill=(220, 215, 200), font=core.F_BODY)
@@ -958,12 +966,13 @@ def get_pure_blank_map(map_key: str) -> str:
 # ===========================================================================
 # 5. AUTHENTIC MELEE WEAPONS CARDS IN PURE ENGLISH (CLUB, SHORTSWORD, ALL WEAPONS)
 # ===========================================================================
+@stored_card('weapon_slug')
 def render_pure_english_melee_card(weapon_slug: str) -> str:
     db_p = os.path.join(ROOT_DIR, "hunger_helper.db")
     conn = sqlite3.connect(db_p)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute("SELECT * FROM weapons WHERE slug LIKE ? OR name_en LIKE ? LIMIT 1", (f"%{weapon_slug}%", f"%{weapon_slug}%"))
+    c.execute("SELECT * FROM weapons WHERE slug = ? OR name_en = ? LIMIT 1", (weapon_slug, weapon_slug))
     w_row = c.fetchone()
     conn.close()
 
@@ -1127,6 +1136,7 @@ if __name__ == "__main__":
 # ===========================================================================
 # 6. AUTHENTIC JACQUES FOLLY DUNGEON (REAL COORDINATES FROM COMPANION)
 # ===========================================================================
+@stored_card('is_french')
 def render_authentic_dungeon_card(is_french: bool = False) -> str:
     title = "DUNGEON ACCESS : JACQUES FOLLY" if not is_french else "ACCES AU DONJON : JACQUES FOLLY"
     canvas, draw = create_base_canvas(title, tag="DUNGEON RECON")
@@ -1445,6 +1455,7 @@ CREATURES_DATABASE = {
     }
 }
 
+@stored_card('creature_key', 'is_french')
 def render_universal_creature_card(creature_key: str = "bloat", is_french: bool = False) -> str:
     ck = creature_key.lower().strip()
     c_data = None
@@ -1565,6 +1576,7 @@ def get_firearms_database() -> Dict[str, Any]:
 FIREARMS_DATABASE = get_firearms_database()
 
 
+@stored_card('firearm_key', 'is_french')
 def render_pure_english_firearm_card(firearm_key: str = "marengo", is_french: bool = False) -> str:
     f_db = get_firearms_database()
     fk = firearm_key.lower().strip()
@@ -1720,6 +1732,7 @@ def render_pure_english_firearm_card(firearm_key: str = "marengo", is_french: bo
 # ===========================================================================
 # 10. AUTHENTIC 2-HANDED MELEE WEAPONS COMPARISON CARD
 # ===========================================================================
+@stored_card()
 def render_two_handed_melee_overview_card() -> str:
     canvas, draw = create_base_canvas("OFFICIAL 2-HANDED MELEE WEAPONRY (HUNGER)", tag="MELEE ARSENAL")
     CARD_W, CARD_H = canvas.size
@@ -1772,6 +1785,7 @@ def render_two_handed_melee_overview_card() -> str:
 # ===========================================================================
 # 10.5 AUTHENTIC 1-HANDED MELEE WEAPONS COMPARISON CARD (8 OFFICIAL WEAPONS)
 # ===========================================================================
+@stored_card()
 def render_one_handed_melee_overview_card() -> str:
     canvas, draw = create_base_canvas("OFFICIAL 1-HANDED MELEE WEAPONRY (HUNGER)", tag="MELEE ARSENAL")
     CARD_W, CARD_H = canvas.size
@@ -1838,12 +1852,13 @@ def render_one_handed_melee_overview_card() -> str:
 # ===========================================================================
 # 11. DYNAMIC QUEST BRIEFING CARD (FOR ANY QUEST IN DATABASE)
 # ===========================================================================
+@stored_card('quest_slug', 'is_french')
 def render_dynamic_quest_contract_card(quest_slug: str, is_french: bool = False) -> str:
     db_p = os.path.join(ROOT_DIR, "hunger_helper.db")
     conn = sqlite3.connect(db_p)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute("SELECT * FROM quests WHERE slug LIKE ? OR name LIKE ? LIMIT 1", (f"%{quest_slug}%", f"%{quest_slug}%"))
+    c.execute("SELECT * FROM quests WHERE slug = ? OR name = ? LIMIT 1", (quest_slug, quest_slug))
     q_row = c.fetchone()
 
     if not q_row:
@@ -1917,13 +1932,14 @@ def render_dynamic_quest_contract_card(quest_slug: str, is_french: bool = False)
 # ===========================================================================
 # 11. BAGS & BACKPACKS (ALL 29 BAGS - CAPACITY, SLOTS & RESALE VALUES)
 # ===========================================================================
+@stored_card('bag_slug_or_name')
 def render_bag_card(bag_slug_or_name: str) -> str:
     """Render high-resolution bag profile card with exact slot count, rarity, and sell value."""
     clean = bag_slug_or_name.lower().replace(" ", "-").replace("'", "")
     conn = sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db"))
     c = conn.cursor()
-    c.execute("SELECT slug, name, rarity, slots, sell_silver, sell_copper FROM bags_full WHERE slug LIKE ? OR name LIKE ? LIMIT 1",
-              (f"%{clean}%", f"%{bag_slug_or_name}%"))
+    c.execute("SELECT slug, name, rarity, slots, sell_silver, sell_copper FROM bags_full WHERE slug = ? OR name = ? LIMIT 1",
+              (clean, bag_slug_or_name))
     row = c.fetchone()
     conn.close()
 
@@ -1986,13 +2002,14 @@ def render_bag_card(bag_slug_or_name: str) -> str:
 # ===========================================================================
 # 12. TRAPS & HAZARDS (DAMAGE, RADIUS & DISARM TACTICS)
 # ===========================================================================
+@stored_card('trap_slug_or_name')
 def render_trap_hazard_card(trap_slug_or_name: str) -> str:
     """Render high-resolution tactical hazard dossier."""
     clean = trap_slug_or_name.lower().replace(" ", "-").replace("'", "")
     conn = sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db"))
     c = conn.cursor()
-    c.execute("SELECT slug, name, damage, radius, spots FROM traps_full WHERE slug LIKE ? OR name LIKE ? LIMIT 1",
-              (f"%{clean}%", f"%{trap_slug_or_name}%"))
+    c.execute("SELECT slug, name, damage, radius, spots FROM traps_full WHERE slug = ? OR name = ? LIMIT 1",
+              (clean, trap_slug_or_name))
     row = c.fetchone()
     conn.close()
 
@@ -2034,13 +2051,14 @@ def render_trap_hazard_card(trap_slug_or_name: str) -> str:
 # ===========================================================================
 # 13. STATUS EFFECTS (BLEED, POISON, BUFFS & TREATMENT)
 # ===========================================================================
+@stored_card('effect_slug_or_name')
 def render_status_effect_card(effect_slug_or_name: str) -> str:
     """Render high-resolution status effect dossier."""
     clean = effect_slug_or_name.lower().replace(" ", "-").replace("'", "")
     conn = sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db"))
     c = conn.cursor()
-    c.execute("SELECT slug, name, category, effect_type FROM status_effects_full WHERE slug LIKE ? OR name LIKE ? LIMIT 1",
-              (f"%{clean}%", f"%{effect_slug_or_name}%"))
+    c.execute("SELECT slug, name, category, effect_type FROM status_effects_full WHERE slug = ? OR name = ? LIMIT 1",
+              (clean, effect_slug_or_name))
     row = c.fetchone()
     conn.close()
 
@@ -2080,13 +2098,14 @@ def render_status_effect_card(effect_slug_or_name: str) -> str:
 # ===========================================================================
 # 14. GATHERING NODES (CHANCE, YIELDS & LOCATIONS)
 # ===========================================================================
+@stored_card('node_slug_or_name')
 def render_gathering_card(node_slug_or_name: str) -> str:
     """Render high-resolution gathering node reconnaissance card."""
     clean = node_slug_or_name.lower().replace(" ", "-").replace("'", "")
     conn = sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db"))
     c = conn.cursor()
-    c.execute("SELECT slug, name, chance, yield_range FROM gathering_full WHERE slug LIKE ? OR name LIKE ? LIMIT 1",
-              (f"%{clean}%", f"%{node_slug_or_name}%"))
+    c.execute("SELECT slug, name, chance, yield_range FROM gathering_full WHERE slug = ? OR name = ? LIMIT 1",
+              (clean, node_slug_or_name))
     row = c.fetchone()
     conn.close()
 
@@ -2126,13 +2145,14 @@ def render_gathering_card(node_slug_or_name: str) -> str:
 # ===========================================================================
 # 15. CONTAINERS & FIELD LOOT (SPOTS, VARIETY & TACTICS)
 # ===========================================================================
+@stored_card('container_slug_or_name')
 def render_container_card(container_slug_or_name: str) -> str:
     """Render high-resolution container intel card."""
     clean = container_slug_or_name.lower().replace(" ", "-").replace("'", "")
     conn = sqlite3.connect(os.path.join(ROOT_DIR, "hunger_helper.db"))
     c = conn.cursor()
-    c.execute("SELECT slug, name, spots, items_count FROM containers_full WHERE slug LIKE ? OR name LIKE ? LIMIT 1",
-              (f"%{clean}%", f"%{container_slug_or_name}%"))
+    c.execute("SELECT slug, name, spots, items_count FROM containers_full WHERE slug = ? OR name = ? LIMIT 1",
+              (clean, container_slug_or_name))
     row = c.fetchone()
     conn.close()
 
@@ -2180,6 +2200,7 @@ def render_container_card(container_slug_or_name: str) -> str:
 # ===========================================================================
 # 16. CANONICAL LORE & WORLDBUILDING ARCHIVE CARDS
 # ===========================================================================
+@stored_card('topic_slug')
 def render_lore_card(topic_slug: str) -> str:
     """Render high-resolution historical lore card for worldbuilding queries."""
     from co_pilot.lore_engine import LORE_DATABASE

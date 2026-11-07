@@ -66,3 +66,8 @@ extracted_all_user_prompts.txt
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Offline static card build artifacts
+generated_cards/
+*.db-shm
+*.db-wal

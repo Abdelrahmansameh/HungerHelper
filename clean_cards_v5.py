@@ -1,3 +1,4 @@
+from co_pilot.card_store import stored_card
 import os
 import sys
 from PIL import Image, ImageDraw, ImageFont
@@ -177,6 +178,7 @@ def render_clean_character_card(char_key: str = "marie", is_french: bool = False
 # ===========================================================================
 # 2. DUNGEON CARD (ALL 3 ENTRANCES ON JACQUES BRIDGE - NO SIDEBAR)
 # ===========================================================================
+@stored_card('is_french')
 def render_clean_dungeon_card(is_french: bool = False) -> str:
     title = "DUNGEON : JACQUES FOLLY (SUBTERRANEAN BASTION)" if not is_french else "DONJON : JACQUES FOLLY (LA FOLIE DE JACQUES)"
     canvas, draw = create_base_canvas(title, tag="DUNGEON ACCESS")
