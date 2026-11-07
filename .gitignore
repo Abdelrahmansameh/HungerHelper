@@ -8,6 +8,8 @@ config.json
 .env.*
 *.pem
 *.key
+PROJECT_PROMPTS_CHRONICLE.md
+extracted_all_user_prompts.txt
 
 # Python artifacts
 __pycache__/
