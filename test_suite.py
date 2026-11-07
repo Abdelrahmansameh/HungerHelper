@@ -10,6 +10,8 @@ if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
 
 from co_pilot.brain import CoPilotBrain
+import universal_v8_engine as stored_cards
+import json
 
 class HungerHelperMasterTestSuite(unittest.TestCase):
     @classmethod
@@ -253,28 +255,28 @@ class HungerHelperMasterTestSuite(unittest.TestCase):
     def test_42_borodino_typo_htk(self):
         res = self.brain.process_message("t1", "Abdallah", "combien de coup avec un borondi pour uer du violet")
         self._assert_valid_response("combien de coup avec un borondi pour uer du violet", res, ["Borodino", "180 HP", "headshot", "body"], min_images=1)
-        self.assertIn("firearm_card_borodino.jpg", res.get("image_attachment", ""))
+        self.assertEqual(stored_cards.render_pure_english_firearm_card('borodino'), res.get("image_attachment", ""))
 
     def test_43_volcan_damage(self):
         res = self.brain.process_message("t1", "Abdallah", "les degats de volcan")
         self._assert_valid_response("les degats de volcan", res, ["Volcan", "36", "Refined Ammunition"], min_images=1)
-        self.assertIn("firearm_card_volcan.jpg", res.get("image_attachment", ""))
+        self.assertEqual(stored_cards.render_pure_english_firearm_card('volcan'), res.get("image_attachment", ""))
 
     def test_44_two_handed_melee_english(self):
         res = self.brain.process_message("t1", "Abdallah", "show me every 2 hand melee")
         self._assert_valid_response("show me every 2 hand melee", res, ["2-HANDED MELEE ARSENAL", "Zweihänder", "Halberd"], min_images=1)
-        self.assertIn("overview_two_handed_weapons.jpg", res.get("image_attachment", ""))
+        self.assertEqual(stored_cards.render_two_handed_melee_overview_card(), res.get("image_attachment", ""))
         self.assertNotIn("Handkerchief", res.get("display_text", ""))
 
     def test_45_one_handed_melee_english(self):
         res = self.brain.process_message("t1", "Abdallah", "show me every 1 hand melee")
         self._assert_valid_response("show me every 1 hand melee", res, ["1-HANDED MELEE ARSENAL", "Sabre", "Rapier", "Mace"], min_images=1)
-        self.assertIn("overview_one_handed_weapons.jpg", res.get("image_attachment", ""))
+        self.assertEqual(stored_cards.render_one_handed_melee_overview_card(), res.get("image_attachment", ""))
 
     def test_46_grey_armor_tier_htk(self):
         res = self.brain.process_message("t1", "Abdallah", "combien de coup avec la mace pour tuer du gris")
         self._assert_valid_response("combien de coup avec la mace pour tuer du gris", res, ["Mace", "120 HP"], min_images=1)
-        self.assertIn("weapon_card_mace.jpg", res.get("image_attachment", ""))
+        self.assertEqual(stored_cards.render_pure_english_melee_card('mace'), res.get("image_attachment", ""))
 
 
 
@@ -285,7 +287,14 @@ class HungerHelperMasterTestSuite(unittest.TestCase):
         res = self.brain.process_message("t1", "Abdallah", "show me dagger skins")
         self._assert_valid_response("show me dagger skins", res, ["ALL OFFICIAL SKINS FOR DAGGER", "Sindle", "Tenebris", "Stag", "Emperor's Talon", "Golgotha", "Trident", "Misericorde"], min_images=8)
         self.assertGreaterEqual(len(res.get("image_attachments", [])), 8)
-        self.assertTrue(any("showcase" in p for p in res.get("image_attachments", [])))
+        with open(os.path.join(ROOT_DIR, "data", "full_companion_skins.json"), encoding="utf-8") as source:
+            skins = json.load(source)
+        dagger_skins = []
+        for skin in skins.values():
+            if skin.get("target", "").lower() == "dagger" and skin["name"].strip() not in {s["name"].strip() for s in dagger_skins}:
+                dagger_skins.append(skin)
+        self.assertIn(stored_cards.render_weapon_skins_showcase_sheet("Dagger", dagger_skins),
+                      res.get("image_attachments", []))
 
     def test_48_otto_prestige_skins(self):
         res = self.brain.process_message("t1", "Abdallah", "show me otto prestige skins")

@@ -179,6 +179,18 @@ class BuiltCatalogTests(unittest.TestCase):
     """Run these checks after generate_cards.py; skip on a clean source checkout."""
     @unittest.skipUnless((Path(__file__).parent / 'generated_cards/manifest.json').exists(),
                          'Build the full catalog first with python generate_cards.py')
+    def test_lore_bot_queries_resolve_canonical_slugs_without_rendering(self):
+        from co_pilot.lore_engine import answer_lore_query
+        root = Path(__file__).parent / 'generated_cards'
+        with patch.dict(os.environ, {'HUNGER_CARD_STORE': str(root)}):
+            with patch.object(Image.Image, 'save', side_effect=AssertionError('Runtime rendered an image')):
+                for query in ["c'est quoi the hunger", "who is mr sweet", "histoire du chateau"]:
+                    with self.subTest(query=query):
+                        reply = answer_lore_query(query, False)
+                        self.assertTrue(Path(reply['image_attachment']).is_file())
+
+    @unittest.skipUnless((Path(__file__).parent / 'generated_cards/manifest.json').exists(),
+                         'Build the full catalog first with python generate_cards.py')
     def test_every_catalog_entry_is_retrievable_without_rendering(self):
         import importlib
         from generate_cards import catalog

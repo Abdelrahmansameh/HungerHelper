@@ -53,8 +53,8 @@ def catalog():
     for french in [False, True]:
         universal('render_authentic_dungeon_card', kwargs={'is_french': french})
         add('clean_cards_v5', 'render_clean_dungeon_card', kwargs={'is_french': french})
-    for topic in LORE_DATABASE:
-        universal('render_lore_card', (topic,))
+    for topic, data in LORE_DATABASE.items():
+        universal('render_lore_card', (data['slug'],), aliases=(topic,))
     drops = json.loads((ROOT / 'data/high_rate_drops.json').read_text())
     for slug, data in drops.items():
         universal('render_recipe_card', (slug,), aliases=(data.get('title', slug),))
