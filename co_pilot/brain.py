@@ -1,3 +1,4 @@
+from co_pilot.card_store import handle_missing_card
 import perfect_briefings_core_v25 as core
 import re
 import os
@@ -140,6 +141,7 @@ class CoPilotBrain:
         self.raid_map_name: str = "Sarlat Farm"
         self.raid_duration: float = 20 * 60.0  # 20 minutes default extraction raid timer
 
+    @handle_missing_card
     def process_message(self, user_id: str, username: str, text: str) -> Dict[str, Any]:
         """
         Main cognitive loop for Eloise.

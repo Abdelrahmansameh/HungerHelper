@@ -1,3 +1,4 @@
+from co_pilot.card_store import stored_card
 from clean_cards_v5 import (
     render_clean_creature_card,
     render_clean_character_card,
@@ -198,6 +199,7 @@ def find_item_icon(name_or_slug: str) -> Optional[Image.Image]:
 # 1. ITEM / LOOT CARD (CLEAN CATEGORY, BUY/SELL, QUEST QTY, DROPS)
 # ---------------------------------------------------------------------------
 
+@stored_card('item_name', 'is_french')
 def render_item_card(item_name: str, rarity: str = "Common", sell_silver: int = 0, sell_copper: int = 40,
                      item_type: str = "Objet", desc: str = "Objet d'expédition découvert lors des raids.",
                      icon_name: Optional[str] = None, best_source: str = "Conteneurs de raid", drop_rate: str = "Moyen",

@@ -117,3 +117,50 @@ To invite friends to your Discord server or share the bot across guilds:
 1. Enable `Message Content Intent` and `Voice Receiving` in the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Generate an OAuth2 Invite URL with `bot` and `applications.commands` scopes.
 3. Once invited, friends can interact with Éloïse via voice or text in any server!
+
+## Pre-generated information cards
+
+Before starting Éloïse, build the static catalog from the checked-in SQLite/JSON
+sources and existing card artwork:
+
+```bash
+python generate_cards.py --list
+python generate_cards.py
+python -m unittest test_card_store -v
+```
+
+`generated_cards/manifest.json` indexes the generated images by renderer, entity,
+and supported language/preset. The bot retrieves those files through the existing
+card APIs; it does **not** render a missing static card on demand. Missing cards
+produce an actionable text response telling the operator to rebuild. Slugs and
+unambiguous English/French names resolve to the same stored card. Unknown or
+ambiguous names do not silently pick a different entity.
+
+Copy the **entire** `generated_cards` directory to the bot host, or build there.
+Set `HUNGER_CARD_STORE` to an absolute path if it lives elsewhere (also used as the
+script's default output; `--output PATH` overrides the build destination). Images
+are local deployment artifacts, intentionally not committed to Git. A failed build
+writes `build-report.json`, exits unsuccessfully, and leaves the previous manifest
+usable. Only a fully successful build atomically publishes its manifest. Keep
+old content-addressed images while a bot may still be serving the old manifest.
+Run one builder at a time because the existing renderers share temporary output
+filenames in `output_maps`.
+
+Rebuild after changing game data, assets, card layouts, or the preset talent data.
+The script covers every static category used by the bot: cached items (including
+gear, food, materials, keys and currency), melee/firearms and overview sheets,
+quests, heroes, creatures, recipes, cosmetics and showcase sheets, bags, traps,
+status effects, gathering, containers, lore, fixed dungeon dossiers, and the
+six heroes' level-100 mastery presets. The build report lists actual per-renderer
+counts and ambiguous aliases. It covers the **local data snapshot**, not a fresh
+crawl or a claim of complete coverage of the live game. Existing renderers that
+only support English retain that limitation.
+
+Tactical maps, screenshot/stash analysis, and other user-specific results remain
+dynamic. Arbitrary mastery levels/point allocations are not finite static cards;
+only the existing level-100/91-point tree presets and level-100 summaries are
+prebuilt. Item cards use canonical cached metadata rather than per-request text
+overrides; cosmetic cards use their standard recipe view rather than highlighting
+a request-specific ingredient. Some legacy cosmetic builders may download missing
+artwork during the batch build. No such rendering/download occurs when retrieving
+a stored card.

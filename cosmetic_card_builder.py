@@ -1,4 +1,6 @@
+from co_pilot.card_store import stored_card
 import os
+import re
 import sys
 import json
 import urllib.request
@@ -45,6 +47,7 @@ def get_or_download_asset(rel_url, local_path):
         print(f"Failed to download {full_url}: {e}")
         return None
 
+@stored_card('skin_info')
 def render_cosmetic_craft_card_dynamic(skin_info: dict, requested_ingredient: str = "") -> str:
     skin_name = skin_info.get("name", "Cosmetic Skin")
     target_name = skin_info.get("target", "Arme / Héros")
@@ -196,7 +199,7 @@ def render_cosmetic_craft_card_dynamic(skin_info: dict, requested_ingredient: st
     draw.text((note_box[0] + 16, note_box[1] + 8), "💡 Conseil Éloïse : Conservez impérativement ces composants dans votre Stash au Château.", fill=core.COLOR_GOLD, font=core.F_SMALL_BOLD)
     draw.text((note_box[0] + 16, note_box[1] + 28), "Ne les vendez jamais aux marchands ambulants avant d'avoir assemblé le skin !", fill=(180, 180, 160), font=core.F_BODY)
 
-    slug = skin_name.lower().replace(" ", "_").replace("'", "")
+    slug = re.sub(r"[^a-z0-9_-]+", "_", skin_name.lower())
     out_p = os.path.join(OUT_DIR, f"cosmetic_craft_{slug}.jpg")
     canvas.convert("RGB").save(out_p, quality=95)
     return out_p
