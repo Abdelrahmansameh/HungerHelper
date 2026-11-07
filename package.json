@@ -1,0 +1,16 @@
+{
+  "name": "hunger-helper",
+  "version": "1.0.0",
+  "description": "Local Quest & Item optimizer for HUNGER",
+  "type": "module",
+  "scripts": {
+    "import": "node import_data.js",
+    "optimize": "node optimizer.js --all"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^12.0.0"
+  }
+}

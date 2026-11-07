@@ -1,0 +1,312 @@
+=== ALL TEXT ON QUEST PAGE ===
+Down From Mount Sinai — HUNGER Companion
+Skip to content
+HUNGER
+Companion
+Home
+The wiki
+Map
+Quests
+Items
+Crafting
+Characters
+Bestiary
+Simulation
+Compendium
+Community
+Discord
+170 members
+Support the project
+Account
+Log in
+Sign up
+Site menu
+Ctrl K
+Playtest 5.0
+48920
+English
+Français
+Deutsch
+Español
+Italiano
+Português
+Русский
+日本語
+한국어
+中文
+Log in
+Sign up
+Quests
+By giver
+Progression tree
+Quest Tracker
+NPCs
+Quests
+›
+Eloise
+›
+Down From Mount Sinai
+Previous
+9 of 10
+Next
+2 images
+Story Quest
+·
+Given by
+Eloise
+·
+Outer Ramparts
+Down From Mount Sinai
+Very hard
+Not started
+Track
+Mark complete
+Reset
+Show the way
+On hand-in
+Reputation
++2,500
+Money
+9
+Objectives
+Objectives
+7 steps · grouped by place
+Sarlat Farm
+markers 1–3
+1
+Find the
+Census of 1806
+.
+Take the 1806 Census
+Picked up on the spot by interacting with it
+Collect
+2
+Find the
+Course in Agriculture - Rozier
+.
+Take Course in Agriculture - Rozier
+Picked up on the spot by interacting with it
+Collect
+3
+Find the
+Catechisme of Christian Doctrine, 1567
+.
+Take Catechisme of Christian Doctrine, 1567
+Picked up on the spot by interacting with it
+Collect
+Jacques Bridge
+markers 4, 5
+4
+Find
+The Spirit of the Laws - Montesquieu
+.
+Take The Spirit of the Laws - Montesquieu
+Picked up on the spot by interacting with it
+Collect
+5
+Find the
+Natural History, General and Particular - Buffon
+.
+Take Natural History, General and Particular - Buffon
+Picked up on the spot by interacting with it
+Collect
+Sombre Forest
+markers 6, 7
+6
+Find the Codex Medicamentarius.
+Mortuary Record
+Take Codex Medicamentarius
+Picked up on the spot by interacting with it
+Collect
+7
+Find the
+Course in Civil Architecture - Rondelet
+.
+Take Course in Civil Architecture - Rondelet
+Picked up on the spot by interacting with it
+Collect
+Maps
+Sarlat Farm
+3
+Jacques Bridge
+2
+Sombre Forest
+2
+Sarlat Farm
+Sarlat Farm
+· 3 steps in 3 places
+Show on map
+Jacques Bridge
+Jacques Bridge
+· 2 steps in 2 places
+Show on map
+Sombre Forest
+Sombre Forest
+· 2 steps in 2 places
+Show on map
+Eloise's chain
+quest 9 of 10
+Before · 8
+Pushing Back the Shadows
+1
+A Warm Welcome
+2
+Making Dough
+3
+The Gavroche Family
+4
+Last Embers
+5
+Mapping the Front
+6
+Bare Necessities
+7
+Ink In The Ashes
+8
+Pushing Back the Shadows
+9
+Down From Mount Sinai
+10
+Crossing The Threshold
+Next · 10
+Crossing The Threshold
+Also requires
+A Touch of Bribery
+(Mr Sweet)
+Also unlocks
+area: Cauldron
+Story
+Dialogue
+Story
+Eloise believes that our survival depends on information I can collect from a variety of locations. She needs practical records that will help us run our daily lives on the Ramparts.
+At Sarlat Farm, I must retrieve Rozier’s Course in Agriculture from Garnier’s Windmill, and A Catechisme of Christian Doctrine, 1567 from the Chapel of Weeping Virgins. The Census of 1806 can be found in the Farmhouse.
+In the tower of Jacques Bridge, I must secure The Spirit of the Laws by Montesquieu. Not too far from there I should be able to find Buffon's Natural History, General and Particular in the Carriage House.
+Finally, in Sombre Forest, I should be able to find a copy of the Codex Medicamentarius in the infirmary camp, and lastly, Course in Civil Architecture by Rondelet in the Black Wood Mill.
+Together, these documents will help us manage resources, people and structures more effectively - giving us a chance to rebuild after The End.
+Guide
+Course in Agriculture - Rozier: Garnier's Windmill (Sarlat Farm), on a desk
+Census of 1806: Farmhouse (Sarlat Farm), on the ledger desk in the second room
+Catechisme of Christian Doctrine, 1567: Chapel of Weeping Virgins, on the altar
+Natural History, General and Particular - Buffon: Carriage House (Jacques Bridge), on the fireplace board
+The Spirit of the Laws - Montesquieu: Tower (Jacques Bridge), on the top desk
+Codex Medicamentarius: Infirmary Camp (Sombre Forest), on a ledger desk inside a tent
+Course in Civil Architecture - Rondelet: Black Wood Mill (Sombre Forest), on a box next to the upstairs ledger desk
+Dialogue
+Shown in full, by phase
+Before the quest
+5
+You
+I’ll begin right away.
+You
+Mr Sweet has given me a list of books, including probable locations for each.
+Eloise
+I can hardly believe it. This is exactly what we need.
+You
+A difficult task awaits me.
+Eloise
+This will not be easy. But these documents could secure our future.
+While in progress
+1
+Eloise
+I know that this is no small task. Remember to check the list if you’re struggling to locate any of the books.
+On hand-in
+8
+You
+Here it is. The full compendium.
+Eloise
+You have done it. I do not have words enough.
+You
+I’d say it was worth it.
+Eloise
+More than worth it. These pages hold knowledge that can shape our future - not just today, but for those who come after.
+You
+And now?
+Eloise
+Now we begin. It will take time - more than we may have. But if we are to be more than scavengers, we must start somewhere. You have given us that start.
+You
+I hope it helps.
+Eloise
+Many cross the Bridge and never return. Some leave in balloons and drift away for good. But books do not bleed. They do not harbour the Bacterium. These will be our foundation. Thank you. I have one last task for you.
+Browse: Eloise's repeatables
+13
+Where The Rye Still Grows
+Daily
+Medium
+Clean Water
+Daily
+Medium
+Signs Of Life
+Daily
+Medium
+Firewood Run
+Daily
+Medium
+For The Children
+Daily
+Medium
+Patchwork Duty
+Daily
+Medium
+Drinking from the Well
+Daily
+Medium
+Soft Mercy
+Weekly
+Hard
+All (13) →
+Linked
+Eloise
+Quest giver
+Sarlat Farm
+Maps
+Jacques Bridge
+Maps
+Sombre Forest
+Maps
+Pushing Back the Shadows
+Eloise 9/10
+Crossing The Threshold
+Join the Discord
+170 members
+Support the project
+Free and ad-free. Chat with us or support the project if you like it.
+Privacy
+·
+Legal notice
+·
+Changelog
+Unofficial fan site — not affiliated with Good Fun Corporation. HUNGER and related content © Good Fun Corporation.
+Map
+Quests
+Items
+Search
+More
+×
+❤️ Enjoying HUNGER Companion?
+HUNGER Companion is completely free and ad-free. If this project is useful to you, you can support its development with a small donation. Every contribution helps fund hosting and infrastructure, and lets me spend more time improving the Companion.
+❤️ Support the project
+Maybe later
+Don't show again
+
+=== CHECKING INDIVIDUAL BOOK PAGES ===
+
+ITEM: census-of-1806
+Census of 1806 — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › Census of 1806 Previous 67 of 102 Next Upcoming · Uncommon Census of 1806 A detailed record of the population, professions, and settlements before The End. At a glance Base value 1 Ma
+
+ITEM: the-spirit-of-the-laws-montesquieu
+The Spirit of the Laws - Montesquieu — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › The Spirit of the Laws - Montesquieu Previous 86 of 102 Next Upcoming · Uncommon The Spirit of the Laws - Montesquieu A treatise on governance, law, and politica
+
+ITEM: course-in-agriculture-rozier
+Course in Agriculture - Rozier — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › Course in Agriculture - Rozier Previous 68 of 102 Next Upcoming · Uncommon Course in Agriculture - Rozier A comprehensive guide on agricultural practices, crop rotatio
+
+ITEM: course-in-civil-architecture-rondelet
+Course in Civil Architecture - Rondelet — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › Course in Civil Architecture - Rondelet Previous 69 of 102 Next Upcoming · Uncommon Course in Civil Architecture - Rondelet A technical guide on construction,
+
+ITEM: natural-history-general-and-particular-buffon
+Natural History, General and Particular - Buffon — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › Natural History, General and Particular - Buffon Previous 77 of 102 Next Upcoming · Uncommon Natural History, General and Particular - Buffon An exte
+
+ITEM: catechisme-of-christian-doctrine-1567
+Catechisme of Christian Doctrine, 1567 — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › Catechisme of Christian Doctrine, 1567 Previous 66 of 102 Next Upcoming · Uncommon Catechisme of Christian Doctrine, 1567 A religious text outlining Catholic b
+
+ITEM: mortuary-record
+Mortuary Record — HUNGER Companion Skip to content HUNGER Companion Home The wiki Map Quests Items Crafting Characters Bestiary Simulation Compendium Community Discord 170 members Support the project Account Log in Sign up Site menu Ctrl K Playtest 5.0 48920 English Français Deutsch Español Italiano Português Русский 日本語 한국어 中文 Log in Sign up Items All items Weapons Bags Containers Loot Skins Items › Quest items › Mortuary Record Previous 76 of 102 Next Upcoming · Uncommon Mortuary Record A medical almanac documenting remedies, treatments, and the preparation of medicines. At a glance Base val

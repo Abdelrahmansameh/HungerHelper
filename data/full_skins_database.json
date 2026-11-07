@@ -1,0 +1,3593 @@
+{
+  "bacchus' wand": {
+    "name": "Bacchus' Wand",
+    "type": "weapon",
+    "target": "Longboy",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Longboy_01a.webp?v=85b30a90",
+    "fee": "Schema · 210",
+    "lore": "An undeniable work of craftsmanship, less so of taste. The words “To my sweet Flavien\" are carefully engraved on the underside of the shaft.",
+    "materials": [
+      {
+        "name": "Royal Jelly",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RoyalJelly.png",
+        "slug": "royal-jelly"
+      },
+      {
+        "name": "Polished Rod",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PolishedRod.png",
+        "slug": "polished-rod"
+      },
+      {
+        "name": "White Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": "white-pearl"
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": "ivory-tusk"
+      },
+      {
+        "name": "Moist Pouch",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MoistPouch.png",
+        "slug": "moist-pouch"
+      }
+    ]
+  },
+  "argent and vert": {
+    "name": "Argent and Vert",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_03a.webp?v=c4770e24",
+    "fee": "Schema · 150",
+    "lore": "“Let the bells of Lucca toll. Let them wake the dead so that we may fight.\"",
+    "materials": [
+      {
+        "name": "Ash Solution",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_AshSolution.png",
+        "slug": "ash-solution"
+      }
+    ]
+  },
+  "frederick's revenge": {
+    "name": "Frederick's Revenge",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_11a.webp?v=fa7aecd3",
+    "fee": "Schema · 159",
+    "lore": "“To Each, His Own\"",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": "lye-crumble"
+      },
+      {
+        "name": "Sootblack",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": "sootblack"
+      }
+    ]
+  },
+  "hohenzollern reborn": {
+    "name": "Hohenzollern Reborn",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_05a.webp?v=4c5c7f62",
+    "fee": "Schema · 204",
+    "lore": "We shall rebuild the Holy Empire.",
+    "materials": [
+      {
+        "name": "Pumice Stone",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PumiceStone.png",
+        "slug": "pumice-stone"
+      }
+    ]
+  },
+  "house of medici": {
+    "name": "House of Medici",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_06a.webp?v=86b1cafb",
+    "fee": "Schema · 150",
+    "lore": "“Make haste slowly.\"",
+    "materials": [
+      {
+        "name": "Orange Clay",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_OrangeClay.png",
+        "slug": "orange-clay"
+      }
+    ]
+  },
+  "lion of rotterdam": {
+    "name": "Lion of Rotterdam",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_10a.webp?v=d3acdf6c",
+    "fee": "Schema · 125",
+    "lore": "Though Rotterdam was defended until the end by a single man, the strength of fire were as though one hundred fought.",
+    "materials": [
+      {
+        "name": "Basil",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Basil.png",
+        "slug": "basil"
+      },
+      {
+        "name": "Tarragon",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Tarragon.png",
+        "slug": "tarragon"
+      },
+      {
+        "name": "Chervil",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Chervil.png",
+        "slug": "chervil"
+      }
+    ]
+  },
+  "prussian eagle": {
+    "name": "Prussian Eagle",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_07a.webp?v=8f06802a",
+    "fee": "Schema · 45",
+    "lore": "“Gott Mit Uns\"",
+    "materials": [
+      {
+        "name": "Wooden Fork",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_WoodenFork.png",
+        "slug": "wooden-fork"
+      },
+      {
+        "name": "Coarse Sand",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CoarseSand.png",
+        "slug": "coarse-sand"
+      }
+    ]
+  },
+  "sable and gules": {
+    "name": "Sable and Gules",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_04a.webp?v=6fba779e",
+    "fee": "Schema · 164",
+    "lore": "Sanguis ante Tenebras",
+    "materials": [
+      {
+        "name": "Pitch",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Pitch.png",
+        "slug": "pitch"
+      },
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": "madder-root"
+      }
+    ]
+  },
+  "treaty workhorse": {
+    "name": "Treaty Workhorse",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_09a.webp?v=91d046c5",
+    "fee": "Schema · 170",
+    "lore": "Taken from one of the dead among the North Treaty after their attempt to liberate Aachen.",
+    "materials": [
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": "indigo-flakes"
+      },
+      {
+        "name": "Grape Must",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GrapeMust.png",
+        "slug": "grape-must"
+      }
+    ]
+  },
+  "veenstra's swine": {
+    "name": "Veenstra's Swine",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_08a.webp?v=6c78f398",
+    "fee": "Schema · 715",
+    "lore": "Plucked from the cold hands of a Frisian nobleman.",
+    "materials": [
+      {
+        "name": "Fresh Egg",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_FreshEgg.png",
+        "slug": "fresh-egg"
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": "indigo-flakes"
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": "lye-crumble"
+      }
+    ]
+  },
+  "honoured agreement": {
+    "name": "Honoured Agreement",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_BrownBetty_02a.webp?v=3e165c54",
+    "fee": "Schema · 170,000",
+    "lore": "“Nemo plus iuris ad alium transferre potest quam ipse habet.\"",
+    "materials": [
+      {
+        "name": "Oxliver Oil",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": "oxliver-oil"
+      },
+      {
+        "name": "Iron File",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IronFile.png",
+        "slug": "iron-file"
+      }
+    ]
+  },
+  "eastern promise": {
+    "name": "Eastern Promise",
+    "type": "weapon",
+    "target": "Brown-betty",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_BrownBetty_01a.webp?v=514940e8",
+    "fee": "Schema · 1,715",
+    "lore": "His gaze does not command - it endures. Through smoke and snow, war and winter, the face of the Lord remains unchanging: solemn, infinite, and still. It is said the icon darkened during the Great Famine, as though taking on the weight of the people's suffering.",
+    "materials": [
+      {
+        "name": "Pinchbeck",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Pinchbeck.png",
+        "slug": "pinchbeck"
+      },
+      {
+        "name": "Gunblue",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Gunblue.png",
+        "slug": "gunblue"
+      },
+      {
+        "name": "Linseed Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LinseedOil.png",
+        "slug": "linseed-oil"
+      }
+    ]
+  },
+  "padre's reply": {
+    "name": "Padre's Reply",
+    "type": "weapon",
+    "target": "Axe",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Axe_04a.webp?v=b00088d3",
+    "fee": "Schema · 908",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Polished Rod",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PolishedRod.png",
+        "slug": "polished-rod"
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Distilled Water",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_DistilledWater.png",
+        "slug": "distilled-water"
+      }
+    ]
+  },
+  "recluse": {
+    "name": "Recluse",
+    "type": "weapon",
+    "target": "Axe",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Axe_01a.webp?v=3aa1a030",
+    "fee": "Schema · 717",
+    "lore": "The product of a hermit who occupied the darkest places in Vosges’ woods. An axe tempered in wild-flowing springs.",
+    "materials": [
+      {
+        "name": "Cold Iron",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Blacksand",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": "blacksand"
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": "leather-trimmings"
+      }
+    ]
+  },
+  "austrian banner": {
+    "name": "Austrian Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01d.webp?v=de9cb0de",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": "lye-crumble"
+      },
+      {
+        "name": "Sootblack",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": "sootblack"
+      }
+    ]
+  },
+  "blucher's banner": {
+    "name": "Blucher's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01j.webp?v=7de591ab",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": "madder-root"
+      },
+      {
+        "name": "Fresh Apple",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Apple.png",
+        "slug": "fresh-apple"
+      }
+    ]
+  },
+  "ferdinand's banner": {
+    "name": "Ferdinand's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01b.webp?v=343a389b",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": "red-ochre"
+      },
+      {
+        "name": "Ash Solution",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_AshSolution.png",
+        "slug": "ash-solution"
+      }
+    ]
+  },
+  "george's cross": {
+    "name": "George's Cross",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01h.webp?v=8423130e",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Lime Slag",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LimeSlag.png",
+        "slug": "lime-slag"
+      },
+      {
+        "name": "Pine Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PineOil.png",
+        "slug": "pine-oil"
+      }
+    ]
+  },
+  "jefferson's banner": {
+    "name": "Jefferson's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01e.webp?v=b4ebcf0a",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Dank Tobacco",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": "dank-tobacco"
+      },
+      {
+        "name": "Old Riding Glove",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OldRidingGlove.png",
+        "slug": "old-riding-glove"
+      }
+    ]
+  },
+  "jozef's banner": {
+    "name": "Jozef's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01c.webp?v=191292ec",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Beeswax",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Beeswax.png",
+        "slug": "beeswax"
+      },
+      {
+        "name": "Old Horsehair Brush",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OldHorsehairBrush.png",
+        "slug": "old-horsehair-brush"
+      }
+    ]
+  },
+  "tricolour banner": {
+    "name": "Tricolour Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01i.webp?v=d797edbd",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Fresh Baguette",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_FreshBaguette.png",
+        "slug": "fresh-baguette"
+      }
+    ]
+  },
+  "tsar's banner": {
+    "name": "Tsar's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01f.webp?v=8e0e01a0",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": "charcoal"
+      },
+      {
+        "name": "Lemon Peel",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LemonPeel.png",
+        "slug": "lemon-peel"
+      }
+    ]
+  },
+  "union jack": {
+    "name": "Union Jack",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01k.webp?v=63ff1db4",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Coat Toggle",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CoatToggle.png",
+        "slug": "coat-toggle"
+      },
+      {
+        "name": "Jute Hat",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_JuteHat.png",
+        "slug": "jute-hat"
+      }
+    ]
+  },
+  "william's banner": {
+    "name": "William's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01g.webp?v=bdaaa0e7",
+    "fee": "Schema · 1,000",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Amber",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": "amber"
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": "chalkstone"
+      }
+    ]
+  },
+  "angler's sack": {
+    "name": "Angler's Sack",
+    "type": "bag",
+    "target": "Ragged-sack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_HipBag_Uncommon01_01a.webp?v=a3469e9b",
+    "fee": "Schema · 40,400",
+    "lore": "A comfort in the rushing waters.",
+    "materials": [
+      {
+        "name": "Tallow Balm",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_TallowBalm.png",
+        "slug": "tallow-balm"
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": "boiled-leather"
+      }
+    ]
+  },
+  "bosun's clasp": {
+    "name": "Bosun's Clasp",
+    "type": "bag",
+    "target": "Old-satchel",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_HipBag_Uncommon03_01a.webp?v=ebc1ef03",
+    "fee": "Schema · 244",
+    "lore": "Salt-cracked leather and a brass lock weathered by a hundred storms - this bag once hung at the waist of a ship’s bosun who never left a deck without it.",
+    "materials": [
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": "marching-boots"
+      },
+      {
+        "name": "Pine Oil",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_PineOil.png",
+        "slug": "pine-oil"
+      },
+      {
+        "name": "Latch Hook",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LatchHook.png",
+        "slug": "latch-hook"
+      }
+    ]
+  },
+  "partisan": {
+    "name": "Partisan",
+    "type": "weapon",
+    "target": "Spear",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Spear_01a.webp?v=ad005546",
+    "fee": "Schema · 200,000",
+    "lore": "In the last days of the End a peasant pulled iron from his yard and bound it with leather. It was not a soldier’s weapon, nor the work of a smith. He made it for the men who came with fire and rope. You can see the hurry in its making, and the anger too.",
+    "materials": [
+      {
+        "name": "Hartshorn",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": "hartshorn"
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": "leather-trimmings"
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Blacksand",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": "blacksand"
+      }
+    ]
+  },
+  "hybernia": {
+    "name": "Hybernia",
+    "type": "weapon",
+    "target": "Spear",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Spear_02a.webp?v=53f7da56",
+    "fee": "Schema · 2,573",
+    "lore": "A spike of blue metal, hammered straight. It is too heavy for hunting, too plain for ceremony. The point catches the light oddly, as if wet.",
+    "materials": [
+      {
+        "name": "Cold Iron",
+        "qty": "15",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Distilled Water",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_DistilledWater.png",
+        "slug": "distilled-water"
+      }
+    ]
+  },
+  "peasant's burden": {
+    "name": "Peasant's Burden",
+    "type": "weapon",
+    "target": "Spear",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Spear_04a.webp?v=648a1307",
+    "fee": "Schema · 18",
+    "lore": "The poor man’s weapon - easy to make, simple to use, and deadly enough when it matters.",
+    "materials": [
+      {
+        "name": "Tent Peg",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_TentPeg.png",
+        "slug": "tent-peg"
+      },
+      {
+        "name": "Thick Branch",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SolidBranch.png",
+        "slug": "thick-branch"
+      },
+      {
+        "name": "Impeccable Twine",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImpeccableTwine.png",
+        "slug": "impeccable-twine"
+      }
+    ]
+  },
+  "dirty scum (eva)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_01a.webp?v=5b9d8cf4",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": []
+  },
+  "dirty scum": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_01a.webp?v=5b9d8cf4",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": []
+  },
+  "fleeing whelp (eva)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_02a.webp?v=01e7f66a",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ]
+  },
+  "fleeing whelp": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_02a.webp?v=01e7f66a",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice (eva)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_03a.webp?v=6fd75236",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_03a.webp?v=6fd75236",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman (eva)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_04a.webp?v=97dae95e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_04a.webp?v=97dae95e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller (eva)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_05a.webp?v=c3b5547e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_05a.webp?v=c3b5547e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor (eva)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_06a.webp?v=273d9634",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_06a.webp?v=273d9634",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert (eva)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_07a.webp?v=3aaceae3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "White Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Milky Glass",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_MilkyGlass.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_07a.webp?v=3aaceae3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "White Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Milky Glass",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_MilkyGlass.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master (eva)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_08a.webp?v=eaf05ff2",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Romani Treads",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Shoes.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Candlestick",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CandleStick.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_08a.webp?v=eaf05ff2",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Romani Treads",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Shoes.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Candlestick",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CandleStick.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend (eva)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_09a.webp?v=35f1157d",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cameo Of Castor",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CameoOfCastor.png",
+        "slug": ""
+      },
+      {
+        "name": "Tail Hair",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TailHair.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      },
+      {
+        "name": "Old Horsehair Brush",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OldHorsehairBrush.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_09a.webp?v=35f1157d",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cameo Of Castor",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CameoOfCastor.png",
+        "slug": ""
+      },
+      {
+        "name": "Tail Hair",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TailHair.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      },
+      {
+        "name": "Old Horsehair Brush",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OldHorsehairBrush.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: mademoiselle rouge (eva)": {
+    "name": "Prestige I: Mademoiselle Rouge",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_10a.webp?v=1cc9ff4b",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "White Pearl",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: mademoiselle rouge": {
+    "name": "Prestige I: Mademoiselle Rouge",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_10a.webp?v=1cc9ff4b",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "White Pearl",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: iron vestal (eva)": {
+    "name": "Prestige II: Iron Vestal",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_11a.webp?v=12f185a3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Blood Of The Penitent",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BloodOfThePenitent.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: iron vestal": {
+    "name": "Prestige II: Iron Vestal",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_11a.webp?v=12f185a3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Blood Of The Penitent",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BloodOfThePenitent.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      }
+    ]
+  },
+  "dirty scum (marie)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Common",
+    "img_url": "/media/skins/Marie_Cosmetic_01a.webp?v=8885d453",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": []
+  },
+  "matriarch (marie)": {
+    "name": "Matriarch",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_11a.webp?v=85449bdf",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Lime Slag",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LimeSlag.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ]
+  },
+  "matriarch": {
+    "name": "Matriarch",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_11a.webp?v=85449bdf",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Lime Slag",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LimeSlag.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ]
+  },
+  "fleeing whelp (marie)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Common",
+    "img_url": "/media/skins/Marie_Cosmetic_02a.webp?v=1162d266",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Twine Ball",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TwineBall.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice (marie)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Marie_Cosmetic_03a.webp?v=798eca93",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Walnut Husk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WalnutHusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman (marie)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Marie_Cosmetic_04a.webp?v=8891a8b2",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Tanned Hide",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Impeccable Twine",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ImpeccableTwine.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller (marie)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Marie_Cosmetic_05a.webp?v=93be5189",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Leather Trimmings",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Orange Clay",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OrangeClay.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor (marie)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Marie_Cosmetic_06a.webp?v=bf6153f7",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Silver Dish",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilverDish.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron File",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronFile.png",
+        "slug": ""
+      },
+      {
+        "name": "Walnut Husk",
+        "qty": "6",
+        "img_url": "/media/items/T_UI_Item_WalnutHusk.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert (marie)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_07a.webp?v=37a26902",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Ladies Girdle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Bolt of Cotton Cloth",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_BoltOfCottonCloth.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Reinforced Garter",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ReinforcedGarter.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master (marie)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_08a.webp?v=0c334d1c",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Delicate Chain",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_DelicateChain.png",
+        "slug": ""
+      },
+      {
+        "name": "Torn Damask",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      },
+      {
+        "name": "Coat Toggle",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_CoatToggle.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend (marie)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_09a.webp?v=412f84e8",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "Rosary Beads",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RosaryBeads.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Steelband",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Steelband.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: scarlet inquisitor (marie)": {
+    "name": "Prestige I: Scarlet Inquisitor",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_10a.webp?v=13174b9e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Jacobin Cipher",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_JacobinCipher.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cotton Bed Sheets",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_CottonBedSheet.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: scarlet inquisitor": {
+    "name": "Prestige I: Scarlet Inquisitor",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_10a.webp?v=13174b9e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Jacobin Cipher",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_JacobinCipher.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cotton Bed Sheets",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_CottonBedSheet.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ]
+  },
+  "sister of the seventh depth (marie)": {
+    "name": "Sister of the Seventh Depth",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_12a.webp?v=e75c05c8",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Holland Thread",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_HollandThread.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      }
+    ]
+  },
+  "sister of the seventh depth": {
+    "name": "Sister of the Seventh Depth",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_12a.webp?v=e75c05c8",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Holland Thread",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_HollandThread.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: sister of glass (marie)": {
+    "name": "Prestige II: Sister of Glass",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_13a.webp?v=86438847",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Fancy Silver Plaque",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_FancySilverPlaque.png",
+        "slug": ""
+      },
+      {
+        "name": "Oxliver Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Torn Damask",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: sister of glass": {
+    "name": "Prestige II: Sister of Glass",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_13a.webp?v=86438847",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Fancy Silver Plaque",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_FancySilverPlaque.png",
+        "slug": ""
+      },
+      {
+        "name": "Oxliver Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Torn Damask",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ]
+  },
+  "dirty scum (hugo)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Common",
+    "img_url": "/media/skins/Hugo_Cosmetic_01a.webp?v=966b4008",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": []
+  },
+  "fleeing whelp (hugo)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Common",
+    "img_url": "/media/skins/Hugo_Cosmetic_02a.webp?v=71facc43",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Boiled Leather",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice (hugo)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Hugo_Cosmetic_03a.webp?v=cb2e3bdf",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Tanned Hide",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Damp Rag",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_DampRag.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman (hugo)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Hugo_Cosmetic_04a.webp?v=ae73b5be",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Dank Tobacco",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller (hugo)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Hugo_Cosmetic_05a.webp?v=99372523",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      },
+      {
+        "name": "Tarnished Spoon",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TarnishedSpoon.png",
+        "slug": ""
+      },
+      {
+        "name": "Distilled Water",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DistilledWater.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor (hugo)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Hugo_Cosmetic_06a.webp?v=90b2382b",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Refined Tobacco",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_RefinedTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert (hugo)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Hugo_Cosmetic_07a.webp?v=8f29b323",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Opium Pipe",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OpiumPipe.png",
+        "slug": ""
+      },
+      {
+        "name": "Opium",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_Opium.png",
+        "slug": ""
+      },
+      {
+        "name": "Tarnished Spoon",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TarnishedSpoon.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      },
+      {
+        "name": "Seamstress Needle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SeamstressNeedle.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master (hugo)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Hugo_Cosmetic_08a.webp?v=e1957401",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Arsenic",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Poison.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Dish",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_SilverDish.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Powder Tin",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_PowderTin.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend (hugo)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_09a.webp?v=d314ebb0",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Shagreen",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Shagreen.png",
+        "slug": ""
+      },
+      {
+        "name": "Tortoise Shell",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TortoiseShell.png",
+        "slug": ""
+      },
+      {
+        "name": "Bloodstone",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Bloodstone.png",
+        "slug": ""
+      },
+      {
+        "name": "Willow Bark",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_WillowBark.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: mad king (hugo)": {
+    "name": "Prestige I: Mad King",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_10a.webp?v=b5c46049",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "Gold Leaf",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Refined Tobacco",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RefinedTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: mad king": {
+    "name": "Prestige I: Mad King",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_10a.webp?v=b5c46049",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "Gold Leaf",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Refined Tobacco",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RefinedTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: penitent (hugo)": {
+    "name": "Prestige II: Penitent",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_11a.webp?v=3765d07a",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Flawless Diamond",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FlawlessDiamond.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: penitent": {
+    "name": "Prestige II: Penitent",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_11a.webp?v=3765d07a",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Flawless Diamond",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FlawlessDiamond.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ]
+  },
+  "dirty scum (gabriel)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Common",
+    "img_url": "/media/skins/Gabriel_Cosmetic_01a.webp?v=69df05ce",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": []
+  },
+  "athos (gabriel)": {
+    "name": "Athos",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_11a.webp?v=3482e3e6",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Fraying Taffeta Waistcoat",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FrayingTaffetaWaistcoat.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "athos": {
+    "name": "Athos",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_11a.webp?v=3482e3e6",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Fraying Taffeta Waistcoat",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FrayingTaffetaWaistcoat.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "fleeing whelp (gabriel)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Common",
+    "img_url": "/media/skins/Gabriel_Cosmetic_02a.webp?v=a65f308f",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      },
+      {
+        "name": "Latch Hook",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LatchHook.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice (gabriel)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Gabriel_Cosmetic_03a.webp?v=d0d23758",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Boiled Leather",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman (gabriel)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Gabriel_Cosmetic_04a.webp?v=26480bc7",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "7",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller (gabriel)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Gabriel_Cosmetic_05a.webp?v=1d05e73d",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Leather Trimmings",
+        "qty": "7",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Brass Plate",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Brassplate.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor (gabriel)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Gabriel_Cosmetic_06a.webp?v=80627596",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Steelband",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Steelband.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Canvas Patch",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_CanvasPatch.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert (gabriel)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Gabriel_Cosmetic_07a.webp?v=60590faa",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cotton Bed Sheets",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CottonBedSheet.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      },
+      {
+        "name": "Coat Toggle",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CoatToggle.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master (gabriel)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Gabriel_Cosmetic_08a.webp?v=32a3640a",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Fancy Silver Plaque",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_FancySilverPlaque.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Oxliver Oil",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Rusted Keyring",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RustedKeyring.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend (gabriel)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_09a.webp?v=018bf9be",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Tail Hair",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TailHair.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Reinforced Garter",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ReinforcedGarter.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: silver oath (gabriel)": {
+    "name": "Prestige I: Silver Oath",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_10a.webp?v=57f383a3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: silver oath": {
+    "name": "Prestige I: Silver Oath",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_10a.webp?v=57f383a3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: gilded herald (gabriel)": {
+    "name": "Prestige II: Gilded Herald",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_12a.webp?v=3688adc0",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Gold Leaf",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Holdfast",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronHoldfast.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: gilded herald": {
+    "name": "Prestige II: Gilded Herald",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_12a.webp?v=3688adc0",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Gold Leaf",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Holdfast",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronHoldfast.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ]
+  },
+  "dirty scum (otto)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Common",
+    "img_url": "/media/skins/Abel_Cosmetic_01a.webp?v=2e3c3cf0",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": []
+  },
+  "fleeing whelp (otto)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Common",
+    "img_url": "/media/skins/Abel_Cosmetic_02a.webp?v=e8273a1c",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Nettlecloth",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice (otto)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Abel_Cosmetic_03a.webp?v=aea86e89",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      },
+      {
+        "name": "Damp Rag",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_DampRag.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman (otto)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Abel_Cosmetic_04a.webp?v=a0b63289",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Linseed Oil",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_LinseedOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller (otto)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Abel_Cosmetic_05a.webp?v=51c29e5e",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Shellac.png",
+        "slug": ""
+      },
+      {
+        "name": "Beeswax",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Beeswax.png",
+        "slug": ""
+      },
+      {
+        "name": "Brass Plate",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_Brassplate.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor (otto)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Abel_Cosmetic_06a.webp?v=b5df7372",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Cold Iron",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert (otto)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Abel_Cosmetic_07a.webp?v=bad43d1a",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Amber Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_AmberPearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Dish",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilverDish.png",
+        "slug": ""
+      },
+      {
+        "name": "Old Riding Glove",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OldRidingGlove.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master (otto)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Abel_Cosmetic_08a.webp?v=c575ed81",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Large Silver Candlestick",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CandleHolder.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Holdfast",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronHoldfast.png",
+        "slug": ""
+      },
+      {
+        "name": "Steelband",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Steelband.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend (otto)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_09a.webp?v=36e7fdcd",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: siegebreaker (otto)": {
+    "name": "Prestige I: Siegebreaker",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_10a.webp?v=deafdb50",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Damascus Steel",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DamascusSteel.png",
+        "slug": ""
+      },
+      {
+        "name": "Pinchbeck",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Pinchbeck.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksmith's Tongs",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BlacksmithsTongs.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: siegebreaker": {
+    "name": "Prestige I: Siegebreaker",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_10a.webp?v=deafdb50",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Damascus Steel",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DamascusSteel.png",
+        "slug": ""
+      },
+      {
+        "name": "Pinchbeck",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Pinchbeck.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksmith's Tongs",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BlacksmithsTongs.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: black reiter (otto)": {
+    "name": "Prestige II: Black Reiter",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_11a.webp?v=f92b8a2f",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Jug",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_Iron_Jug.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: black reiter": {
+    "name": "Prestige II: Black Reiter",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_11a.webp?v=f92b8a2f",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Jug",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_Iron_Jug.png",
+        "slug": ""
+      }
+    ]
+  },
+  "dirty scum (serine)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Common",
+    "img_url": "/media/skins/Serine_Cosmetic_01a.webp?v=1f5f4706",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": []
+  },
+  "fleeing whelp (serine)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Common",
+    "img_url": "/media/skins/Serine_Cosmetic_02a.webp?v=bf8f0931",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Bone Char",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoneChar.png",
+        "slug": ""
+      }
+    ]
+  },
+  "deft apprentice (serine)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Serine_Cosmetic_03a.webp?v=35694b87",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Walnut Husk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WalnutHusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Tallow Balm",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TallowBalm.png",
+        "slug": ""
+      }
+    ]
+  },
+  "plucky journeyman (serine)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Serine_Cosmetic_04a.webp?v=f5dd592f",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Red Ochre",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      }
+    ]
+  },
+  "clever traveller (serine)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Serine_Cosmetic_05a.webp?v=23623b74",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Shellac",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Shellac.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Amber",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": ""
+      }
+    ]
+  },
+  "adept survivor (serine)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Serine_Cosmetic_06a.webp?v=854a8606",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      },
+      {
+        "name": "Grape Must",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_GrapeMust.png",
+        "slug": ""
+      },
+      {
+        "name": "Brass Plate",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Brassplate.png",
+        "slug": ""
+      }
+    ]
+  },
+  "cunning expert (serine)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Serine_Cosmetic_07a.webp?v=53e7d762",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Serpentstone",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Serpentstone.png",
+        "slug": ""
+      }
+    ]
+  },
+  "high master (serine)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Serine_Cosmetic_08a.webp?v=29c0e35c",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Fraying Taffeta Waistcoat",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FrayingTaffetaWaistcoat.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Ram’s Horn",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RamsHorn.png",
+        "slug": ""
+      }
+    ]
+  },
+  "revered legend (serine)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_09a.webp?v=b42964f3",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Blood Of The Penitent",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BloodOfThePenitent.png",
+        "slug": ""
+      },
+      {
+        "name": "Intact Femur",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IntactFemur.png",
+        "slug": ""
+      },
+      {
+        "name": "Fine File",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FineFile.png",
+        "slug": ""
+      },
+      {
+        "name": "Delicate Chain",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_DelicateChain.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: maroon bonemother (serine)": {
+    "name": "Prestige I: Maroon Bonemother",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_10a.webp?v=d31e8b3b",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige i: maroon bonemother": {
+    "name": "Prestige I: Maroon Bonemother",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_10a.webp?v=d31e8b3b",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: mambo’s grace (serine)": {
+    "name": "Prestige II: Mambo’s Grace",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_11a.webp?v=7d9d8383",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Bloodwood",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Bloodwood.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Amber",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": ""
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "11",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": ""
+      }
+    ]
+  },
+  "prestige ii: mambo’s grace": {
+    "name": "Prestige II: Mambo’s Grace",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_11a.webp?v=7d9d8383",
+    "fee": "Atelier du Tailleur",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Bloodwood",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Bloodwood.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Amber",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": ""
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "11",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": ""
+      }
+    ]
+  }
+}

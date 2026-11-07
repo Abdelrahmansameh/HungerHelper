@@ -1,0 +1,1719 @@
+{
+  "cook-recipe-remy-of-barbadoes-rum": {
+    "title": "Cook Recipe - Remy of Barbadoes Rum",
+    "slug": "cook-recipe-remy-of-barbadoes-rum",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-evian-spring-water": {
+    "title": "Cook Recipe - Évian Spring Water",
+    "slug": "cook-recipe-evian-spring-water",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-zazel-s-carry": {
+    "title": "Outfitter Recipe - Zazel's Carry",
+    "slug": "outfitter-recipe-zazel-s-carry",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-tarte-tatin": {
+    "title": "Cook Recipe - Tarte Tatin",
+    "slug": "cook-recipe-tarte-tatin",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "artificer-recipe-damascus-armour-plate": {
+    "title": "Artificer Recipe - Damascus Armour Plate",
+    "slug": "artificer-recipe-damascus-armour-plate",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-brioche": {
+    "title": "Cook Recipe - Brioche",
+    "slug": "cook-recipe-brioche",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-pegasus": {
+    "title": "Outfitter Recipe - Pegasus",
+    "slug": "outfitter-recipe-pegasus",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-old-guard-greaves": {
+    "title": "Outfitter Recipe - Old Guard Greaves",
+    "slug": "outfitter-recipe-old-guard-greaves",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "artificer-recipe-clockwork-tongs": {
+    "title": "Artificer Recipe - Clockwork Tongs",
+    "slug": "artificer-recipe-clockwork-tongs",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-apollo-holster": {
+    "title": "Outfitter Recipe - Apollo Holster",
+    "slug": "outfitter-recipe-apollo-holster",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-old-guard-cuirass": {
+    "title": "Outfitter Recipe - Old Guard Cuirass",
+    "slug": "outfitter-recipe-old-guard-cuirass",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "austerlitz-mace": {
+    "title": "Austerlitz - Mace",
+    "slug": "austerlitz-mace",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Hector | 50 | 45 | What it's for | Uses | → | Unlocks Austerlitz - Mace | Sells to vendors | base sell price | 50 | 45",
+      "In vendor stock · 1 vendor | Hector | 50 | 45"
+    ]
+  },
+  "gunsmith-recipe-belier": {
+    "title": "Gunsmith Recipe - Belier",
+    "slug": "gunsmith-recipe-belier",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-imperial-pot-au-feu": {
+    "title": "Cook Recipe - Imperial Pot-au-Feu",
+    "slug": "cook-recipe-imperial-pot-au-feu",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-charon-s-oyster": {
+    "title": "Outfitter Recipe - Charon's Oyster",
+    "slug": "outfitter-recipe-charon-s-oyster",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-volcan": {
+    "title": "Gunsmith Recipe - Volcan",
+    "slug": "gunsmith-recipe-volcan",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-sheath-of-the-four-winds": {
+    "title": "Outfitter Recipe - Sheath of the Four Winds",
+    "slug": "outfitter-recipe-sheath-of-the-four-winds",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-drak": {
+    "title": "Gunsmith Recipe - Drak",
+    "slug": "gunsmith-recipe-drak",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-coldstream-pack": {
+    "title": "Outfitter Recipe - Coldstream Pack",
+    "slug": "outfitter-recipe-coldstream-pack",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "artificer-recipe-steel-armour-plate": {
+    "title": "Artificer Recipe - Steel Armour Plate",
+    "slug": "artificer-recipe-steel-armour-plate",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "physician-recipe-ambrosia": {
+    "title": "Physician Recipe - Ambrosia",
+    "slug": "physician-recipe-ambrosia",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-candied-apple": {
+    "title": "Cook Recipe - Candied Apple",
+    "slug": "cook-recipe-candied-apple",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-jager": {
+    "title": "Gunsmith Recipe - Jager",
+    "slug": "gunsmith-recipe-jager",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-old-guard-helmet": {
+    "title": "Outfitter Recipe - Old Guard Helmet",
+    "slug": "outfitter-recipe-old-guard-helmet",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-zealot-s-tower": {
+    "title": "Outfitter Recipe - Zealot's Tower",
+    "slug": "outfitter-recipe-zealot-s-tower",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "physician-recipe-the-psychopomp": {
+    "title": "Physician Recipe - The Psychopomp",
+    "slug": "physician-recipe-the-psychopomp",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-spiced-bread": {
+    "title": "Cook Recipe - Spiced Bread",
+    "slug": "cook-recipe-spiced-bread",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "azrael-s-lockpick-dagger": {
+    "title": "Azrael's Lockpick - Dagger",
+    "slug": "azrael-s-lockpick-dagger",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-burgundy-ragout": {
+    "title": "Cook Recipe - Burgundy Ragout",
+    "slug": "cook-recipe-burgundy-ragout",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "artificer-recipe-delicate-tongs": {
+    "title": "Artificer Recipe - Delicate Tongs",
+    "slug": "artificer-recipe-delicate-tongs",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-exotic-ammunition": {
+    "title": "Gunsmith Recipe - Exotic Ammunition",
+    "slug": "gunsmith-recipe-exotic-ammunition",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-lasher": {
+    "title": "Gunsmith Recipe - Lasher",
+    "slug": "gunsmith-recipe-lasher",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-lionne": {
+    "title": "Gunsmith Recipe - Lionne",
+    "slug": "gunsmith-recipe-lionne",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/13 | 28 containers | Best: Powder Locker | 1/4,707 | 10 creatures | Best: Brute | 1/120,234 | What it's for | Uses | → | Unlocks Lionne | Lv 235 | Sells to vendors | base sell price | 7",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/13 | 28 containers | Best: Powder Locker | 1/4,707 | 10 creatures | Best: Brute | 1/120,234",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/13",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/13"
+    ],
+    "vendors": []
+  },
+  "gunsmith-recipe-swan": {
+    "title": "Gunsmith Recipe - Swan",
+    "slug": "gunsmith-recipe-swan",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-voir": {
+    "title": "Gunsmith Recipe - Voir",
+    "slug": "gunsmith-recipe-voir",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "metallurgist-recipe-halberd": {
+    "title": "Metallurgist Recipe - Halberd",
+    "slug": "metallurgist-recipe-halberd",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-morgan": {
+    "title": "Gunsmith Recipe - Morgan",
+    "slug": "gunsmith-recipe-morgan",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-borodino": {
+    "title": "Gunsmith Recipe - Borodino",
+    "slug": "gunsmith-recipe-borodino",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-refined-ammunition": {
+    "title": "Gunsmith Recipe - Refined Ammunition",
+    "slug": "gunsmith-recipe-refined-ammunition",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "misericorde-dagger": {
+    "title": "Misericorde - Dagger",
+    "slug": "misericorde-dagger",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-black-dragoon-greaves": {
+    "title": "Outfitter Recipe - Black Dragoon Greaves",
+    "slug": "outfitter-recipe-black-dragoon-greaves",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "midas-rebuke-foraging-basket": {
+    "title": "Midas Rebuke - Foraging Basket",
+    "slug": "midas-rebuke-foraging-basket",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-miser-s-purse": {
+    "title": "Outfitter Recipe - Miser's Purse",
+    "slug": "outfitter-recipe-miser-s-purse",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-trevallion-s-valise": {
+    "title": "Outfitter Recipe - Trevallion's Valise",
+    "slug": "outfitter-recipe-trevallion-s-valise",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-boutet-s-riflecase": {
+    "title": "Outfitter Recipe - Boutet's Riflecase",
+    "slug": "outfitter-recipe-boutet-s-riflecase",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "bacchus-wand-longboy": {
+    "title": "Bacchus' Wand - Longboy",
+    "slug": "bacchus-wand-longboy",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "artificer-recipe-ceramic-armour-plate": {
+    "title": "Artificer Recipe - Ceramic Armour Plate",
+    "slug": "artificer-recipe-ceramic-armour-plate",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "physician-recipe-scarlet-return": {
+    "title": "Physician Recipe - Scarlet Return",
+    "slug": "physician-recipe-scarlet-return",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-bag-of-maratha": {
+    "title": "Outfitter Recipe - Bag of Maratha",
+    "slug": "outfitter-recipe-bag-of-maratha",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "basilisk-rapier": {
+    "title": "Basilisk - Rapier",
+    "slug": "basilisk-rapier",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sarlat Farm | 1/10 | What it's for | Uses | → | Unlocks Basilisk - Rapier | Sells to vendors | base sell price | 25 | 85",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/10",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "outfitter-recipe-black-dragoon-helmet": {
+    "title": "Outfitter Recipe - Black Dragoon Helmet",
+    "slug": "outfitter-recipe-black-dragoon-helmet",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-butterfly-cannister": {
+    "title": "Outfitter Recipe - Butterfly Cannister",
+    "slug": "outfitter-recipe-butterfly-cannister",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-regimental-reserve": {
+    "title": "Cook Recipe - Regimental Reserve",
+    "slug": "cook-recipe-regimental-reserve",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-apple-pie": {
+    "title": "Cook Recipe - Apple Pie",
+    "slug": "cook-recipe-apple-pie",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-black-dragoon-cuirass": {
+    "title": "Outfitter Recipe - Black Dragoon Cuirass",
+    "slug": "outfitter-recipe-black-dragoon-cuirass",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "artificer-recipe-machinist-tongs": {
+    "title": "Artificer Recipe - Machinist Tongs",
+    "slug": "artificer-recipe-machinist-tongs",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Heinrich Voss | 1 | 76 | 90 | 29 containers | Best: Tinker's Case | 1/874 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Machinist Tongs | Lv 200 | Sells to vendors | base sell price | 1 | 76 | 90",
+      "In vendor stock · 1 vendor | Heinrich Voss | 1 | 76 | 90 | 29 containers | Best: Tinker's Case | 1/874 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "cook-recipe-naval-rum": {
+    "title": "Cook Recipe - Naval Rum",
+    "slug": "cook-recipe-naval-rum",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-purified-water": {
+    "title": "Cook Recipe - Purified Water",
+    "slug": "cook-recipe-purified-water",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-rum-of-the-indies": {
+    "title": "Cook Recipe - Rum of the Indies",
+    "slug": "cook-recipe-rum-of-the-indies",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 1 container | Best: Slop Bin | 1/2,185 | What it's for | Uses | → | Unlocks Rum of the Indies | Lv 215 | Sells to vendors | base sell price | 68 | 50",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 1 container | Best: Slop Bin | 1/2,185",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "cook-recipe-kedgeree": {
+    "title": "Cook Recipe - Kedgeree",
+    "slug": "cook-recipe-kedgeree",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Grillard | 15 | 50 | 28 containers | Best: Slop Bin | 1/2,185 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Kedgeree | Lv 205 | Sells to vendors | base sell price | 15 | 50",
+      "In vendor stock · 1 vendor | Grillard | 15 | 50 | 28 containers | Best: Slop Bin | 1/2,185 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "cook-recipe-fougasse-bread": {
+    "title": "Cook Recipe - Fougasse Bread",
+    "slug": "cook-recipe-fougasse-bread",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Grillard | 12 | 50 | 28 containers | Best: Slop Bin | 1/2,185 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Fougasse Bread | Lv 170 | Sells to vendors | base sell price | 12 | 50",
+      "In vendor stock · 1 vendor | Grillard | 12 | 50 | 28 containers | Best: Slop Bin | 1/2,185 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "danse-macabre-snub": {
+    "title": "Danse Macabre - Snub",
+    "slug": "danse-macabre-snub",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "hybernia-spear": {
+    "title": "Hybernia - Spear",
+    "slug": "hybernia-spear",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sombre Forest | 1/20 | What it's for | Uses | → | Unlocks Hybernia - Spear | Sells to vendors | base sell price | 25 | 73",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/20",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/20",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/20"
+    ],
+    "vendors": []
+  },
+  "golgotha-dagger": {
+    "title": "Golgotha - Dagger",
+    "slug": "golgotha-dagger",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-cavalier": {
+    "title": "Gunsmith Recipe - Cavalier",
+    "slug": "gunsmith-recipe-cavalier",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Voyant the Rifleman | 91 | 80 | 28 containers | Best: Powder Locker | 1/942 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Cavalier | Lv 175 | Sells to vendors | base sell price | 91 | 80",
+      "In vendor stock · 1 vendor | Voyant the Rifleman | 91 | 80 | 28 containers | Best: Powder Locker | 1/942 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "eastern-promise-brown-betty": {
+    "title": "Eastern Promise - Brown Betty",
+    "slug": "eastern-promise-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/20 | 29 containers | Best: Large Strongbox | 1/66,475 | 10 creatures | Best: Brute | 1/82,702 | What it's for | Uses | → | Unlocks Eastern Promise - Brown Betty | Sells to vendors | base sell price | 17 | 15",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/20 | 29 containers | Best: Large Strongbox | 1/66,475 | 10 creatures | Best: Brute | 1/82,702",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/20",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/20"
+    ],
+    "vendors": []
+  },
+  "gunsmith-recipe-kompas": {
+    "title": "Gunsmith Recipe - Kompas",
+    "slug": "gunsmith-recipe-kompas",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 28 containers | Best: Powder Locker | 1/942 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Kompas | Lv 225 | Sells to vendors | base sell price | 1 | 21",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 28 containers | Best: Powder Locker | 1/942 | 10 creatures | Best: Brute | 1/24,047",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "crus-sacrilege-club": {
+    "title": "Crus Sacrilege - Club",
+    "slug": "crus-sacrilege-club",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-grubber-s-purse": {
+    "title": "Outfitter Recipe - Grubber's Purse",
+    "slug": "outfitter-recipe-grubber-s-purse",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Sirène | 93 | 80 | What it's for | Uses | → | Unlocks Grubber's Purse | Lv 150 | Sells to vendors | base sell price | 93 | 80",
+      "In vendor stock · 1 vendor | Sirène | 93 | 80"
+    ]
+  },
+  "old-iron-longsword": {
+    "title": "Old Iron - Longsword",
+    "slug": "old-iron-longsword",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-heavy-ammunition": {
+    "title": "Gunsmith Recipe - Heavy Ammunition",
+    "slug": "gunsmith-recipe-heavy-ammunition",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "emperor-s-talon-dagger": {
+    "title": "Emperor's Talon - Dagger",
+    "slug": "emperor-s-talon-dagger",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/20 | 30 containers | Best: Large Strongbox | 1/66,475 | 10 creatures | Best: Brute | 1/82,702 | What it's for | Uses | → | Unlocks Emperor's Talon - Dagger | Sells to vendors | base sell price | 32 | 42",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/20 | 30 containers | Best: Large Strongbox | 1/66,475 | 10 creatures | Best: Brute | 1/82,702",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/20",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/20"
+    ],
+    "vendors": []
+  },
+  "metallurgist-recipe-waraxe": {
+    "title": "Metallurgist Recipe - WarAxe",
+    "slug": "metallurgist-recipe-waraxe",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 27 containers | Best: Large Strongbox | 1/16,108 | 10 creatures | Best: Brute | 1/20,039 | What it's for | Uses | → | Unlocks War Axe | Lv 200 | Sells to vendors | base sell price | 1",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 27 containers | Best: Large Strongbox | 1/16,108 | 10 creatures | Best: Brute | 1/20,039",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "metallurgist-recipe-axe": {
+    "title": "Metallurgist Recipe - Axe",
+    "slug": "metallurgist-recipe-axe",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Henri | 65 | 27 containers | Best: Large Strongbox | 1/19,329 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Axe | Lv 165 | Sells to vendors | base sell price | 65",
+      "In vendor stock · 1 vendor | Henri | 65 | 27 containers | Best: Large Strongbox | 1/19,329 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "noble-halberd": {
+    "title": "Noble - Halberd",
+    "slug": "noble-halberd",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-vepr": {
+    "title": "Gunsmith Recipe - Vepr",
+    "slug": "gunsmith-recipe-vepr",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Voyant the Rifleman | 1 | 3 | 28 containers | Best: Powder Locker | 1/942 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Vepr | Lv 205 | Sells to vendors | base sell price | 1 | 3",
+      "In vendor stock · 1 vendor | Voyant the Rifleman | 1 | 3 | 28 containers | Best: Powder Locker | 1/942 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "metallurgist-recipe-spear": {
+    "title": "Metallurgist Recipe - Spear",
+    "slug": "metallurgist-recipe-spear",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Henri | 92 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 39 containers | Best: Large Strongbox | 1/9,361 | 10 creatures | Best: Brute | 1/11,646 | What it's for | Uses | → | Unlocks Spear | Lv 185 | Sells to vendors | base sell price | 92",
+      "In vendor stock · 1 vendor | Henri | 92 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 39 containers | Best: Large Strongbox | 1/9,361 | 10 creatures | Best: Brute | 1/11,646",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Henri | 92 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 39 containers | Best: Large Strongbox | 1/9,361 | 10 creatures | Best: Brute | 1/11,646 | What it's for | Uses | → | Unlocks Spear | Lv 185 | Sells to vendors | base sell price | 92",
+      "In vendor stock · 1 vendor | Henri | 92 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 39 containers | Best: Large Strongbox | 1/9,361 | 10 creatures | Best: Brute | 1/11,646"
+    ]
+  },
+  "peasant-s-burden-spear": {
+    "title": "Peasant's Burden - Spear",
+    "slug": "peasant-s-burden-spear",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-attaches-fold": {
+    "title": "Outfitter Recipe - Attachés Fold",
+    "slug": "outfitter-recipe-attaches-fold",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "physician-recipe-robust-antidote": {
+    "title": "Physician Recipe - Robust Antidote",
+    "slug": "physician-recipe-robust-antidote",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Doctor Lucien Moreau | 69 | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | What it's for | Uses | → | Unlocks Robust Antidote | Lv 175 | Sells to vendors | base sell price | 69",
+      "In vendor stock · 1 vendor | Doctor Lucien Moreau | 69 | Placed in the world | 1 fixed spot · Sombre Forest | 1/10",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/10"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Doctor Lucien Moreau | 69 | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | What it's for | Uses | → | Unlocks Robust Antidote | Lv 175 | Sells to vendors | base sell price | 69",
+      "In vendor stock · 1 vendor | Doctor Lucien Moreau | 69 | Placed in the world | 1 fixed spot · Sombre Forest | 1/10"
+    ]
+  },
+  "outfitter-recipe-grenadier-s-battlepack": {
+    "title": "Outfitter Recipe - Grenadier's Battlepack",
+    "slug": "outfitter-recipe-grenadier-s-battlepack",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Grenadier's Battlepack | Lv 200 | Sells to vendors | base sell price | 1 | 49 | 20",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "penitent-coinbox-miser-s-purse": {
+    "title": "Penitent Coinbox - Miser's Purse",
+    "slug": "penitent-coinbox-miser-s-purse",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "sister-of-the-seventh-depth-marie": {
+    "title": "Sister of the Seventh Depth - Marie",
+    "slug": "sister-of-the-seventh-depth-marie",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Hector | 81 | 82 | What it's for | Uses | → | Unlocks Sister of the Seventh Depth - Marie | Sells to vendors | base sell price | 81 | 82",
+      "In vendor stock · 1 vendor | Hector | 81 | 82"
+    ]
+  },
+  "outfitter-recipe-sapper-s-cuirass": {
+    "title": "Outfitter Recipe - Sapper's Cuirass",
+    "slug": "outfitter-recipe-sapper-s-cuirass",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Sapper's Cuirass | Lv 175 | Sells to vendors | base sell price | 78 | 70",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "outfitter-recipe-sapper-s-greaves": {
+    "title": "Outfitter Recipe - Sapper's Greaves",
+    "slug": "outfitter-recipe-sapper-s-greaves",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "sacrament-war-axe": {
+    "title": "Sacrament - War Axe",
+    "slug": "sacrament-war-axe",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-hunting-sling": {
+    "title": "Outfitter Recipe - Hunting Sling",
+    "slug": "outfitter-recipe-hunting-sling",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-ludwig-s-drumcase": {
+    "title": "Outfitter Recipe - Ludwig's Drumcase",
+    "slug": "outfitter-recipe-ludwig-s-drumcase",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Sirène | 1 | 26 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Ludwig's Drumcase | Lv 160 | Sells to vendors | base sell price | 1 | 26 | 50",
+      "In vendor stock · 1 vendor | Sirène | 1 | 26 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/10"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Sirène | 1 | 26 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Ludwig's Drumcase | Lv 160 | Sells to vendors | base sell price | 1 | 26 | 50",
+      "In vendor stock · 1 vendor | Sirène | 1 | 26 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047"
+    ]
+  },
+  "solstice-vepr": {
+    "title": "Solstice - Vepr",
+    "slug": "solstice-vepr",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "trident-dagger": {
+    "title": "Trident - Dagger",
+    "slug": "trident-dagger",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-sapper-s-helmet": {
+    "title": "Outfitter Recipe - Sapper's Helmet",
+    "slug": "outfitter-recipe-sapper-s-helmet",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047 | What it's for | Uses | → | Unlocks Sapper's Helmet | Lv 185 | Sells to vendors | base sell price | 71 | 80",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | 29 containers | Best: Tailor's Trunk | 1/2,147 | 10 creatures | Best: Brute | 1/24,047",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "voltigeur-s-barrel-leather-barrel-bag": {
+    "title": "Voltigeur's Barrel - Leather Barrel Bag",
+    "slug": "voltigeur-s-barrel-leather-barrel-bag",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/20 | 1 creature | Best: Dreg Voltigeur | 1/52 | What it's for | Uses | → | Unlocks Voltigeur's Barrel - Leather Barrel Bag | Sells to vendors | base sell price | 13 | 85",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/20 | 1 creature | Best: Dreg Voltigeur | 1/52",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/20",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/20"
+    ],
+    "vendors": []
+  },
+  "argent-purse-grubber-s-purse": {
+    "title": "Argent Purse - Grubber's Purse",
+    "slug": "argent-purse-grubber-s-purse",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sombre Forest | 1/10 | What it's for | Uses | → | Unlocks Argent Purse - Grubber's Purse | Sells to vendors | base sell price | 18 | 12",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/10",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "artificer-recipe-leather-armour-plate": {
+    "title": "Artificer Recipe - Leather Armour Plate",
+    "slug": "artificer-recipe-leather-armour-plate",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "sterling-rebuke-foraging-basket": {
+    "title": "Sterling Rebuke - Foraging Basket",
+    "slug": "sterling-rebuke-foraging-basket",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "physician-recipe-pressurised-bloodbag": {
+    "title": "Physician Recipe - Pressurised Bloodbag",
+    "slug": "physician-recipe-pressurised-bloodbag",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Doctor Lucien Moreau | 1 | 96 | 60 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 32 containers | Best: Large Strongbox | 1/19,329 | 10 creatures | Best: Dreg Physician | 1/822 | What it's for | Uses | → | Unlocks Pressurised Bloodbag | Lv 200 | Sells to vendors | base sell price | 1 | 96 | 60",
+      "In vendor stock · 1 vendor | Doctor Lucien Moreau | 1 | 96 | 60 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 32 containers | Best: Large Strongbox | 1/19,329 | 10 creatures | Best: Dreg Physician | 1/822",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/10"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Doctor Lucien Moreau | 1 | 96 | 60 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 32 containers | Best: Large Strongbox | 1/19,329 | 10 creatures | Best: Dreg Physician | 1/822 | What it's for | Uses | → | Unlocks Pressurised Bloodbag | Lv 200 | Sells to vendors | base sell price | 1 | 96 | 60",
+      "In vendor stock · 1 vendor | Doctor Lucien Moreau | 1 | 96 | 60 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/10 | 32 containers | Best: Large Strongbox | 1/19,329 | 10 creatures | Best: Dreg Physician | 1/822"
+    ]
+  },
+  "cook-recipe-boiled-water": {
+    "title": "Cook Recipe - Boiled Water",
+    "slug": "cook-recipe-boiled-water",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-jellied-apple": {
+    "title": "Cook Recipe - Jellied Apple",
+    "slug": "cook-recipe-jellied-apple",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "bishop-s-rebuke-foraging-basket": {
+    "title": "Bishop’s Rebuke - Foraging Basket",
+    "slug": "bishop-s-rebuke-foraging-basket",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "gunsmith-recipe-auster": {
+    "title": "Gunsmith Recipe - Auster",
+    "slug": "gunsmith-recipe-auster",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | What it's for | Uses | → | Unlocks Auster | Lv 75 | Sells to vendors | base sell price | 35",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "cook-recipe-sweet-rum": {
+    "title": "Cook Recipe - Sweet Rum",
+    "slug": "cook-recipe-sweet-rum",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | 1 container | Best: Slop Bin | 1/437 | What it's for | Uses | → | Unlocks Sweet Rum | Lv 140 | Sells to vendors | base sell price | 17 | 50",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | 1 container | Best: Slop Bin | 1/437",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "cook-recipe-cabbage-soup": {
+    "title": "Cook Recipe - Cabbage Soup",
+    "slug": "cook-recipe-cabbage-soup",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Eloise, Grillard | 6 | 28 containers | Best: Slop Bin | 1/437 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Cabbage Soup | Lv 130 | Sells to vendors | base sell price | 6",
+      "In vendor stock · 2 vendors | Eloise, Grillard | 6 | 28 containers | Best: Slop Bin | 1/437 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "loup-rapier": {
+    "title": "Loup - Rapier",
+    "slug": "loup-rapier",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-fresh-baguette": {
+    "title": "Cook Recipe - Fresh Baguette",
+    "slug": "cook-recipe-fresh-baguette",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Eloise, Grillard | 6 | Placed in the world | 2 fixed spots · Sarlat Farm, Jacques Bridge | 1/6.7 | 28 containers | Best: Slop Bin | 1/437 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Fresh Baguette | Lv 90 | Sells to vendors | base sell price | 6",
+      "In vendor stock · 2 vendors | Eloise, Grillard | 6 | Placed in the world | 2 fixed spots · Sarlat Farm, Jacques Bridge | 1/6.7 | 28 containers | Best: Slop Bin | 1/437 | 10 creatures | Best: Brute | 1/4,810",
+      "Placed in the world | 2 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7 | Jacques Bridge | 1 fixed spot | 1/20",
+      "Placed in the world | 2 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7 | Jacques Bridge | 1 fixed spot | 1/20"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Eloise, Grillard | 6 | Placed in the world | 2 fixed spots · Sarlat Farm, Jacques Bridge | 1/6.7 | 28 containers | Best: Slop Bin | 1/437 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Fresh Baguette | Lv 90 | Sells to vendors | base sell price | 6",
+      "In vendor stock · 2 vendors | Eloise, Grillard | 6 | Placed in the world | 2 fixed spots · Sarlat Farm, Jacques Bridge | 1/6.7 | 28 containers | Best: Slop Bin | 1/437 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "brute-femur-club": {
+    "title": "Brute Femur - Club",
+    "slug": "brute-femur-club",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/67 | 30 containers | Best: Large Strongbox | 1/13,295 | 10 creatures | Best: Pitchskin | 1/41 | What it's for | Uses | → | Unlocks Brute Femur - Club | Sells to vendors | base sell price | 8 | 52",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/67 | 30 containers | Best: Large Strongbox | 1/13,295 | 10 creatures | Best: Pitchskin | 1/41",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/67",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/67"
+    ],
+    "vendors": []
+  },
+  "artificer-recipe-journeyman-tongs": {
+    "title": "Artificer Recipe - Journeyman Tongs",
+    "slug": "artificer-recipe-journeyman-tongs",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Heinrich Voss, Mr Sweet | 47 | 70 | 29 containers | Best: Tinker's Case | 1/175 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Journeyman Tongs | Lv 125 | Sells to vendors | base sell price | 47 | 70",
+      "In vendor stock · 2 vendors | Heinrich Voss, Mr Sweet | 47 | 70 | 29 containers | Best: Tinker's Case | 1/175 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "honoured-agreement-brown-betty": {
+    "title": "Honoured Agreement - Brown Betty",
+    "slug": "honoured-agreement-brown-betty",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Hector | 17 | What it's for | Uses | → | Unlocks Honoured Agreement - Brown Betty | Sells to vendors | base sell price | 17",
+      "In vendor stock · 1 vendor | Hector | 17"
+    ]
+  },
+  "marcher-s-roll-leather-barrel-bag": {
+    "title": "Marcher's Roll - Leather Barrel Bag",
+    "slug": "marcher-s-roll-leather-barrel-bag",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | What it's for | Uses | → | Unlocks Marcher's Roll - Leather Barrel Bag | Sells to vendors | base sell price | 3 | 95",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "gunsmith-recipe-volant": {
+    "title": "Gunsmith Recipe - Volant",
+    "slug": "gunsmith-recipe-volant",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 65 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 28 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Volant | Lv 145 | Sells to vendors | base sell price | 65",
+      "In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 65 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 28 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/4,810",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 65 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 28 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Volant | Lv 145 | Sells to vendors | base sell price | 65",
+      "In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 65 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 28 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "frey-war-axe": {
+    "title": "Frey - War Axe",
+    "slug": "frey-war-axe",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "hermit-halberd": {
+    "title": "Hermit - Halberd",
+    "slug": "hermit-halberd",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sombre Forest | 1/2.9 | Boss & dungeon | Dungeon · Sombre Forest | 1/8.4 | 31 containers | Best: Ambrose’s Tithe | 1/2.3 | 10 creatures | Best: Brute | 1/16,541 | What it's for | Uses | → | Unlocks Hermit - Halberd | Sells to vendors | base sell price | 8 | 87",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/2.9 | Boss & dungeon | Dungeon · Sombre Forest | 1/8.4 | 31 containers | Best: Ambrose’s Tithe | 1/2.3 | 10 creatures | Best: Brute | 1/16,541",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/2.9",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/2.9"
+    ],
+    "vendors": []
+  },
+  "metallurgist-recipe-mace": {
+    "title": "Metallurgist Recipe - Mace",
+    "slug": "metallurgist-recipe-mace",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Henri | 32 | 40 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 27 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Mace | Lv 100 | Sells to vendors | base sell price | 32 | 40",
+      "In vendor stock · 1 vendor | Henri | 32 | 40 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 27 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Brute | 1/4,810",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Henri | 32 | 40 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 27 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Mace | Lv 100 | Sells to vendors | base sell price | 32 | 40",
+      "In vendor stock · 1 vendor | Henri | 32 | 40 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 27 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "outfitter-recipe-burlap-haversack": {
+    "title": "Outfitter Recipe - Burlap Haversack",
+    "slug": "outfitter-recipe-burlap-haversack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Octave de Villiers, Sirène | 27 | 30 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Burlap Haversack | Lv 80 | Sells to vendors | base sell price | 27 | 30",
+      "In vendor stock · 2 vendors | Octave de Villiers, Sirène | 27 | 30 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "outfitter-recipe-old-satchel": {
+    "title": "Outfitter Recipe - Old Satchel",
+    "slug": "outfitter-recipe-old-satchel",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Sirène | 25 | 20 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Old Satchel | Lv 120 | Sells to vendors | base sell price | 25 | 20",
+      "In vendor stock · 1 vendor | Sirène | 25 | 20 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "outfitter-recipe-leather-cuirass": {
+    "title": "Outfitter Recipe - Leather Cuirass",
+    "slug": "outfitter-recipe-leather-cuirass",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Leather Cuirass | Lv 90 | Sells to vendors | base sell price | 24 | 30",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "outfitter-recipe-ragged-sack": {
+    "title": "Outfitter Recipe - Ragged Sack",
+    "slug": "outfitter-recipe-ragged-sack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Octave de Villiers | 15 | What it's for | Uses | → | Unlocks Ragged Sack | Lv 75 | Sells to vendors | base sell price | 15",
+      "In vendor stock · 1 vendor | Octave de Villiers | 15"
+    ]
+  },
+  "metallurgist-recipe-longsword": {
+    "title": "Metallurgist Recipe - Longsword",
+    "slug": "metallurgist-recipe-longsword",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Jean Fondeur | 52 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 37 containers | Best: Large Strongbox | 1/1,997 | 10 creatures | Best: Brute | 1/2,484 | What it's for | Uses | → | Unlocks Longsword | Lv 125 | Sells to vendors | base sell price | 52 | 50",
+      "In vendor stock · 1 vendor | Jean Fondeur | 52 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 37 containers | Best: Large Strongbox | 1/1,997 | 10 creatures | Best: Brute | 1/2,484",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Jean Fondeur | 52 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 37 containers | Best: Large Strongbox | 1/1,997 | 10 creatures | Best: Brute | 1/2,484 | What it's for | Uses | → | Unlocks Longsword | Lv 125 | Sells to vendors | base sell price | 52 | 50",
+      "In vendor stock · 1 vendor | Jean Fondeur | 52 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 37 containers | Best: Large Strongbox | 1/1,997 | 10 creatures | Best: Brute | 1/2,484"
+    ]
+  },
+  "partisan-spear": {
+    "title": "Partisan - Spear",
+    "slug": "partisan-spear",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Hector | 20 | What it's for | Uses | → | Unlocks Partisan - Spear | Sells to vendors | base sell price | 20",
+      "In vendor stock · 1 vendor | Hector | 20"
+    ]
+  },
+  "gunsmith-recipe-louisville": {
+    "title": "Gunsmith Recipe - Louisville",
+    "slug": "gunsmith-recipe-louisville",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Reynauld | 56 | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | 38 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/2,484 | What it's for | Uses | → | Unlocks Louisville | Lv 110 | Sells to vendors | base sell price | 56",
+      "In vendor stock · 1 vendor | Reynauld | 56 | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | 38 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/2,484",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Reynauld | 56 | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | 38 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/2,484 | What it's for | Uses | → | Unlocks Louisville | Lv 110 | Sells to vendors | base sell price | 56",
+      "In vendor stock · 1 vendor | Reynauld | 56 | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | 38 containers | Best: Powder Locker | 1/189 | 10 creatures | Best: Brute | 1/2,484"
+    ]
+  },
+  "padre-s-reply-axe": {
+    "title": "Padre's Reply - Axe",
+    "slug": "padre-s-reply-axe",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/18 | Boss & dungeon | Dungeon · Sombre Forest | 1/42 | 1 container | Best: Ambrose’s Tithe | 1/9.8 | What it's for | Uses | → | Unlocks Padre's Reply - Axe | Sells to vendors | base sell price | 9 | 8",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/18 | Boss & dungeon | Dungeon · Sombre Forest | 1/42 | 1 container | Best: Ambrose’s Tithe | 1/9.8",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/18",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/18"
+    ],
+    "vendors": []
+  },
+  "outfitter-recipe-leather-barrel-bag": {
+    "title": "Outfitter Recipe - Leather Barrel Bag",
+    "slug": "outfitter-recipe-leather-barrel-bag",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Sirène | 32 | 30 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Leather Barrel Bag | Lv 135 | Sells to vendors | base sell price | 32 | 30",
+      "In vendor stock · 1 vendor | Sirène | 32 | 30 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Sirène | 32 | 30 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Leather Barrel Bag | Lv 135 | Sells to vendors | base sell price | 32 | 30",
+      "In vendor stock · 1 vendor | Sirène | 32 | 30 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "outfitter-recipe-leather-helmet": {
+    "title": "Outfitter Recipe - Leather Helmet",
+    "slug": "outfitter-recipe-leather-helmet",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-leather-greaves": {
+    "title": "Outfitter Recipe - Leather Greaves",
+    "slug": "outfitter-recipe-leather-greaves",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "physician-recipe-sealed-bloodbag": {
+    "title": "Physician Recipe - Sealed Bloodbag",
+    "slug": "physician-recipe-sealed-bloodbag",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 3 vendors | Doctor Lucien Moreau, Henriette, Piro | 53 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 32 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Dreg Physician | 1/165 | What it's for | Uses | → | Unlocks Sealed Bloodbag | Lv 125 | Sells to vendors | base sell price | 53 | 10",
+      "In vendor stock · 3 vendors | Doctor Lucien Moreau, Henriette, Piro | 53 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 32 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Dreg Physician | 1/165",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 3 vendors | Doctor Lucien Moreau, Henriette, Piro | 53 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 32 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Dreg Physician | 1/165 | What it's for | Uses | → | Unlocks Sealed Bloodbag | Lv 125 | Sells to vendors | base sell price | 53 | 10",
+      "In vendor stock · 3 vendors | Doctor Lucien Moreau, Henriette, Piro | 53 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 32 containers | Best: Large Strongbox | 1/3,866 | 10 creatures | Best: Dreg Physician | 1/165"
+    ]
+  },
+  "outfitter-recipe-threshing-basket": {
+    "title": "Outfitter Recipe - Threshing Basket",
+    "slug": "outfitter-recipe-threshing-basket",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Octave de Villiers, Sirène | 22 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Threshing Basket | Lv 95 | Sells to vendors | base sell price | 22",
+      "In vendor stock · 2 vendors | Octave de Villiers, Sirène | 22 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "shashka-sabre": {
+    "title": "Shashka - Sabre",
+    "slug": "shashka-sabre",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sombre Forest | 1/5 | What it's for | Uses | → | Unlocks Shashka - Sabre | Sells to vendors | base sell price | 6 | 21",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/5",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/5",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/5"
+    ],
+    "vendors": []
+  },
+  "physician-recipe-weak-antidote": {
+    "title": "Physician Recipe - Weak Antidote",
+    "slug": "physician-recipe-weak-antidote",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Henriette | 17 | 80 | What it's for | Uses | → | Unlocks Weak Antidote | Lv 100 | Sells to vendors | base sell price | 17 | 80",
+      "In vendor stock · 1 vendor | Henriette | 17 | 80"
+    ]
+  },
+  "angler-s-sack-ragged-sack": {
+    "title": "Angler's Sack - Ragged Sack",
+    "slug": "angler-s-sack-ragged-sack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Filthy François | 4 | 4 | What it's for | Uses | → | Unlocks Angler's Sack - Ragged Sack | Sells to vendors | base sell price | 4 | 4",
+      "In vendor stock · 1 vendor | Filthy François | 4 | 4"
+    ]
+  },
+  "stag-dagger": {
+    "title": "Stag - Dagger",
+    "slug": "stag-dagger",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Jean Fondeur | 11 | 75 | What it's for | Uses | → | Unlocks Stag - Dagger | Sells to vendors | base sell price | 11 | 75",
+      "In vendor stock · 1 vendor | Jean Fondeur | 11 | 75"
+    ]
+  },
+  "artificer-recipe-cloth-armour-plate": {
+    "title": "Artificer Recipe - Cloth Armour Plate",
+    "slug": "artificer-recipe-cloth-armour-plate",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "outfitter-recipe-muriel-s-box": {
+    "title": "Outfitter Recipe - Muriel's Box",
+    "slug": "outfitter-recipe-muriel-s-box",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Octave de Villiers, Sirène | 31 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Muriel's Box | Lv 105 | Sells to vendors | base sell price | 31 | 10",
+      "In vendor stock · 2 vendors | Octave de Villiers, Sirène | 31 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Octave de Villiers, Sirène | 31 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810 | What it's for | Uses | → | Unlocks Muriel's Box | Lv 105 | Sells to vendors | base sell price | 31 | 10",
+      "In vendor stock · 2 vendors | Octave de Villiers, Sirène | 31 | 10 | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 29 containers | Best: Tailor's Trunk | 1/430 | 10 creatures | Best: Brute | 1/4,810"
+    ]
+  },
+  "recluse-axe": {
+    "title": "Recluse - Axe",
+    "slug": "recluse-axe",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "argent-and-vert-brown-betty": {
+    "title": "Argent and Vert - Brown Betty",
+    "slug": "argent-and-vert-brown-betty",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "austrian-banner-damp-knapsack": {
+    "title": "Austrian Banner - Damp Knapsack",
+    "slug": "austrian-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Austrian Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "baton-mace": {
+    "title": "Baton - Mace",
+    "slug": "baton-mace",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | What it's for | Uses | → | Unlocks Baton - Mace | Sells to vendors | base sell price | 2 | 45",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "artificer-recipe-rusty-tongs": {
+    "title": "Artificer Recipe - Rusty Tongs",
+    "slug": "artificer-recipe-rusty-tongs",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Heinrich Voss, Mr Sweet | 7 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/5 | 29 containers | Best: Tinker's Case | 1/44 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Rusty Tongs | Lv 50 | Sells to vendors | base sell price | 7 | 50",
+      "In vendor stock · 2 vendors | Heinrich Voss, Mr Sweet | 7 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/5 | 29 containers | Best: Tinker's Case | 1/44 | 10 creatures | Best: Brute | 1/1,203",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/5",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/5"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Heinrich Voss, Mr Sweet | 7 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/5 | 29 containers | Best: Tinker's Case | 1/44 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Rusty Tongs | Lv 50 | Sells to vendors | base sell price | 7 | 50",
+      "In vendor stock · 2 vendors | Heinrich Voss, Mr Sweet | 7 | 50 | Placed in the world | 1 fixed spot · Jacques Bridge | 1/5 | 29 containers | Best: Tinker's Case | 1/44 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "bosun-s-clasp-old-satchel": {
+    "title": "Bosun's Clasp - Old Satchel",
+    "slug": "bosun-s-clasp-old-satchel",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7 | What it's for | Uses | → | Unlocks Bosun's Clasp - Old Satchel | Sells to vendors | base sell price | 2 | 44",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/6.7",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "cook-recipe-tepid-water": {
+    "title": "Cook Recipe - Tepid Water",
+    "slug": "cook-recipe-tepid-water",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-stewed-apple": {
+    "title": "Cook Recipe - Stewed Apple",
+    "slug": "cook-recipe-stewed-apple",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/5 | 1 container | Best: Slop Bin | 1/110 | What it's for | Uses | → | Unlocks Stewed Apple | Lv 1 | Sells to vendors | base sell price | 1 | 20",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/5 | 1 container | Best: Slop Bin | 1/110",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/5",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/5"
+    ],
+    "vendors": []
+  },
+  "italian-standard-louisville": {
+    "title": "Italian Standard - Louisville",
+    "slug": "italian-standard-louisville",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | What it's for | Uses | → | Unlocks Italian Standard - Louisville | Sells to vendors | base sell price | 2 | 2",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "ferdinand-s-banner-damp-knapsack": {
+    "title": "Ferdinand's Banner - Damp Knapsack",
+    "slug": "ferdinand-s-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Ferdinand's Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "cook-recipe-thin-gruel": {
+    "title": "Cook Recipe - Thin Gruel",
+    "slug": "cook-recipe-thin-gruel",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Eloise, Grillard | 1 | 90 | 28 containers | Best: Slop Bin | 1/110 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Thin Gruel | Lv 55 | Sells to vendors | base sell price | 1 | 90",
+      "In vendor stock · 2 vendors | Eloise, Grillard | 1 | 90 | 28 containers | Best: Slop Bin | 1/110 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "gunsmith-recipe-brown-betty": {
+    "title": "Gunsmith Recipe - Brown Betty",
+    "slug": "gunsmith-recipe-brown-betty",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 7 | 30 | 28 containers | Best: Powder Locker | 1/47 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Brown Betty | Lv 50 | Sells to vendors | base sell price | 7 | 30",
+      "In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 7 | 30 | 28 containers | Best: Powder Locker | 1/47 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "jefferson-s-banner-damp-knapsack": {
+    "title": "Jefferson's Banner - Damp Knapsack",
+    "slug": "jefferson-s-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Jefferson's Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "cook-recipe-mouldy-baguette": {
+    "title": "Cook Recipe - Mouldy Baguette",
+    "slug": "cook-recipe-mouldy-baguette",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Eloise, Grillard | 2 | 80 | 28 containers | Best: Slop Bin | 1/110 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Mouldy Baguette | Lv 18 | Sells to vendors | base sell price | 2 | 80",
+      "In vendor stock · 2 vendors | Eloise, Grillard | 2 | 80 | 28 containers | Best: Slop Bin | 1/110 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "gunsmith-recipe-longboy": {
+    "title": "Gunsmith Recipe - Longboy",
+    "slug": "gunsmith-recipe-longboy",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 15 | 10 | 38 containers | Best: Powder Locker | 1/47 | 10 creatures | Best: Brute | 1/975 | What it's for | Uses | → | Unlocks Longboy | Lv 25 | Sells to vendors | base sell price | 15 | 10",
+      "In vendor stock · 2 vendors | Reynauld, Voyant the Rifleman | 15 | 10 | 38 containers | Best: Powder Locker | 1/47 | 10 creatures | Best: Brute | 1/975"
+    ]
+  },
+  "hohenzollern-reborn-brown-betty": {
+    "title": "Hohenzollern Reborn - Brown Betty",
+    "slug": "hohenzollern-reborn-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 2 fixed spots · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Drooler | 1/87 | What it's for | Uses | → | Unlocks Hohenzollern Reborn - Brown Betty | Sells to vendors | base sell price | 2 | 4",
+      "Placed in the world | 2 fixed spots · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Drooler | 1/87",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 2 fixed spots | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 2 fixed spots | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "blucher-s-banner-damp-knapsack": {
+    "title": "Blucher's Banner - Damp Knapsack",
+    "slug": "blucher-s-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Blucher's Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "jozef-s-banner-damp-knapsack": {
+    "title": "Jozef's Banner - Damp Knapsack",
+    "slug": "jozef-s-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Jozef's Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "outfitter-recipe-foraging-basket": {
+    "title": "Outfitter Recipe - Foraging Basket",
+    "slug": "outfitter-recipe-foraging-basket",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Octave de Villiers, Sirène | 9 | 29 containers | Best: Tailor's Trunk | 1/108 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Foraging Basket | Lv 65 | Sells to vendors | base sell price | 9",
+      "In vendor stock · 2 vendors | Octave de Villiers, Sirène | 9 | 29 containers | Best: Tailor's Trunk | 1/108 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "outfitter-recipe-damp-knapsack": {
+    "title": "Outfitter Recipe - Damp Knapsack",
+    "slug": "outfitter-recipe-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "cook-recipe-spoiled-rum": {
+    "title": "Cook Recipe - Spoiled Rum",
+    "slug": "cook-recipe-spoiled-rum",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "metallurgist-recipe-club": {
+    "title": "Metallurgist Recipe - Club",
+    "slug": "metallurgist-recipe-club",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Henri, Jean Fondeur | 24 | 80 | Placed in the world | 1 fixed spot · Sombre Forest | 1/5 | 37 containers | Best: Large Strongbox | 1/680 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Club | Lv 50 | Sells to vendors | base sell price | 24 | 80",
+      "In vendor stock · 2 vendors | Henri, Jean Fondeur | 24 | 80 | Placed in the world | 1 fixed spot · Sombre Forest | 1/5 | 37 containers | Best: Large Strongbox | 1/680 | 10 creatures | Best: Brute | 1/1,203",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/5",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/5"
+    ],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Henri, Jean Fondeur | 24 | 80 | Placed in the world | 1 fixed spot · Sombre Forest | 1/5 | 37 containers | Best: Large Strongbox | 1/680 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Club | Lv 50 | Sells to vendors | base sell price | 24 | 80",
+      "In vendor stock · 2 vendors | Henri, Jean Fondeur | 24 | 80 | Placed in the world | 1 fixed spot · Sombre Forest | 1/5 | 37 containers | Best: Large Strongbox | 1/680 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "prussian-standard-louisville": {
+    "title": "Prussian Standard - Louisville",
+    "slug": "prussian-standard-louisville",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | What it's for | Uses | → | Unlocks Prussian Standard - Louisville | Sells to vendors | base sell price | 2 | 47",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "frederick-s-revenge-brown-betty": {
+    "title": "Frederick's Revenge - Brown Betty",
+    "slug": "frederick-s-revenge-brown-betty",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "house-of-medici-brown-betty": {
+    "title": "House of Medici - Brown Betty",
+    "slug": "house-of-medici-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks House of Medici - Brown Betty | Sells to vendors | base sell price | 1 | 50",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "highlander-longsword": {
+    "title": "Highlander - Longsword",
+    "slug": "highlander-longsword",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | What it's for | Uses | → | Unlocks Highlander - Longsword | Sells to vendors | base sell price | 2 | 8",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "george-s-cross-damp-knapsack": {
+    "title": "George's Cross - Damp Knapsack",
+    "slug": "george-s-cross-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks George's Cross - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "outfitter-recipe-quilted-cuirass": {
+    "title": "Outfitter Recipe - Quilted Cuirass",
+    "slug": "outfitter-recipe-quilted-cuirass",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Octave de Villiers | 9 | 40 | 29 containers | Best: Tailor's Trunk | 1/108 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Quilted Cuirass | Lv 50 | Sells to vendors | base sell price | 9 | 40",
+      "In vendor stock · 1 vendor | Octave de Villiers | 9 | 40 | 29 containers | Best: Tailor's Trunk | 1/108 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "outfitter-recipe-rusty-bucket": {
+    "title": "Outfitter Recipe - Rusty Bucket",
+    "slug": "outfitter-recipe-rusty-bucket",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 2 vendors | Octave de Villiers, Sirène | 4 | 40 | 29 containers | Best: Tailor's Trunk | 1/108 | 10 creatures | Best: Brute | 1/1,203 | What it's for | Uses | → | Unlocks Rusty Bucket | Lv 15 | Sells to vendors | base sell price | 4 | 40",
+      "In vendor stock · 2 vendors | Octave de Villiers, Sirène | 4 | 40 | 29 containers | Best: Tailor's Trunk | 1/108 | 10 creatures | Best: Brute | 1/1,203"
+    ]
+  },
+  "peninsular-campaign-banner-louisville": {
+    "title": "Peninsular Campaign Banner - Louisville",
+    "slug": "peninsular-campaign-banner-louisville",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | What it's for | Uses | → | Unlocks Peninsular Campaign Banner - Louisville | Sells to vendors | base sell price | 2 | 33",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "physician-recipe-crude-bloodbag": {
+    "title": "Physician Recipe - Crude Bloodbag",
+    "slug": "physician-recipe-crude-bloodbag",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 3 vendors | Doctor Lucien Moreau, Henriette, Piro | 13 | 32 containers | Best: Large Strongbox | 1/967 | 10 creatures | Best: Dreg Physician | 1/41 | What it's for | Uses | → | Unlocks Crude Bloodbag | Lv 50 | Sells to vendors | base sell price | 13",
+      "In vendor stock · 3 vendors | Doctor Lucien Moreau, Henriette, Piro | 13 | 32 containers | Best: Large Strongbox | 1/967 | 10 creatures | Best: Dreg Physician | 1/41"
+    ]
+  },
+  "lion-of-rotterdam-brown-betty": {
+    "title": "Lion of Rotterdam - Brown Betty",
+    "slug": "lion-of-rotterdam-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Lion of Rotterdam - Brown Betty | Sells to vendors | base sell price | 1 | 25",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "road-cask-leather-barrel-bag": {
+    "title": "Road Cask - Leather Barrel Bag",
+    "slug": "road-cask-leather-barrel-bag",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | In vendor stock · 1 vendor | Octave de Villiers | 5 | 5 | What it's for | Uses | → | Unlocks Road Cask - Leather Barrel Bag | Sells to vendors | base sell price | 5 | 5",
+      "In vendor stock · 1 vendor | Octave de Villiers | 5 | 5"
+    ]
+  },
+  "schlag-short-sword": {
+    "title": "Schlag - Short Sword",
+    "slug": "schlag-short-sword",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 2 fixed spots · Sarlat Farm | 1/4.4 | What it's for | Uses | → | Unlocks Schlag - Short Sword | Sells to vendors | base sell price | 3 | 48",
+      "Placed in the world | 2 fixed spots · Sarlat Farm | 1/4.4",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 2 fixed spots | 1/4.4",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 2 fixed spots | 1/4.4"
+    ],
+    "vendors": []
+  },
+  "prussian-eagle-brown-betty": {
+    "title": "Prussian Eagle - Brown Betty",
+    "slug": "prussian-eagle-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Prussian Eagle - Brown Betty | Sells to vendors | base sell price | 45",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "sable-and-gules-brown-betty": {
+    "title": "Sable and Gules - Brown Betty",
+    "slug": "sable-and-gules-brown-betty",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "sindle-dagger": {
+    "title": "Sindle - Dagger",
+    "slug": "sindle-dagger",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/2 | 30 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Sindle - Dagger | Sells to vendors | base sell price | 1 | 1",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/2 | 30 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/2",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/2"
+    ],
+    "vendors": []
+  },
+  "wrapped-tricolour-louisville": {
+    "title": "Wrapped Tricolour - Louisville",
+    "slug": "wrapped-tricolour-louisville",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | Placed in the world | 1 fixed spot · Sombre Forest | 1/5 | What it's for | Uses | → | Unlocks Wrapped Tricolour - Louisville | Sells to vendors | base sell price | 2 | 80",
+      "Placed in the world | 1 fixed spot · Sombre Forest | 1/5",
+      "Placed in the world | 1 | per spot | Sombre Forest | 1 fixed spot | 1/5",
+      "Placed in the world | 1 | per spot",
+      "Sombre Forest | 1 fixed spot | 1/5"
+    ],
+    "vendors": []
+  },
+  "treaty-workhorse-brown-betty": {
+    "title": "Treaty Workhorse - Brown Betty",
+    "slug": "treaty-workhorse-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/87 | What it's for | Uses | → | Unlocks Treaty Workhorse - Brown Betty | Sells to vendors | base sell price | 1 | 70",
+      "Placed in the world | 1 fixed spot · Jacques Bridge | 1/6.7 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/87",
+      "Placed in the world | 1 | per spot | Jacques Bridge | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Jacques Bridge | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "veenstra-s-swine-brown-betty": {
+    "title": "Veenstra's Swine - Brown Betty",
+    "slug": "veenstra-s-swine-brown-betty",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Veenstra's Swine - Brown Betty | Sells to vendors | base sell price | 7 | 15",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/10",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/10"
+    ],
+    "vendors": []
+  },
+  "union-jack-damp-knapsack": {
+    "title": "Union Jack - Damp Knapsack",
+    "slug": "union-jack-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Union Jack - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "tsar-s-banner-damp-knapsack": {
+    "title": "Tsar's Banner - Damp Knapsack",
+    "slug": "tsar-s-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Tsar's Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "tenebris-dagger": {
+    "title": "Tenebris - Dagger",
+    "slug": "tenebris-dagger",
+    "creatures": [],
+    "placed": [
+      "How to get it | Obtain | → | surest first | Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 30 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Tenebris - Dagger | Sells to vendors | base sell price | 2 | 31",
+      "Placed in the world | 1 fixed spot · Sarlat Farm | 1/6.7 | 30 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308",
+      "Placed in the world | 1 | per spot | Sarlat Farm | 1 fixed spot | 1/6.7",
+      "Placed in the world | 1 | per spot",
+      "Sarlat Farm | 1 fixed spot | 1/6.7"
+    ],
+    "vendors": []
+  },
+  "recipe-for-sweetbreads": {
+    "title": "Recipe for Sweetbreads",
+    "slug": "recipe-for-sweetbreads",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "william-s-banner-damp-knapsack": {
+    "title": "William's Banner - Damp Knapsack",
+    "slug": "william-s-banner-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks William's Banner - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  },
+  "recipe-for-cider": {
+    "title": "Recipe for Cider",
+    "slug": "recipe-for-cider",
+    "creatures": [],
+    "placed": [],
+    "vendors": []
+  },
+  "tricolour-damp-knapsack": {
+    "title": "Tricolour - Damp Knapsack",
+    "slug": "tricolour-damp-knapsack",
+    "creatures": [],
+    "placed": [],
+    "vendors": [
+      "How to get it | Obtain | → | surest first | In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308 | What it's for | Uses | → | Unlocks Tricolour - Damp Knapsack | Sells to vendors | base sell price | 10",
+      "In vendor stock · 1 vendor | Mr Sweet | 10 | 29 containers | Best: Large Strongbox | 1/2,659 | 10 creatures | Best: Brute | 1/3,308"
+    ]
+  }
+}

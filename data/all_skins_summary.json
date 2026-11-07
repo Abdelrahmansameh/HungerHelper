@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "Angler's Sack",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_HipBag_Uncommon01_01a.webp?v=a3469e9b",
+    "keywords": "angler's sack  ragged sack tallow balm boiled leather",
+    "link": "/items/ragged-sack#uses-skins"
+  },
+  {
+    "name": "Austrian Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01d.webp?v=de9cb0de",
+    "keywords": "austrian banner  damp knapsack lye crumble sootblack",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Blucher's Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01j.webp?v=7de591ab",
+    "keywords": "blucher's banner  damp knapsack madder root fresh apple",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Bosun's Clasp",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_HipBag_Uncommon03_01a.webp?v=ebc1ef03",
+    "keywords": "bosun's clasp  old satchel marching boots pine oil latch hook",
+    "link": "/items/old-satchel#uses-skins"
+  },
+  {
+    "name": "Ferdinand's Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01b.webp?v=343a389b",
+    "keywords": "ferdinand's banner  damp knapsack red ochre ash solution",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "George's Cross",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01h.webp?v=8423130e",
+    "keywords": "george's cross  damp knapsack lime slag pine oil",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Jefferson's Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01e.webp?v=b4ebcf0a",
+    "keywords": "jefferson's banner  damp knapsack dank tobacco old riding glove",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Jozef's Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01c.webp?v=191292ec",
+    "keywords": "jozef's banner  damp knapsack beeswax old horsehair brush",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Road Cask",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Uncommon03_02a.webp?v=5d50da79",
+    "keywords": "road cask  leather barrel bag gristle wax cabinet handle",
+    "link": "/items/leather-barrel-bag#uses-skins"
+  },
+  {
+    "name": "Tricolour Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01i.webp?v=d797edbd",
+    "keywords": "tricolour banner  damp knapsack fresh baguette",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Tsar's Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01f.webp?v=8e0e01a0",
+    "keywords": "tsar's banner  damp knapsack charcoal lemon peel",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Union Jack",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01k.webp?v=63ff1db4",
+    "keywords": "union jack  damp knapsack coat toggle jute hat",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "William's Banner",
+    "type": "bag",
+    "subject": "",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common01_01g.webp?v=bdaaa0e7",
+    "keywords": "william's banner  damp knapsack amber chalkstone",
+    "link": "/items/damp-knapsack#uses-skins"
+  },
+  {
+    "name": "Argent Purse",
+    "type": "bag",
+    "subject": "",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_HipBag_Rare01_02a.webp?v=0ce09cdb",
+    "keywords": "argent purse  grubber's purse shiny buckle delicate chain silver candlestick",
+    "link": "/items/grubber-s-purse#uses-skins"
+  },
+  {
+    "name": "Bishop’s Rebuke",
+    "type": "bag",
+    "subject": "",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common02_02a.webp?v=1f7be1ea",
+    "keywords": "bishop’s rebuke  foraging basket shellac lye crumble rotten egg",
+    "link": "/items/foraging-basket#uses-skins"
+  },
+  {
+    "name": "Marcher's Roll",
+    "type": "bag",
+    "subject": "",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Uncommon03_03a.webp?v=82531874",
+    "keywords": "marcher's roll  leather barrel bag oxliver oil indigo flakes reinforced garter",
+    "link": "/items/leather-barrel-bag#uses-skins"
+  },
+  {
+    "name": "Penitent Coinbox",
+    "type": "bag",
+    "subject": "",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/items/T_UI_Item_MisersPurse.png",
+    "keywords": "penitent coinbox  miser's purse ",
+    "link": "/items/miser-s-purse#uses-skins"
+  },
+  {
+    "name": "Sterling Rebuke",
+    "type": "bag",
+    "subject": "",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common02_03a.webp?v=b2aaafa5",
+    "keywords": "sterling rebuke  foraging basket pinchbeck",
+    "link": "/items/foraging-basket#uses-skins"
+  },
+  {
+    "name": "Voltigeur's Barrel",
+    "type": "bag",
+    "subject": "",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Uncommon03_01a.webp?v=b5f9fc7c",
+    "keywords": "voltigeur's barrel  leather barrel bag amber pearl steelband marching boots",
+    "link": "/items/leather-barrel-bag#uses-skins"
+  },
+  {
+    "name": "Midas Rebuke",
+    "type": "bag",
+    "subject": "",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BackBag_Common02_04a.webp?v=b3c16890",
+    "keywords": "midas rebuke  foraging basket ",
+    "link": "/items/foraging-basket#uses-skins"
+  },
+  {
+    "name": "Padre's Reply",
+    "type": "weapon",
+    "subject": "Axe",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Axe_04a.webp?v=b00088d3",
+    "keywords": "padre's reply axe axe polished rod cold iron distilled water",
+    "link": "/items/axe#uses-skins"
+  },
+  {
+    "name": "Recluse",
+    "type": "weapon",
+    "subject": "Axe",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Axe_01a.webp?v=3aa1a030",
+    "keywords": "recluse axe axe cold iron blacksand leather trimmings",
+    "link": "/items/axe#uses-skins"
+  },
+  {
+    "name": "Argent and Vert",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_03a.webp?v=c4770e24",
+    "keywords": "argent and vert brown betty brown betty ash solution",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Frederick's Revenge",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_11a.webp?v=fa7aecd3",
+    "keywords": "frederick's revenge brown betty brown betty lye crumble sootblack",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Hohenzollern Reborn",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_05a.webp?v=4c5c7f62",
+    "keywords": "hohenzollern reborn brown betty brown betty pumice stone",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "House of Medici",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_06a.webp?v=86b1cafb",
+    "keywords": "house of medici brown betty brown betty orange clay",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Lion of Rotterdam",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_10a.webp?v=d3acdf6c",
+    "keywords": "lion of rotterdam brown betty brown betty basil tarragon chervil",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Prussian Eagle",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_07a.webp?v=8f06802a",
+    "keywords": "prussian eagle brown betty brown betty wooden fork coarse sand",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Sable and Gules",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_04a.webp?v=6fba779e",
+    "keywords": "sable and gules brown betty brown betty pitch madder root",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Treaty Workhorse",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_09a.webp?v=91d046c5",
+    "keywords": "treaty workhorse brown betty brown betty indigo flakes grape must",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Veenstra's Swine",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_08a.webp?v=6c78f398",
+    "keywords": "veenstra's swine brown betty brown betty fresh egg indigo flakes lye crumble",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Honoured Agreement",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_02a.webp?v=3e165c54",
+    "keywords": "honoured agreement brown betty brown betty oxliver oil iron file",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Eastern Promise",
+    "type": "weapon",
+    "subject": "Brown Betty",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_BrownBetty_01a.webp?v=514940e8",
+    "keywords": "eastern promise brown betty brown betty pinchbeck gunblue linseed oil",
+    "link": "/items/brown-betty#uses-skins"
+  },
+  {
+    "name": "Brute Femur",
+    "type": "weapon",
+    "subject": "Club",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Club_01a.webp?v=8d38d405",
+    "keywords": "brute femur club club intact femur crusty faeces stale piss",
+    "link": "/items/club#uses-skins"
+  },
+  {
+    "name": "Crus Sacrilege",
+    "type": "weapon",
+    "subject": "Club",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Club_03a.webp?v=dcbb80b8",
+    "keywords": "crus sacrilege club club intact femur rosary beads iron file",
+    "link": "/items/club#uses-skins"
+  },
+  {
+    "name": "Sindle",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_02a.webp?v=b8e574a8",
+    "keywords": "sindle dagger dagger chipped flint boiled leather",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Tenebris",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_08a.webp?v=ed27c878",
+    "keywords": "tenebris dagger dagger pewterhead lard",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Stag",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_05a.webp?v=62149e1a",
+    "keywords": "stag dagger dagger hornbeam iron file",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Emperor's Talon",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_03a.webp?v=a538477e",
+    "keywords": "emperor's talon dagger dagger imperial eagle cold iron",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Golgotha",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_06a.webp?v=1cf4375d",
+    "keywords": "golgotha dagger dagger rosary beads ivory tusk steelband",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Trident",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_09a.webp?v=179b8887",
+    "keywords": "trident dagger dagger ebony cold iron",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Azrael’s Lockpick",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_07a.webp?v=bd23b076",
+    "keywords": "azrael’s lockpick dagger dagger blood of the penitent arsenic blacksmith's tongs tent peg",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Misericorde",
+    "type": "weapon",
+    "subject": "Dagger",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Dagger_04a.webp?v=afe8044e",
+    "keywords": "misericorde dagger dagger damascus steel fine file steelband",
+    "link": "/items/dagger#uses-skins"
+  },
+  {
+    "name": "Hermit",
+    "type": "weapon",
+    "subject": "Halberd",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Halberd_01a.webp?v=f1b82055",
+    "keywords": "hermit halberd halberd sinew string crusty faeces stale piss thick branch",
+    "link": "/items/halberd#uses-skins"
+  },
+  {
+    "name": "Noble",
+    "type": "weapon",
+    "subject": "Halberd",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Halberd_02a.webp?v=78eb85a2",
+    "keywords": "noble halberd halberd china bowl dirty brocade dress ornate cushion gilded tassels nacre button",
+    "link": "/items/halberd#uses-skins"
+  },
+  {
+    "name": "Bacchus' Wand",
+    "type": "weapon",
+    "subject": "Longboy",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Longboy_01a.webp?v=85b30a90",
+    "keywords": "bacchus' wand longboy longboy royal jelly polished rod white pearl ivory tusk moist pouch",
+    "link": "/items/longboy#uses-skins"
+  },
+  {
+    "name": "Highlander",
+    "type": "weapon",
+    "subject": "Longsword",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Longsword_04a.webp?v=1fd90bff",
+    "keywords": "highlander longsword longsword linseed oil sturdy axe handle iron jug",
+    "link": "/items/longsword#uses-skins"
+  },
+  {
+    "name": "Old Iron",
+    "type": "weapon",
+    "subject": "Longsword",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Longsword_03a.webp?v=4a62565c",
+    "keywords": "old iron longsword longsword hornbeam iron holdfast pewterhead bog iron",
+    "link": "/items/longsword#uses-skins"
+  },
+  {
+    "name": "Italian Standard",
+    "type": "weapon",
+    "subject": "Louisville",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Louisville_01h.webp?v=4fe4bd1d",
+    "keywords": "italian standard louisville louisville madder root twine ball indigo flakes",
+    "link": "/items/louisville#uses-skins"
+  },
+  {
+    "name": "Peninsular Campaign Banner",
+    "type": "weapon",
+    "subject": "Louisville",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Louisville_01e.webp?v=ba472e00",
+    "keywords": "peninsular campaign banner louisville louisville ornate cushion",
+    "link": "/items/louisville#uses-skins"
+  },
+  {
+    "name": "Tricolour Standard",
+    "type": "weapon",
+    "subject": "Louisville",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Louisville_01a.webp?v=16f7e3ac",
+    "keywords": "tricolour standard louisville louisville red ochre indigo flakes",
+    "link": "/items/louisville#uses-skins"
+  },
+  {
+    "name": "Wrapped Prussian Standard",
+    "type": "weapon",
+    "subject": "Louisville",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Louisville_01g.webp?v=48e737b8",
+    "keywords": "wrapped prussian standard louisville louisville marching drum marching boots",
+    "link": "/items/louisville#uses-skins"
+  },
+  {
+    "name": "Baton",
+    "type": "weapon",
+    "subject": "Mace",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Mace_02a.webp?v=d07b45b0",
+    "keywords": "baton mace mace brass plate",
+    "link": "/items/mace#uses-skins"
+  },
+  {
+    "name": "Austerlitz",
+    "type": "weapon",
+    "subject": "Mace",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Mace_03a.webp?v=4e519400",
+    "keywords": "austerlitz mace mace imperial eagle gold leaf fancy silver plaque",
+    "link": "/items/mace#uses-skins"
+  },
+  {
+    "name": "Loup",
+    "type": "weapon",
+    "subject": "Rapier",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Rapier_01a.webp?v=2ecb0faf",
+    "keywords": "loup rapier rapier fancy silver plaque blacksand",
+    "link": "/items/rapier#uses-skins"
+  },
+  {
+    "name": "Basilisk",
+    "type": "weapon",
+    "subject": "Rapier",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Rapier_02a.webp?v=89ca3c68",
+    "keywords": "basilisk rapier rapier damascus steel serpentstone",
+    "link": "/items/rapier#uses-skins"
+  },
+  {
+    "name": "Shashka",
+    "type": "weapon",
+    "subject": "Saber",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Saber_01a.webp?v=a05753d0",
+    "keywords": "shashka saber sabre polished handle red ochre",
+    "link": "/items/sabre#uses-skins"
+  },
+  {
+    "name": "Schlag",
+    "type": "weapon",
+    "subject": "Short Sword",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_ShortSword_01a.webp?v=068d9ec2",
+    "keywords": "schlag short sword short sword tanned hide pitch bog iron",
+    "link": "/items/short-sword#uses-skins"
+  },
+  {
+    "name": "Danse Macabre",
+    "type": "weapon",
+    "subject": "Snub",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Snub_01a.webp?v=04c1f066",
+    "keywords": "danse macabre snub snub oxliver oil pitch fresh gunpowder chalkstone",
+    "link": "/items/snub#uses-skins"
+  },
+  {
+    "name": "Partisan",
+    "type": "weapon",
+    "subject": "Spear",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Spear_01a.webp?v=ad005546",
+    "keywords": "partisan spear spear hartshorn leather trimmings cold iron blacksand",
+    "link": "/items/spear#uses-skins"
+  },
+  {
+    "name": "Hybernia",
+    "type": "weapon",
+    "subject": "Spear",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Spear_02a.webp?v=53f7da56",
+    "keywords": "hybernia spear spear cold iron distilled water",
+    "link": "/items/spear#uses-skins"
+  },
+  {
+    "name": "Peasant's Burden",
+    "type": "weapon",
+    "subject": "Spear",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Spear_04a.webp?v=648a1307",
+    "keywords": "peasant's burden spear spear tent peg thick branch impeccable twine",
+    "link": "/items/spear#uses-skins"
+  },
+  {
+    "name": "Solstice",
+    "type": "weapon",
+    "subject": "Vepr",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_Vepr_01.webp?v=ea32f838",
+    "keywords": "solstice vepr vepr pinchbeck ivory tusk hornbeam linseed oil",
+    "link": "/items/vepr#uses-skins"
+  },
+  {
+    "name": "Frey",
+    "type": "weapon",
+    "subject": "War Axe",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_WarAxe_01a.webp?v=e3b1d18c",
+    "keywords": "frey war axe war axe cold iron lambgut bone char",
+    "link": "/items/war-axe#uses-skins"
+  },
+  {
+    "name": "Sacrament",
+    "type": "weapon",
+    "subject": "War Axe",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Skin_WarAxe_02a.webp?v=1845238f",
+    "keywords": "sacrament war axe war axe gold leaf bloodwood rosary beads fraying taffeta waistcoat rusted keyring",
+    "link": "/items/war-axe#uses-skins"
+  },
+  {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "common",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_02a.webp?v=01e7f66a",
+    "keywords": "fleeing whelp eva eva madder root nettlecloth",
+    "link": "/characters/eva#poses/fleeing-whelp"
+  },
+  {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_03a.webp?v=6fd75236",
+    "keywords": "deft apprentice eva eva lye crumble indigo flakes",
+    "link": "/characters/eva#poses/deft-apprentice"
+  },
+  {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_04a.webp?v=97dae95e",
+    "keywords": "plucky journeyman eva eva torn damask",
+    "link": "/characters/eva#poses/plucky-journeyman"
+  },
+  {
+    "name": "Adept Survivor",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_06a.webp?v=273d9634",
+    "keywords": "adept survivor eva eva cashmere shawl",
+    "link": "/characters/eva#poses/adept-survivor"
+  },
+  {
+    "name": "Clever Traveller",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_05a.webp?v=c3b5547e",
+    "keywords": "clever traveller eva eva calfskin boots shiny buckle belt strap",
+    "link": "/characters/eva#poses/clever-traveller"
+  },
+  {
+    "name": "Cunning Expert",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_07a.webp?v=3aaceae3",
+    "keywords": "cunning expert eva eva white pearl leather trimmings dank tobacco milky glass",
+    "link": "/characters/eva#poses/cunning-expert"
+  },
+  {
+    "name": "High Master",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_08a.webp?v=eaf05ff2",
+    "keywords": "high master eva eva romani treads gilded tassels silver candlestick tanned hide",
+    "link": "/characters/eva#poses/high-master"
+  },
+  {
+    "name": "Prestige I: Mademoiselle Rouge",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Eva_Cosmetic_10a.webp?v=1cc9ff4b",
+    "keywords": "prestige i: mademoiselle rouge eva eva silk scarf white pearl cochineal charcoal sootblack",
+    "link": "/characters/eva#poses/mademoiselle-rouge"
+  },
+  {
+    "name": "Prestige II: Iron Vestal",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Eva_Cosmetic_11a.webp?v=12f185a3",
+    "keywords": "prestige ii: iron vestal eva eva blood of the penitent ladies girdle nacre button indigo flakes sinew string",
+    "link": "/characters/eva#poses/iron-vestal"
+  },
+  {
+    "name": "Revered Legend",
+    "type": "character",
+    "subject": "Eva",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Eva_Cosmetic_09a.webp?v=35f1157d",
+    "keywords": "revered legend eva eva cameo of castor tail hair madder root red ochre old horsehair brush",
+    "link": "/characters/eva#poses/revered-legend"
+  },
+  {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "common",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_02a.webp?v=a65f308f",
+    "keywords": "fleeing whelp gabriel gabriel filthy britches latch hook",
+    "link": "/characters/gabriel#poses/fleeing-whelp"
+  },
+  {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_03a.webp?v=d0d23758",
+    "keywords": "deft apprentice gabriel gabriel boiled leather nettlecloth",
+    "link": "/characters/gabriel#poses/deft-apprentice"
+  },
+  {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_04a.webp?v=26480bc7",
+    "keywords": "plucky journeyman gabriel gabriel marching boots indigo flakes",
+    "link": "/characters/gabriel#poses/plucky-journeyman"
+  },
+  {
+    "name": "Adept Survivor",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_06a.webp?v=80627596",
+    "keywords": "adept survivor gabriel gabriel steelband madder root canvas patch",
+    "link": "/characters/gabriel#poses/adept-survivor"
+  },
+  {
+    "name": "Clever Traveller",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_05a.webp?v=1d05e73d",
+    "keywords": "clever traveller gabriel gabriel leather trimmings tanned hide brass plate",
+    "link": "/characters/gabriel#poses/clever-traveller"
+  },
+  {
+    "name": "Cunning Expert",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_07a.webp?v=60590faa",
+    "keywords": "cunning expert gabriel gabriel cashmere shawl cotton bed sheets belt strap coat toggle",
+    "link": "/characters/gabriel#poses/cunning-expert"
+  },
+  {
+    "name": "High Master",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_08a.webp?v=32a3640a",
+    "keywords": "high master gabriel gabriel fancy silver plaque cold iron oxliver oil rusted keyring",
+    "link": "/characters/gabriel#poses/high-master"
+  },
+  {
+    "name": "Athos",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_11a.webp?v=3482e3e6",
+    "keywords": "athos gabriel gabriel fraying taffeta waistcoat gilded tassels cold iron marching boots indigo flakes",
+    "link": "/characters/gabriel#poses/athos"
+  },
+  {
+    "name": "Prestige I: Silver Oath",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Gabriel_Cosmetic_10a.webp?v=57f383a3",
+    "keywords": "prestige i: silver oath gabriel gabriel imperial eagle cashmere shawl cold iron calfskin boots madder root",
+    "link": "/characters/gabriel#poses/silver-oath"
+  },
+  {
+    "name": "Prestige II: Gilded Herald",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Gabriel_Cosmetic_12a.webp?v=3688adc0",
+    "keywords": "prestige ii: gilded herald gabriel gabriel gold leaf wool blanket shiny buckle iron holdfast indigo flakes",
+    "link": "/characters/gabriel#poses/gilded-herald"
+  },
+  {
+    "name": "Revered Legend",
+    "type": "character",
+    "subject": "Gabriel",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Gabriel_Cosmetic_09a.webp?v=018bf9be",
+    "keywords": "revered legend gabriel gabriel imperial eagle tail hair wool blanket marching boots reinforced garter",
+    "link": "/characters/gabriel#poses/revered-legend"
+  },
+  {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "common",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_02a.webp?v=71facc43",
+    "keywords": "fleeing whelp hugo hugo boiled leather",
+    "link": "/characters/hugo#poses/fleeing-whelp"
+  },
+  {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_03a.webp?v=cb2e3bdf",
+    "keywords": "deft apprentice hugo hugo tanned hide damp rag",
+    "link": "/characters/hugo#poses/deft-apprentice"
+  },
+  {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_04a.webp?v=ae73b5be",
+    "keywords": "plucky journeyman hugo hugo dank tobacco filthy britches",
+    "link": "/characters/hugo#poses/plucky-journeyman"
+  },
+  {
+    "name": "Adept Survivor",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_06a.webp?v=90b2382b",
+    "keywords": "adept survivor hugo hugo refined tobacco cochineal hartshorn",
+    "link": "/characters/hugo#poses/adept-survivor"
+  },
+  {
+    "name": "Clever Traveller",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_05a.webp?v=99372523",
+    "keywords": "clever traveller hugo hugo torn damask tarnished spoon distilled water",
+    "link": "/characters/hugo#poses/clever-traveller"
+  },
+  {
+    "name": "Cunning Expert",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_07a.webp?v=8f29b323",
+    "keywords": "cunning expert hugo hugo opium pipe opium tarnished spoon belt strap seamstress needle",
+    "link": "/characters/hugo#poses/cunning-expert"
+  },
+  {
+    "name": "High Master",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_08a.webp?v=e1957401",
+    "keywords": "high master hugo hugo arsenic silver dish cold iron powder tin",
+    "link": "/characters/hugo#poses/high-master"
+  },
+  {
+    "name": "Prestige I: Mad King",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_10a.webp?v=b5c46049",
+    "keywords": "prestige i: mad king hugo hugo silk scarf gold leaf uncut gems refined tobacco marching boots",
+    "link": "/characters/hugo#poses/mad-king"
+  },
+  {
+    "name": "Prestige II: Penitent",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_11a.webp?v=3765d07a",
+    "keywords": "prestige ii: penitent hugo hugo flawless diamond uncut gems leather trimmings charcoal boiled leather",
+    "link": "/characters/hugo#poses/penitent"
+  },
+  {
+    "name": "Revered Legend",
+    "type": "character",
+    "subject": "Hugo",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Hugo_Cosmetic_09a.webp?v=d314ebb0",
+    "keywords": "revered legend hugo hugo shagreen tortoise shell bloodstone willow bark cochineal",
+    "link": "/characters/hugo#poses/revered-legend"
+  },
+  {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "common",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_02a.webp?v=1162d266",
+    "keywords": "fleeing whelp marie marie twine ball",
+    "link": "/characters/marie#poses/fleeing-whelp"
+  },
+  {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_03a.webp?v=798eca93",
+    "keywords": "deft apprentice marie marie walnut husk nettlecloth",
+    "link": "/characters/marie#poses/deft-apprentice"
+  },
+  {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_04a.webp?v=8891a8b2",
+    "keywords": "plucky journeyman marie marie tanned hide impeccable twine",
+    "link": "/characters/marie#poses/plucky-journeyman"
+  },
+  {
+    "name": "Adept Survivor",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_06a.webp?v=bf6153f7",
+    "keywords": "adept survivor marie marie silver dish iron file walnut husk",
+    "link": "/characters/marie#poses/adept-survivor"
+  },
+  {
+    "name": "Clever Traveller",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_05a.webp?v=93be5189",
+    "keywords": "clever traveller marie marie leather trimmings indigo flakes orange clay",
+    "link": "/characters/marie#poses/clever-traveller"
+  },
+  {
+    "name": "Cunning Expert",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_07a.webp?v=37a26902",
+    "keywords": "cunning expert marie marie ladies girdle bolt of cotton cloth calfskin boots reinforced garter",
+    "link": "/characters/marie#poses/cunning-expert"
+  },
+  {
+    "name": "High Master",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_08a.webp?v=0c334d1c",
+    "keywords": "high master marie marie cashmere shawl delicate chain torn damask coat toggle",
+    "link": "/characters/marie#poses/high-master"
+  },
+  {
+    "name": "Sister of the Seventh Depth",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_12a.webp?v=e75c05c8",
+    "keywords": "sister of the seventh depth marie marie dirty brocade dress holland thread indigo flakes filthy britches",
+    "link": "/characters/marie#poses/sister-of-the-seventh-depth"
+  },
+  {
+    "name": "Matriarch",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_11a.webp?v=85449bdf",
+    "keywords": "matriarch marie marie cashmere shawl dirty brocade dress lime slag lye crumble red ochre",
+    "link": "/characters/marie#poses/matriarch"
+  },
+  {
+    "name": "Prestige I: Scarlet Inquisitor",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_10a.webp?v=13174b9e",
+    "keywords": "prestige i: scarlet inquisitor marie marie jacobin cipher ladies girdle cotton bed sheets lye crumble red ochre",
+    "link": "/characters/marie#poses/scarlet-inquisitor"
+  },
+  {
+    "name": "Prestige II: Sister of Glass",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_13a.webp?v=86438847",
+    "keywords": "prestige ii: sister of glass marie marie vicuna fancy silver plaque oxliver oil torn damask",
+    "link": "/characters/marie#poses/sister-of-glass"
+  },
+  {
+    "name": "Revered Legend",
+    "type": "character",
+    "subject": "Marie",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Marie_Cosmetic_09a.webp?v=412f84e8",
+    "keywords": "revered legend marie marie silk scarf rosary beads nacre button sinew string steelband",
+    "link": "/characters/marie#poses/revered-legend"
+  },
+  {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "common",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_02a.webp?v=e8273a1c",
+    "keywords": "fleeing whelp otto otto nettlecloth",
+    "link": "/characters/otto#poses/fleeing-whelp"
+  },
+  {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_03a.webp?v=aea86e89",
+    "keywords": "deft apprentice otto otto belt strap damp rag",
+    "link": "/characters/otto#poses/deft-apprentice"
+  },
+  {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_04a.webp?v=a0b63289",
+    "keywords": "plucky journeyman otto otto linseed oil boiled leather",
+    "link": "/characters/otto#poses/plucky-journeyman"
+  },
+  {
+    "name": "Adept Survivor",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_06a.webp?v=b5df7372",
+    "keywords": "adept survivor otto otto cold iron tanned hide chalkstone",
+    "link": "/characters/otto#poses/adept-survivor"
+  },
+  {
+    "name": "Clever Traveller",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_05a.webp?v=51c29e5e",
+    "keywords": "clever traveller otto otto shellac beeswax brass plate",
+    "link": "/characters/otto#poses/clever-traveller"
+  },
+  {
+    "name": "Cunning Expert",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_07a.webp?v=bad43d1a",
+    "keywords": "cunning expert otto otto amber pearl calfskin boots silver dish old riding glove",
+    "link": "/characters/otto#poses/cunning-expert"
+  },
+  {
+    "name": "High Master",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_08a.webp?v=c575ed81",
+    "keywords": "high master otto otto cashmere shawl large silver candlestick iron holdfast steelband",
+    "link": "/characters/otto#poses/high-master"
+  },
+  {
+    "name": "Prestige I: Siegebreaker",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Abel_Cosmetic_10a.webp?v=deafdb50",
+    "keywords": "prestige i: siegebreaker otto otto damascus steel pinchbeck blacksmith's tongs blacksand belt strap",
+    "link": "/characters/otto#poses/siegebreaker"
+  },
+  {
+    "name": "Prestige II: Black Reiter",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Abel_Cosmetic_11a.webp?v=f92b8a2f",
+    "keywords": "prestige ii: black reiter otto otto imperial eagle cashmere shawl blacksand sootblack iron jug",
+    "link": "/characters/otto#poses/black-reiter"
+  },
+  {
+    "name": "Revered Legend",
+    "type": "character",
+    "subject": "Otto",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Abel_Cosmetic_09a.webp?v=36e7fdcd",
+    "keywords": "revered legend otto otto vicuna ivory tusk hartshorn gilded tassels sinew string",
+    "link": "/characters/otto#poses/revered-legend"
+  },
+  {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "common",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_02a.webp?v=bf8f0931",
+    "keywords": "fleeing whelp serine serine bone char",
+    "link": "/characters/serine#poses/fleeing-whelp"
+  },
+  {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_03a.webp?v=35694b87",
+    "keywords": "deft apprentice serine serine walnut husk tallow balm",
+    "link": "/characters/serine#poses/deft-apprentice"
+  },
+  {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "uncommon",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_04a.webp?v=f5dd592f",
+    "keywords": "plucky journeyman serine serine red ochre charcoal",
+    "link": "/characters/serine#poses/plucky-journeyman"
+  },
+  {
+    "name": "Adept Survivor",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_06a.webp?v=854a8606",
+    "keywords": "adept survivor serine serine torn damask grape must brass plate",
+    "link": "/characters/serine#poses/adept-survivor"
+  },
+  {
+    "name": "Clever Traveller",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "rare",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_05a.webp?v=23623b74",
+    "keywords": "clever traveller serine serine shellac nacre button amber",
+    "link": "/characters/serine#poses/clever-traveller"
+  },
+  {
+    "name": "Cunning Expert",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_07a.webp?v=53e7d762",
+    "keywords": "cunning expert serine serine ivory tusk serpentstone",
+    "link": "/characters/serine#poses/cunning-expert"
+  },
+  {
+    "name": "High Master",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "epic",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_08a.webp?v=29c0e35c",
+    "keywords": "high master serine serine fraying taffeta waistcoat shiny buckle sinew string ram’s horn",
+    "link": "/characters/serine#poses/high-master"
+  },
+  {
+    "name": "Prestige I: Maroon Bonemother",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Serine_Cosmetic_10a.webp?v=d31e8b3b",
+    "keywords": "prestige i: maroon bonemother serine serine vicuna ivory tusk hartshorn sinew string dank tobacco",
+    "link": "/characters/serine#poses/maroon-bonemother"
+  },
+  {
+    "name": "Prestige II: Mambo’s Grace",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "legendary",
+    "obtain": "prestige",
+    "image": "/media/skins/Serine_Cosmetic_11a.webp?v=7d9d8383",
+    "keywords": "prestige ii: mambo’s grace serine serine bloodwood wool blanket sinew string amber chalkstone",
+    "link": "/characters/serine#poses/mambo-s-grace"
+  },
+  {
+    "name": "Revered Legend",
+    "type": "character",
+    "subject": "Serine",
+    "rarity": "legendary",
+    "obtain": "craft",
+    "image": "/media/skins/Serine_Cosmetic_09a.webp?v=b42964f3",
+    "keywords": "revered legend serine serine blood of the penitent intact femur fine file delicate chain cold iron",
+    "link": "/characters/serine#poses/revered-legend"
+  }
+]

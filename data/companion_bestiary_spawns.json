@@ -1,0 +1,6691 @@
+{
+  "bestiary": {
+    "drooler": {
+      "name_en": "Drooler",
+      "name_fr": "Baveux",
+      "category": "Creature",
+      "health": 450,
+      "damage": "36 (Slash)",
+      "speed": "3.1 m/s (Sprint)",
+      "weak_point": "Head",
+      "trophy_name": "Drooler Jaw",
+      "trophy_rate": "76.9% (1/1.3)",
+      "rare_drop": "Jacques Folly Key (1/226 · 0.44%)",
+      "tactics": "Sprint runner. Staggers easily from headshots; avoid getting cornered in tight doorways.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "11.0 per raid",
+          "map_share": "37%",
+          "spawners_count": 24,
+          "top_places": [
+            {
+              "name": "The Undercroft",
+              "rate": "2 per raid",
+              "coords": "X: 3444, Y: 3473"
+            },
+            {
+              "name": "Chapel of Buried Virgins",
+              "rate": "1.5 per raid",
+              "coords": "X: 3035, Y: 2517"
+            },
+            {
+              "name": "Sarlat Tithe Barn",
+              "rate": "1 per raid",
+              "coords": "X: 2223, Y: 3668"
+            },
+            {
+              "name": "Garnier's Windmill",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 1228, Y: 955"
+            },
+            {
+              "name": "Sarlat Village",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 2037, Y: 2216"
+            }
+          ]
+        },
+        "Sombre Forest": {
+          "per_raid": "9.8 per raid",
+          "map_share": "32%",
+          "spawners_count": 21,
+          "top_places": [
+            {
+              "name": "Cutter's Hamlet",
+              "rate": "2 per raid",
+              "coords": "X: 2722, Y: 2453"
+            },
+            {
+              "name": "The Pit",
+              "rate": "1.5 per raid",
+              "coords": "X: 2387, Y: 2043"
+            },
+            {
+              "name": "Hollow Valley Camp",
+              "rate": "1 per raid",
+              "coords": "X: 1261, Y: 2830"
+            },
+            {
+              "name": "Pale Quarry",
+              "rate": "1 per raid",
+              "coords": "X: 1388, Y: 1682"
+            },
+            {
+              "name": "Fusiliers Garrison",
+              "rate": "1 per raid",
+              "coords": "X: 2557, Y: 3007"
+            }
+          ]
+        },
+        "Jacques Bridge": {
+          "per_raid": "9.3 per raid",
+          "map_share": "31%",
+          "spawners_count": 20,
+          "top_places": [
+            {
+              "name": "Forlorn Hope",
+              "rate": "1 per raid",
+              "coords": "X: 2645, Y: 2226"
+            },
+            {
+              "name": "Vairon Quarry",
+              "rate": "1 per raid",
+              "coords": "X: 2747, Y: 2376"
+            },
+            {
+              "name": "Fort Sang Rouge",
+              "rate": "1 per raid",
+              "coords": "X: 2275, Y: 420"
+            },
+            {
+              "name": "Overrun Rearguard",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 1895, Y: 3637"
+            },
+            {
+              "name": "Bellefontaine Tithe Barn",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 3246, Y: 3205"
+            }
+          ]
+        }
+      }
+    },
+    "brute": {
+      "name_en": "Brute",
+      "name_fr": "Brute",
+      "category": "Creature",
+      "health": 900,
+      "damage": "96 (Overhead Sweep)",
+      "speed": "2.4 m/s",
+      "weak_point": "Head / Spine",
+      "trophy_name": "Brute Foot",
+      "trophy_rate": "76.9% (1/1.3)",
+      "rare_drop": "Jacques Folly Key (1/226 · 0.44%)",
+      "tactics": "Heavy club attacks deal devastating damage. Parry or maintain distance with thrusts/firearms.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "11.0 per raid",
+          "map_share": "37%",
+          "spawners_count": 24,
+          "top_places": [
+            {
+              "name": "The Undercroft",
+              "rate": "2 per raid",
+              "coords": "X: 3444, Y: 3473"
+            },
+            {
+              "name": "Chapel of Buried Virgins",
+              "rate": "1.5 per raid",
+              "coords": "X: 3035, Y: 2517"
+            },
+            {
+              "name": "Sarlat Tithe Barn",
+              "rate": "1 per raid",
+              "coords": "X: 2223, Y: 3668"
+            },
+            {
+              "name": "Garnier's Windmill",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 1228, Y: 955"
+            },
+            {
+              "name": "Sarlat Village",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 2037, Y: 2216"
+            }
+          ]
+        },
+        "Sombre Forest": {
+          "per_raid": "9.8 per raid",
+          "map_share": "32%",
+          "spawners_count": 21,
+          "top_places": [
+            {
+              "name": "Cutter's Hamlet",
+              "rate": "2 per raid",
+              "coords": "X: 2722, Y: 2453"
+            },
+            {
+              "name": "The Pit",
+              "rate": "1.5 per raid",
+              "coords": "X: 2387, Y: 2043"
+            },
+            {
+              "name": "Hollow Valley Camp",
+              "rate": "1 per raid",
+              "coords": "X: 1261, Y: 2830"
+            },
+            {
+              "name": "Pale Quarry",
+              "rate": "1 per raid",
+              "coords": "X: 1388, Y: 1682"
+            },
+            {
+              "name": "Fusiliers Garrison",
+              "rate": "1 per raid",
+              "coords": "X: 2557, Y: 3007"
+            }
+          ]
+        },
+        "Jacques Bridge": {
+          "per_raid": "9.3 per raid",
+          "map_share": "31%",
+          "spawners_count": 20,
+          "top_places": [
+            {
+              "name": "Forlorn Hope",
+              "rate": "1 per raid",
+              "coords": "X: 2645, Y: 2226"
+            },
+            {
+              "name": "Vairon Quarry",
+              "rate": "1 per raid",
+              "coords": "X: 2747, Y: 2376"
+            },
+            {
+              "name": "Fort Sang Rouge",
+              "rate": "1 per raid",
+              "coords": "X: 2275, Y: 420"
+            },
+            {
+              "name": "Overrun Rearguard",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 1895, Y: 3637"
+            },
+            {
+              "name": "Bellefontaine Tithe Barn",
+              "rate": "1 raid in 2 (50%)",
+              "coords": "X: 3246, Y: 3205"
+            }
+          ]
+        }
+      }
+    },
+    "bloat": {
+      "name_en": "Bloat",
+      "name_fr": "Boursouflé",
+      "category": "Creature",
+      "health": 60,
+      "damage": "80 (Toxic Gas Explosion)",
+      "speed": "1.8 m/s",
+      "weak_point": "Dormant Bladders",
+      "trophy_name": "Bloat Bladder",
+      "trophy_rate": "85.0%",
+      "rare_drop": "Refined Saltpetre",
+      "tactics": "Detonates on death dealing lethal AOE poison. Snipe from range or wear gas mask.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "31 per raid",
+          "map_share": "22%",
+          "spawners_count": 17,
+          "top_places": [
+            {
+              "name": "The Undercroft",
+              "rate": "4.9 per raid",
+              "coords": "X: 3444, Y: 3473"
+            },
+            {
+              "name": "Chapel of Buried Virgins",
+              "rate": "4.7 per raid",
+              "coords": "X: 3035, Y: 2517"
+            },
+            {
+              "name": "Sarlat Tithe Barn",
+              "rate": "2.7 per raid",
+              "coords": "X: 2223, Y: 3668"
+            }
+          ]
+        },
+        "Sombre Forest": {
+          "per_raid": "51 per raid",
+          "map_share": "36%",
+          "spawners_count": 28,
+          "top_places": [
+            {
+              "name": "Cutter's Hamlet",
+              "rate": "6.1 per raid",
+              "coords": "X: 2722, Y: 2453"
+            },
+            {
+              "name": "The Pit",
+              "rate": "5.7 per raid",
+              "coords": "X: 2387, Y: 2043"
+            },
+            {
+              "name": "Outskirts Quarantine",
+              "rate": "4.2 per raid",
+              "coords": "X: 1797, Y: 2863"
+            }
+          ]
+        },
+        "Jacques Bridge": {
+          "per_raid": "59 per raid",
+          "map_share": "42%",
+          "spawners_count": 34,
+          "top_places": [
+            {
+              "name": "Jacques Folly",
+              "rate": "6.5 per raid",
+              "coords": "X: 1680, Y: 197"
+            },
+            {
+              "name": "Fort Sang Rouge",
+              "rate": "3.8 per raid",
+              "coords": "X: 2275, Y: 420"
+            },
+            {
+              "name": "Bellefontaine Tithe Barn",
+              "rate": "3.2 per raid",
+              "coords": "X: 3246, Y: 3205"
+            }
+          ]
+        }
+      }
+    },
+    "shambler": {
+      "name_en": "Shambler",
+      "name_fr": "Titubant",
+      "category": "Creature",
+      "health": 160,
+      "damage": "28 (Bite / Claw)",
+      "speed": "1.6 m/s",
+      "weak_point": "Head",
+      "trophy_name": "Shambler Flesh",
+      "trophy_rate": "72.0%",
+      "rare_drop": "Coarse Leather",
+      "tactics": "Slow moving horde infesting compounds. Easily dispatched with blunt or heavy overheads.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "25 per raid",
+          "map_share": "21%",
+          "spawners_count": 142,
+          "top_places": [
+            {
+              "name": "Garnier's Farm",
+              "rate": "3.4 per raid",
+              "coords": "X: 2316, Y: 1530"
+            },
+            {
+              "name": "Garnier's Windmill",
+              "rate": "2.3 per raid",
+              "coords": "X: 1228, Y: 955"
+            },
+            {
+              "name": "Chevalier's Remise",
+              "rate": "2.0 per raid",
+              "coords": "X: 3138, Y: 1347"
+            }
+          ]
+        },
+        "Sombre Forest": {
+          "per_raid": "50 per raid",
+          "map_share": "41%",
+          "spawners_count": 180,
+          "top_places": [
+            {
+              "name": "Fusiliers Garrison",
+              "rate": "3.5 per raid",
+              "coords": "X: 2557, Y: 3007"
+            },
+            {
+              "name": "Overrun Billet",
+              "rate": "3.3 per raid",
+              "coords": "X: 1781, Y: 2788"
+            },
+            {
+              "name": "Black Wood Mill",
+              "rate": "3.3 per raid",
+              "coords": "X: 1280, Y: 2643"
+            }
+          ]
+        },
+        "Jacques Bridge": {
+          "per_raid": "45 per raid",
+          "map_share": "37%",
+          "spawners_count": 165,
+          "top_places": [
+            {
+              "name": "Bellefontaine Village",
+              "rate": "2.9 per raid",
+              "coords": "X: 2747, Y: 2376"
+            },
+            {
+              "name": "Fort Sang Rouge",
+              "rate": "2.9 per raid",
+              "coords": "X: 2275, Y: 420"
+            },
+            {
+              "name": "Bellefontaine Tithe Barn",
+              "rate": "2.6 per raid",
+              "coords": "X: 3246, Y: 3205"
+            }
+          ]
+        }
+      }
+    },
+    "dreg": {
+      "name_en": "Dreg",
+      "name_fr": "Rebut",
+      "category": "Creature",
+      "health": 85,
+      "damage": "22 (Rusty Dagger)",
+      "speed": "2.0 m/s",
+      "weak_point": "Head",
+      "trophy_name": "Dreg Head",
+      "trophy_rate": "55.0%",
+      "rare_drop": "Scrap Metal / Bone",
+      "tactics": "Common scavengers patrolling trails. Weak individually but dangerous when swarming.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "115 per raid",
+          "map_share": "22%",
+          "spawners_count": 220,
+          "top_places": [
+            {
+              "name": "Garnier's Farm",
+              "rate": "12 per raid",
+              "coords": "X: 2316, Y: 1530"
+            },
+            {
+              "name": "Garnier's Windmill",
+              "rate": "8.3 per raid",
+              "coords": "X: 1228, Y: 955"
+            },
+            {
+              "name": "Sarlat Village",
+              "rate": "8.0 per raid",
+              "coords": "X: 2037, Y: 2216"
+            }
+          ]
+        },
+        "Sombre Forest": {
+          "per_raid": "188 per raid",
+          "map_share": "36%",
+          "spawners_count": 310,
+          "top_places": [
+            {
+              "name": "Hollow Valley Camp",
+              "rate": "17 per raid",
+              "coords": "X: 1261, Y: 2830"
+            },
+            {
+              "name": "Outskirts Quarantine",
+              "rate": "16 per raid",
+              "coords": "X: 1797, Y: 2863"
+            },
+            {
+              "name": "Fusiliers Garrison",
+              "rate": "14 per raid",
+              "coords": "X: 2557, Y: 3007"
+            }
+          ]
+        },
+        "Jacques Bridge": {
+          "per_raid": "219 per raid",
+          "map_share": "42%",
+          "spawners_count": 350,
+          "top_places": [
+            {
+              "name": "Fort Sang Rouge",
+              "rate": "23 per raid",
+              "coords": "X: 2275, Y: 420"
+            },
+            {
+              "name": "Forlorn Hope",
+              "rate": "20 per raid",
+              "coords": "X: 2645, Y: 2226"
+            },
+            {
+              "name": "Bellefontaine Village",
+              "rate": "15 per raid",
+              "coords": "X: 2747, Y: 2376"
+            }
+          ]
+        }
+      }
+    },
+    "pale-lady": {
+      "name_en": "Pale Lady",
+      "name_fr": "Dame Pâle",
+      "category": "Creature",
+      "health": 900,
+      "damage": "110 (Ethereal Screech & Strike)",
+      "speed": "2.8 m/s",
+      "weak_point": "Heart",
+      "trophy_name": "Pale Heart",
+      "trophy_rate": "80.0%",
+      "rare_drop": "Cursed Silver / Jacques Folly Key",
+      "tactics": "Ultra rare spectral boss rolling on the Miniboss table (1 raid in 1.6 overall). Keep extreme range.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "1 raid in 4.3",
+          "map_share": "37%",
+          "spawners_count": 24,
+          "top_places": [
+            {
+              "name": "The Undercroft",
+              "rate": "1 raid in 25 (4%)",
+              "coords": "X: 3444, Y: 3473"
+            },
+            {
+              "name": "Chapel of Buried Virgins",
+              "rate": "1 raid in 33 (3%)",
+              "coords": "X: 3035, Y: 2517"
+            },
+            {
+              "name": "Sarlat Tithe Barn",
+              "rate": "1 raid in 50 (2%)",
+              "coords": "X: 2223, Y: 3668"
+            }
+          ]
+        },
+        "Sombre Forest": {
+          "per_raid": "1 raid in 5.0",
+          "map_share": "32%",
+          "spawners_count": 21,
+          "top_places": [
+            {
+              "name": "Cutter's Hamlet",
+              "rate": "1 raid in 25 (4%)",
+              "coords": "X: 2722, Y: 2453"
+            },
+            {
+              "name": "The Pit",
+              "rate": "1 raid in 33 (3%)",
+              "coords": "X: 2387, Y: 2043"
+            },
+            {
+              "name": "Hollow Valley Camp",
+              "rate": "1 raid in 50 (2%)",
+              "coords": "X: 1261, Y: 2830"
+            }
+          ]
+        },
+        "Jacques Bridge": {
+          "per_raid": "1 raid in 5.1",
+          "map_share": "31%",
+          "spawners_count": 20,
+          "top_places": [
+            {
+              "name": "Forlorn Hope",
+              "rate": "1 raid in 50 (2%)",
+              "coords": "X: 2645, Y: 2226"
+            },
+            {
+              "name": "Vairon Quarry",
+              "rate": "1 raid in 50 (2%)",
+              "coords": "X: 2747, Y: 2376"
+            },
+            {
+              "name": "Fort Sang Rouge",
+              "rate": "1 raid in 50 (2%)",
+              "coords": "X: 2275, Y: 420"
+            }
+          ]
+        }
+      }
+    },
+    "farmer-dreg": {
+      "name_en": "Farmer Dreg",
+      "name_fr": "Dreg Fermier",
+      "category": "Elite Variant",
+      "health": 550,
+      "damage": "48 (Pitchfork Thrusts)",
+      "speed": "2.4 m/s",
+      "weak_point": "Head",
+      "trophy_name": "Peasant's Burden - Spear Schema",
+      "trophy_rate": "100% ALWAYS",
+      "rare_drop": "Dreg Head (Trophy)",
+      "tactics": "Elite pitchfork variant of Dreg. Only 1 static spawner exists on Sarlat Farm at Garnier's Farm.",
+      "maps_intel": {
+        "Sarlat Farm": {
+          "per_raid": "1 raid in 20 (5.0%)",
+          "map_share": "100%",
+          "spawners_count": 1,
+          "top_places": [
+            {
+              "name": "Garnier's Farm",
+              "rate": "1 raid in 20 (5.0%)",
+              "coords": "X: 2316.66, Y: 1286.74"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "map_spawners": {
+    "Sarlat Farm": {
+      "miniboss": [
+        {
+          "id": 38,
+          "x": 2502.96,
+          "y": 1853.81,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 51,
+          "x": 2465.32,
+          "y": 1917.86,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 127,
+          "x": 3705.36,
+          "y": 3364.34,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 132,
+          "x": 3524.55,
+          "y": 3616.9,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 152,
+          "x": 3722.91,
+          "y": 3635.57,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 153,
+          "x": 3627.43,
+          "y": 3807.51,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 155,
+          "x": 3542.3,
+          "y": 3678.42,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 336,
+          "x": 2395.63,
+          "y": 909.67,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 406,
+          "x": 3597.7,
+          "y": 3261.77,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 423,
+          "x": 3662.13,
+          "y": 3280.81,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 424,
+          "x": 3406,
+          "y": 3141.09,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 555,
+          "x": 1237.4,
+          "y": 1027.15,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 1298,
+          "x": 2073.14,
+          "y": 2158.41,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 1326,
+          "x": 2073.14,
+          "y": 2158.41,
+          "group": "Miniboss",
+          "title": "Miniboss"
+        },
+        {
+          "id": 1654,
+          "x": 1204.12,
+          "y": 1344.92,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 1972,
+          "x": 2357.68,
+          "y": 607.1,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2092,
+          "x": 2365.98,
+          "y": 1587.01,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2316,
+          "x": 3121.75,
+          "y": 2507.63,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2785,
+          "x": 1760.02,
+          "y": 3551.95,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2835,
+          "x": 2963.9,
+          "y": 3311.33,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2836,
+          "x": 3005.4,
+          "y": 3311.02,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2837,
+          "x": 3202.89,
+          "y": 3294.81,
+          "group": "M01D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 2909,
+          "x": 1603.92,
+          "y": 2196.52,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 2910,
+          "x": 2245.12,
+          "y": 3407.75,
+          "group": "Miniboss",
+          "title": null
+        }
+      ],
+      "rare_farmer": [
+        {
+          "id": 3076,
+          "x": 2316.66,
+          "y": 1286.74,
+          "group": "RareFarmer",
+          "title": "Rare Farmer"
+        }
+      ],
+      "bloat": [
+        {
+          "id": 149,
+          "x": 3730.88,
+          "y": 3468.81,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5696.81
+        },
+        {
+          "id": 150,
+          "x": 3719.69,
+          "y": 3464.51,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5696.81
+        },
+        {
+          "id": 151,
+          "x": 3723.81,
+          "y": 3478.21,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5696.81
+        },
+        {
+          "id": 412,
+          "x": 3772.55,
+          "y": 3211.72,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4712.82
+        },
+        {
+          "id": 413,
+          "x": 3732.79,
+          "y": 3217.42,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4712.06
+        },
+        {
+          "id": 415,
+          "x": 3460.19,
+          "y": 3237.52,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4457.87
+        },
+        {
+          "id": 416,
+          "x": 3485.81,
+          "y": 3177.9,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4465.82
+        },
+        {
+          "id": 417,
+          "x": 3517.47,
+          "y": 3217.73,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4466.51
+        },
+        {
+          "id": 418,
+          "x": 3535.7,
+          "y": 3271.89,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4469.18
+        },
+        {
+          "id": 419,
+          "x": 3476.26,
+          "y": 3285.32,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4458.73
+        },
+        {
+          "id": 421,
+          "x": 3743.03,
+          "y": 3245.05,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4712.38
+        },
+        {
+          "id": 2046,
+          "x": 2850.44,
+          "y": 3276.56,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1758.26
+        },
+        {
+          "id": 2047,
+          "x": 2861.56,
+          "y": 3280.87,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1786.14
+        },
+        {
+          "id": 2049,
+          "x": 2854.53,
+          "y": 3290.26,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1768.52
+        },
+        {
+          "id": 2385,
+          "x": 2277.45,
+          "y": 635.32,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1270.52
+        },
+        {
+          "id": 2386,
+          "x": 2288.63,
+          "y": 639.62,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1270.52
+        },
+        {
+          "id": 2387,
+          "x": 2281.56,
+          "y": 649.02,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1270.52
+        }
+      ],
+      "shambler": [
+        {
+          "id": 24,
+          "x": 3165.07,
+          "y": 3163.27,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 146.19
+        },
+        {
+          "id": 34,
+          "x": 2366.55,
+          "y": 1835.72,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2187.97
+        },
+        {
+          "id": 35,
+          "x": 2376.72,
+          "y": 1886.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2213.99
+        },
+        {
+          "id": 36,
+          "x": 2419.52,
+          "y": 1833.68,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2165.26
+        },
+        {
+          "id": 49,
+          "x": 2862.78,
+          "y": 1806.11,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1674.58
+        },
+        {
+          "id": 52,
+          "x": 2857.26,
+          "y": 1817.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1674.29
+        },
+        {
+          "id": 271,
+          "x": 1582.77,
+          "y": 1515.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -905.34
+        },
+        {
+          "id": 272,
+          "x": 1436.94,
+          "y": 1307.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -392.06
+        },
+        {
+          "id": 273,
+          "x": 1575.8,
+          "y": 1525.23,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -910.15
+        },
+        {
+          "id": 274,
+          "x": 1425.93,
+          "y": 1302.68,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -363.64
+        },
+        {
+          "id": 319,
+          "x": 3134.1,
+          "y": 3683.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 156.8
+        },
+        {
+          "id": 320,
+          "x": 3154.65,
+          "y": 3671.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 152.49
+        },
+        {
+          "id": 321,
+          "x": 3174.36,
+          "y": 3695.52,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 151.86
+        },
+        {
+          "id": 322,
+          "x": 3149.3,
+          "y": 3703.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 153.68
+        },
+        {
+          "id": 338,
+          "x": 2947.96,
+          "y": 2109.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1125.07
+        },
+        {
+          "id": 339,
+          "x": 2936.88,
+          "y": 2081.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1125.07
+        },
+        {
+          "id": 566,
+          "x": 1059.77,
+          "y": 1015.57,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 403.54
+        },
+        {
+          "id": 779,
+          "x": 1685.73,
+          "y": 2725.9,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1798.72
+        },
+        {
+          "id": 780,
+          "x": 1681.82,
+          "y": 2737.34,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1842.89
+        },
+        {
+          "id": 830,
+          "x": 1060.12,
+          "y": 2437.77,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -946.31
+        },
+        {
+          "id": 831,
+          "x": 1158.56,
+          "y": 2745.99,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1993.51
+        },
+        {
+          "id": 832,
+          "x": 1065.02,
+          "y": 2414.29,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -946.31
+        },
+        {
+          "id": 833,
+          "x": 1096.48,
+          "y": 2416.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -946.31
+        },
+        {
+          "id": 834,
+          "x": 972.8,
+          "y": 2732.93,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2070.13
+        },
+        {
+          "id": 835,
+          "x": 1085.19,
+          "y": 2440.47,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -946.31
+        },
+        {
+          "id": 836,
+          "x": 1149.81,
+          "y": 2754.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2004.61
+        },
+        {
+          "id": 970,
+          "x": 1419.4,
+          "y": 1501.74,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -622.19
+        },
+        {
+          "id": 971,
+          "x": 1446.88,
+          "y": 1501.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -643.77
+        },
+        {
+          "id": 972,
+          "x": 1446.87,
+          "y": 1480.81,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -617.28
+        },
+        {
+          "id": 973,
+          "x": 1861.41,
+          "y": 611.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -529.5
+        },
+        {
+          "id": 974,
+          "x": 1419.39,
+          "y": 1480.99,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -595.7
+        },
+        {
+          "id": 1107,
+          "x": 1981.98,
+          "y": 2928.78,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2572.24
+        },
+        {
+          "id": 1108,
+          "x": 1888.9,
+          "y": 3290.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2258.65
+        },
+        {
+          "id": 1109,
+          "x": 1994.25,
+          "y": 2929.63,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2573.22
+        },
+        {
+          "id": 1186,
+          "x": 2572.63,
+          "y": 725.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1621.83
+        },
+        {
+          "id": 1201,
+          "x": 2572.64,
+          "y": 713.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1621.83
+        },
+        {
+          "id": 1247,
+          "x": 834.11,
+          "y": 3603.07,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2160.66
+        },
+        {
+          "id": 1276,
+          "x": 2094.66,
+          "y": 2228.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2032.13
+        },
+        {
+          "id": 1277,
+          "x": 2083.67,
+          "y": 2270.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1975.39
+        },
+        {
+          "id": 1287,
+          "x": 2038.58,
+          "y": 2107.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1989.08
+        },
+        {
+          "id": 1290,
+          "x": 1930.31,
+          "y": 2187.36,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1920.62
+        },
+        {
+          "id": 1291,
+          "x": 2325.15,
+          "y": 1858.88,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2206.35
+        },
+        {
+          "id": 1294,
+          "x": 2204.4,
+          "y": 1776.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2030.76
+        },
+        {
+          "id": 1295,
+          "x": 2036.95,
+          "y": 2204.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1907.5
+        },
+        {
+          "id": 1297,
+          "x": 1927.19,
+          "y": 2168.77,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1922.05
+        },
+        {
+          "id": 1299,
+          "x": 2111.19,
+          "y": 2189.72,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1982.06
+        },
+        {
+          "id": 1303,
+          "x": 1983.3,
+          "y": 2151.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1595.37
+        },
+        {
+          "id": 1522,
+          "x": 1821.59,
+          "y": 595.48,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -915.03
+        },
+        {
+          "id": 1526,
+          "x": 1254.08,
+          "y": 1816.36,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1139.98
+        },
+        {
+          "id": 1527,
+          "x": 1239.19,
+          "y": 1824.38,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1139.98
+        },
+        {
+          "id": 1528,
+          "x": 1195.49,
+          "y": 2177.82,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1548.42
+        },
+        {
+          "id": 1578,
+          "x": 1878.25,
+          "y": 813.74,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -859.47
+        },
+        {
+          "id": 1579,
+          "x": 1849.22,
+          "y": 804.91,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -859.47
+        },
+        {
+          "id": 1580,
+          "x": 1852.79,
+          "y": 1112.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -763.5
+        },
+        {
+          "id": 1581,
+          "x": 2307.07,
+          "y": 950.66,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1587.25
+        },
+        {
+          "id": 1582,
+          "x": 1853.7,
+          "y": 1124.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -769.46
+        },
+        {
+          "id": 1583,
+          "x": 2298.24,
+          "y": 942.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1580.98
+        },
+        {
+          "id": 1736,
+          "x": 2488.67,
+          "y": 2708.9,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2412.91
+        },
+        {
+          "id": 1737,
+          "x": 2371.21,
+          "y": 2638.97,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2571.52
+        },
+        {
+          "id": 1738,
+          "x": 2650.09,
+          "y": 2662.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1302.49
+        },
+        {
+          "id": 1739,
+          "x": 2500.13,
+          "y": 2713.18,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2390.54
+        },
+        {
+          "id": 1740,
+          "x": 2383.47,
+          "y": 2639.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2564.04
+        },
+        {
+          "id": 1794,
+          "x": 1719.17,
+          "y": 2256.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2173.3
+        },
+        {
+          "id": 1879,
+          "x": 1521.9,
+          "y": 2960.74,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1428.69
+        },
+        {
+          "id": 1880,
+          "x": 1476.41,
+          "y": 3062.45,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1690.06
+        },
+        {
+          "id": 1881,
+          "x": 1432.53,
+          "y": 3094.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1813.43
+        },
+        {
+          "id": 1883,
+          "x": 1542.23,
+          "y": 2985.41,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1443.1
+        },
+        {
+          "id": 1885,
+          "x": 1531.54,
+          "y": 2933.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1251.78
+        },
+        {
+          "id": 1886,
+          "x": 1483.17,
+          "y": 3052.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1677.58
+        },
+        {
+          "id": 1887,
+          "x": 1421.93,
+          "y": 3088.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1859.53
+        },
+        {
+          "id": 1948,
+          "x": 913.48,
+          "y": 513.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 505.03
+        },
+        {
+          "id": 1949,
+          "x": 934.95,
+          "y": 524.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 527.76
+        },
+        {
+          "id": 1950,
+          "x": 923.91,
+          "y": 553.6,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 508.81
+        },
+        {
+          "id": 1951,
+          "x": 904,
+          "y": 536.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 481.39
+        },
+        {
+          "id": 1967,
+          "x": 2388.04,
+          "y": 661.45,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1264.67
+        },
+        {
+          "id": 1968,
+          "x": 2358.59,
+          "y": 679.48,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1296.27
+        },
+        {
+          "id": 1969,
+          "x": 2351.62,
+          "y": 661.72,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1264.33
+        },
+        {
+          "id": 1970,
+          "x": 2363.72,
+          "y": 672.4,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -849.26
+        },
+        {
+          "id": 1971,
+          "x": 2354.07,
+          "y": 652.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -849.26
+        },
+        {
+          "id": 2045,
+          "x": 2700.81,
+          "y": 3009.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -933.51
+        },
+        {
+          "id": 2048,
+          "x": 2707.55,
+          "y": 2999.01,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -921.77
+        },
+        {
+          "id": 2081,
+          "x": 2419.79,
+          "y": 1564.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1915.73
+        },
+        {
+          "id": 2082,
+          "x": 2565.23,
+          "y": 1305.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1688.22
+        },
+        {
+          "id": 2083,
+          "x": 2506.53,
+          "y": 1609.43,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1816.36
+        },
+        {
+          "id": 2084,
+          "x": 2426.15,
+          "y": 1538.93,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1915.6
+        },
+        {
+          "id": 2085,
+          "x": 2447.78,
+          "y": 1544.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1915.43
+        },
+        {
+          "id": 2086,
+          "x": 2413.46,
+          "y": 1609.62,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1922.17
+        },
+        {
+          "id": 2088,
+          "x": 2432.83,
+          "y": 1596.43,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1507.75
+        },
+        {
+          "id": 2089,
+          "x": 2448.29,
+          "y": 1540.64,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1508.28
+        },
+        {
+          "id": 2090,
+          "x": 2413.8,
+          "y": 1587.81,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1915.7
+        },
+        {
+          "id": 2094,
+          "x": 2562.41,
+          "y": 1294.01,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1681.9
+        },
+        {
+          "id": 2095,
+          "x": 2503.43,
+          "y": 1621.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1819.94
+        },
+        {
+          "id": 2097,
+          "x": 2403.14,
+          "y": 1667.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1594.57
+        },
+        {
+          "id": 2226,
+          "x": 1166.43,
+          "y": 3075.65,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2160.66
+        },
+        {
+          "id": 2230,
+          "x": 946.51,
+          "y": 2842.67,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1718.54
+        },
+        {
+          "id": 2378,
+          "x": 2347.85,
+          "y": 590.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1264.64
+        },
+        {
+          "id": 2379,
+          "x": 1832.71,
+          "y": 600.65,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -915.03
+        },
+        {
+          "id": 2380,
+          "x": 2340.99,
+          "y": 637.28,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1263.25
+        },
+        {
+          "id": 2381,
+          "x": 2316.86,
+          "y": 580.78,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1275.59
+        },
+        {
+          "id": 2382,
+          "x": 2332.98,
+          "y": 615.35,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -849.26
+        },
+        {
+          "id": 2383,
+          "x": 2320.11,
+          "y": 582.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -849.26
+        },
+        {
+          "id": 2384,
+          "x": 2250.68,
+          "y": 598.65,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1263.01
+        },
+        {
+          "id": 2456,
+          "x": 2087.19,
+          "y": 2276.62,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1590.86
+        },
+        {
+          "id": 2465,
+          "x": 2086.35,
+          "y": 2378.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1957.4
+        },
+        {
+          "id": 2466,
+          "x": 2055.6,
+          "y": 2368.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1613.4
+        },
+        {
+          "id": 2478,
+          "x": 2076.91,
+          "y": 2376.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1613.4
+        },
+        {
+          "id": 2479,
+          "x": 2059.72,
+          "y": 2372.78,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1960.4
+        },
+        {
+          "id": 2480,
+          "x": 1951.46,
+          "y": 2390.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1943.04
+        },
+        {
+          "id": 2684,
+          "x": 2962.92,
+          "y": 630.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1440.41
+        },
+        {
+          "id": 2685,
+          "x": 3022.89,
+          "y": 689.39,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1440.41
+        },
+        {
+          "id": 2686,
+          "x": 3159.88,
+          "y": 622.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2178.26
+        },
+        {
+          "id": 2706,
+          "x": 3012.19,
+          "y": 1059.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1794.86
+        },
+        {
+          "id": 2707,
+          "x": 3042.3,
+          "y": 1063.71,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1794.86
+        },
+        {
+          "id": 2708,
+          "x": 3093.31,
+          "y": 773.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1425.03
+        },
+        {
+          "id": 2709,
+          "x": 3254.36,
+          "y": 929.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1416.51
+        },
+        {
+          "id": 2710,
+          "x": 3234.57,
+          "y": 1181.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1456.97
+        },
+        {
+          "id": 2711,
+          "x": 3132.01,
+          "y": 1071.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1693.31
+        },
+        {
+          "id": 2712,
+          "x": 3245.18,
+          "y": 921.46,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1412.63
+        },
+        {
+          "id": 2713,
+          "x": 3231.48,
+          "y": 1193.64,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1437.38
+        },
+        {
+          "id": 2714,
+          "x": 3119.99,
+          "y": 1068.79,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1709.19
+        },
+        {
+          "id": 2776,
+          "x": 1469.8,
+          "y": 3511.16,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1628.44
+        },
+        {
+          "id": 2780,
+          "x": 1445.95,
+          "y": 3507.4,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1633.73
+        },
+        {
+          "id": 2781,
+          "x": 1447.28,
+          "y": 3476.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1633.13
+        },
+        {
+          "id": 2783,
+          "x": 1471.57,
+          "y": 3486.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1631.68
+        },
+        {
+          "id": 2834,
+          "x": 2961.52,
+          "y": 2856.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -417.1
+        },
+        {
+          "id": 2921,
+          "x": 2282,
+          "y": 3408.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2105.8
+        },
+        {
+          "id": 2922,
+          "x": 1879.48,
+          "y": 3590.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1927.85
+        },
+        {
+          "id": 2923,
+          "x": 2136.26,
+          "y": 3599.89,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1662.5
+        },
+        {
+          "id": 2924,
+          "x": 1867.22,
+          "y": 3590.94,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1927.85
+        },
+        {
+          "id": 3017,
+          "x": 2554.16,
+          "y": 3546.04,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1106.37
+        },
+        {
+          "id": 3022,
+          "x": 2541.86,
+          "y": 3546.44,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1106.37
+        },
+        {
+          "id": 3067,
+          "x": 2320.32,
+          "y": 1554.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1942.99
+        },
+        {
+          "id": 3068,
+          "x": 2156.16,
+          "y": 1727.73,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2008.52
+        },
+        {
+          "id": 3069,
+          "x": 2167.44,
+          "y": 1689,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2020.16
+        },
+        {
+          "id": 3070,
+          "x": 2214.93,
+          "y": 1706.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2017.24
+        },
+        {
+          "id": 3071,
+          "x": 2209.69,
+          "y": 1746.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2018.94
+        },
+        {
+          "id": 3072,
+          "x": 2195.95,
+          "y": 1718.52,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2017.41
+        },
+        {
+          "id": 3073,
+          "x": 2317.96,
+          "y": 1535.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1944.41
+        },
+        {
+          "id": 3074,
+          "x": 2158.94,
+          "y": 1746.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2009.94
+        },
+        {
+          "id": 3075,
+          "x": 2282.21,
+          "y": 1645.75,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1928.16
+        },
+        {
+          "id": 3079,
+          "x": 2196.05,
+          "y": 1621.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1943.66
+        },
+        {
+          "id": 3083,
+          "x": 2237.97,
+          "y": 1753.04,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1659.6
+        }
+      ],
+      "dreg": [
+        {
+          "id": 1187,
+          "x": 2426.15,
+          "y": 1188.46,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1188,
+          "x": 2430.56,
+          "y": 1203.69,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1189,
+          "x": 2424.31,
+          "y": 1208.46,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1190,
+          "x": 2425.4,
+          "y": 1182.02,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1191,
+          "x": 2419.4,
+          "y": 1192.61,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1192,
+          "x": 2441.09,
+          "y": 1217.89,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1193,
+          "x": 2432.46,
+          "y": 1226.22,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1194,
+          "x": 2434.08,
+          "y": 1220.28,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1195,
+          "x": 2427.9,
+          "y": 1216.5,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1196,
+          "x": 2420.39,
+          "y": 1178.34,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1197,
+          "x": 2416.38,
+          "y": 1165.99,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1198,
+          "x": 2418.9,
+          "y": 1183.88,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1199,
+          "x": 2418.57,
+          "y": 1172.69,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 1200,
+          "x": 2425.23,
+          "y": 1196.59,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        },
+        {
+          "id": 2093,
+          "x": 2434.67,
+          "y": 1232.73,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1721.5
+        }
+      ]
+    },
+    "Jacques Bridge": {
+      "miniboss": [
+        {
+          "id": 3640,
+          "x": 2645.05,
+          "y": 2225.55,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 3642,
+          "x": 2746.89,
+          "y": 2375.86,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 4329,
+          "x": 2275.1,
+          "y": 420.45,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 4939,
+          "x": 1895.09,
+          "y": 3637.23,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 5331,
+          "x": 1566.58,
+          "y": 1821.17,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 5667,
+          "x": 2053.17,
+          "y": 439.46,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 5948,
+          "x": 3246.29,
+          "y": 3205.47,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 5960,
+          "x": 1151.37,
+          "y": 918.09,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 6023,
+          "x": 3196.14,
+          "y": 2781.31,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 6562,
+          "x": 1685.16,
+          "y": 531.56,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 6764,
+          "x": 1763.63,
+          "y": 2289.87,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 6800,
+          "x": 1763.63,
+          "y": 2289.87,
+          "group": "Miniboss",
+          "title": "Miniboss"
+        },
+        {
+          "id": 7108,
+          "x": 1023.94,
+          "y": 2551.89,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7110,
+          "x": 1032.62,
+          "y": 2628.65,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7111,
+          "x": 1663.06,
+          "y": 2977.21,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 11204,
+          "x": 1561.2,
+          "y": 6.4,
+          "group": "M02D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 11217,
+          "x": 1364.9,
+          "y": -128.1,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 11224,
+          "x": 1494.7,
+          "y": -85.1,
+          "group": "M02D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 11230,
+          "x": 1465.7,
+          "y": -121.9,
+          "group": "M02D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 11232,
+          "x": 1520.7,
+          "y": -233.6,
+          "group": "Miniboss",
+          "title": null
+        }
+      ],
+      "rare_farmer": [],
+      "bloat": [
+        {
+          "id": 3235,
+          "x": 1515,
+          "y": 1764.65,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1150.76
+        },
+        {
+          "id": 4056,
+          "x": 2733.48,
+          "y": 1797.95,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -241.97
+        },
+        {
+          "id": 4057,
+          "x": 2723.61,
+          "y": 1794.15,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -241.97
+        },
+        {
+          "id": 4058,
+          "x": 2729.82,
+          "y": 1785.77,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -241.97
+        },
+        {
+          "id": 5064,
+          "x": 1703.73,
+          "y": 343.31,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1020.29
+        },
+        {
+          "id": 5065,
+          "x": 1695.8,
+          "y": 353.29,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1020.29
+        },
+        {
+          "id": 5066,
+          "x": 1693.33,
+          "y": 343,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1020.29
+        },
+        {
+          "id": 5333,
+          "x": 1526.02,
+          "y": 1758.25,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1150.76
+        },
+        {
+          "id": 5334,
+          "x": 1524.55,
+          "y": 1768.75,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1150.76
+        },
+        {
+          "id": 5335,
+          "x": 1861.65,
+          "y": 1989.51,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1178.58
+        },
+        {
+          "id": 5336,
+          "x": 1851.78,
+          "y": 1985.71,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1178.58
+        },
+        {
+          "id": 5338,
+          "x": 1857.98,
+          "y": 1977.33,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1178.58
+        },
+        {
+          "id": 5664,
+          "x": 2102.64,
+          "y": 433.38,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 197.52
+        },
+        {
+          "id": 5669,
+          "x": 2109.16,
+          "y": 444.29,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 197.52
+        },
+        {
+          "id": 11180,
+          "x": 1434,
+          "y": -177.8,
+          "title": "Bloat Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11181,
+          "x": 1443.9,
+          "y": -169.9,
+          "title": "Bloat Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11182,
+          "x": 1433.6,
+          "y": -167.4,
+          "title": "Bloat Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11225,
+          "x": 1459,
+          "y": -124.2,
+          "title": "Bloat Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11227,
+          "x": 1470.3,
+          "y": -132.2,
+          "title": "Bloat Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11229,
+          "x": 1459.4,
+          "y": -134.6,
+          "title": "Bloat Spawner",
+          "actor": null,
+          "z": null
+        }
+      ],
+      "shambler": [
+        {
+          "id": 3205,
+          "x": 2577.57,
+          "y": 1165.16,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -161.92
+        },
+        {
+          "id": 3206,
+          "x": 2575.55,
+          "y": 1154.51,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -161.92
+        },
+        {
+          "id": 3207,
+          "x": 2577.94,
+          "y": 1016.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -76.9
+        },
+        {
+          "id": 3224,
+          "x": 1239.28,
+          "y": 1920.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1796.84
+        },
+        {
+          "id": 3225,
+          "x": 1289.55,
+          "y": 1962.79,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1823.75
+        },
+        {
+          "id": 3226,
+          "x": 1174.96,
+          "y": 1867.74,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1813.58
+        },
+        {
+          "id": 3227,
+          "x": 1361.75,
+          "y": 1788.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1075.12
+        },
+        {
+          "id": 3228,
+          "x": 1452.13,
+          "y": 2023.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1913.22
+        },
+        {
+          "id": 3229,
+          "x": 1310.21,
+          "y": 1956.39,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1811.79
+        },
+        {
+          "id": 3230,
+          "x": 1400.83,
+          "y": 1845.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1327.57
+        },
+        {
+          "id": 3231,
+          "x": 1504.17,
+          "y": 1837.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1125.01
+        },
+        {
+          "id": 3232,
+          "x": 1511.32,
+          "y": 1840.04,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1572.02
+        },
+        {
+          "id": 3233,
+          "x": 1281.24,
+          "y": 1950.43,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1823.75
+        },
+        {
+          "id": 3234,
+          "x": 1152.53,
+          "y": 1856.67,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1887.84
+        },
+        {
+          "id": 3236,
+          "x": 1175.32,
+          "y": 1878.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1813.58
+        },
+        {
+          "id": 3237,
+          "x": 1351.32,
+          "y": 1791.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1047.52
+        },
+        {
+          "id": 3238,
+          "x": 1442.96,
+          "y": 2018.03,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1895.49
+        },
+        {
+          "id": 3239,
+          "x": 1305.32,
+          "y": 1966.09,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1811.79
+        },
+        {
+          "id": 3240,
+          "x": 1396.91,
+          "y": 1854.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1404.37
+        },
+        {
+          "id": 3334,
+          "x": 1192.38,
+          "y": 1350.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -522.12
+        },
+        {
+          "id": 3347,
+          "x": 1201.9,
+          "y": 1355.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -516.11
+        },
+        {
+          "id": 3358,
+          "x": 1017.14,
+          "y": 935.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 621.19
+        },
+        {
+          "id": 3407,
+          "x": 2805.15,
+          "y": 3136.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -26.98
+        },
+        {
+          "id": 3408,
+          "x": 2747.98,
+          "y": 3321.23,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -423.89
+        },
+        {
+          "id": 3409,
+          "x": 2755.14,
+          "y": 3295.36,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -423.89
+        },
+        {
+          "id": 3658,
+          "x": 2791.35,
+          "y": 2175.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -242.15
+        },
+        {
+          "id": 3826,
+          "x": 1630.68,
+          "y": 2980.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 3023.34
+        },
+        {
+          "id": 3827,
+          "x": 1821.99,
+          "y": 2940.31,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2998.26
+        },
+        {
+          "id": 3828,
+          "x": 1822.03,
+          "y": 2951.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2998.26
+        },
+        {
+          "id": 3937,
+          "x": 2712.38,
+          "y": 804,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1028.99
+        },
+        {
+          "id": 3938,
+          "x": 2577.43,
+          "y": 1005.57,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -28.54
+        },
+        {
+          "id": 3939,
+          "x": 2690.37,
+          "y": 786.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1014.26
+        },
+        {
+          "id": 3940,
+          "x": 2709.01,
+          "y": 829.65,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1205.58
+        },
+        {
+          "id": 4041,
+          "x": 2785.75,
+          "y": 1802.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -234.02
+        },
+        {
+          "id": 4042,
+          "x": 2672.45,
+          "y": 1854.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -236.55
+        },
+        {
+          "id": 4043,
+          "x": 2771.65,
+          "y": 1811.66,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -235.45
+        },
+        {
+          "id": 4044,
+          "x": 2681.53,
+          "y": 1868.83,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -237.98
+        },
+        {
+          "id": 4045,
+          "x": 2890.44,
+          "y": 2031.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -138.47
+        },
+        {
+          "id": 4046,
+          "x": 2860.71,
+          "y": 2022.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -205.06
+        },
+        {
+          "id": 4047,
+          "x": 2856.43,
+          "y": 2048.52,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -199.54
+        },
+        {
+          "id": 4051,
+          "x": 2782.22,
+          "y": 2170.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -233.19
+        },
+        {
+          "id": 4181,
+          "x": 2812.81,
+          "y": 3095.28,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -12.09
+        },
+        {
+          "id": 4182,
+          "x": 2496.35,
+          "y": 2778.49,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -688.87
+        },
+        {
+          "id": 4183,
+          "x": 2505.03,
+          "y": 2798.91,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -678.72
+        },
+        {
+          "id": 4227,
+          "x": 3018.93,
+          "y": 3413.92,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1323.54
+        },
+        {
+          "id": 4228,
+          "x": 3148.77,
+          "y": 3589.16,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1447.8
+        },
+        {
+          "id": 4229,
+          "x": 3165.74,
+          "y": 3633.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1360.88
+        },
+        {
+          "id": 4230,
+          "x": 2901.87,
+          "y": 3323.46,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 646.21
+        },
+        {
+          "id": 4231,
+          "x": 2907,
+          "y": 3201.72,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 621.57
+        },
+        {
+          "id": 4232,
+          "x": 2905.28,
+          "y": 3371.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 689.27
+        },
+        {
+          "id": 4233,
+          "x": 3012.9,
+          "y": 3315.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1246.23
+        },
+        {
+          "id": 4234,
+          "x": 2908.24,
+          "y": 3421.88,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 697.66
+        },
+        {
+          "id": 4235,
+          "x": 2915.89,
+          "y": 3154.44,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 624.94
+        },
+        {
+          "id": 4236,
+          "x": 3016.19,
+          "y": 3363.95,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1302.73
+        },
+        {
+          "id": 4237,
+          "x": 3136.17,
+          "y": 3539.47,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1508.81
+        },
+        {
+          "id": 4242,
+          "x": 2386.87,
+          "y": 1412.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -125.78
+        },
+        {
+          "id": 4244,
+          "x": 2376.25,
+          "y": 1410.09,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -110.36
+        },
+        {
+          "id": 4307,
+          "x": 2400.14,
+          "y": 1917.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1.38
+        },
+        {
+          "id": 4308,
+          "x": 2399.87,
+          "y": 1802.04,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -80.06
+        },
+        {
+          "id": 4309,
+          "x": 2385.04,
+          "y": 1752.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -113.94
+        },
+        {
+          "id": 4310,
+          "x": 2317.17,
+          "y": 1742.36,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -63.16
+        },
+        {
+          "id": 4318,
+          "x": 2771.37,
+          "y": 1399.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -320.21
+        },
+        {
+          "id": 4319,
+          "x": 3020.73,
+          "y": 1447.7,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -102.83
+        },
+        {
+          "id": 4324,
+          "x": 3076.39,
+          "y": 1192.83,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 783.28
+        },
+        {
+          "id": 4325,
+          "x": 3191.05,
+          "y": 1214.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 812.13
+        },
+        {
+          "id": 4356,
+          "x": 664.45,
+          "y": 1798.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 973.24
+        },
+        {
+          "id": 4357,
+          "x": 631.88,
+          "y": 1756.79,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 976.36
+        },
+        {
+          "id": 4358,
+          "x": 628.08,
+          "y": 1773.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 976.14
+        },
+        {
+          "id": 4424,
+          "x": 979.11,
+          "y": 2670.45,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6387.38
+        },
+        {
+          "id": 4425,
+          "x": 1028.79,
+          "y": 2653.29,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6390.61
+        },
+        {
+          "id": 4575,
+          "x": 1590.08,
+          "y": 1155.62,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1472.46
+        },
+        {
+          "id": 4578,
+          "x": 1578.67,
+          "y": 1056.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1824.05
+        },
+        {
+          "id": 4672,
+          "x": 1786.13,
+          "y": 2213.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1811.48
+        },
+        {
+          "id": 4673,
+          "x": 1751.39,
+          "y": 2206.79,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1813.78
+        },
+        {
+          "id": 4674,
+          "x": 1785.42,
+          "y": 2213.34,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2142.9
+        },
+        {
+          "id": 4675,
+          "x": 2798.13,
+          "y": 3184.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -40.05
+        },
+        {
+          "id": 4676,
+          "x": 2886.53,
+          "y": 3242.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 513.58
+        },
+        {
+          "id": 4677,
+          "x": 2876,
+          "y": 3243.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 442.74
+        },
+        {
+          "id": 4691,
+          "x": 1318.63,
+          "y": 1697.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 292.38
+        },
+        {
+          "id": 4692,
+          "x": 1309.96,
+          "y": 1691.55,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 252.19
+        },
+        {
+          "id": 4879,
+          "x": 2635.83,
+          "y": 1183.38,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -37.06
+        },
+        {
+          "id": 4880,
+          "x": 2948.52,
+          "y": 1415.41,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -199.13
+        },
+        {
+          "id": 4881,
+          "x": 3278.35,
+          "y": 1510.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -237.8
+        },
+        {
+          "id": 4882,
+          "x": 3094.04,
+          "y": 1635.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -543.72
+        },
+        {
+          "id": 4916,
+          "x": 1963.88,
+          "y": 1702.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 298.21
+        },
+        {
+          "id": 4931,
+          "x": 2908.6,
+          "y": 1310.36,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 55.41
+        },
+        {
+          "id": 4932,
+          "x": 3241.62,
+          "y": 3051.93,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1793.64
+        },
+        {
+          "id": 4940,
+          "x": 1925.77,
+          "y": 3579.09,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1731.49
+        },
+        {
+          "id": 4941,
+          "x": 1907.19,
+          "y": 3544.18,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1731.49
+        },
+        {
+          "id": 4942,
+          "x": 1916.13,
+          "y": 3571.97,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1731.49
+        },
+        {
+          "id": 4943,
+          "x": 1459.47,
+          "y": 3508.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1614.3
+        },
+        {
+          "id": 4946,
+          "x": 2751.94,
+          "y": 1744.68,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 116.47
+        },
+        {
+          "id": 5053,
+          "x": 1680.95,
+          "y": 459.11,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2441.65
+        },
+        {
+          "id": 5054,
+          "x": 1875.66,
+          "y": 714.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1749.2
+        },
+        {
+          "id": 5057,
+          "x": 1880.48,
+          "y": 525.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 655.39
+        },
+        {
+          "id": 5062,
+          "x": 1683.84,
+          "y": 469.55,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2441.65
+        },
+        {
+          "id": 5063,
+          "x": 1884.81,
+          "y": 720.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1725.96
+        },
+        {
+          "id": 5076,
+          "x": 1905.66,
+          "y": 579.45,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 755.76
+        },
+        {
+          "id": 5236,
+          "x": 2872.6,
+          "y": 3729.03,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -58.12
+        },
+        {
+          "id": 5237,
+          "x": 2783.07,
+          "y": 3728.19,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -308.53
+        },
+        {
+          "id": 5238,
+          "x": 2899.87,
+          "y": 3770.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -74.74
+        },
+        {
+          "id": 5239,
+          "x": 2809.67,
+          "y": 3768.83,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -322.37
+        },
+        {
+          "id": 5240,
+          "x": 2835.49,
+          "y": 3808.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -338.1
+        },
+        {
+          "id": 5259,
+          "x": 3161.64,
+          "y": 1257.11,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 772.18
+        },
+        {
+          "id": 5260,
+          "x": 3233.41,
+          "y": 1309.52,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 763.58
+        },
+        {
+          "id": 5261,
+          "x": 3262.79,
+          "y": 1267.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 821.43
+        },
+        {
+          "id": 5262,
+          "x": 2925.96,
+          "y": 1269.23,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 184.62
+        },
+        {
+          "id": 5263,
+          "x": 2915.32,
+          "y": 1271.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 155.4
+        },
+        {
+          "id": 5307,
+          "x": 1763.03,
+          "y": 2161.42,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1816.67
+        },
+        {
+          "id": 5308,
+          "x": 1779.79,
+          "y": 2161.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1816.45
+        },
+        {
+          "id": 5314,
+          "x": 1810.04,
+          "y": 2060.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1543.44
+        },
+        {
+          "id": 5315,
+          "x": 1945.29,
+          "y": 1936.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1139.75
+        },
+        {
+          "id": 5316,
+          "x": 1964.33,
+          "y": 1872.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 887.7
+        },
+        {
+          "id": 5317,
+          "x": 1956.97,
+          "y": 1741.79,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 389.73
+        },
+        {
+          "id": 5318,
+          "x": 1953.86,
+          "y": 1792.46,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 524.35
+        },
+        {
+          "id": 5319,
+          "x": 1861.49,
+          "y": 2076.3,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1506.16
+        },
+        {
+          "id": 5320,
+          "x": 1578.56,
+          "y": 1809.35,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1156.65
+        },
+        {
+          "id": 5321,
+          "x": 1887.51,
+          "y": 1883.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 858.58
+        },
+        {
+          "id": 5322,
+          "x": 1932.93,
+          "y": 2018.83,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1120.25
+        },
+        {
+          "id": 5323,
+          "x": 1537.12,
+          "y": 1813.18,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1158.04
+        },
+        {
+          "id": 5324,
+          "x": 1525.7,
+          "y": 1858.61,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1156.61
+        },
+        {
+          "id": 5325,
+          "x": 1518.13,
+          "y": 1827.42,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1156.95
+        },
+        {
+          "id": 5326,
+          "x": 1581.13,
+          "y": 1780.63,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1145.69
+        },
+        {
+          "id": 5327,
+          "x": 1526.85,
+          "y": 1827.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1572.02
+        },
+        {
+          "id": 5328,
+          "x": 1554.47,
+          "y": 1801.7,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1572.02
+        },
+        {
+          "id": 5329,
+          "x": 1580.21,
+          "y": 1783.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1572.02
+        },
+        {
+          "id": 5330,
+          "x": 1552.34,
+          "y": 1727.6,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1158.28
+        },
+        {
+          "id": 5332,
+          "x": 1581.81,
+          "y": 2145.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1764.2
+        },
+        {
+          "id": 5337,
+          "x": 1888.3,
+          "y": 1872.89,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 814.22
+        },
+        {
+          "id": 5339,
+          "x": 1943.54,
+          "y": 2021.01,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1120.69
+        },
+        {
+          "id": 5514,
+          "x": 2376.22,
+          "y": 2743.77,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -687.22
+        },
+        {
+          "id": 5515,
+          "x": 2352.99,
+          "y": 2759.29,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -675.97
+        },
+        {
+          "id": 5582,
+          "x": 3006.27,
+          "y": 1146.49,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 763.59
+        },
+        {
+          "id": 5583,
+          "x": 3105.19,
+          "y": 1154.99,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 877.8
+        },
+        {
+          "id": 5584,
+          "x": 3034.64,
+          "y": 1104.98,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 931.14
+        },
+        {
+          "id": 5586,
+          "x": 3061.75,
+          "y": 889.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1046.28
+        },
+        {
+          "id": 5587,
+          "x": 3041.48,
+          "y": 801.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1046.28
+        },
+        {
+          "id": 5588,
+          "x": 3014.38,
+          "y": 860.88,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1046.28
+        },
+        {
+          "id": 5589,
+          "x": 2988.76,
+          "y": 856.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1046.28
+        },
+        {
+          "id": 5590,
+          "x": 3037.47,
+          "y": 866.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1046.28
+        },
+        {
+          "id": 5631,
+          "x": 998.14,
+          "y": 1257.16,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -573.46
+        },
+        {
+          "id": 5632,
+          "x": 981.94,
+          "y": 1247.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -573.46
+        },
+        {
+          "id": 5642,
+          "x": 2848.92,
+          "y": 3688.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -30.78
+        },
+        {
+          "id": 5769,
+          "x": 2185.56,
+          "y": 865.66,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 652.25
+        },
+        {
+          "id": 5770,
+          "x": 2140.12,
+          "y": 846.19,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 701.59
+        },
+        {
+          "id": 5771,
+          "x": 2149.9,
+          "y": 848.93,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 689.09
+        },
+        {
+          "id": 5772,
+          "x": 2127.37,
+          "y": 864.73,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 706.8
+        },
+        {
+          "id": 5773,
+          "x": 2153.5,
+          "y": 828.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 728.98
+        },
+        {
+          "id": 5774,
+          "x": 2171.61,
+          "y": 877.63,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 639.81
+        },
+        {
+          "id": 5775,
+          "x": 2122,
+          "y": 853.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 728.19
+        },
+        {
+          "id": 5776,
+          "x": 2108.89,
+          "y": 885.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 687.3
+        },
+        {
+          "id": 5777,
+          "x": 2130.61,
+          "y": 878.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 668.51
+        },
+        {
+          "id": 5778,
+          "x": 2227.27,
+          "y": 859.91,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 646.79
+        },
+        {
+          "id": 5779,
+          "x": 2208.85,
+          "y": 877.7,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 602.27
+        },
+        {
+          "id": 5780,
+          "x": 2216.11,
+          "y": 885.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 602.27
+        },
+        {
+          "id": 5781,
+          "x": 2207.69,
+          "y": 889.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 602.27
+        },
+        {
+          "id": 5782,
+          "x": 2219.47,
+          "y": 872.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 602.27
+        },
+        {
+          "id": 5784,
+          "x": 2252.63,
+          "y": 919.57,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 589.85
+        },
+        {
+          "id": 5813,
+          "x": 690.71,
+          "y": 1804.99,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 994.84
+        },
+        {
+          "id": 5814,
+          "x": 702.66,
+          "y": 1771.68,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 997.14
+        },
+        {
+          "id": 5815,
+          "x": 690.63,
+          "y": 1804.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1326.26
+        },
+        {
+          "id": 5833,
+          "x": 2534.03,
+          "y": 538.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1902.15
+        },
+        {
+          "id": 5834,
+          "x": 2535.26,
+          "y": 549.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1866.05
+        },
+        {
+          "id": 5886,
+          "x": 2429.84,
+          "y": 2639.38,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -666.01
+        },
+        {
+          "id": 5887,
+          "x": 2400.51,
+          "y": 2526.35,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -363.64
+        },
+        {
+          "id": 5888,
+          "x": 2401.91,
+          "y": 2639.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -687.26
+        },
+        {
+          "id": 5889,
+          "x": 2386.78,
+          "y": 2562.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -567.7
+        },
+        {
+          "id": 5914,
+          "x": 3248.17,
+          "y": 2484.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1179.66
+        },
+        {
+          "id": 5915,
+          "x": 3291.93,
+          "y": 2563.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1532.28
+        },
+        {
+          "id": 5916,
+          "x": 3301.21,
+          "y": 2498.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1432.91
+        },
+        {
+          "id": 5917,
+          "x": 3326.89,
+          "y": 2495.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1535.08
+        },
+        {
+          "id": 5918,
+          "x": 3277.62,
+          "y": 2499.38,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1335.74
+        },
+        {
+          "id": 5953,
+          "x": 1436.02,
+          "y": 804.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2069.17
+        },
+        {
+          "id": 5956,
+          "x": 1491.47,
+          "y": 1114.97,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1507.11
+        },
+        {
+          "id": 5958,
+          "x": 1423.81,
+          "y": 795.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2069.17
+        },
+        {
+          "id": 5962,
+          "x": 1489.08,
+          "y": 1125.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1507.11
+        },
+        {
+          "id": 6012,
+          "x": 3244.17,
+          "y": 3088.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1800.6
+        },
+        {
+          "id": 6013,
+          "x": 2925.33,
+          "y": 3057.52,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 619.55
+        },
+        {
+          "id": 6087,
+          "x": 2921.63,
+          "y": 3110.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 631.47
+        },
+        {
+          "id": 6215,
+          "x": 1303.26,
+          "y": 2896.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 5904.69
+        },
+        {
+          "id": 6258,
+          "x": 1276.53,
+          "y": 368.48,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1436.87
+        },
+        {
+          "id": 6259,
+          "x": 1266.69,
+          "y": 372.71,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1486.45
+        },
+        {
+          "id": 6316,
+          "x": 1030.13,
+          "y": 2614.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6338.64
+        },
+        {
+          "id": 6317,
+          "x": 1042.54,
+          "y": 2645.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6339.35
+        },
+        {
+          "id": 6318,
+          "x": 1027.72,
+          "y": 2598.41,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6320.61
+        },
+        {
+          "id": 6320,
+          "x": 1038.76,
+          "y": 2587,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6356.41
+        },
+        {
+          "id": 6321,
+          "x": 1044.85,
+          "y": 2607.48,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6420.61
+        },
+        {
+          "id": 6462,
+          "x": 2321.18,
+          "y": 3405.23,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 569.94
+        },
+        {
+          "id": 6463,
+          "x": 2310.77,
+          "y": 3394.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 569.94
+        },
+        {
+          "id": 6563,
+          "x": 2672.8,
+          "y": 1413.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -356.38
+        },
+        {
+          "id": 6566,
+          "x": 2665.03,
+          "y": 1305.04,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -198.39
+        },
+        {
+          "id": 6567,
+          "x": 2638.27,
+          "y": 1303.52,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -198.39
+        },
+        {
+          "id": 6568,
+          "x": 2653.92,
+          "y": 1515.92,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -74.51
+        },
+        {
+          "id": 6569,
+          "x": 2594.22,
+          "y": 1476.34,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -560.47
+        },
+        {
+          "id": 6570,
+          "x": 2882.55,
+          "y": 1352.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -189.96
+        },
+        {
+          "id": 6571,
+          "x": 2648.4,
+          "y": 1475.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -124.51
+        },
+        {
+          "id": 6572,
+          "x": 2675.5,
+          "y": 1600.82,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -104.51
+        },
+        {
+          "id": 6573,
+          "x": 2688.62,
+          "y": 1652.4,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -184.51
+        },
+        {
+          "id": 6574,
+          "x": 2509.44,
+          "y": 1603.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -530.28
+        },
+        {
+          "id": 6575,
+          "x": 2661.94,
+          "y": 1547.5,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -54.51
+        },
+        {
+          "id": 6576,
+          "x": 2575.6,
+          "y": 1480.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -560.47
+        },
+        {
+          "id": 6577,
+          "x": 2871.83,
+          "y": 1354.46,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -195.35
+        },
+        {
+          "id": 6674,
+          "x": 1480.42,
+          "y": 3532.77,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1624.43
+        },
+        {
+          "id": 6675,
+          "x": 1366.47,
+          "y": 3507.34,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1645.72
+        },
+        {
+          "id": 6676,
+          "x": 1435.49,
+          "y": 3529.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1624.43
+        },
+        {
+          "id": 6677,
+          "x": 1427.07,
+          "y": 3494.39,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1612.29
+        },
+        {
+          "id": 6678,
+          "x": 2932.04,
+          "y": 2009.75,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -78.04
+        },
+        {
+          "id": 6679,
+          "x": 3083.66,
+          "y": 1723.72,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -560.47
+        },
+        {
+          "id": 6680,
+          "x": 3264.74,
+          "y": 1858.99,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -104.69
+        },
+        {
+          "id": 6681,
+          "x": 3102.49,
+          "y": 1726.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -560.47
+        },
+        {
+          "id": 6730,
+          "x": 1466.88,
+          "y": 330.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2469.43
+        },
+        {
+          "id": 6731,
+          "x": 1648.4,
+          "y": 492.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2450.32
+        },
+        {
+          "id": 6732,
+          "x": 1473.77,
+          "y": 309.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2468.1
+        },
+        {
+          "id": 6733,
+          "x": 1498.35,
+          "y": 313.79,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2465.47
+        },
+        {
+          "id": 6734,
+          "x": 1484.74,
+          "y": 332.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2470.77
+        },
+        {
+          "id": 6735,
+          "x": 1659.61,
+          "y": 499.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2450.32
+        },
+        {
+          "id": 6754,
+          "x": 1813.63,
+          "y": 2268.43,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1756.03
+        },
+        {
+          "id": 6755,
+          "x": 1830.68,
+          "y": 2250.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1756.03
+        },
+        {
+          "id": 6758,
+          "x": 1729.88,
+          "y": 2250.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1837.62
+        },
+        {
+          "id": 6765,
+          "x": 1729.74,
+          "y": 2317.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1763.05
+        },
+        {
+          "id": 7093,
+          "x": 1467.28,
+          "y": 2363.44,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2192.5
+        },
+        {
+          "id": 7094,
+          "x": 1663.4,
+          "y": 2008.45,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1603.33
+        },
+        {
+          "id": 7103,
+          "x": 608.49,
+          "y": 1390.43,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 258
+        },
+        {
+          "id": 7104,
+          "x": 590.44,
+          "y": 1407.57,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 260.34
+        },
+        {
+          "id": 7105,
+          "x": 1752.62,
+          "y": 2858.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2925.85
+        },
+        {
+          "id": 7106,
+          "x": 572.98,
+          "y": 1385.95,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 268.26
+        },
+        {
+          "id": 7107,
+          "x": 595.05,
+          "y": 1378.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 255.74
+        },
+        {
+          "id": 7109,
+          "x": 1063.4,
+          "y": 2613.5,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7063.2
+        },
+        {
+          "id": 7112,
+          "x": 1058.4,
+          "y": 2582.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7065.5
+        },
+        {
+          "id": 7177,
+          "x": 2218.72,
+          "y": 1897.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 487.16
+        },
+        {
+          "id": 7178,
+          "x": 2190.06,
+          "y": 1969.91,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 795.09
+        },
+        {
+          "id": 7179,
+          "x": 2308.13,
+          "y": 1903.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 233.74
+        },
+        {
+          "id": 7180,
+          "x": 2225.75,
+          "y": 1858.07,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 403.87
+        },
+        {
+          "id": 7181,
+          "x": 2413.77,
+          "y": 2111.08,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 139.4
+        },
+        {
+          "id": 7182,
+          "x": 2403.69,
+          "y": 1865.21,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -43.76
+        },
+        {
+          "id": 7183,
+          "x": 2029.16,
+          "y": 1761.18,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 439.66
+        },
+        {
+          "id": 7184,
+          "x": 2240.02,
+          "y": 2055.46,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 874.82
+        },
+        {
+          "id": 7185,
+          "x": 2246.83,
+          "y": 2175.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 682.08
+        },
+        {
+          "id": 7186,
+          "x": 2178.58,
+          "y": 2146.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 808.7
+        },
+        {
+          "id": 7187,
+          "x": 2046.17,
+          "y": 1722.38,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 348.33
+        },
+        {
+          "id": 7188,
+          "x": 2251.76,
+          "y": 2005.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 761.34
+        },
+        {
+          "id": 7189,
+          "x": 2011.74,
+          "y": 1880.72,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 814.1
+        },
+        {
+          "id": 7190,
+          "x": 2229.82,
+          "y": 1740.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 129.86
+        },
+        {
+          "id": 7191,
+          "x": 2313.25,
+          "y": 1859.81,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 167.38
+        },
+        {
+          "id": 7192,
+          "x": 2167.9,
+          "y": 2030.55,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 944.04
+        },
+        {
+          "id": 7193,
+          "x": 2387.07,
+          "y": 2094.97,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 219.23
+        },
+        {
+          "id": 7194,
+          "x": 2231.65,
+          "y": 1793.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 279.81
+        },
+        {
+          "id": 7195,
+          "x": 2075.37,
+          "y": 2119.88,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 975.77
+        },
+        {
+          "id": 7196,
+          "x": 2319.1,
+          "y": 1795.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 59.92
+        },
+        {
+          "id": 7197,
+          "x": 2029.54,
+          "y": 1802.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 534.09
+        },
+        {
+          "id": 7205,
+          "x": 1982.54,
+          "y": 2065.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1406.21
+        },
+        {
+          "id": 7228,
+          "x": 3080.61,
+          "y": 2074.82,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 455.03
+        },
+        {
+          "id": 7229,
+          "x": 3359.61,
+          "y": 2104.7,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 664.24
+        },
+        {
+          "id": 7230,
+          "x": 3341.56,
+          "y": 2121.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 659.15
+        },
+        {
+          "id": 7231,
+          "x": 3324.11,
+          "y": 2100.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 672.57
+        },
+        {
+          "id": 7232,
+          "x": 3346.17,
+          "y": 2092.83,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 672.28
+        },
+        {
+          "id": 7288,
+          "x": 1780.52,
+          "y": 3386.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2013.07
+        },
+        {
+          "id": 7289,
+          "x": 1757.86,
+          "y": 3394.98,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2024.43
+        },
+        {
+          "id": 7290,
+          "x": 1764.4,
+          "y": 3412.23,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2035.58
+        },
+        {
+          "id": 7291,
+          "x": 1787.06,
+          "y": 3403.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 2024.22
+        }
+      ],
+      "dreg": [
+        {
+          "id": 3335,
+          "x": 1073.16,
+          "y": 1303.09,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3336,
+          "x": 1070.97,
+          "y": 1338.07,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3337,
+          "x": 1066.46,
+          "y": 1275.98,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3338,
+          "x": 1058.94,
+          "y": 1299.29,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3339,
+          "x": 1082.07,
+          "y": 1329.74,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3340,
+          "x": 1085.79,
+          "y": 1311.59,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3341,
+          "x": 1096.22,
+          "y": 1324.26,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3342,
+          "x": 1078.35,
+          "y": 1318.6,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3343,
+          "x": 1064.47,
+          "y": 1320.74,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3344,
+          "x": 1051.98,
+          "y": 1266.8,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3345,
+          "x": 1062.46,
+          "y": 1289.09,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3346,
+          "x": 1057.26,
+          "y": 1314.53,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 3498,
+          "x": 1724.74,
+          "y": 129.92,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3499,
+          "x": 1718.77,
+          "y": 128.08,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3500,
+          "x": 1738.74,
+          "y": 153.13,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3501,
+          "x": 1716.02,
+          "y": 120.82,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3502,
+          "x": 1723.34,
+          "y": 122.78,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3503,
+          "x": 1731.12,
+          "y": 134.53,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3504,
+          "x": 1727.14,
+          "y": 140.22,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3505,
+          "x": 1720.99,
+          "y": 117.52,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3506,
+          "x": 1742.34,
+          "y": 158.06,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3507,
+          "x": 1743.78,
+          "y": 143.79,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3508,
+          "x": 1738.52,
+          "y": 147.66,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3509,
+          "x": 1732.3,
+          "y": 146.09,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3510,
+          "x": 1715.79,
+          "y": 115.72,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3511,
+          "x": 1709.11,
+          "y": 106.31,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3512,
+          "x": 1712.75,
+          "y": 111.41,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 622.23
+        },
+        {
+          "id": 3643,
+          "x": 2849.26,
+          "y": 2301.38,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -250.58
+        },
+        {
+          "id": 3644,
+          "x": 2842.28,
+          "y": 2289.16,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -269
+        },
+        {
+          "id": 3645,
+          "x": 2846.63,
+          "y": 2283.74,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -269.99
+        },
+        {
+          "id": 3646,
+          "x": 2851.25,
+          "y": 2306.78,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -243.5
+        },
+        {
+          "id": 3647,
+          "x": 2854.17,
+          "y": 2296.39,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -250.61
+        },
+        {
+          "id": 3648,
+          "x": 2832.65,
+          "y": 2264.95,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -301.43
+        },
+        {
+          "id": 3649,
+          "x": 2830.27,
+          "y": 2279.1,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -290.21
+        },
+        {
+          "id": 3650,
+          "x": 2835.92,
+          "y": 2270.11,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -293.35
+        },
+        {
+          "id": 3651,
+          "x": 2835.77,
+          "y": 2275.58,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -288.27
+        },
+        {
+          "id": 3652,
+          "x": 2841.87,
+          "y": 2277.54,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -280.5
+        },
+        {
+          "id": 3653,
+          "x": 2856.32,
+          "y": 2308.92,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -236.57
+        },
+        {
+          "id": 3654,
+          "x": 2862.36,
+          "y": 2318.73,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -221.35
+        },
+        {
+          "id": 3655,
+          "x": 2856.43,
+          "y": 2303.82,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -241.33
+        },
+        {
+          "id": 3656,
+          "x": 2859.07,
+          "y": 2313.41,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -229.62
+        },
+        {
+          "id": 3657,
+          "x": 2848.34,
+          "y": 2294.17,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -258.36
+        },
+        {
+          "id": 4030,
+          "x": 2458.85,
+          "y": 1753.74,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -117.6
+        },
+        {
+          "id": 4031,
+          "x": 2491.65,
+          "y": 1742.94,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -168.08
+        },
+        {
+          "id": 4032,
+          "x": 2471.28,
+          "y": 1717.21,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -160.01
+        },
+        {
+          "id": 4426,
+          "x": 913.67,
+          "y": 2699.08,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4427,
+          "x": 898.96,
+          "y": 2711.75,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4428,
+          "x": 908.83,
+          "y": 2715.55,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4429,
+          "x": 897.53,
+          "y": 2705.61,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4430,
+          "x": 909.53,
+          "y": 2709.2,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4431,
+          "x": 914.05,
+          "y": 2714.48,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4432,
+          "x": 903.05,
+          "y": 2704.87,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4433,
+          "x": 904.18,
+          "y": 2710.68,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4434,
+          "x": 904.27,
+          "y": 2716.78,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4435,
+          "x": 812.52,
+          "y": 2668.59,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 6930.16
+        },
+        {
+          "id": 4436,
+          "x": 902.12,
+          "y": 2699.24,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4437,
+          "x": 908.13,
+          "y": 2704.39,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4438,
+          "x": 859.6,
+          "y": 2662.08,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4439,
+          "x": 914.32,
+          "y": 2709.27,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4440,
+          "x": 907.39,
+          "y": 2699.18,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4441,
+          "x": 913.65,
+          "y": 2703.95,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 7051
+        },
+        {
+          "id": 4664,
+          "x": 1048.72,
+          "y": 1300.26,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 4665,
+          "x": 1034.59,
+          "y": 1272.46,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 4666,
+          "x": 1050.8,
+          "y": 1283.55,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -646.5
+        },
+        {
+          "id": 5519,
+          "x": 2366,
+          "y": 2680.5,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -666.9
+        },
+        {
+          "id": 5524,
+          "x": 2377.39,
+          "y": 2713.16,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -678.38
+        },
+        {
+          "id": 11196,
+          "x": 1529.5,
+          "y": -42.2,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11197,
+          "x": 1518.6,
+          "y": -33.7,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11198,
+          "x": 1511.7,
+          "y": -77.8,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11199,
+          "x": 1511.7,
+          "y": -48.3,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11200,
+          "x": 1526,
+          "y": -68.1,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11201,
+          "x": 1519.5,
+          "y": -54.1,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11202,
+          "x": 1526.7,
+          "y": -51.8,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11203,
+          "x": 1532.9,
+          "y": -58.7,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11205,
+          "x": 1518.5,
+          "y": -61.3,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11221,
+          "x": 1498.1,
+          "y": -101.5,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11222,
+          "x": 1494.1,
+          "y": -75.3,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11223,
+          "x": 1474,
+          "y": -92.5,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11226,
+          "x": 1480.3,
+          "y": -88.5,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        },
+        {
+          "id": 11228,
+          "x": 1510.1,
+          "y": -91.5,
+          "title": "Dreg Spawner",
+          "actor": null,
+          "z": null
+        }
+      ]
+    },
+    "Sombre Forest": {
+      "miniboss": [
+        {
+          "id": 7476,
+          "x": 2722.35,
+          "y": 2452.61,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7506,
+          "x": 2784.31,
+          "y": 2856.02,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7519,
+          "x": 1796.69,
+          "y": 2862.55,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7520,
+          "x": 1781.49,
+          "y": 2787.61,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7879,
+          "x": 1261.17,
+          "y": 2830.04,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 7889,
+          "x": 1280.33,
+          "y": 2643.37,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 8330,
+          "x": 2730.95,
+          "y": 1888.35,
+          "group": "M03D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 8345,
+          "x": 2387.42,
+          "y": 2042.82,
+          "group": "M03D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 8354,
+          "x": 2377.07,
+          "y": 2088.29,
+          "group": "M03D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 8380,
+          "x": 2346.65,
+          "y": 2082.98,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 8392,
+          "x": 2404.65,
+          "y": 2194.74,
+          "group": "M03D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 8407,
+          "x": 2346.65,
+          "y": 2082.98,
+          "group": "Miniboss",
+          "title": "Miniboss"
+        },
+        {
+          "id": 8551,
+          "x": 2493.78,
+          "y": 2086.74,
+          "group": "M03D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 8957,
+          "x": 1387.68,
+          "y": 1682.45,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 9551,
+          "x": 2646.13,
+          "y": 2005.53,
+          "group": "M03D_Miniboss",
+          "title": "Dungeon (miniboss)"
+        },
+        {
+          "id": 9875,
+          "x": 2557.48,
+          "y": 3007.15,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 10172,
+          "x": 2441.66,
+          "y": 1767.33,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 10173,
+          "x": 2450.86,
+          "y": 1794.71,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 10213,
+          "x": 2142.02,
+          "y": 1991.78,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 10670,
+          "x": 823.81,
+          "y": 2202.9,
+          "group": "Miniboss",
+          "title": null
+        },
+        {
+          "id": 10885,
+          "x": 2165.73,
+          "y": 2790.24,
+          "group": "Miniboss",
+          "title": null
+        }
+      ],
+      "rare_farmer": [],
+      "bloat": [
+        {
+          "id": 7880,
+          "x": 1273.97,
+          "y": 2784.4,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4772.65
+        },
+        {
+          "id": 7881,
+          "x": 1263.91,
+          "y": 2788.15,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4772.65
+        },
+        {
+          "id": 8366,
+          "x": 2372.87,
+          "y": 2082.07,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5279.6
+        },
+        {
+          "id": 8367,
+          "x": 2365.9,
+          "y": 2090.93,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5356.89
+        },
+        {
+          "id": 8368,
+          "x": 2376.74,
+          "y": 2102.1,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5200.38
+        },
+        {
+          "id": 8552,
+          "x": 2583.91,
+          "y": 1960.71,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1563.87
+        },
+        {
+          "id": 8553,
+          "x": 2587.16,
+          "y": 1952.4,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1563.87
+        },
+        {
+          "id": 8554,
+          "x": 2594.19,
+          "y": 1957.61,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 1563.87
+        },
+        {
+          "id": 10542,
+          "x": 2645.28,
+          "y": 3126.22,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3665.41
+        },
+        {
+          "id": 10543,
+          "x": 2648.55,
+          "y": 3117.91,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3666.9
+        },
+        {
+          "id": 10544,
+          "x": 2655.54,
+          "y": 3123.12,
+          "title": "Bloat Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3686.94
+        }
+      ],
+      "shambler": [
+        {
+          "id": 7362,
+          "x": 1386.73,
+          "y": 3026.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4250.04
+        },
+        {
+          "id": 7404,
+          "x": 1381.87,
+          "y": 3094.41,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5560.94
+        },
+        {
+          "id": 7405,
+          "x": 1371.28,
+          "y": 3121.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5291.69
+        },
+        {
+          "id": 7416,
+          "x": 3563.32,
+          "y": 1661.46,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5507.4
+        },
+        {
+          "id": 7417,
+          "x": 3559.41,
+          "y": 1653.22,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5507.4
+        },
+        {
+          "id": 7437,
+          "x": 1406.92,
+          "y": 3103.89,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5550.81
+        },
+        {
+          "id": 7461,
+          "x": 2153.73,
+          "y": 2740.65,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2375.98
+        },
+        {
+          "id": 7462,
+          "x": 2230.7,
+          "y": 2725.8,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2375.98
+        },
+        {
+          "id": 7463,
+          "x": 2196.31,
+          "y": 2750.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2375.98
+        },
+        {
+          "id": 7477,
+          "x": 1958.32,
+          "y": 2536.47,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1945.09
+        },
+        {
+          "id": 7478,
+          "x": 2220.15,
+          "y": 2300.13,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1248.64
+        },
+        {
+          "id": 7481,
+          "x": 2807.63,
+          "y": 2830.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5334
+        },
+        {
+          "id": 7485,
+          "x": 2032.12,
+          "y": 2557.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1945.09
+        },
+        {
+          "id": 7487,
+          "x": 1999.13,
+          "y": 2513.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1945.09
+        },
+        {
+          "id": 7488,
+          "x": 2829.6,
+          "y": 2805.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5334
+        },
+        {
+          "id": 7489,
+          "x": 2013.18,
+          "y": 2496.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1945.09
+        },
+        {
+          "id": 7490,
+          "x": 1985.3,
+          "y": 2527.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1945.09
+        },
+        {
+          "id": 7492,
+          "x": 2217.37,
+          "y": 2308.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1243.9
+        },
+        {
+          "id": 7507,
+          "x": 2206.52,
+          "y": 1967.68,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -598.61
+        },
+        {
+          "id": 7591,
+          "x": 3134.92,
+          "y": 2408.02,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4821.44
+        },
+        {
+          "id": 7592,
+          "x": 3148.81,
+          "y": 2416.29,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4821.44
+        },
+        {
+          "id": 7593,
+          "x": 3183.35,
+          "y": 2402.09,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4430.56
+        },
+        {
+          "id": 7596,
+          "x": 3098.3,
+          "y": 2474.64,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5627.36
+        },
+        {
+          "id": 7597,
+          "x": 3171.15,
+          "y": 2434.34,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4821.44
+        },
+        {
+          "id": 7598,
+          "x": 3116.69,
+          "y": 2448.5,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5634.76
+        },
+        {
+          "id": 7599,
+          "x": 3127.34,
+          "y": 2423.91,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5630.67
+        },
+        {
+          "id": 7600,
+          "x": 3147.14,
+          "y": 2396.73,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5623.57
+        },
+        {
+          "id": 7601,
+          "x": 3142.35,
+          "y": 2364.78,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5451.91
+        },
+        {
+          "id": 7602,
+          "x": 3178.18,
+          "y": 2419.37,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4821.44
+        },
+        {
+          "id": 7603,
+          "x": 3124.31,
+          "y": 2382.48,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5364.24
+        },
+        {
+          "id": 7604,
+          "x": 3181.36,
+          "y": 2396.51,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4821.44
+        },
+        {
+          "id": 7605,
+          "x": 3138.45,
+          "y": 2481.9,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4869.85
+        },
+        {
+          "id": 7606,
+          "x": 3115.05,
+          "y": 2401.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4821.44
+        },
+        {
+          "id": 7607,
+          "x": 3096.09,
+          "y": 2524.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5365.11
+        },
+        {
+          "id": 7608,
+          "x": 3125.66,
+          "y": 2507.66,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5364.61
+        },
+        {
+          "id": 7612,
+          "x": 3121.17,
+          "y": 2402.47,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5364.79
+        },
+        {
+          "id": 7870,
+          "x": 1393.47,
+          "y": 1571.3,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -578.23
+        },
+        {
+          "id": 7871,
+          "x": 1385.44,
+          "y": 1625.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2462.5
+        },
+        {
+          "id": 7877,
+          "x": 1389.99,
+          "y": 1562.88,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -578.23
+        },
+        {
+          "id": 7878,
+          "x": 1392.22,
+          "y": 1631.67,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2462.5
+        },
+        {
+          "id": 8232,
+          "x": 2172.3,
+          "y": 1462.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1009.48
+        },
+        {
+          "id": 8233,
+          "x": 2129.54,
+          "y": 1508.98,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -990
+        },
+        {
+          "id": 8234,
+          "x": 2171.09,
+          "y": 1013.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4371.69
+        },
+        {
+          "id": 8235,
+          "x": 2203.4,
+          "y": 963.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4350.4
+        },
+        {
+          "id": 8236,
+          "x": 2163.17,
+          "y": 1053.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4371.69
+        },
+        {
+          "id": 8237,
+          "x": 2203.87,
+          "y": 1015.92,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4383.83
+        },
+        {
+          "id": 8347,
+          "x": 2317.69,
+          "y": 2100.09,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1766.47
+        },
+        {
+          "id": 8389,
+          "x": 2298.24,
+          "y": 1980.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -763.55
+        },
+        {
+          "id": 8949,
+          "x": 2624.38,
+          "y": 1213.08,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3837.51
+        },
+        {
+          "id": 8950,
+          "x": 2705.67,
+          "y": 1170.94,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3826.71
+        },
+        {
+          "id": 9126,
+          "x": 2268.38,
+          "y": 2019.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 186.79
+        },
+        {
+          "id": 9127,
+          "x": 2054.56,
+          "y": 1871.11,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 235.71
+        },
+        {
+          "id": 9128,
+          "x": 2259.36,
+          "y": 2020.54,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 165.39
+        },
+        {
+          "id": 9621,
+          "x": 2269.47,
+          "y": 2053.97,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1474.54
+        },
+        {
+          "id": 9622,
+          "x": 2241.58,
+          "y": 2044.96,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1322.88
+        },
+        {
+          "id": 9623,
+          "x": 2224.32,
+          "y": 1966.94,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -560.97
+        },
+        {
+          "id": 9624,
+          "x": 2249.69,
+          "y": 2007.34,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1035.36
+        },
+        {
+          "id": 9632,
+          "x": 1388.55,
+          "y": 1950.17,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -76
+        },
+        {
+          "id": 9634,
+          "x": 1381.2,
+          "y": 1972.78,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -59.97
+        },
+        {
+          "id": 9635,
+          "x": 1412.02,
+          "y": 1912.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -76
+        },
+        {
+          "id": 9637,
+          "x": 1370.1,
+          "y": 1879.97,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -76
+        },
+        {
+          "id": 9638,
+          "x": 1353.35,
+          "y": 1916.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -76
+        },
+        {
+          "id": 9640,
+          "x": 1420.53,
+          "y": 1960.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -76
+        },
+        {
+          "id": 9736,
+          "x": 2161.12,
+          "y": 1484.84,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -988.37
+        },
+        {
+          "id": 9737,
+          "x": 2140.73,
+          "y": 1451.57,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1009.48
+        },
+        {
+          "id": 9738,
+          "x": 2130.99,
+          "y": 1421.69,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -989.42
+        },
+        {
+          "id": 9840,
+          "x": 2095.87,
+          "y": 2083.49,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3.11
+        },
+        {
+          "id": 9841,
+          "x": 2120.17,
+          "y": 2074.18,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4.94
+        },
+        {
+          "id": 9842,
+          "x": 2106.16,
+          "y": 2097.19,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3.11
+        },
+        {
+          "id": 9843,
+          "x": 2120.63,
+          "y": 2087.56,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3.11
+        },
+        {
+          "id": 9865,
+          "x": 2865.27,
+          "y": 2779.71,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5270.96
+        },
+        {
+          "id": 9866,
+          "x": 2151.83,
+          "y": 2695.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2359.42
+        },
+        {
+          "id": 9873,
+          "x": 2810.37,
+          "y": 2820.58,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5334
+        },
+        {
+          "id": 9874,
+          "x": 2868.91,
+          "y": 2771.32,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5270.96
+        },
+        {
+          "id": 9876,
+          "x": 2146,
+          "y": 2702.2,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2359.42
+        },
+        {
+          "id": 9954,
+          "x": 2315.35,
+          "y": 1027.5,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3691.87
+        },
+        {
+          "id": 9955,
+          "x": 2329.2,
+          "y": 1016.53,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3846.22
+        },
+        {
+          "id": 9956,
+          "x": 2308.98,
+          "y": 1010.76,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3644.1
+        },
+        {
+          "id": 9962,
+          "x": 2671.25,
+          "y": 1159.67,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3808.68
+        },
+        {
+          "id": 9963,
+          "x": 2690.69,
+          "y": 1147.11,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3828.23
+        },
+        {
+          "id": 9964,
+          "x": 2666.56,
+          "y": 1172.14,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3837.51
+        },
+        {
+          "id": 9965,
+          "x": 2628.3,
+          "y": 1163.93,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3803.48
+        },
+        {
+          "id": 9966,
+          "x": 2686.57,
+          "y": 1193.25,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3837.51
+        },
+        {
+          "id": 9967,
+          "x": 2728.13,
+          "y": 1170.39,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3837.51
+        },
+        {
+          "id": 9968,
+          "x": 2661.31,
+          "y": 1216.3,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3804.49
+        },
+        {
+          "id": 9969,
+          "x": 2612.62,
+          "y": 1199.45,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -3837.51
+        },
+        {
+          "id": 9977,
+          "x": 2186.46,
+          "y": 1040.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4381.82
+        },
+        {
+          "id": 9978,
+          "x": 2271.73,
+          "y": 1053.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4113.83
+        },
+        {
+          "id": 10083,
+          "x": 2170.39,
+          "y": 1958.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -572.92
+        },
+        {
+          "id": 10167,
+          "x": 2136.49,
+          "y": 2120.43,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 21.87
+        },
+        {
+          "id": 10168,
+          "x": 2192.25,
+          "y": 2119.1,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 58.15
+        },
+        {
+          "id": 10169,
+          "x": 2155.29,
+          "y": 2077.75,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 46.82
+        },
+        {
+          "id": 10170,
+          "x": 2335.76,
+          "y": 2047.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 181.48
+        },
+        {
+          "id": 10171,
+          "x": 2324.24,
+          "y": 2049.98,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 174.05
+        },
+        {
+          "id": 10189,
+          "x": 2270.25,
+          "y": 2155.26,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 228.25
+        },
+        {
+          "id": 10190,
+          "x": 1937.6,
+          "y": 1990.5,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 23.78
+        },
+        {
+          "id": 10191,
+          "x": 2256.6,
+          "y": 2086.61,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 146.47
+        },
+        {
+          "id": 10192,
+          "x": 2214.03,
+          "y": 2037.89,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 65.38
+        },
+        {
+          "id": 10193,
+          "x": 2236.8,
+          "y": 2067.42,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 65.38
+        },
+        {
+          "id": 10197,
+          "x": 1969.63,
+          "y": 1989.67,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 23.78
+        },
+        {
+          "id": 10198,
+          "x": 2264.22,
+          "y": 2055.47,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 150.82
+        },
+        {
+          "id": 10202,
+          "x": 2275.35,
+          "y": 2122.29,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 228.25
+        },
+        {
+          "id": 10205,
+          "x": 2267.35,
+          "y": 2145.59,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 228.25
+        },
+        {
+          "id": 10207,
+          "x": 1957.65,
+          "y": 1964.19,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 31.03
+        },
+        {
+          "id": 10208,
+          "x": 2064.4,
+          "y": 1928.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 164.11
+        },
+        {
+          "id": 10209,
+          "x": 1959.07,
+          "y": 1990.41,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 23.78
+        },
+        {
+          "id": 10210,
+          "x": 2262.16,
+          "y": 2065.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 149.31
+        },
+        {
+          "id": 10211,
+          "x": 2293.21,
+          "y": 2049.16,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 207.04
+        },
+        {
+          "id": 10212,
+          "x": 2201.97,
+          "y": 2073.29,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 80.98
+        },
+        {
+          "id": 10214,
+          "x": 2060.73,
+          "y": 1891.6,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 215.93
+        },
+        {
+          "id": 10215,
+          "x": 2068.92,
+          "y": 1969.86,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 82.35
+        },
+        {
+          "id": 10216,
+          "x": 2317.89,
+          "y": 2080.06,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 237.34
+        },
+        {
+          "id": 10241,
+          "x": 1388.05,
+          "y": 3075.09,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5529.52
+        },
+        {
+          "id": 10244,
+          "x": 1419.39,
+          "y": 1164.07,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 426.28
+        },
+        {
+          "id": 10245,
+          "x": 1404.87,
+          "y": 1149.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 426.28
+        },
+        {
+          "id": 10246,
+          "x": 1423,
+          "y": 1134.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 426.28
+        },
+        {
+          "id": 10286,
+          "x": 1544.17,
+          "y": 2776.15,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2854.43
+        },
+        {
+          "id": 10287,
+          "x": 1538.23,
+          "y": 2795.7,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2842.75
+        },
+        {
+          "id": 10288,
+          "x": 1553.13,
+          "y": 2800.16,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2833.85
+        },
+        {
+          "id": 10301,
+          "x": 1559.06,
+          "y": 2780.6,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2845.52
+        },
+        {
+          "id": 10397,
+          "x": 1352.92,
+          "y": 3016.83,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5550.81
+        },
+        {
+          "id": 10398,
+          "x": 1366.05,
+          "y": 2986.05,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4243.59
+        },
+        {
+          "id": 10400,
+          "x": 1351.18,
+          "y": 3054.42,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -5562.94
+        },
+        {
+          "id": 10533,
+          "x": 1429.33,
+          "y": 1152.63,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": 426.28
+        },
+        {
+          "id": 10656,
+          "x": 959.76,
+          "y": 2232.85,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1534.28
+        },
+        {
+          "id": 10659,
+          "x": 760.22,
+          "y": 2195.12,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1455.87
+        },
+        {
+          "id": 10660,
+          "x": 940.27,
+          "y": 2225.28,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1534.28
+        },
+        {
+          "id": 10663,
+          "x": 950.56,
+          "y": 2204.18,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1534.28
+        },
+        {
+          "id": 10666,
+          "x": 964.04,
+          "y": 2218.33,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1534.28
+        },
+        {
+          "id": 10673,
+          "x": 807.91,
+          "y": 2176.9,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -1455.87
+        },
+        {
+          "id": 10860,
+          "x": 2175.51,
+          "y": 1516.87,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -956.77
+        },
+        {
+          "id": 11002,
+          "x": 2210.82,
+          "y": 1057.63,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4383.83
+        },
+        {
+          "id": 11003,
+          "x": 3168.69,
+          "y": 1717.24,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2389.81
+        },
+        {
+          "id": 11004,
+          "x": 3209.15,
+          "y": 1695.65,
+          "title": "Shambler / Peasant Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2383.36
+        }
+      ],
+      "dreg": [
+        {
+          "id": 7363,
+          "x": 1278.03,
+          "y": 2859.71,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7364,
+          "x": 1270.1,
+          "y": 2861.08,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7365,
+          "x": 1255.18,
+          "y": 2859.12,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7366,
+          "x": 1249.48,
+          "y": 2856.88,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7367,
+          "x": 1261.37,
+          "y": 2856.69,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7368,
+          "x": 1231.3,
+          "y": 2859.51,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7369,
+          "x": 1283.18,
+          "y": 2859.39,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7370,
+          "x": 1241.02,
+          "y": 2859.03,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -4770.65
+        },
+        {
+          "id": 7521,
+          "x": 1785.38,
+          "y": 2837.89,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7522,
+          "x": 1778.07,
+          "y": 2841.26,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7523,
+          "x": 1760.09,
+          "y": 2847.51,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7524,
+          "x": 1753.55,
+          "y": 2847.87,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7525,
+          "x": 1772.01,
+          "y": 2843.9,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7526,
+          "x": 1763.12,
+          "y": 2843.2,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7527,
+          "x": 1752.2,
+          "y": 2843.04,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7528,
+          "x": 1780.95,
+          "y": 2836.67,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7529,
+          "x": 1779.21,
+          "y": 2831.46,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7530,
+          "x": 1757.03,
+          "y": 2842.5,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7531,
+          "x": 1768.49,
+          "y": 2839.26,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7532,
+          "x": 1740.12,
+          "y": 2849.7,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7533,
+          "x": 1790.28,
+          "y": 2836.26,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7534,
+          "x": 1745.15,
+          "y": 2848.09,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        },
+        {
+          "id": 7535,
+          "x": 1749.4,
+          "y": 2846.75,
+          "title": "Dreg Spawner",
+          "actor": "BP_AISpawner_C",
+          "z": -2968
+        }
+      ]
+    }
+  }
+}

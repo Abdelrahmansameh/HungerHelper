@@ -1,0 +1,2954 @@
+{
+  "outfitter?band=1": {
+    "slug": "outfitter?band=1",
+    "name": "Outfitter Recipe - Outfitter?Band=1",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Apprentice"
+  },
+  "outfitter?band=2": {
+    "slug": "outfitter?band=2",
+    "name": "Outfitter Recipe - Outfitter?Band=2",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Journeyman"
+  },
+  "outfitter?band=3": {
+    "slug": "outfitter?band=3",
+    "name": "Outfitter Recipe - Outfitter?Band=3",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Expert"
+  },
+  "outfitter?band=4": {
+    "slug": "outfitter?band=4",
+    "name": "Outfitter Recipe - Outfitter?Band=4",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Artisan"
+  },
+  "outfitter?band=5": {
+    "slug": "outfitter?band=5",
+    "name": "Outfitter Recipe - Outfitter?Band=5",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mastercrafter"
+  },
+  "outfitter-recipe-moist-pouch": {
+    "slug": "outfitter-recipe-moist-pouch",
+    "name": "Outfitter Recipe - Moist Pouch",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Moist Pouch Common Lv 1 Base recipe"
+  },
+  "outfitter?mat=bolt-of-burlap-cloth": {
+    "slug": "outfitter?mat=bolt-of-burlap-cloth",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bolt Of Burlap Cloth",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bolt Of Burlap Cloth ×6"
+  },
+  "outfitter-recipe-rusty-bucket": {
+    "slug": "outfitter-recipe-rusty-bucket",
+    "name": "Outfitter Recipe - Rusty Bucket",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Rusty Bucket Common Lv 15 Recipe to find"
+  },
+  "outfitter?mat=milking-pail": {
+    "slug": "outfitter?mat=milking-pail",
+    "name": "Outfitter Recipe - Outfitter?Mat=Milking Pail",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Milking Pail ×1"
+  },
+  "outfitter-recipe-damp-knapsack": {
+    "slug": "outfitter-recipe-damp-knapsack",
+    "name": "Outfitter Recipe - Damp Knapsack",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Damp Knapsack Common Lv 25 Recipe to find"
+  },
+  "outfitter?mat=twine-ball": {
+    "slug": "outfitter?mat=twine-ball",
+    "name": "Outfitter Recipe - Outfitter?Mat=Twine Ball",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Twine Ball ×3"
+  },
+  "outfitter-recipe-quilted-cuirass": {
+    "slug": "outfitter-recipe-quilted-cuirass",
+    "name": "Outfitter Recipe - Quilted Cuirass",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Quilted Cuirass Common Lv 50 Recipe to find"
+  },
+  "outfitter?mat=seamstress-needle": {
+    "slug": "outfitter?mat=seamstress-needle",
+    "name": "Outfitter Recipe - Outfitter?Mat=Seamstress Needle",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Seamstress Needle ×1"
+  },
+  "outfitter-recipe-foraging-basket": {
+    "slug": "outfitter-recipe-foraging-basket",
+    "name": "Outfitter Recipe - Foraging Basket",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Foraging Basket Common Lv 65 Recipe to find"
+  },
+  "outfitter?mat=canvas-patch": {
+    "slug": "outfitter?mat=canvas-patch",
+    "name": "Outfitter Recipe - Outfitter?Mat=Canvas Patch",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Canvas Patch ×2"
+  },
+  "outfitter-recipe-ragged-sack": {
+    "slug": "outfitter-recipe-ragged-sack",
+    "name": "Outfitter Recipe - Ragged Sack",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Ragged Sack Uncommon Lv 75 Base recipe"
+  },
+  "outfitter?mat=bolt-of-linen-cloth": {
+    "slug": "outfitter?mat=bolt-of-linen-cloth",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bolt Of Linen Cloth",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bolt Of Linen Cloth ×7"
+  },
+  "outfitter?mat=coal-tar": {
+    "slug": "outfitter?mat=coal-tar",
+    "name": "Outfitter Recipe - Outfitter?Mat=Coal Tar",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Coal Tar ×1"
+  },
+  "outfitter-recipe-burlap-haversack": {
+    "slug": "outfitter-recipe-burlap-haversack",
+    "name": "Outfitter Recipe - Burlap Haversack",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Burlap Haversack Uncommon Lv 80 Recipe to find"
+  },
+  "outfitter?mat=reinforced-garter": {
+    "slug": "outfitter?mat=reinforced-garter",
+    "name": "Outfitter Recipe - Outfitter?Mat=Reinforced Garter",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Reinforced Garter ×2"
+  },
+  "outfitter-recipe-leather-cuirass": {
+    "slug": "outfitter-recipe-leather-cuirass",
+    "name": "Outfitter Recipe - Leather Cuirass",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Leather Cuirass Uncommon Lv 90 Recipe to find"
+  },
+  "outfitter?mat=belt-strap": {
+    "slug": "outfitter?mat=belt-strap",
+    "name": "Outfitter Recipe - Outfitter?Mat=Belt Strap",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Belt Strap ×4"
+  },
+  "outfitter?mat=bog-iron": {
+    "slug": "outfitter?mat=bog-iron",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bog Iron",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bog Iron ×3"
+  },
+  "outfitter-recipe-threshing-basket": {
+    "slug": "outfitter-recipe-threshing-basket",
+    "name": "Outfitter Recipe - Threshing Basket",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Threshing Basket Uncommon Lv 95 Recipe to find"
+  },
+  "outfitter?mat=jute-hat": {
+    "slug": "outfitter?mat=jute-hat",
+    "name": "Outfitter Recipe - Outfitter?Mat=Jute Hat",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Jute Hat ×2"
+  },
+  "outfitter-recipe-muriel-s-box": {
+    "slug": "outfitter-recipe-muriel-s-box",
+    "name": "Outfitter Recipe - Muriel S Box",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Muriel's Box Uncommon Lv 105 Recipe to find"
+  },
+  "outfitter?mat=precious-box": {
+    "slug": "outfitter?mat=precious-box",
+    "name": "Outfitter Recipe - Outfitter?Mat=Precious Box",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Precious Box ×1"
+  },
+  "outfitter-recipe-leather-helmet": {
+    "slug": "outfitter-recipe-leather-helmet",
+    "name": "Outfitter Recipe - Leather Helmet",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Leather Helmet Uncommon Lv 110 Recipe to find"
+  },
+  "outfitter?mat=iron-pot": {
+    "slug": "outfitter?mat=iron-pot",
+    "name": "Outfitter Recipe - Outfitter?Mat=Iron Pot",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Pot ×2"
+  },
+  "outfitter-recipe-old-satchel": {
+    "slug": "outfitter-recipe-old-satchel",
+    "name": "Outfitter Recipe - Old Satchel",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Old Satchel Uncommon Lv 120 Recipe to find"
+  },
+  "outfitter?mat=tanned-hide": {
+    "slug": "outfitter?mat=tanned-hide",
+    "name": "Outfitter Recipe - Outfitter?Mat=Tanned Hide",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tanned Hide ×2"
+  },
+  "outfitter-recipe-leather-greaves": {
+    "slug": "outfitter-recipe-leather-greaves",
+    "name": "Outfitter Recipe - Leather Greaves",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Leather Greaves Uncommon Lv 125 Recipe to find"
+  },
+  "outfitter?mat=iron-jug": {
+    "slug": "outfitter?mat=iron-jug",
+    "name": "Outfitter Recipe - Outfitter?Mat=Iron Jug",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Jug ×5"
+  },
+  "outfitter-recipe-leather-barrel-bag": {
+    "slug": "outfitter-recipe-leather-barrel-bag",
+    "name": "Outfitter Recipe - Leather Barrel Bag",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Leather Barrel Bag Uncommon Lv 135 Recipe to find"
+  },
+  "outfitter-recipe-grubber-s-purse": {
+    "slug": "outfitter-recipe-grubber-s-purse",
+    "name": "Outfitter Recipe - Grubber S Purse",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Grubber's Purse Rare Lv 150 Base recipe"
+  },
+  "outfitter?mat=bolt-of-cotton-cloth": {
+    "slug": "outfitter?mat=bolt-of-cotton-cloth",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bolt Of Cotton Cloth",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bolt of Cotton Cloth ×14"
+  },
+  "outfitter?mat=delicate-chain": {
+    "slug": "outfitter?mat=delicate-chain",
+    "name": "Outfitter Recipe - Outfitter?Mat=Delicate Chain",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Delicate Chain ×4"
+  },
+  "outfitter-recipe-ludwig-s-drumcase": {
+    "slug": "outfitter-recipe-ludwig-s-drumcase",
+    "name": "Outfitter Recipe - Ludwig S Drumcase",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Ludwig's Drumcase Rare Lv 160 Recipe to find"
+  },
+  "outfitter?mat=marching-drum": {
+    "slug": "outfitter?mat=marching-drum",
+    "name": "Outfitter Recipe - Outfitter?Mat=Marching Drum",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Marching Drum ×1"
+  },
+  "outfitter-recipe-sapper-s-cuirass": {
+    "slug": "outfitter-recipe-sapper-s-cuirass",
+    "name": "Outfitter Recipe - Sapper S Cuirass",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Sapper's Cuirass Rare Lv 175 Recipe to find"
+  },
+  "outfitter?mat=pine-rosin": {
+    "slug": "outfitter?mat=pine-rosin",
+    "name": "Outfitter Recipe - Outfitter?Mat=Pine Rosin",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pine Rosin ×1"
+  },
+  "outfitter-recipe-sapper-s-helmet": {
+    "slug": "outfitter-recipe-sapper-s-helmet",
+    "name": "Outfitter Recipe - Sapper S Helmet",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Sapper's Helmet Rare Lv 185 Recipe to find"
+  },
+  "outfitter?mat=walnut-husk": {
+    "slug": "outfitter?mat=walnut-husk",
+    "name": "Outfitter Recipe - Outfitter?Mat=Walnut Husk",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Walnut Husk ×2"
+  },
+  "outfitter?mat=boiled-leather": {
+    "slug": "outfitter?mat=boiled-leather",
+    "name": "Outfitter Recipe - Outfitter?Mat=Boiled Leather",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Boiled Leather ×1"
+  },
+  "outfitter-recipe-attaches-fold": {
+    "slug": "outfitter-recipe-attaches-fold",
+    "name": "Outfitter Recipe - Attaches Fold",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Attachés Fold Rare Lv 190 Recipe to find"
+  },
+  "outfitter?mat=shiny-buckle": {
+    "slug": "outfitter?mat=shiny-buckle",
+    "name": "Outfitter Recipe - Outfitter?Mat=Shiny Buckle",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Shiny Buckle ×1"
+  },
+  "outfitter-recipe-grenadier-s-battlepack": {
+    "slug": "outfitter-recipe-grenadier-s-battlepack",
+    "name": "Outfitter Recipe - Grenadier S Battlepack",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Grenadier's Battlepack Rare Lv 200 Recipe to find"
+  },
+  "outfitter?mat=cotton-bed-sheets": {
+    "slug": "outfitter?mat=cotton-bed-sheets",
+    "name": "Outfitter Recipe - Outfitter?Mat=Cotton Bed Sheets",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cotton Bed Sheets ×1"
+  },
+  "outfitter?mat=refined-tobacco": {
+    "slug": "outfitter?mat=refined-tobacco",
+    "name": "Outfitter Recipe - Outfitter?Mat=Refined Tobacco",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Refined Tobacco ×1"
+  },
+  "outfitter-recipe-sapper-s-greaves": {
+    "slug": "outfitter-recipe-sapper-s-greaves",
+    "name": "Outfitter Recipe - Sapper S Greaves",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Sapper's Greaves Rare Lv 210 Recipe to find"
+  },
+  "outfitter?mat=gristle-wax": {
+    "slug": "outfitter?mat=gristle-wax",
+    "name": "Outfitter Recipe - Outfitter?Mat=Gristle Wax",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Gristle Wax ×1"
+  },
+  "outfitter-recipe-hunting-sling": {
+    "slug": "outfitter-recipe-hunting-sling",
+    "name": "Outfitter Recipe - Hunting Sling",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Hunting Sling Rare Lv 220 Recipe to find"
+  },
+  "outfitter?mat=leather-trimmings": {
+    "slug": "outfitter?mat=leather-trimmings",
+    "name": "Outfitter Recipe - Outfitter?Mat=Leather Trimmings",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Leather Trimmings ×1"
+  },
+  "outfitter?mat=impeccable-twine": {
+    "slug": "outfitter?mat=impeccable-twine",
+    "name": "Outfitter Recipe - Outfitter?Mat=Impeccable Twine",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Impeccable Twine ×4"
+  },
+  "outfitter-recipe-case-of-the-old-guard": {
+    "slug": "outfitter-recipe-case-of-the-old-guard",
+    "name": "Outfitter Recipe - Case Of The Old Guard",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Case of the Old Guard Epic Lv 225 Base recipe"
+  },
+  "outfitter?mat=bolt-of-fine-wool": {
+    "slug": "outfitter?mat=bolt-of-fine-wool",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bolt Of Fine Wool",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bolt of Fine Wool ×13"
+  },
+  "outfitter?mat=large-silver-candlestick": {
+    "slug": "outfitter?mat=large-silver-candlestick",
+    "name": "Outfitter Recipe - Outfitter?Mat=Large Silver Candlestick",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Large Silver Candlestick ×2"
+  },
+  "outfitter?mat=gilded-tassels": {
+    "slug": "outfitter?mat=gilded-tassels",
+    "name": "Outfitter Recipe - Outfitter?Mat=Gilded Tassels",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Gilded Tassels ×2"
+  },
+  "outfitter-recipe-trevallion-s-valise": {
+    "slug": "outfitter-recipe-trevallion-s-valise",
+    "name": "Outfitter Recipe - Trevallion S Valise",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Trevallion's Valise Epic Lv 230 Recipe to find"
+  },
+  "outfitter?mat=cashmere-shawl": {
+    "slug": "outfitter?mat=cashmere-shawl",
+    "name": "Outfitter Recipe - Outfitter?Mat=Cashmere Shawl",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cashmere Shawl ×2"
+  },
+  "outfitter?mat=tent-peg": {
+    "slug": "outfitter?mat=tent-peg",
+    "name": "Outfitter Recipe - Outfitter?Mat=Tent Peg",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tent Peg ×1"
+  },
+  "outfitter-recipe-black-dragoon-cuirass": {
+    "slug": "outfitter-recipe-black-dragoon-cuirass",
+    "name": "Outfitter Recipe - Black Dragoon Cuirass",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Black Dragoon Cuirass Epic Lv 240 Recipe to find"
+  },
+  "outfitter?mat=holland-thread": {
+    "slug": "outfitter?mat=holland-thread",
+    "name": "Outfitter Recipe - Outfitter?Mat=Holland Thread",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Holland Thread ×4"
+  },
+  "outfitter?mat=cold-iron": {
+    "slug": "outfitter?mat=cold-iron",
+    "name": "Outfitter Recipe - Outfitter?Mat=Cold Iron",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cold Iron ×5"
+  },
+  "outfitter?mat=latch-hook": {
+    "slug": "outfitter?mat=latch-hook",
+    "name": "Outfitter Recipe - Outfitter?Mat=Latch Hook",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Latch Hook ×4"
+  },
+  "outfitter-recipe-black-dragoon-helmet": {
+    "slug": "outfitter-recipe-black-dragoon-helmet",
+    "name": "Outfitter Recipe - Black Dragoon Helmet",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Black Dragoon Helmet Epic Lv 250 Recipe to find"
+  },
+  "outfitter?mat=steelband": {
+    "slug": "outfitter?mat=steelband",
+    "name": "Outfitter Recipe - Outfitter?Mat=Steelband",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Steelband ×2"
+  },
+  "outfitter?mat=linseed-oil": {
+    "slug": "outfitter?mat=linseed-oil",
+    "name": "Outfitter Recipe - Outfitter?Mat=Linseed Oil",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Linseed Oil ×2"
+  },
+  "outfitter?mat=iron-file": {
+    "slug": "outfitter?mat=iron-file",
+    "name": "Outfitter Recipe - Outfitter?Mat=Iron File",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron File ×2"
+  },
+  "outfitter-recipe-butterfly-cannister": {
+    "slug": "outfitter-recipe-butterfly-cannister",
+    "name": "Outfitter Recipe - Butterfly Cannister",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Butterfly Cannister Epic Lv 255 Recipe to find"
+  },
+  "outfitter?mat=hartwood": {
+    "slug": "outfitter?mat=hartwood",
+    "name": "Outfitter Recipe - Outfitter?Mat=Hartwood",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Hartwood ×1"
+  },
+  "outfitter?mat=burr-walnut": {
+    "slug": "outfitter?mat=burr-walnut",
+    "name": "Outfitter Recipe - Outfitter?Mat=Burr Walnut",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Burr Walnut ×1"
+  },
+  "outfitter-recipe-bag-of-maratha": {
+    "slug": "outfitter-recipe-bag-of-maratha",
+    "name": "Outfitter Recipe - Bag Of Maratha",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Bag of Maratha Epic Lv 265 Recipe to find"
+  },
+  "outfitter?mat=rusted-keyring": {
+    "slug": "outfitter?mat=rusted-keyring",
+    "name": "Outfitter Recipe - Outfitter?Mat=Rusted Keyring",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Rusted Keyring ×5"
+  },
+  "outfitter-recipe-black-dragoon-greaves": {
+    "slug": "outfitter-recipe-black-dragoon-greaves",
+    "name": "Outfitter Recipe - Black Dragoon Greaves",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Black Dragoon Greaves Epic Lv 275 Recipe to find"
+  },
+  "outfitter?mat=pewterhead": {
+    "slug": "outfitter?mat=pewterhead",
+    "name": "Outfitter Recipe - Outfitter?Mat=Pewterhead",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pewterhead ×3"
+  },
+  "outfitter?mat=iron-nails": {
+    "slug": "outfitter?mat=iron-nails",
+    "name": "Outfitter Recipe - Outfitter?Mat=Iron Nails",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Nails ×10"
+  },
+  "outfitter-recipe-miser-s-purse": {
+    "slug": "outfitter-recipe-miser-s-purse",
+    "name": "Outfitter Recipe - Miser S Purse",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Miser's Purse Epic Lv 285 Recipe to find"
+  },
+  "outfitter?mat=silver-candlestick": {
+    "slug": "outfitter?mat=silver-candlestick",
+    "name": "Outfitter Recipe - Outfitter?Mat=Silver Candlestick",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Silver Candlestick ×1"
+  },
+  "outfitter?mat=shellac": {
+    "slug": "outfitter?mat=shellac",
+    "name": "Outfitter Recipe - Outfitter?Mat=Shellac",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Shellac ×1"
+  },
+  "outfitter-recipe-boutet-s-riflecase": {
+    "slug": "outfitter-recipe-boutet-s-riflecase",
+    "name": "Outfitter Recipe - Boutet S Riflecase",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Boutet's Riflecase Epic Lv 295 Recipe to find"
+  },
+  "outfitter-recipe-zazel-s-carry": {
+    "slug": "outfitter-recipe-zazel-s-carry",
+    "name": "Outfitter Recipe - Zazel S Carry",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Zazel's Carry Legendary Lv 300 Recipe to find"
+  },
+  "outfitter?mat=bolt-of-silk-cloth": {
+    "slug": "outfitter?mat=bolt-of-silk-cloth",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bolt Of Silk Cloth",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bolt of Silk Cloth ×197"
+  },
+  "outfitter?mat=shagreen": {
+    "slug": "outfitter?mat=shagreen",
+    "name": "Outfitter Recipe - Outfitter?Mat=Shagreen",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Shagreen ×5"
+  },
+  "outfitter?mat=tortoise-shell": {
+    "slug": "outfitter?mat=tortoise-shell",
+    "name": "Outfitter Recipe - Outfitter?Mat=Tortoise Shell",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tortoise Shell ×3"
+  },
+  "outfitter?mat=calfskin-boots": {
+    "slug": "outfitter?mat=calfskin-boots",
+    "name": "Outfitter Recipe - Outfitter?Mat=Calfskin Boots",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Calfskin Boots ×1"
+  },
+  "outfitter?mat=torn-damask": {
+    "slug": "outfitter?mat=torn-damask",
+    "name": "Outfitter Recipe - Outfitter?Mat=Torn Damask",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Torn Damask ×3"
+  },
+  "outfitter-recipe-coldstream-pack": {
+    "slug": "outfitter-recipe-coldstream-pack",
+    "name": "Outfitter Recipe - Coldstream Pack",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Coldstream Pack Legendary Lv 310 Recipe to find"
+  },
+  "outfitter?mat=jacobin-cipher": {
+    "slug": "outfitter?mat=jacobin-cipher",
+    "name": "Outfitter Recipe - Outfitter?Mat=Jacobin Cipher",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Jacobin Cipher ×1"
+  },
+  "outfitter?mat=oak-gall": {
+    "slug": "outfitter?mat=oak-gall",
+    "name": "Outfitter Recipe - Outfitter?Mat=Oak Gall",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Oak Gall ×2"
+  },
+  "outfitter?mat=powder-tin": {
+    "slug": "outfitter?mat=powder-tin",
+    "name": "Outfitter Recipe - Outfitter?Mat=Powder Tin",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Powder Tin ×1"
+  },
+  "outfitter-recipe-old-guard-cuirass": {
+    "slug": "outfitter-recipe-old-guard-cuirass",
+    "name": "Outfitter Recipe - Old Guard Cuirass",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Old Guard Cuirass Legendary Lv 320 Recipe to find"
+  },
+  "outfitter?mat=gold-leaf": {
+    "slug": "outfitter?mat=gold-leaf",
+    "name": "Outfitter Recipe - Outfitter?Mat=Gold Leaf",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Gold Leaf ×1"
+  },
+  "outfitter?mat=ebony": {
+    "slug": "outfitter?mat=ebony",
+    "name": "Outfitter Recipe - Outfitter?Mat=Ebony",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ebony ×2"
+  },
+  "outfitter?mat=pitch": {
+    "slug": "outfitter?mat=pitch",
+    "name": "Outfitter Recipe - Outfitter?Mat=Pitch",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pitch ×1"
+  },
+  "outfitter-recipe-old-guard-helmet": {
+    "slug": "outfitter-recipe-old-guard-helmet",
+    "name": "Outfitter Recipe - Old Guard Helmet",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Old Guard Helmet Legendary Lv 325 Recipe to find"
+  },
+  "outfitter?mat=tail-hair": {
+    "slug": "outfitter?mat=tail-hair",
+    "name": "Outfitter Recipe - Outfitter?Mat=Tail Hair",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tail Hair ×2"
+  },
+  "outfitter?mat=sootblack": {
+    "slug": "outfitter?mat=sootblack",
+    "name": "Outfitter Recipe - Outfitter?Mat=Sootblack",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sootblack ×7"
+  },
+  "outfitter-recipe-pegasus": {
+    "slug": "outfitter-recipe-pegasus",
+    "name": "Outfitter Recipe - Pegasus",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Pegasus Legendary Lv 335 Recipe to find"
+  },
+  "outfitter?mat=oxliver-oil": {
+    "slug": "outfitter?mat=oxliver-oil",
+    "name": "Outfitter Recipe - Outfitter?Mat=Oxliver Oil",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Oxliver Oil ×2"
+  },
+  "outfitter-recipe-zealot-s-tower": {
+    "slug": "outfitter-recipe-zealot-s-tower",
+    "name": "Outfitter Recipe - Zealot S Tower",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Zealot's Tower Legendary Lv 345 Recipe to find"
+  },
+  "outfitter?mat=vicuna": {
+    "slug": "outfitter?mat=vicuna",
+    "name": "Outfitter Recipe - Outfitter?Mat=Vicuna",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Vicuna ×1"
+  },
+  "outfitter?mat=grape-must": {
+    "slug": "outfitter?mat=grape-must",
+    "name": "Outfitter Recipe - Outfitter?Mat=Grape Must",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Grape Must ×4"
+  },
+  "outfitter-recipe-old-guard-greaves": {
+    "slug": "outfitter-recipe-old-guard-greaves",
+    "name": "Outfitter Recipe - Old Guard Greaves",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Old Guard Greaves Legendary Lv 350 Recipe to find"
+  },
+  "outfitter?mat=pinchbeck": {
+    "slug": "outfitter?mat=pinchbeck",
+    "name": "Outfitter Recipe - Outfitter?Mat=Pinchbeck",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pinchbeck ×2"
+  },
+  "outfitter?mat=iron-holdfast": {
+    "slug": "outfitter?mat=iron-holdfast",
+    "name": "Outfitter Recipe - Outfitter?Mat=Iron Holdfast",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Holdfast ×4"
+  },
+  "outfitter?mat=spindle-pulley": {
+    "slug": "outfitter?mat=spindle-pulley",
+    "name": "Outfitter Recipe - Outfitter?Mat=Spindle Pulley",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Spindle Pulley ×2"
+  },
+  "outfitter-recipe-sheath-of-the-four-winds": {
+    "slug": "outfitter-recipe-sheath-of-the-four-winds",
+    "name": "Outfitter Recipe - Sheath Of The Four Winds",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Sheath of the Four Winds Legendary Lv 360 Recipe to find"
+  },
+  "outfitter?mat=fraying-taffeta-waistcoat": {
+    "slug": "outfitter?mat=fraying-taffeta-waistcoat",
+    "name": "Outfitter Recipe - Outfitter?Mat=Fraying Taffeta Waistcoat",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fraying Taffeta Waistcoat ×2"
+  },
+  "outfitter?mat=nacre-button": {
+    "slug": "outfitter?mat=nacre-button",
+    "name": "Outfitter Recipe - Outfitter?Mat=Nacre Button",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Nacre Button ×4"
+  },
+  "outfitter-recipe-apollo-holster": {
+    "slug": "outfitter-recipe-apollo-holster",
+    "name": "Outfitter Recipe - Apollo Holster",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Apollo Holster Legendary Lv 370 Recipe to find"
+  },
+  "outfitter?mat=bloodwood": {
+    "slug": "outfitter?mat=bloodwood",
+    "name": "Outfitter Recipe - Outfitter?Mat=Bloodwood",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bloodwood ×3"
+  },
+  "outfitter?mat=ivory-tusk": {
+    "slug": "outfitter?mat=ivory-tusk",
+    "name": "Outfitter Recipe - Outfitter?Mat=Ivory Tusk",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ivory Tusk ×1"
+  },
+  "outfitter-recipe-charon-s-oyster": {
+    "slug": "outfitter-recipe-charon-s-oyster",
+    "name": "Outfitter Recipe - Charon S Oyster",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Charon's Oyster Legendary Lv 370 Recipe to find"
+  },
+  "outfitter?mat=blood-of-the-penitent": {
+    "slug": "outfitter?mat=blood-of-the-penitent",
+    "name": "Outfitter Recipe - Outfitter?Mat=Blood Of The Penitent",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blood Of The Penitent ×5"
+  },
+  "outfitter?mat=damascus-steel": {
+    "slug": "outfitter?mat=damascus-steel",
+    "name": "Outfitter Recipe - Outfitter?Mat=Damascus Steel",
+    "profession": "Outfitter",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Damascus Steel ×5"
+  },
+  "gunsmith?band=1": {
+    "slug": "gunsmith?band=1",
+    "name": "Gunsmith Recipe - Gunsmith?Band=1",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Apprentice"
+  },
+  "gunsmith?band=2": {
+    "slug": "gunsmith?band=2",
+    "name": "Gunsmith Recipe - Gunsmith?Band=2",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Journeyman"
+  },
+  "gunsmith?band=3": {
+    "slug": "gunsmith?band=3",
+    "name": "Gunsmith Recipe - Gunsmith?Band=3",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Expert"
+  },
+  "gunsmith?band=4": {
+    "slug": "gunsmith?band=4",
+    "name": "Gunsmith Recipe - Gunsmith?Band=4",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Artisan"
+  },
+  "gunsmith?band=5": {
+    "slug": "gunsmith?band=5",
+    "name": "Gunsmith Recipe - Gunsmith?Band=5",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mastercrafter"
+  },
+  "gunsmith-recipe-crude-ammunition": {
+    "slug": "gunsmith-recipe-crude-ammunition",
+    "name": "Gunsmith Recipe - Crude Ammunition",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Crude Ammunition Common Lv 1 Base recipe"
+  },
+  "gunsmith?mat=fresh-gunpowder": {
+    "slug": "gunsmith?mat=fresh-gunpowder",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Fresh Gunpowder",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fresh Gunpowder ×6"
+  },
+  "gunsmith-recipe-snub": {
+    "slug": "gunsmith-recipe-snub",
+    "name": "Gunsmith Recipe - Snub",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Snub Common Lv 1 Base recipe"
+  },
+  "gunsmith?mat=sharp-screws": {
+    "slug": "gunsmith?mat=sharp-screws",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Sharp Screws",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sharp Screws ×1"
+  },
+  "gunsmith?mat=iron-nails": {
+    "slug": "gunsmith?mat=iron-nails",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Iron Nails",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Nails ×12"
+  },
+  "gunsmith-recipe-longboy": {
+    "slug": "gunsmith-recipe-longboy",
+    "name": "Gunsmith Recipe - Longboy",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Longboy Common Lv 25 Recipe to find"
+  },
+  "gunsmith?mat=chipped-flint": {
+    "slug": "gunsmith?mat=chipped-flint",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Chipped Flint",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Chipped Flint ×1"
+  },
+  "gunsmith-recipe-brown-betty": {
+    "slug": "gunsmith-recipe-brown-betty",
+    "name": "Gunsmith Recipe - Brown Betty",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Brown Betty Common Lv 50 Recipe to find"
+  },
+  "gunsmith?mat=thick-branch": {
+    "slug": "gunsmith?mat=thick-branch",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Thick Branch",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Thick Branch ×2"
+  },
+  "gunsmith-recipe-auster": {
+    "slug": "gunsmith-recipe-auster",
+    "name": "Gunsmith Recipe - Auster",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Auster Uncommon Lv 75 Base recipe"
+  },
+  "gunsmith?mat=tempered-trigger-arm": {
+    "slug": "gunsmith?mat=tempered-trigger-arm",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Tempered Trigger Arm",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tempered Trigger Arm ×2"
+  },
+  "gunsmith?mat=sturdy-axe-handle": {
+    "slug": "gunsmith?mat=sturdy-axe-handle",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Sturdy Axe Handle",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sturdy Axe Handle ×2"
+  },
+  "gunsmith-recipe-medium-ammunition": {
+    "slug": "gunsmith-recipe-medium-ammunition",
+    "name": "Gunsmith Recipe - Medium Ammunition",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Medium Ammunition Uncommon Lv 75 Base recipe"
+  },
+  "gunsmith-recipe-louisville": {
+    "slug": "gunsmith-recipe-louisville",
+    "name": "Gunsmith Recipe - Louisville",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Louisville Uncommon Lv 110 Recipe to find"
+  },
+  "gunsmith?mat=pewterhead": {
+    "slug": "gunsmith?mat=pewterhead",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Pewterhead",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pewterhead ×1"
+  },
+  "gunsmith-recipe-volant": {
+    "slug": "gunsmith-recipe-volant",
+    "name": "Gunsmith Recipe - Volant",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Volant Uncommon Lv 145 Recipe to find"
+  },
+  "gunsmith?mat=silver-candleholder": {
+    "slug": "gunsmith?mat=silver-candleholder",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Silver Candleholder",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Silver Candleholder ×3"
+  },
+  "gunsmith-recipe-deux": {
+    "slug": "gunsmith-recipe-deux",
+    "name": "Gunsmith Recipe - Deux",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Deux Rare Lv 150 Base recipe"
+  },
+  "gunsmith?mat=polished-firing-pin": {
+    "slug": "gunsmith?mat=polished-firing-pin",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Polished Firing Pin",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Polished Firing Pin ×1"
+  },
+  "gunsmith?mat=hornbeam": {
+    "slug": "gunsmith?mat=hornbeam",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Hornbeam",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Hornbeam ×1"
+  },
+  "gunsmith?mat=linseed-oil": {
+    "slug": "gunsmith?mat=linseed-oil",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Linseed Oil",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Linseed Oil ×2"
+  },
+  "gunsmith-recipe-heavy-ammunition": {
+    "slug": "gunsmith-recipe-heavy-ammunition",
+    "name": "Gunsmith Recipe - Heavy Ammunition",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Heavy Ammunition Rare Lv 160 Base recipe"
+  },
+  "gunsmith-recipe-cavalier": {
+    "slug": "gunsmith-recipe-cavalier",
+    "name": "Gunsmith Recipe - Cavalier",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Cavalier Rare Lv 175 Recipe to find"
+  },
+  "gunsmith?mat=iron-holdfast": {
+    "slug": "gunsmith?mat=iron-holdfast",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Iron Holdfast",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Holdfast ×2"
+  },
+  "gunsmith-recipe-refined-ammunition": {
+    "slug": "gunsmith-recipe-refined-ammunition",
+    "name": "Gunsmith Recipe - Refined Ammunition",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Refined Ammunition Epic Lv 200 Recipe to find"
+  },
+  "gunsmith?mat=mammoth-grain": {
+    "slug": "gunsmith?mat=mammoth-grain",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Mammoth Grain",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mammoth Grain ×24"
+  },
+  "gunsmith-recipe-vepr": {
+    "slug": "gunsmith-recipe-vepr",
+    "name": "Gunsmith Recipe - Vepr",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Vepr Rare Lv 205 Recipe to find"
+  },
+  "gunsmith?mat=steelband": {
+    "slug": "gunsmith?mat=steelband",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Steelband",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Steelband ×2"
+  },
+  "gunsmith?mat=pine-rosin": {
+    "slug": "gunsmith?mat=pine-rosin",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Pine Rosin",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pine Rosin ×5"
+  },
+  "gunsmith-recipe-kompas": {
+    "slug": "gunsmith-recipe-kompas",
+    "name": "Gunsmith Recipe - Kompas",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Kompas Rare Lv 225 Recipe to find"
+  },
+  "gunsmith?mat=burr-walnut": {
+    "slug": "gunsmith?mat=burr-walnut",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Burr Walnut",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Burr Walnut ×1"
+  },
+  "gunsmith-recipe-marengo": {
+    "slug": "gunsmith-recipe-marengo",
+    "name": "Gunsmith Recipe - Marengo",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Marengo Epic Lv 225 Base recipe"
+  },
+  "gunsmith?mat=lockspring-steel": {
+    "slug": "gunsmith?mat=lockspring-steel",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Lockspring Steel",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Lockspring Steel ×3"
+  },
+  "gunsmith?mat=tortoise-shell": {
+    "slug": "gunsmith?mat=tortoise-shell",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Tortoise Shell",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tortoise Shell ×3"
+  },
+  "gunsmith?mat=smokesilver": {
+    "slug": "gunsmith?mat=smokesilver",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Smokesilver",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Smokesilver ×1"
+  },
+  "gunsmith-recipe-exotic-ammunition": {
+    "slug": "gunsmith-recipe-exotic-ammunition",
+    "name": "Gunsmith Recipe - Exotic Ammunition",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Exotic Ammunition Epic Lv 235 Recipe to find"
+  },
+  "gunsmith-recipe-lionne": {
+    "slug": "gunsmith-recipe-lionne",
+    "name": "Gunsmith Recipe - Lionne",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Lionne Epic Lv 235 Recipe to find"
+  },
+  "gunsmith?mat=large-silver-candlestick": {
+    "slug": "gunsmith?mat=large-silver-candlestick",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Large Silver Candlestick",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Large Silver Candlestick ×1"
+  },
+  "gunsmith?mat=blacksand": {
+    "slug": "gunsmith?mat=blacksand",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Blacksand",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blacksand ×1"
+  },
+  "gunsmith?mat=rottenstone": {
+    "slug": "gunsmith?mat=rottenstone",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Rottenstone",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Rottenstone ×1"
+  },
+  "gunsmith?mat=pine-oil": {
+    "slug": "gunsmith?mat=pine-oil",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Pine Oil",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pine Oil ×4"
+  },
+  "gunsmith-recipe-lasher": {
+    "slug": "gunsmith-recipe-lasher",
+    "name": "Gunsmith Recipe - Lasher",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Lasher Epic Lv 250 Recipe to find"
+  },
+  "gunsmith?mat=gunblue": {
+    "slug": "gunsmith?mat=gunblue",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Gunblue",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Gunblue ×1"
+  },
+  "gunsmith?mat=pitch": {
+    "slug": "gunsmith?mat=pitch",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Pitch",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pitch ×5"
+  },
+  "gunsmith-recipe-morgan": {
+    "slug": "gunsmith-recipe-morgan",
+    "name": "Gunsmith Recipe - Morgan",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Morgan Epic Lv 275 Recipe to find"
+  },
+  "gunsmith?mat=fine-file": {
+    "slug": "gunsmith?mat=fine-file",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Fine File",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fine File ×2"
+  },
+  "gunsmith-recipe-voir": {
+    "slug": "gunsmith-recipe-voir",
+    "name": "Gunsmith Recipe - Voir",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Voir Epic Lv 275 Recipe to find"
+  },
+  "gunsmith?mat=cold-iron": {
+    "slug": "gunsmith?mat=cold-iron",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Cold Iron",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cold Iron ×5"
+  },
+  "gunsmith?mat=intact-leather-gasket": {
+    "slug": "gunsmith?mat=intact-leather-gasket",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Intact Leather Gasket",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Intact Leather Gasket ×1"
+  },
+  "gunsmith?mat=sootblack": {
+    "slug": "gunsmith?mat=sootblack",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Sootblack",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sootblack ×9"
+  },
+  "gunsmith-recipe-borodino": {
+    "slug": "gunsmith-recipe-borodino",
+    "name": "Gunsmith Recipe - Borodino",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Borodino Epic Lv 290 Recipe to find"
+  },
+  "gunsmith?mat=hartwood": {
+    "slug": "gunsmith?mat=hartwood",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Hartwood",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Hartwood ×2"
+  },
+  "gunsmith?mat=beeswax": {
+    "slug": "gunsmith?mat=beeswax",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Beeswax",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Beeswax ×10"
+  },
+  "gunsmith-recipe-swan": {
+    "slug": "gunsmith-recipe-swan",
+    "name": "Gunsmith Recipe - Swan",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Swan Epic Lv 299 Recipe to find"
+  },
+  "gunsmith?mat=ebony": {
+    "slug": "gunsmith?mat=ebony",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Ebony",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ebony ×1"
+  },
+  "gunsmith?mat=blacksmith-s-tongs": {
+    "slug": "gunsmith?mat=blacksmith-s-tongs",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Blacksmith S Tongs",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blacksmith's Tongs ×1"
+  },
+  "gunsmith?mat=fine-sand": {
+    "slug": "gunsmith?mat=fine-sand",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Fine Sand",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fine Sand ×3"
+  },
+  "gunsmith?mat=brass-plate": {
+    "slug": "gunsmith?mat=brass-plate",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Brass Plate",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Brass Plate ×2"
+  },
+  "gunsmith-recipe-jager": {
+    "slug": "gunsmith-recipe-jager",
+    "name": "Gunsmith Recipe - Jager",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Jager Legendary Lv 301 Recipe to find"
+  },
+  "gunsmith?mat=marksman-s-spine": {
+    "slug": "gunsmith?mat=marksman-s-spine",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Marksman S Spine",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Marksman's Spine ×3"
+  },
+  "gunsmith?mat=damascus-steel": {
+    "slug": "gunsmith?mat=damascus-steel",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Damascus Steel",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Damascus Steel ×1"
+  },
+  "gunsmith?mat=serpentstone": {
+    "slug": "gunsmith?mat=serpentstone",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Serpentstone",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Serpentstone ×2"
+  },
+  "gunsmith-recipe-volcan": {
+    "slug": "gunsmith-recipe-volcan",
+    "name": "Gunsmith Recipe - Volcan",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Volcan Legendary Lv 345 Recipe to find"
+  },
+  "gunsmith?mat=gold-leaf": {
+    "slug": "gunsmith?mat=gold-leaf",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Gold Leaf",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Gold Leaf ×1"
+  },
+  "gunsmith?mat=ivory-tusk": {
+    "slug": "gunsmith?mat=ivory-tusk",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Ivory Tusk",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ivory Tusk ×2"
+  },
+  "gunsmith?mat=leather-trimmings": {
+    "slug": "gunsmith?mat=leather-trimmings",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Leather Trimmings",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Leather Trimmings ×1"
+  },
+  "gunsmith-recipe-belier": {
+    "slug": "gunsmith-recipe-belier",
+    "name": "Gunsmith Recipe - Belier",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Belier Legendary Lv 365 Recipe to find"
+  },
+  "gunsmith-recipe-drak": {
+    "slug": "gunsmith-recipe-drak",
+    "name": "Gunsmith Recipe - Drak",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Drak Legendary Lv 375 Recipe to find"
+  },
+  "gunsmith?mat=bloodwood": {
+    "slug": "gunsmith?mat=bloodwood",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Bloodwood",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bloodwood ×1"
+  },
+  "gunsmith?mat=ram-s-horn": {
+    "slug": "gunsmith?mat=ram-s-horn",
+    "name": "Gunsmith Recipe - Gunsmith?Mat=Ram S Horn",
+    "profession": "Gunsmith",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ram’s Horn ×9"
+  },
+  "metallurgist?band=1": {
+    "slug": "metallurgist?band=1",
+    "name": "Metallurgist Recipe - Metallurgist?Band=1",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Apprentice"
+  },
+  "metallurgist?band=2": {
+    "slug": "metallurgist?band=2",
+    "name": "Metallurgist Recipe - Metallurgist?Band=2",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Journeyman"
+  },
+  "metallurgist?band=3": {
+    "slug": "metallurgist?band=3",
+    "name": "Metallurgist Recipe - Metallurgist?Band=3",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Expert"
+  },
+  "metallurgist?band=4": {
+    "slug": "metallurgist?band=4",
+    "name": "Metallurgist Recipe - Metallurgist?Band=4",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Artisan"
+  },
+  "metallurgist?band=5": {
+    "slug": "metallurgist?band=5",
+    "name": "Metallurgist Recipe - Metallurgist?Band=5",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mastercrafter"
+  },
+  "metallurgist-recipe-dagger": {
+    "slug": "metallurgist-recipe-dagger",
+    "name": "Metallurgist Recipe - Dagger",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Dagger Common Lv 1 Base recipe"
+  },
+  "metallurgist?mat=lead-bar": {
+    "slug": "metallurgist?mat=lead-bar",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Lead Bar",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Lead Bar ×10"
+  },
+  "metallurgist?mat=whetstone": {
+    "slug": "metallurgist?mat=whetstone",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Whetstone",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Whetstone ×4"
+  },
+  "metallurgist-recipe-club": {
+    "slug": "metallurgist-recipe-club",
+    "name": "Metallurgist Recipe - Club",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Club Common Lv 50 Recipe to find"
+  },
+  "metallurgist?mat=thick-branch": {
+    "slug": "metallurgist?mat=thick-branch",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Thick Branch",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Thick Branch ×2"
+  },
+  "metallurgist?mat=pine-oil": {
+    "slug": "metallurgist?mat=pine-oil",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Pine Oil",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pine Oil ×1"
+  },
+  "metallurgist-recipe-short-sword": {
+    "slug": "metallurgist-recipe-short-sword",
+    "name": "Metallurgist Recipe - Short Sword",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Short Sword Uncommon Lv 75 Base recipe"
+  },
+  "metallurgist?mat=copper-bar": {
+    "slug": "metallurgist?mat=copper-bar",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Copper Bar",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Copper Bar ×10"
+  },
+  "metallurgist?mat=rottenstone": {
+    "slug": "metallurgist?mat=rottenstone",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Rottenstone",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Rottenstone ×1"
+  },
+  "metallurgist-recipe-mace": {
+    "slug": "metallurgist-recipe-mace",
+    "name": "Metallurgist Recipe - Mace",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Mace Uncommon Lv 100 Recipe to find"
+  },
+  "metallurgist?mat=belt-strap": {
+    "slug": "metallurgist?mat=belt-strap",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Belt Strap",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Belt Strap ×2"
+  },
+  "metallurgist?mat=sturdy-axe-handle": {
+    "slug": "metallurgist?mat=sturdy-axe-handle",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Sturdy Axe Handle",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sturdy Axe Handle ×1"
+  },
+  "metallurgist-recipe-longsword": {
+    "slug": "metallurgist-recipe-longsword",
+    "name": "Metallurgist Recipe - Longsword",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Longsword Uncommon Lv 125 Recipe to find"
+  },
+  "metallurgist?mat=ram-s-horn": {
+    "slug": "metallurgist?mat=ram-s-horn",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Ram S Horn",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ram’s Horn ×1"
+  },
+  "metallurgist?mat=tanned-hide": {
+    "slug": "metallurgist?mat=tanned-hide",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Tanned Hide",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tanned Hide ×1"
+  },
+  "metallurgist-recipe-rapier": {
+    "slug": "metallurgist-recipe-rapier",
+    "name": "Metallurgist Recipe - Rapier",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Rapier Rare Lv 150 Base recipe"
+  },
+  "metallurgist?mat=iron-bar": {
+    "slug": "metallurgist?mat=iron-bar",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Iron Bar",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Bar ×6"
+  },
+  "metallurgist?mat=leather-trimmings": {
+    "slug": "metallurgist?mat=leather-trimmings",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Leather Trimmings",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Leather Trimmings ×2"
+  },
+  "metallurgist-recipe-axe": {
+    "slug": "metallurgist-recipe-axe",
+    "name": "Metallurgist Recipe - Axe",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Axe Rare Lv 165 Recipe to find"
+  },
+  "metallurgist?mat=polished-handle": {
+    "slug": "metallurgist?mat=polished-handle",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Polished Handle",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Polished Handle ×1"
+  },
+  "metallurgist-recipe-spear": {
+    "slug": "metallurgist-recipe-spear",
+    "name": "Metallurgist Recipe - Spear",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Spear Rare Lv 185 Recipe to find"
+  },
+  "metallurgist?mat=hornbeam": {
+    "slug": "metallurgist?mat=hornbeam",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Hornbeam",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Hornbeam ×1"
+  },
+  "metallurgist?mat=impeccable-twine": {
+    "slug": "metallurgist?mat=impeccable-twine",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Impeccable Twine",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Impeccable Twine ×2"
+  },
+  "metallurgist-recipe-waraxe": {
+    "slug": "metallurgist-recipe-waraxe",
+    "name": "Metallurgist Recipe - Waraxe",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "War Axe Rare Lv 200 Recipe to find"
+  },
+  "metallurgist?mat=silver-candleholder": {
+    "slug": "metallurgist?mat=silver-candleholder",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Silver Candleholder",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Silver Candleholder ×1"
+  },
+  "metallurgist-recipe-sabre": {
+    "slug": "metallurgist-recipe-sabre",
+    "name": "Metallurgist Recipe - Sabre",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Sabre Epic Lv 225 Base recipe"
+  },
+  "metallurgist?mat=silver-bar": {
+    "slug": "metallurgist?mat=silver-bar",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Silver Bar",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Silver Bar ×8"
+  },
+  "metallurgist?mat=amber-pearl": {
+    "slug": "metallurgist?mat=amber-pearl",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Amber Pearl",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Amber Pearl ×1"
+  },
+  "metallurgist?mat=oxliver-oil": {
+    "slug": "metallurgist?mat=oxliver-oil",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Oxliver Oil",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Oxliver Oil ×3"
+  },
+  "metallurgist-recipe-halberd": {
+    "slug": "metallurgist-recipe-halberd",
+    "name": "Metallurgist Recipe - Halberd",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Halberd Epic Lv 275 Recipe to find"
+  },
+  "metallurgist?mat=polished-rod": {
+    "slug": "metallurgist?mat=polished-rod",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Polished Rod",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Polished Rod ×1"
+  },
+  "metallurgist?mat=blacksand": {
+    "slug": "metallurgist?mat=blacksand",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Blacksand",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blacksand ×1"
+  },
+  "metallurgist?mat=blacksmith-s-tongs": {
+    "slug": "metallurgist?mat=blacksmith-s-tongs",
+    "name": "Metallurgist Recipe - Metallurgist?Mat=Blacksmith S Tongs",
+    "profession": "Metallurgist",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blacksmith's Tongs ×1"
+  },
+  "cook?band=1": {
+    "slug": "cook?band=1",
+    "name": "Cook Recipe - Cook?Band=1",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Apprentice"
+  },
+  "cook?band=2": {
+    "slug": "cook?band=2",
+    "name": "Cook Recipe - Cook?Band=2",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Journeyman"
+  },
+  "cook?band=3": {
+    "slug": "cook?band=3",
+    "name": "Cook Recipe - Cook?Band=3",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Expert"
+  },
+  "cook?band=4": {
+    "slug": "cook?band=4",
+    "name": "Cook Recipe - Cook?Band=4",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Artisan"
+  },
+  "cook?band=5": {
+    "slug": "cook?band=5",
+    "name": "Cook Recipe - Cook?Band=5",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mastercrafter"
+  },
+  "cook-recipe-stewed-apple": {
+    "slug": "cook-recipe-stewed-apple",
+    "name": "Cook Recipe - Stewed Apple",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Stewed Apple Common Lv 1 Base recipe"
+  },
+  "cook?mat=sour-garlic": {
+    "slug": "cook?mat=sour-garlic",
+    "name": "Cook Recipe - Cook?Mat=Sour Garlic",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sour Garlic ×1"
+  },
+  "cook?mat=fresh-apple": {
+    "slug": "cook?mat=fresh-apple",
+    "name": "Cook Recipe - Cook?Mat=Fresh Apple",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fresh Apple ×5"
+  },
+  "cook-recipe-mouldy-baguette": {
+    "slug": "cook-recipe-mouldy-baguette",
+    "name": "Cook Recipe - Mouldy Baguette",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mouldy Baguette Common Lv 18 Recipe to find"
+  },
+  "cook?mat=flour": {
+    "slug": "cook?mat=flour",
+    "name": "Cook Recipe - Cook?Mat=Flour",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Flour ×1"
+  },
+  "cook-recipe-tepid-water": {
+    "slug": "cook-recipe-tepid-water",
+    "name": "Cook Recipe - Tepid Water",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tepid Water Common Lv 35 Recipe to find"
+  },
+  "cook?mat=stale-piss": {
+    "slug": "cook?mat=stale-piss",
+    "name": "Cook Recipe - Cook?Mat=Stale Piss",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Stale Piss ×1"
+  },
+  "cook-recipe-thin-gruel": {
+    "slug": "cook-recipe-thin-gruel",
+    "name": "Cook Recipe - Thin Gruel",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Thin Gruel Common Lv 55 Recipe to find"
+  },
+  "cook?mat=rye": {
+    "slug": "cook?mat=rye",
+    "name": "Cook Recipe - Cook?Mat=Rye",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Rye ×4"
+  },
+  "cook-recipe-spoiled-rum": {
+    "slug": "cook-recipe-spoiled-rum",
+    "name": "Cook Recipe - Spoiled Rum",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Spoiled Rum Common Lv 65 Recipe to find"
+  },
+  "cook-recipe-jellied-apple": {
+    "slug": "cook-recipe-jellied-apple",
+    "name": "Cook Recipe - Jellied Apple",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Jellied Apple Uncommon Lv 75 Base recipe"
+  },
+  "cook?mat=oil-of-clove": {
+    "slug": "cook?mat=oil-of-clove",
+    "name": "Cook Recipe - Cook?Mat=Oil Of Clove",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Oil of Clove ×3"
+  },
+  "cook?mat=crude-preserving-jar": {
+    "slug": "cook?mat=crude-preserving-jar",
+    "name": "Cook Recipe - Cook?Mat=Crude Preserving Jar",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Crude Preserving Jar ×1"
+  },
+  "cook-recipe-fresh-baguette": {
+    "slug": "cook-recipe-fresh-baguette",
+    "name": "Cook Recipe - Fresh Baguette",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Fresh Baguette Uncommon Lv 90 Recipe to find"
+  },
+  "cook?mat=lard": {
+    "slug": "cook?mat=lard",
+    "name": "Cook Recipe - Cook?Mat=Lard",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Lard ×10"
+  },
+  "cook-recipe-boiled-water": {
+    "slug": "cook-recipe-boiled-water",
+    "name": "Cook Recipe - Boiled Water",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Boiled Water Uncommon Lv 110 Recipe to find"
+  },
+  "cook?mat=distilled-water": {
+    "slug": "cook?mat=distilled-water",
+    "name": "Cook Recipe - Cook?Mat=Distilled Water",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Distilled Water ×2"
+  },
+  "cook?mat=bone-char": {
+    "slug": "cook?mat=bone-char",
+    "name": "Cook Recipe - Cook?Mat=Bone Char",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bone Char ×1"
+  },
+  "cook-recipe-cabbage-soup": {
+    "slug": "cook-recipe-cabbage-soup",
+    "name": "Cook Recipe - Cabbage Soup",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Cabbage Soup Uncommon Lv 130 Recipe to find"
+  },
+  "cook?mat=wet-cabbage": {
+    "slug": "cook?mat=wet-cabbage",
+    "name": "Cook Recipe - Cook?Mat=Wet Cabbage",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Wet Cabbage ×2"
+  },
+  "cook-recipe-sweet-rum": {
+    "slug": "cook-recipe-sweet-rum",
+    "name": "Cook Recipe - Sweet Rum",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Sweet Rum Uncommon Lv 140 Recipe to find"
+  },
+  "cook?mat=cork-stopper": {
+    "slug": "cook?mat=cork-stopper",
+    "name": "Cook Recipe - Cook?Mat=Cork Stopper",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cork Stopper ×1"
+  },
+  "cook-recipe-apple-pie": {
+    "slug": "cook-recipe-apple-pie",
+    "name": "Cook Recipe - Apple Pie",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Apple Pie Rare Lv 150 Base recipe"
+  },
+  "cook?mat=fine-cinnamon": {
+    "slug": "cook?mat=fine-cinnamon",
+    "name": "Cook Recipe - Cook?Mat=Fine Cinnamon",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fine Cinnamon ×2"
+  },
+  "cook-recipe-fougasse-bread": {
+    "slug": "cook-recipe-fougasse-bread",
+    "name": "Cook Recipe - Fougasse Bread",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Fougasse Bread Rare Lv 170 Recipe to find"
+  },
+  "cook?mat=basil": {
+    "slug": "cook?mat=basil",
+    "name": "Cook Recipe - Cook?Mat=Basil",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Basil ×1"
+  },
+  "cook-recipe-purified-water": {
+    "slug": "cook-recipe-purified-water",
+    "name": "Cook Recipe - Purified Water",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Purified Water Rare Lv 190 Recipe to find"
+  },
+  "cook-recipe-kedgeree": {
+    "slug": "cook-recipe-kedgeree",
+    "name": "Cook Recipe - Kedgeree",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Kedgeree Rare Lv 205 Recipe to find"
+  },
+  "cook?mat=fresh-egg": {
+    "slug": "cook?mat=fresh-egg",
+    "name": "Cook Recipe - Cook?Mat=Fresh Egg",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fresh Egg ×10"
+  },
+  "cook?mat=brined-flesh": {
+    "slug": "cook?mat=brined-flesh",
+    "name": "Cook Recipe - Cook?Mat=Brined Flesh",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Brined Flesh ×3"
+  },
+  "cook-recipe-rum-of-the-indies": {
+    "slug": "cook-recipe-rum-of-the-indies",
+    "name": "Cook Recipe - Rum Of The Indies",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Rum of the Indies Rare Lv 215 Recipe to find"
+  },
+  "cook?mat=beeswax": {
+    "slug": "cook?mat=beeswax",
+    "name": "Cook Recipe - Cook?Mat=Beeswax",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Beeswax ×4"
+  },
+  "cook-recipe-candied-apple": {
+    "slug": "cook-recipe-candied-apple",
+    "name": "Cook Recipe - Candied Apple",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Candied Apple Epic Lv 225 Base recipe"
+  },
+  "cook?mat=saffron-threads": {
+    "slug": "cook?mat=saffron-threads",
+    "name": "Cook Recipe - Cook?Mat=Saffron Threads",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Saffron Threads ×3"
+  },
+  "cook?mat=pure-honey": {
+    "slug": "cook?mat=pure-honey",
+    "name": "Cook Recipe - Cook?Mat=Pure Honey",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pure Honey ×8"
+  },
+  "cook-recipe-spiced-bread": {
+    "slug": "cook-recipe-spiced-bread",
+    "name": "Cook Recipe - Spiced Bread",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Spiced Bread Epic Lv 245 Recipe to find"
+  },
+  "cook?mat=dried-grapes": {
+    "slug": "cook?mat=dried-grapes",
+    "name": "Cook Recipe - Cook?Mat=Dried Grapes",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Dried Grapes ×2"
+  },
+  "cook-recipe-regimental-reserve": {
+    "slug": "cook-recipe-regimental-reserve",
+    "name": "Cook Recipe - Regimental Reserve",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Regimental Reserve Epic Lv 265 Recipe to find"
+  },
+  "cook-recipe-burgundy-ragout": {
+    "slug": "cook-recipe-burgundy-ragout",
+    "name": "Cook Recipe - Burgundy Ragout",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Burgundy Ragout Epic Lv 285 Recipe to find"
+  },
+  "cook?mat=sun-ripened-haunch": {
+    "slug": "cook?mat=sun-ripened-haunch",
+    "name": "Cook Recipe - Cook?Mat=Sun Ripened Haunch",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Sun Ripened Haunch ×2"
+  },
+  "cook?mat=brown-onion": {
+    "slug": "cook?mat=brown-onion",
+    "name": "Cook Recipe - Cook?Mat=Brown Onion",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Brown Onion ×4"
+  },
+  "cook?mat=crisp-carrot": {
+    "slug": "cook?mat=crisp-carrot",
+    "name": "Cook Recipe - Cook?Mat=Crisp Carrot",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Crisp Carrot ×2"
+  },
+  "cook-recipe-naval-rum": {
+    "slug": "cook-recipe-naval-rum",
+    "name": "Cook Recipe - Naval Rum",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Naval Rum Epic Lv 290 Recipe to find"
+  },
+  "cook-recipe-tarte-tatin": {
+    "slug": "cook-recipe-tarte-tatin",
+    "name": "Cook Recipe - Tarte Tatin",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Tarte Tatin Legendary Lv 301 Recipe to find"
+  },
+  "cook?mat=malabar-pepper": {
+    "slug": "cook?mat=malabar-pepper",
+    "name": "Cook Recipe - Cook?Mat=Malabar Pepper",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Malabar Pepper ×2"
+  },
+  "cook?mat=royal-jelly": {
+    "slug": "cook?mat=royal-jelly",
+    "name": "Cook Recipe - Cook?Mat=Royal Jelly",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Royal Jelly ×1"
+  },
+  "cook-recipe-brioche": {
+    "slug": "cook-recipe-brioche",
+    "name": "Cook Recipe - Brioche",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Brioche Legendary Lv 320 Recipe to find"
+  },
+  "cook-recipe-evian-spring-water": {
+    "slug": "cook-recipe-evian-spring-water",
+    "name": "Cook Recipe - Evian Spring Water",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Évian Spring Water Legendary Lv 340 Recipe to find"
+  },
+  "cook-recipe-imperial-pot-au-feu": {
+    "slug": "cook-recipe-imperial-pot-au-feu",
+    "name": "Cook Recipe - Imperial Pot Au Feu",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Imperial Pot-au-Feu Legendary Lv 355 Recipe to find"
+  },
+  "cook?mat=foie-gras": {
+    "slug": "cook?mat=foie-gras",
+    "name": "Cook Recipe - Cook?Mat=Foie Gras",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Foie Gras ×2"
+  },
+  "cook?mat=carrion-shank": {
+    "slug": "cook?mat=carrion-shank",
+    "name": "Cook Recipe - Cook?Mat=Carrion Shank",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Carrion Shank ×1"
+  },
+  "cook-recipe-remy-of-barbadoes-rum": {
+    "slug": "cook-recipe-remy-of-barbadoes-rum",
+    "name": "Cook Recipe - Remy Of Barbadoes Rum",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Remy of Barbados Legendary Lv 365 Recipe to find"
+  },
+  "cook?mat=opium": {
+    "slug": "cook?mat=opium",
+    "name": "Cook Recipe - Cook?Mat=Opium",
+    "profession": "Cook",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Opium ×8"
+  },
+  "artificer?band=1": {
+    "slug": "artificer?band=1",
+    "name": "Artificer Recipe - Artificer?Band=1",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Apprentice"
+  },
+  "artificer?band=2": {
+    "slug": "artificer?band=2",
+    "name": "Artificer Recipe - Artificer?Band=2",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Journeyman"
+  },
+  "artificer?band=3": {
+    "slug": "artificer?band=3",
+    "name": "Artificer Recipe - Artificer?Band=3",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Expert"
+  },
+  "artificer?band=4": {
+    "slug": "artificer?band=4",
+    "name": "Artificer Recipe - Artificer?Band=4",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Artisan"
+  },
+  "artificer?band=5": {
+    "slug": "artificer?band=5",
+    "name": "Artificer Recipe - Artificer?Band=5",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mastercrafter"
+  },
+  "artificer-recipe-cloth-armour-plate": {
+    "slug": "artificer-recipe-cloth-armour-plate",
+    "name": "Artificer Recipe - Cloth Armour Plate",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cloth Armour Plate Common Lv 1 Base recipe"
+  },
+  "artificer?mat=copper-filament": {
+    "slug": "artificer?mat=copper-filament",
+    "name": "Artificer Recipe - Artificer?Mat=Copper Filament",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Copper Filament ×1"
+  },
+  "artificer?mat=cabinet-handle": {
+    "slug": "artificer?mat=cabinet-handle",
+    "name": "Artificer Recipe - Artificer?Mat=Cabinet Handle",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cabinet Handle ×1"
+  },
+  "artificer-recipe-rusty-tongs": {
+    "slug": "artificer-recipe-rusty-tongs",
+    "name": "Artificer Recipe - Rusty Tongs",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Rusty Tongs Common Lv 50 Recipe to find"
+  },
+  "artificer?mat=latch-hook": {
+    "slug": "artificer?mat=latch-hook",
+    "name": "Artificer Recipe - Artificer?Mat=Latch Hook",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Latch Hook ×1"
+  },
+  "artificer-recipe-leather-armour-plate": {
+    "slug": "artificer-recipe-leather-armour-plate",
+    "name": "Artificer Recipe - Leather Armour Plate",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Leather Armour Plate Uncommon Lv 75 Base recipe"
+  },
+  "artificer?mat=ferrite": {
+    "slug": "artificer?mat=ferrite",
+    "name": "Artificer Recipe - Artificer?Mat=Ferrite",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ferrite ×4"
+  },
+  "artificer?mat=spindle-pulley": {
+    "slug": "artificer?mat=spindle-pulley",
+    "name": "Artificer Recipe - Artificer?Mat=Spindle Pulley",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Spindle Pulley ×1"
+  },
+  "artificer-recipe-journeyman-tongs": {
+    "slug": "artificer-recipe-journeyman-tongs",
+    "name": "Artificer Recipe - Journeyman Tongs",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Journeyman Tongs Uncommon Lv 125 Recipe to find"
+  },
+  "artificer-recipe-ceramic-armour-plate": {
+    "slug": "artificer-recipe-ceramic-armour-plate",
+    "name": "Artificer Recipe - Ceramic Armour Plate",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Ceramic Armour Plate Rare Lv 150 Base recipe"
+  },
+  "artificer?mat=ambergris": {
+    "slug": "artificer?mat=ambergris",
+    "name": "Artificer Recipe - Artificer?Mat=Ambergris",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ambergris ×6"
+  },
+  "artificer?mat=tent-peg": {
+    "slug": "artificer?mat=tent-peg",
+    "name": "Artificer Recipe - Artificer?Mat=Tent Peg",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tent Peg ×2"
+  },
+  "artificer?mat=canvas-patch": {
+    "slug": "artificer?mat=canvas-patch",
+    "name": "Artificer Recipe - Artificer?Mat=Canvas Patch",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Canvas Patch ×5"
+  },
+  "artificer-recipe-machinist-tongs": {
+    "slug": "artificer-recipe-machinist-tongs",
+    "name": "Artificer Recipe - Machinist Tongs",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Machinist Tongs Rare Lv 200 Recipe to find"
+  },
+  "artificer?mat=silver-candleholder": {
+    "slug": "artificer?mat=silver-candleholder",
+    "name": "Artificer Recipe - Artificer?Mat=Silver Candleholder",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Silver Candleholder ×3"
+  },
+  "artificer?mat=intact-leather-gasket": {
+    "slug": "artificer?mat=intact-leather-gasket",
+    "name": "Artificer Recipe - Artificer?Mat=Intact Leather Gasket",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Intact Leather Gasket ×4"
+  },
+  "artificer-recipe-steel-armour-plate": {
+    "slug": "artificer-recipe-steel-armour-plate",
+    "name": "Artificer Recipe - Steel Armour Plate",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Steel Armour Plate Epic Lv 225 Base recipe"
+  },
+  "artificer?mat=chromatic-lens": {
+    "slug": "artificer?mat=chromatic-lens",
+    "name": "Artificer Recipe - Artificer?Mat=Chromatic Lens",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Chromatic Lens ×5"
+  },
+  "artificer?mat=iron-holdfast": {
+    "slug": "artificer?mat=iron-holdfast",
+    "name": "Artificer Recipe - Artificer?Mat=Iron Holdfast",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron Holdfast ×5"
+  },
+  "artificer?mat=gilded-tassels": {
+    "slug": "artificer?mat=gilded-tassels",
+    "name": "Artificer Recipe - Artificer?Mat=Gilded Tassels",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Gilded Tassels ×2"
+  },
+  "artificer?mat=shiny-buckle": {
+    "slug": "artificer?mat=shiny-buckle",
+    "name": "Artificer Recipe - Artificer?Mat=Shiny Buckle",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Shiny Buckle ×2"
+  },
+  "artificer-recipe-delicate-tongs": {
+    "slug": "artificer-recipe-delicate-tongs",
+    "name": "Artificer Recipe - Delicate Tongs",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Delicate Tongs Epic Lv 275 Recipe to find"
+  },
+  "artificer?mat=distilled-mercury": {
+    "slug": "artificer?mat=distilled-mercury",
+    "name": "Artificer Recipe - Artificer?Mat=Distilled Mercury",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Distilled Mercury ×14"
+  },
+  "artificer?mat=fancy-silver-plaque": {
+    "slug": "artificer?mat=fancy-silver-plaque",
+    "name": "Artificer Recipe - Artificer?Mat=Fancy Silver Plaque",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fancy Silver Plaque ×2"
+  },
+  "artificer?mat=blacksmith-s-tongs": {
+    "slug": "artificer?mat=blacksmith-s-tongs",
+    "name": "Artificer Recipe - Artificer?Mat=Blacksmith S Tongs",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blacksmith's Tongs ×1"
+  },
+  "artificer?mat=iron-file": {
+    "slug": "artificer?mat=iron-file",
+    "name": "Artificer Recipe - Artificer?Mat=Iron File",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Iron File ×1"
+  },
+  "artificer-recipe-damascus-armour-plate": {
+    "slug": "artificer-recipe-damascus-armour-plate",
+    "name": "Artificer Recipe - Damascus Armour Plate",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Damascus Armour Plate Legendary Lv 300 Recipe to find"
+  },
+  "artificer?mat=fine-file": {
+    "slug": "artificer?mat=fine-file",
+    "name": "Artificer Recipe - Artificer?Mat=Fine File",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fine File ×2"
+  },
+  "artificer?mat=tortoise-shell": {
+    "slug": "artificer?mat=tortoise-shell",
+    "name": "Artificer Recipe - Artificer?Mat=Tortoise Shell",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Tortoise Shell ×2"
+  },
+  "artificer?mat=silver-dish": {
+    "slug": "artificer?mat=silver-dish",
+    "name": "Artificer Recipe - Artificer?Mat=Silver Dish",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Silver Dish ×5"
+  },
+  "artificer?mat=torn-damask": {
+    "slug": "artificer?mat=torn-damask",
+    "name": "Artificer Recipe - Artificer?Mat=Torn Damask",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Torn Damask ×4"
+  },
+  "artificer-recipe-clockwork-tongs": {
+    "slug": "artificer-recipe-clockwork-tongs",
+    "name": "Artificer Recipe - Clockwork Tongs",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Clockwork Tongs Legendary Lv 350 Recipe to find"
+  },
+  "artificer?mat=shagreen": {
+    "slug": "artificer?mat=shagreen",
+    "name": "Artificer Recipe - Artificer?Mat=Shagreen",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Shagreen ×1"
+  },
+  "artificer?mat=pinchbeck": {
+    "slug": "artificer?mat=pinchbeck",
+    "name": "Artificer Recipe - Artificer?Mat=Pinchbeck",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pinchbeck ×1"
+  },
+  "artificer?mat=oxliver-oil": {
+    "slug": "artificer?mat=oxliver-oil",
+    "name": "Artificer Recipe - Artificer?Mat=Oxliver Oil",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Oxliver Oil ×3"
+  },
+  "artificer?mat=pitch": {
+    "slug": "artificer?mat=pitch",
+    "name": "Artificer Recipe - Artificer?Mat=Pitch",
+    "profession": "Artificer",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pitch ×2"
+  },
+  "physician?band=1": {
+    "slug": "physician?band=1",
+    "name": "Physician Recipe - Physician?Band=1",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Apprentice"
+  },
+  "physician?band=2": {
+    "slug": "physician?band=2",
+    "name": "Physician Recipe - Physician?Band=2",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Journeyman"
+  },
+  "physician?band=3": {
+    "slug": "physician?band=3",
+    "name": "Physician Recipe - Physician?Band=3",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Expert"
+  },
+  "physician?band=4": {
+    "slug": "physician?band=4",
+    "name": "Physician Recipe - Physician?Band=4",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Artisan"
+  },
+  "physician?band=5": {
+    "slug": "physician?band=5",
+    "name": "Physician Recipe - Physician?Band=5",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Mastercrafter"
+  },
+  "physician-recipe-crude-ampoule": {
+    "slug": "physician-recipe-crude-ampoule",
+    "name": "Physician Recipe - Crude Ampoule",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Crude Ampoule Common Lv 1 Base recipe"
+  },
+  "physician?mat=lavender-oil": {
+    "slug": "physician?mat=lavender-oil",
+    "name": "Physician Recipe - Physician?Mat=Lavender Oil",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Lavender Oil ×1"
+  },
+  "physician?mat=cork-stopper": {
+    "slug": "physician?mat=cork-stopper",
+    "name": "Physician Recipe - Physician?Mat=Cork Stopper",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cork Stopper ×1"
+  },
+  "physician-recipe-crude-bloodbag": {
+    "slug": "physician-recipe-crude-bloodbag",
+    "name": "Physician Recipe - Crude Bloodbag",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Crude Bloodbag Common Lv 50 Recipe to find"
+  },
+  "physician?mat=boiled-leather": {
+    "slug": "physician?mat=boiled-leather",
+    "name": "Physician Recipe - Physician?Mat=Boiled Leather",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Boiled Leather ×1"
+  },
+  "physician-recipe-basic-ampoule": {
+    "slug": "physician-recipe-basic-ampoule",
+    "name": "Physician Recipe - Basic Ampoule",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Basic Ampoule Uncommon Lv 75 Base recipe"
+  },
+  "physician?mat=dried-rosemary": {
+    "slug": "physician?mat=dried-rosemary",
+    "name": "Physician Recipe - Physician?Mat=Dried Rosemary",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Dried Rosemary ×4"
+  },
+  "physician?mat=feverfew": {
+    "slug": "physician?mat=feverfew",
+    "name": "Physician Recipe - Physician?Mat=Feverfew",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Feverfew ×3"
+  },
+  "physician-recipe-weak-antidote": {
+    "slug": "physician-recipe-weak-antidote",
+    "name": "Physician Recipe - Weak Antidote",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Weak Antidote Uncommon Lv 100 Recipe to find"
+  },
+  "physician?mat=bezoar": {
+    "slug": "physician?mat=bezoar",
+    "name": "Physician Recipe - Physician?Mat=Bezoar",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Bezoar ×1"
+  },
+  "physician-recipe-sealed-bloodbag": {
+    "slug": "physician-recipe-sealed-bloodbag",
+    "name": "Physician Recipe - Sealed Bloodbag",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Uncommon",
+    "raw_text": "Sealed Bloodbag Uncommon Lv 125 Recipe to find"
+  },
+  "physician?mat=lambgut": {
+    "slug": "physician?mat=lambgut",
+    "name": "Physician Recipe - Physician?Mat=Lambgut",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Lambgut ×10"
+  },
+  "physician-recipe-robust-ampoule": {
+    "slug": "physician-recipe-robust-ampoule",
+    "name": "Physician Recipe - Robust Ampoule",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Robust Ampoule Rare Lv 150 Base recipe"
+  },
+  "physician?mat=yarrow-dust": {
+    "slug": "physician?mat=yarrow-dust",
+    "name": "Physician Recipe - Physician?Mat=Yarrow Dust",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Yarrow Dust ×5"
+  },
+  "physician?mat=willow-bark": {
+    "slug": "physician?mat=willow-bark",
+    "name": "Physician Recipe - Physician?Mat=Willow Bark",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Willow Bark ×1"
+  },
+  "physician-recipe-robust-antidote": {
+    "slug": "physician-recipe-robust-antidote",
+    "name": "Physician Recipe - Robust Antidote",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Robust Antidote Rare Lv 175 Recipe to find"
+  },
+  "physician?mat=hartshorn": {
+    "slug": "physician?mat=hartshorn",
+    "name": "Physician Recipe - Physician?Mat=Hartshorn",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Hartshorn ×1"
+  },
+  "physician-recipe-pressurised-bloodbag": {
+    "slug": "physician-recipe-pressurised-bloodbag",
+    "name": "Physician Recipe - Pressurised Bloodbag",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Rare",
+    "raw_text": "Pressurised Bloodbag Rare Lv 200 Recipe to find"
+  },
+  "physician?mat=steelband": {
+    "slug": "physician?mat=steelband",
+    "name": "Physician Recipe - Physician?Mat=Steelband",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Steelband ×4"
+  },
+  "physician?mat=leather-trimmings": {
+    "slug": "physician?mat=leather-trimmings",
+    "name": "Physician Recipe - Physician?Mat=Leather Trimmings",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Leather Trimmings ×4"
+  },
+  "physician-recipe-empusa-s-tonic": {
+    "slug": "physician-recipe-empusa-s-tonic",
+    "name": "Physician Recipe - Empusa S Tonic",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Empusa's Tonic Epic Lv 225 Base recipe"
+  },
+  "physician?mat=fungal-unguent": {
+    "slug": "physician?mat=fungal-unguent",
+    "name": "Physician Recipe - Physician?Mat=Fungal Unguent",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fungal Unguent ×13"
+  },
+  "physician?mat=barrow-vein": {
+    "slug": "physician?mat=barrow-vein",
+    "name": "Physician Recipe - Physician?Mat=Barrow Vein",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Barrow Vein ×1"
+  },
+  "physician?mat=opium": {
+    "slug": "physician?mat=opium",
+    "name": "Physician Recipe - Physician?Mat=Opium",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Opium ×4"
+  },
+  "physician-recipe-scarlet-return": {
+    "slug": "physician-recipe-scarlet-return",
+    "name": "Physician Recipe - Scarlet Return",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Epic",
+    "raw_text": "Scarlet Return Epic Lv 275 Recipe to find"
+  },
+  "physician?mat=fine-file": {
+    "slug": "physician?mat=fine-file",
+    "name": "Physician Recipe - Physician?Mat=Fine File",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Fine File ×2"
+  },
+  "physician?mat=cold-iron": {
+    "slug": "physician?mat=cold-iron",
+    "name": "Physician Recipe - Physician?Mat=Cold Iron",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Cold Iron ×4"
+  },
+  "physician?mat=delicate-chain": {
+    "slug": "physician?mat=delicate-chain",
+    "name": "Physician Recipe - Physician?Mat=Delicate Chain",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Delicate Chain ×4"
+  },
+  "physician-recipe-ambrosia": {
+    "slug": "physician-recipe-ambrosia",
+    "name": "Physician Recipe - Ambrosia",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "Ambrosia Legendary Lv 300 Recipe to find"
+  },
+  "physician?mat=milk-of-poppy": {
+    "slug": "physician?mat=milk-of-poppy",
+    "name": "Physician Recipe - Physician?Mat=Milk Of Poppy",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Milk of Poppy ×21"
+  },
+  "physician?mat=isinglass": {
+    "slug": "physician?mat=isinglass",
+    "name": "Physician Recipe - Physician?Mat=Isinglass",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Isinglass ×1"
+  },
+  "physician?mat=glass-vial": {
+    "slug": "physician?mat=glass-vial",
+    "name": "Physician Recipe - Physician?Mat=Glass Vial",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Glass Vial ×1"
+  },
+  "physician?mat=pure-honey": {
+    "slug": "physician?mat=pure-honey",
+    "name": "Physician Recipe - Physician?Mat=Pure Honey",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Pure Honey ×5"
+  },
+  "physician-recipe-the-psychopomp": {
+    "slug": "physician-recipe-the-psychopomp",
+    "name": "Physician Recipe - The Psychopomp",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Legendary",
+    "raw_text": "The Psychopomp Legendary Lv 350 Recipe to find"
+  },
+  "physician?mat=blood-of-the-penitent": {
+    "slug": "physician?mat=blood-of-the-penitent",
+    "name": "Physician Recipe - Physician?Mat=Blood Of The Penitent",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Blood Of The Penitent ×2"
+  },
+  "physician?mat=ebony": {
+    "slug": "physician?mat=ebony",
+    "name": "Physician Recipe - Physician?Mat=Ebony",
+    "profession": "Physician",
+    "level": 1,
+    "rarity": "Common",
+    "raw_text": "Ebony ×4"
+  }
+}

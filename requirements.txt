@@ -1,0 +1,16 @@
+# ==============================================================================
+# Hunger Helper & Éloïse Co-Pilot - Python Dependencies
+# ==============================================================================
+
+discord.py>=2.3.0
+pillow>=10.0.0
+numpy>=1.26.0
+faster-whisper>=1.0.0
+edge-tts>=6.1.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+sounddevice>=0.4.6
+SpeechRecognition>=3.10.0
+imageio-ffmpeg>=0.4.9
+PyNaCl>=1.5.0
+tabulate>=0.9.0

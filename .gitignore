@@ -1,0 +1,66 @@
+# ==============================================================================
+# HUNGER HELPER & ELOISE CO-PILOT - GITIGNORE
+# ==============================================================================
+
+# Security & Secrets (CRITICAL: Never commit bot tokens or private keys)
+config.json
+.env
+.env.*
+*.pem
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Output directories (Dynamic generated maps & cards)
+output_maps/*
+!output_maps/.gitkeep
+
+# Temporary audio files & test recordings
+temp_audio/*
+!temp_audio/.gitkeep
+*.mp3
+*.wav
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Scratch files & temporary logs
+scratch/
+brain_test_output.txt
+category_test_results.txt
+extracted_all_user_prompts.txt
+*.log
+
+# OS & Editor generated files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store

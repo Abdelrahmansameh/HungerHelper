@@ -1,0 +1,2200 @@
+{
+  "gunsmith-recipe-volcan": {
+    "title": "Gunsmith Recipe - Volcan",
+    "slug": "gunsmith-recipe-volcan",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 280000,
+    "sell_display": "28 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 28 Gold"
+    ]
+  },
+  "outfitter-recipe-old-guard-helmet": {
+    "title": "Outfitter Recipe - Old Guard Helmet",
+    "slug": "outfitter-recipe-old-guard-helmet",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 216000,
+    "sell_display": "21 Gold 60 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 21 Gold 60 Silver"
+    ]
+  },
+  "outfitter-recipe-coldstream-pack": {
+    "title": "Outfitter Recipe - Coldstream Pack",
+    "slug": "outfitter-recipe-coldstream-pack",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 280000,
+    "sell_display": "28 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 28 Gold"
+    ]
+  },
+  "outfitter-recipe-old-guard-cuirass": {
+    "title": "Outfitter Recipe - Old Guard Cuirass",
+    "slug": "outfitter-recipe-old-guard-cuirass",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 323000,
+    "sell_display": "32 Gold 30 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 32 Gold 30 Silver"
+    ]
+  },
+  "outfitter-recipe-sheath-of-the-four-winds": {
+    "title": "Outfitter Recipe - Sheath of the Four Winds",
+    "slug": "outfitter-recipe-sheath-of-the-four-winds",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 420000,
+    "sell_display": "42 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 42 Gold"
+    ]
+  },
+  "cook-recipe-brioche": {
+    "title": "Cook Recipe - Brioche",
+    "slug": "cook-recipe-brioche",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 428550,
+    "sell_display": "42 Gold 85 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 42 Gold 85 Silver 50 Copper"
+    ]
+  },
+  "outfitter-recipe-pegasus": {
+    "title": "Outfitter Recipe - Pegasus",
+    "slug": "outfitter-recipe-pegasus",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 250000,
+    "sell_display": "25 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 25 Gold"
+    ]
+  },
+  "gunsmith-recipe-belier": {
+    "title": "Gunsmith Recipe - Belier",
+    "slug": "gunsmith-recipe-belier",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 400000,
+    "sell_display": "40 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 40 Gold"
+    ]
+  },
+  "outfitter-recipe-old-guard-greaves": {
+    "title": "Outfitter Recipe - Old Guard Greaves",
+    "slug": "outfitter-recipe-old-guard-greaves",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 278000,
+    "sell_display": "27 Gold 80 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 27 Gold 80 Silver"
+    ]
+  },
+  "cook-recipe-imperial-pot-au-feu": {
+    "title": "Cook Recipe - Imperial Pot-au-Feu",
+    "slug": "cook-recipe-imperial-pot-au-feu",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 38700,
+    "sell_display": "3 Gold 87 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 3 Gold 87 Silver"
+    ]
+  },
+  "outfitter-recipe-charon-s-oyster": {
+    "title": "Outfitter Recipe - Charon's Oyster",
+    "slug": "outfitter-recipe-charon-s-oyster",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 4500000,
+    "sell_display": "450 Gold",
+    "mob_drops": [
+      "Iron Dreg | 1/3 B"
+    ],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 💀 **Mob Drop :** Iron Dreg | 1/3 B",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 450 Gold"
+    ]
+  },
+  "gunsmith-recipe-drak": {
+    "title": "Gunsmith Recipe - Drak",
+    "slug": "gunsmith-recipe-drak",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 425000,
+    "sell_display": "42 Gold 50 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 42 Gold 50 Silver"
+    ]
+  },
+  "artificer-recipe-clockwork-tongs": {
+    "title": "Artificer Recipe - Clockwork Tongs",
+    "slug": "artificer-recipe-clockwork-tongs",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 661770,
+    "sell_display": "66 Gold 17 Silver 70 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 66 Gold 17 Silver 70 Copper"
+    ]
+  },
+  "cook-recipe-tarte-tatin": {
+    "title": "Cook Recipe - Tarte Tatin",
+    "slug": "cook-recipe-tarte-tatin",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 43400,
+    "sell_display": "4 Gold 34 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 34 Silver"
+    ]
+  },
+  "artificer-recipe-damascus-armour-plate": {
+    "title": "Artificer Recipe - Damascus Armour Plate",
+    "slug": "artificer-recipe-damascus-armour-plate",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 135480,
+    "sell_display": "13 Gold 54 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 13 Gold 54 Silver 80 Copper"
+    ]
+  },
+  "cook-recipe-evian-spring-water": {
+    "title": "Cook Recipe - Évian Spring Water",
+    "slug": "cook-recipe-evian-spring-water",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 43400,
+    "sell_display": "4 Gold 34 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 34 Silver"
+    ]
+  },
+  "outfitter-recipe-zazel-s-carry": {
+    "title": "Outfitter Recipe - Zazel's Carry",
+    "slug": "outfitter-recipe-zazel-s-carry",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 185000,
+    "sell_display": "18 Gold 50 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 18 Gold 50 Silver"
+    ]
+  },
+  "outfitter-recipe-apollo-holster": {
+    "title": "Outfitter Recipe - Apollo Holster",
+    "slug": "outfitter-recipe-apollo-holster",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 440000,
+    "sell_display": "44 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 44 Gold"
+    ]
+  },
+  "cook-recipe-remy-of-barbadoes-rum": {
+    "title": "Cook Recipe - Remy of Barbadoes Rum",
+    "slug": "cook-recipe-remy-of-barbadoes-rum",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 87000,
+    "sell_display": "8 Gold 70 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Gold 70 Silver"
+    ]
+  },
+  "gunsmith-recipe-jager": {
+    "title": "Gunsmith Recipe - Jager",
+    "slug": "gunsmith-recipe-jager",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 350000,
+    "sell_display": "35 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 35 Gold"
+    ]
+  },
+  "outfitter-recipe-zealot-s-tower": {
+    "title": "Outfitter Recipe - Zealot's Tower",
+    "slug": "outfitter-recipe-zealot-s-tower",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 370000,
+    "sell_display": "37 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 37 Gold"
+    ]
+  },
+  "austerlitz-mace": {
+    "title": "Austerlitz - Mace",
+    "slug": "austerlitz-mace",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 504500,
+    "sell_display": "50 Gold 45 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "In vendor stock · 1 vendor Hector 50 45",
+      "In vendor stock · 1 vendor"
+    ],
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from In vendor stock · 1 vendor Hector 50 45, In vendor stock · 1 vendor at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 50 Gold 45 Silver"
+    ]
+  },
+  "physician-recipe-ambrosia": {
+    "title": "Physician Recipe - Ambrosia",
+    "slug": "physician-recipe-ambrosia",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 78660,
+    "sell_display": "7 Gold 86 Silver 60 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 7 Gold 86 Silver 60 Copper"
+    ]
+  },
+  "artificer-recipe-steel-armour-plate": {
+    "title": "Artificer Recipe - Steel Armour Plate",
+    "slug": "artificer-recipe-steel-armour-plate",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 65570,
+    "sell_display": "6 Gold 55 Silver 70 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Gold 55 Silver 70 Copper"
+    ]
+  },
+  "physician-recipe-the-psychopomp": {
+    "title": "Physician Recipe - The Psychopomp",
+    "slug": "physician-recipe-the-psychopomp",
+    "rarity": "Artifact",
+    "category": "schema",
+    "sell_copper": 735300,
+    "sell_display": "73 Gold 53 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 73 Gold 53 Silver"
+    ]
+  },
+  "azrael-s-lockpick-dagger": {
+    "title": "Azrael's Lockpick - Dagger",
+    "slug": "azrael-s-lockpick-dagger",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 3336,
+    "sell_display": "33 Silver 36 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 33 Silver 36 Copper"
+    ]
+  },
+  "artificer-recipe-delicate-tongs": {
+    "title": "Artificer Recipe - Delicate Tongs",
+    "slug": "artificer-recipe-delicate-tongs",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 105140,
+    "sell_display": "10 Gold 51 Silver 40 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 10 Gold 51 Silver 40 Copper"
+    ]
+  },
+  "cook-recipe-burgundy-ragout": {
+    "title": "Cook Recipe - Burgundy Ragout",
+    "slug": "cook-recipe-burgundy-ragout",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 12240,
+    "sell_display": "1 Gold 22 Silver 40 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Gold 22 Silver 40 Copper"
+    ]
+  },
+  "cook-recipe-candied-apple": {
+    "title": "Cook Recipe - Candied Apple",
+    "slug": "cook-recipe-candied-apple",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 880,
+    "sell_display": "8 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Silver 80 Copper"
+    ]
+  },
+  "cook-recipe-spiced-bread": {
+    "title": "Cook Recipe - Spiced Bread",
+    "slug": "cook-recipe-spiced-bread",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 12240,
+    "sell_display": "1 Gold 22 Silver 40 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Gold 22 Silver 40 Copper"
+    ]
+  },
+  "gunsmith-recipe-lionne": {
+    "title": "Gunsmith Recipe - Lionne",
+    "slug": "gunsmith-recipe-lionne",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 70000,
+    "sell_display": "7 Gold",
+    "mob_drops": [],
+    "placed_drops": [
+      "Placed in the world 1 fixed spot · Jacques Bridge 1/13"
+    ],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Placed in the world 1 fixed spot · Jacques Bridge 1/13",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 7 Gold"
+    ]
+  },
+  "gunsmith-recipe-lasher": {
+    "title": "Gunsmith Recipe - Lasher",
+    "slug": "gunsmith-recipe-lasher",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 86000,
+    "sell_display": "8 Gold 60 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Gold 60 Silver"
+    ]
+  },
+  "gunsmith-recipe-swan": {
+    "title": "Gunsmith Recipe - Swan",
+    "slug": "gunsmith-recipe-swan",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 92000,
+    "sell_display": "9 Gold 20 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 9 Gold 20 Silver"
+    ]
+  },
+  "gunsmith-recipe-refined-ammunition": {
+    "title": "Gunsmith Recipe - Refined Ammunition",
+    "slug": "gunsmith-recipe-refined-ammunition",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 250000,
+    "sell_display": "25 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 25 Gold"
+    ]
+  },
+  "gunsmith-recipe-voir": {
+    "title": "Gunsmith Recipe - Voir",
+    "slug": "gunsmith-recipe-voir",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 84000,
+    "sell_display": "8 Gold 40 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Gold 40 Silver"
+    ]
+  },
+  "gunsmith-recipe-morgan": {
+    "title": "Gunsmith Recipe - Morgan",
+    "slug": "gunsmith-recipe-morgan",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 45000,
+    "sell_display": "4 Gold 50 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 50 Silver"
+    ]
+  },
+  "gunsmith-recipe-exotic-ammunition": {
+    "title": "Gunsmith Recipe - Exotic Ammunition",
+    "slug": "gunsmith-recipe-exotic-ammunition",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 1200000,
+    "sell_display": "120 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 120 Gold"
+    ]
+  },
+  "gunsmith-recipe-borodino": {
+    "title": "Gunsmith Recipe - Borodino",
+    "slug": "gunsmith-recipe-borodino",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 52000,
+    "sell_display": "5 Gold 20 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 5 Gold 20 Silver"
+    ]
+  },
+  "metallurgist-recipe-halberd": {
+    "title": "Metallurgist Recipe - Halberd",
+    "slug": "metallurgist-recipe-halberd",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 48000,
+    "sell_display": "4 Gold 80 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 80 Silver"
+    ]
+  },
+  "misericorde-dagger": {
+    "title": "Misericorde - Dagger",
+    "slug": "misericorde-dagger",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 3638,
+    "sell_display": "36 Silver 38 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 36 Silver 38 Copper"
+    ]
+  },
+  "midas-rebuke-foraging-basket": {
+    "title": "Midas Rebuke - Foraging Basket",
+    "slug": "midas-rebuke-foraging-basket",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 2052,
+    "sell_display": "20 Silver 52 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 20 Silver 52 Copper"
+    ]
+  },
+  "outfitter-recipe-black-dragoon-greaves": {
+    "title": "Outfitter Recipe - Black Dragoon Greaves",
+    "slug": "outfitter-recipe-black-dragoon-greaves",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 42000,
+    "sell_display": "4 Gold 20 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 20 Silver"
+    ]
+  },
+  "outfitter-recipe-black-dragoon-helmet": {
+    "title": "Outfitter Recipe - Black Dragoon Helmet",
+    "slug": "outfitter-recipe-black-dragoon-helmet",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 36320,
+    "sell_display": "3 Gold 63 Silver 20 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 3 Gold 63 Silver 20 Copper"
+    ]
+  },
+  "outfitter-recipe-boutet-s-riflecase": {
+    "title": "Outfitter Recipe - Boutet's Riflecase",
+    "slug": "outfitter-recipe-boutet-s-riflecase",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 68000,
+    "sell_display": "6 Gold 80 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Gold 80 Silver"
+    ]
+  },
+  "outfitter-recipe-black-dragoon-cuirass": {
+    "title": "Outfitter Recipe - Black Dragoon Cuirass",
+    "slug": "outfitter-recipe-black-dragoon-cuirass",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 51500,
+    "sell_display": "5 Gold 15 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 5 Gold 15 Silver"
+    ]
+  },
+  "outfitter-recipe-miser-s-purse": {
+    "title": "Outfitter Recipe - Miser's Purse",
+    "slug": "outfitter-recipe-miser-s-purse",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 52000,
+    "sell_display": "5 Gold 20 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 5 Gold 20 Silver"
+    ]
+  },
+  "outfitter-recipe-butterfly-cannister": {
+    "title": "Outfitter Recipe - Butterfly Cannister",
+    "slug": "outfitter-recipe-butterfly-cannister",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 45000,
+    "sell_display": "4 Gold 50 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 50 Silver"
+    ]
+  },
+  "outfitter-recipe-bag-of-maratha": {
+    "title": "Outfitter Recipe - Bag of Maratha",
+    "slug": "outfitter-recipe-bag-of-maratha",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 64000,
+    "sell_display": "6 Gold 40 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Gold 40 Silver"
+    ]
+  },
+  "outfitter-recipe-trevallion-s-valise": {
+    "title": "Outfitter Recipe - Trevallion's Valise",
+    "slug": "outfitter-recipe-trevallion-s-valise",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 58000,
+    "sell_display": "5 Gold 80 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 5 Gold 80 Silver"
+    ]
+  },
+  "physician-recipe-scarlet-return": {
+    "title": "Physician Recipe - Scarlet Return",
+    "slug": "physician-recipe-scarlet-return",
+    "rarity": "Legendary",
+    "category": "schema",
+    "sell_copper": 116830,
+    "sell_display": "11 Gold 68 Silver 30 Copper",
+    "mob_drops": [
+      "10 creatures Best: Dreg Physician 1/4,111"
+    ],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 💀 **Mob Drop :** 10 creatures Best: Dreg Physician 1/4,111",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 11 Gold 68 Silver 30 Copper"
+    ]
+  },
+  "artificer-recipe-machinist-tongs": {
+    "title": "Artificer Recipe - Machinist Tongs",
+    "slug": "artificer-recipe-machinist-tongs",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 17690,
+    "sell_display": "1 Gold 76 Silver 90 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "In vendor stock · 1 vendor Heinrich Voss 1 76 90",
+      "In vendor stock · 1 vendor"
+    ],
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from In vendor stock · 1 vendor Heinrich Voss 1 76 90, In vendor stock · 1 vendor at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Gold 76 Silver 90 Copper"
+    ]
+  },
+  "artificer-recipe-ceramic-armour-plate": {
+    "title": "Artificer Recipe - Ceramic Armour Plate",
+    "slug": "artificer-recipe-ceramic-armour-plate",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 10730,
+    "sell_display": "1 Gold 7 Silver 30 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Gold 7 Silver 30 Copper"
+    ]
+  },
+  "bacchus-wand-longboy": {
+    "title": "Bacchus' Wand - Longboy",
+    "slug": "bacchus-wand-longboy",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 210,
+    "sell_display": "2 Silver 10 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 2 Silver 10 Copper"
+    ]
+  },
+  "basilisk-rapier": {
+    "title": "Basilisk - Rapier",
+    "slug": "basilisk-rapier",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 2585,
+    "sell_display": "25 Silver 85 Copper",
+    "mob_drops": [],
+    "placed_drops": [
+      "Placed in the world 1 fixed spot · Sarlat Farm 1/10"
+    ],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Placed in the world 1 fixed spot · Sarlat Farm 1/10",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 25 Silver 85 Copper"
+    ]
+  },
+  "cook-recipe-apple-pie": {
+    "title": "Cook Recipe - Apple Pie",
+    "slug": "cook-recipe-apple-pie",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 880,
+    "sell_display": "8 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Silver 80 Copper"
+    ]
+  },
+  "cook-recipe-fougasse-bread": {
+    "title": "Cook Recipe - Fougasse Bread",
+    "slug": "cook-recipe-fougasse-bread",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1250,
+    "sell_display": "12 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "In vendor stock · 1 vendor Grillard 12 50",
+      "In vendor stock · 1 vendor"
+    ],
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from In vendor stock · 1 vendor Grillard 12 50, In vendor stock · 1 vendor at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 12 Silver 50 Copper"
+    ]
+  },
+  "cook-recipe-regimental-reserve": {
+    "title": "Cook Recipe - Regimental Reserve",
+    "slug": "cook-recipe-regimental-reserve",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 880,
+    "sell_display": "8 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Silver 80 Copper"
+    ]
+  },
+  "cook-recipe-kedgeree": {
+    "title": "Cook Recipe - Kedgeree",
+    "slug": "cook-recipe-kedgeree",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1550,
+    "sell_display": "15 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "In vendor stock · 1 vendor Grillard 15 50",
+      "In vendor stock · 1 vendor"
+    ],
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from In vendor stock · 1 vendor Grillard 15 50, In vendor stock · 1 vendor at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 15 Silver 50 Copper"
+    ]
+  },
+  "cook-recipe-naval-rum": {
+    "title": "Cook Recipe - Naval Rum",
+    "slug": "cook-recipe-naval-rum",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 42000,
+    "sell_display": "4 Gold 20 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold 20 Silver"
+    ]
+  },
+  "crus-sacrilege-club": {
+    "title": "Crus Sacrilege - Club",
+    "slug": "crus-sacrilege-club",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 2573,
+    "sell_display": "25 Silver 73 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 25 Silver 73 Copper"
+    ]
+  },
+  "danse-macabre-snub": {
+    "title": "Danse Macabre - Snub",
+    "slug": "danse-macabre-snub",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 210,
+    "sell_display": "2 Silver 10 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 2 Silver 10 Copper"
+    ]
+  },
+  "cook-recipe-purified-water": {
+    "title": "Cook Recipe - Purified Water",
+    "slug": "cook-recipe-purified-water",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 880,
+    "sell_display": "8 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Silver 80 Copper"
+    ]
+  },
+  "cook-recipe-rum-of-the-indies": {
+    "title": "Cook Recipe - Rum of the Indies",
+    "slug": "cook-recipe-rum-of-the-indies",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 6850,
+    "sell_display": "68 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [
+      "Placed in the world 1 fixed spot · Sombre Forest 1/10"
+    ],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Placed in the world 1 fixed spot · Sombre Forest 1/10",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 68 Silver 50 Copper"
+    ]
+  },
+  "eastern-promise-brown-betty": {
+    "title": "Eastern Promise - Brown Betty",
+    "slug": "eastern-promise-brown-betty",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1715,
+    "sell_display": "17 Silver 15 Copper",
+    "mob_drops": [],
+    "placed_drops": [
+      "Placed in the world 1 fixed spot · Jacques Bridge 1/20"
+    ],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Placed in the world 1 fixed spot · Jacques Bridge 1/20",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 17 Silver 15 Copper"
+    ]
+  },
+  "emperor-s-talon-dagger": {
+    "title": "Emperor's Talon - Dagger",
+    "slug": "emperor-s-talon-dagger",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 3242,
+    "sell_display": "32 Silver 42 Copper",
+    "mob_drops": [],
+    "placed_drops": [
+      "Placed in the world 1 fixed spot · Sombre Forest 1/20"
+    ],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Placed in the world 1 fixed spot · Sombre Forest 1/20",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 32 Silver 42 Copper"
+    ]
+  },
+  "golgotha-dagger": {
+    "title": "Golgotha - Dagger",
+    "slug": "golgotha-dagger",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1792,
+    "sell_display": "17 Silver 92 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 17 Silver 92 Copper"
+    ]
+  },
+  "gunsmith-recipe-heavy-ammunition": {
+    "title": "Gunsmith Recipe - Heavy Ammunition",
+    "slug": "gunsmith-recipe-heavy-ammunition",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 40000,
+    "sell_display": "4 Gold",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 4 Gold"
+    ]
+  },
+  "gunsmith-recipe-cavalier": {
+    "title": "Gunsmith Recipe - Cavalier",
+    "slug": "gunsmith-recipe-cavalier",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 9180,
+    "sell_display": "91 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "In vendor stock · 1 vendor Voyant the Rifleman 91 80",
+      "In vendor stock · 1 vendor"
+    ],
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from In vendor stock · 1 vendor Voyant the Rifleman 91 80, In vendor stock · 1 vendor at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 91 Silver 80 Copper"
+    ]
+  },
+  "gunsmith-recipe-vepr": {
+    "title": "Gunsmith Recipe - Vepr",
+    "slug": "gunsmith-recipe-vepr",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 10300,
+    "sell_display": "1 Gold 3 Silver",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "In vendor stock · 1 vendor Voyant the Rifleman 1 3",
+      "In vendor stock · 1 vendor"
+    ],
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from In vendor stock · 1 vendor Voyant the Rifleman 1 3, In vendor stock · 1 vendor at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Gold 3 Silver"
+    ]
+  },
+  "gunsmith-recipe-kompas": {
+    "title": "Gunsmith Recipe - Kompas",
+    "slug": "gunsmith-recipe-kompas",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 12100,
+    "sell_display": "1 Gold 21 Silver",
+    "mob_drops": [],
+    "placed_drops": [
+      "Placed in the world 1 fixed spot · Jacques Bridge 1/10"
+    ],
+    "vendor_buys": [],
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Placed in the world 1 fixed spot · Jacques Bridge 1/10",
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Gold 21 Silver"
+    ]
+  },
+  "hybernia-spear": {
+    "title": "Hybernia - Spear",
+    "slug": "hybernia-spear",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 2573,
+    "sell_display": "25 Silver 73 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 25 Silver 73 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "metallurgist-recipe-waraxe": {
+    "title": "Metallurgist Recipe - WarAxe",
+    "slug": "metallurgist-recipe-waraxe",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 10000,
+    "sell_display": "100 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 100 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "metallurgist-recipe-spear": {
+    "title": "Metallurgist Recipe - Spear",
+    "slug": "metallurgist-recipe-spear",
+    "rarity": "Epic",
+    "category": "Crafting Recipe",
+    "sell_copper": 9200,
+    "sell_display": "9 Silver 20 Copper",
+    "mob_drops": [],
+    "placed_drops": [
+      "Sarlat Farm (Dupo Farrier workshop) · 1/6.7 (14.9% High Rate)"
+    ],
+    "vendor_buys": [
+      "Henri at Chateau Hub (92 Silver)"
+    ],
+    "unlocks": "Crafting Spear Lv 185 at Chateau Metallurgist",
+    "summary_intel": [
+      "• 📍 **Placed World Loot :** Sarlat Farm (Dupo Farrier workshop) · 1/6.7 (14.9% High Rate)",
+      "• 🛒 **Merchant Stock :** Available from Henri at Chateau Hub (92 Silver) at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 9 Silver 20 Copper",
+      "• 🔓 **Unlock Rule :** Crafting Spear Lv 185 at Chateau Metallurgist"
+    ]
+  },
+  "metallurgist-recipe-axe": {
+    "title": "Metallurgist Recipe - Axe",
+    "slug": "metallurgist-recipe-axe",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 6500,
+    "sell_display": "65 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Henri"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Henri at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 65 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "old-iron-longsword": {
+    "title": "Old Iron - Longsword",
+    "slug": "old-iron-longsword",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1877,
+    "sell_display": "18 Silver 77 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 18 Silver 77 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "outfitter-recipe-grubber-s-purse": {
+    "title": "Outfitter Recipe - Grubber's Purse",
+    "slug": "outfitter-recipe-grubber-s-purse",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 9380,
+    "sell_display": "93 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 93 Silver 80 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-attaches-fold": {
+    "title": "Outfitter Recipe - Attachés Fold",
+    "slug": "outfitter-recipe-attaches-fold",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 10520,
+    "sell_display": "105 Silver 20 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 105 Silver 20 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-grenadier-s-battlepack": {
+    "title": "Outfitter Recipe - Grenadier's Battlepack",
+    "slug": "outfitter-recipe-grenadier-s-battlepack",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 14920,
+    "sell_display": "149 Silver 20 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 149 Silver 20 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "noble-halberd": {
+    "title": "Noble - Halberd",
+    "slug": "noble-halberd",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 275000,
+    "sell_display": "2750 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 2750 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "outfitter-recipe-sapper-s-cuirass": {
+    "title": "Outfitter Recipe - Sapper's Cuirass",
+    "slug": "outfitter-recipe-sapper-s-cuirass",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 7870,
+    "sell_display": "78 Silver 70 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 78 Silver 70 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-ludwig-s-drumcase": {
+    "title": "Outfitter Recipe - Ludwig's Drumcase",
+    "slug": "outfitter-recipe-ludwig-s-drumcase",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 12650,
+    "sell_display": "126 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 126 Silver 50 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-sapper-s-greaves": {
+    "title": "Outfitter Recipe - Sapper's Greaves",
+    "slug": "outfitter-recipe-sapper-s-greaves",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 6800,
+    "sell_display": "68 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 68 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-sapper-s-helmet": {
+    "title": "Outfitter Recipe - Sapper's Helmet",
+    "slug": "outfitter-recipe-sapper-s-helmet",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 7180,
+    "sell_display": "71 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 71 Silver 80 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-hunting-sling": {
+    "title": "Outfitter Recipe - Hunting Sling",
+    "slug": "outfitter-recipe-hunting-sling",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 17500,
+    "sell_display": "175 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 175 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "peasant-s-burden-spear": {
+    "title": "Peasant's Burden - Spear",
+    "slug": "peasant-s-burden-spear",
+    "rarity": "Epic",
+    "category": "Cosmetic Schema",
+    "sell_copper": 18,
+    "sell_display": "18 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Not sold by merchants (Raid Mob Exclusive Drop)"
+    ],
+    "unlocks": "Peasant's Burden appearance for Spear in Chateau Appearance menu",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 18 Copper",
+      "• 🔓 **Unlock Rule :** Peasant's Burden appearance for Spear in Chateau Appearance menu"
+    ]
+  },
+  "physician-recipe-pressurised-bloodbag": {
+    "title": "Physician Recipe - Pressurised Bloodbag",
+    "slug": "physician-recipe-pressurised-bloodbag",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 19660,
+    "sell_display": "196 Silver 60 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 196 Silver 60 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "physician-recipe-robust-antidote": {
+    "title": "Physician Recipe - Robust Antidote",
+    "slug": "physician-recipe-robust-antidote",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 6900,
+    "sell_display": "69 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 69 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "penitent-coinbox-miser-s-purse": {
+    "title": "Penitent Coinbox - Miser's Purse",
+    "slug": "penitent-coinbox-miser-s-purse",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1955,
+    "sell_display": "19 Silver 55 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 19 Silver 55 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "sacrament-war-axe": {
+    "title": "Sacrament - War Axe",
+    "slug": "sacrament-war-axe",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 3727,
+    "sell_display": "37 Silver 27 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 37 Silver 27 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "sister-of-the-seventh-depth-marie": {
+    "title": "Sister of the Seventh Depth - Marie",
+    "slug": "sister-of-the-seventh-depth-marie",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 818200,
+    "sell_display": "8182 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8182 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "sterling-rebuke-foraging-basket": {
+    "title": "Sterling Rebuke - Foraging Basket",
+    "slug": "sterling-rebuke-foraging-basket",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1592,
+    "sell_display": "15 Silver 92 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 15 Silver 92 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "solstice-vepr": {
+    "title": "Solstice - Vepr",
+    "slug": "solstice-vepr",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 2161,
+    "sell_display": "21 Silver 61 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 21 Silver 61 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "trident-dagger": {
+    "title": "Trident - Dagger",
+    "slug": "trident-dagger",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 903,
+    "sell_display": "9 Silver 3 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 9 Silver 3 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "voltigeur-s-barrel-leather-barrel-bag": {
+    "title": "Voltigeur's Barrel - Leather Barrel Bag",
+    "slug": "voltigeur-s-barrel-leather-barrel-bag",
+    "rarity": "Epic",
+    "category": "schema",
+    "sell_copper": 1385,
+    "sell_display": "13 Silver 85 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 13 Silver 85 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "artificer-recipe-journeyman-tongs": {
+    "title": "Artificer Recipe - Journeyman Tongs",
+    "slug": "artificer-recipe-journeyman-tongs",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 4770,
+    "sell_display": "47 Silver 70 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Heinrich Voss"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Heinrich Voss at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 47 Silver 70 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "argent-purse-grubber-s-purse": {
+    "title": "Argent Purse - Grubber's Purse",
+    "slug": "argent-purse-grubber-s-purse",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1812,
+    "sell_display": "18 Silver 12 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 18 Silver 12 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "artificer-recipe-leather-armour-plate": {
+    "title": "Artificer Recipe - Leather Armour Plate",
+    "slug": "artificer-recipe-leather-armour-plate",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 2720,
+    "sell_display": "27 Silver 20 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 27 Silver 20 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "bishop-s-rebuke-foraging-basket": {
+    "title": "Bishop’s Rebuke - Foraging Basket",
+    "slug": "bishop-s-rebuke-foraging-basket",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1201,
+    "sell_display": "12 Silver 1 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 12 Silver 1 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "brute-femur-club": {
+    "title": "Brute Femur - Club",
+    "slug": "brute-femur-club",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 852,
+    "sell_display": "8 Silver 52 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Silver 52 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "cook-recipe-boiled-water": {
+    "title": "Cook Recipe - Boiled Water",
+    "slug": "cook-recipe-boiled-water",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 550,
+    "sell_display": "5 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 5 Silver 50 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "cook-recipe-cabbage-soup": {
+    "title": "Cook Recipe - Cabbage Soup",
+    "slug": "cook-recipe-cabbage-soup",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 600,
+    "sell_display": "6 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Grillard"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Grillard at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "cook-recipe-jellied-apple": {
+    "title": "Cook Recipe - Jellied Apple",
+    "slug": "cook-recipe-jellied-apple",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 600,
+    "sell_display": "6 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "cook-recipe-fresh-baguette": {
+    "title": "Cook Recipe - Fresh Baguette",
+    "slug": "cook-recipe-fresh-baguette",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 600,
+    "sell_display": "6 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Grillard"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Grillard at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "cook-recipe-sweet-rum": {
+    "title": "Cook Recipe - Sweet Rum",
+    "slug": "cook-recipe-sweet-rum",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1750,
+    "sell_display": "17 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 17 Silver 50 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "frey-war-axe": {
+    "title": "Frey - War Axe",
+    "slug": "frey-war-axe",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 717,
+    "sell_display": "7 Silver 17 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 7 Silver 17 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "gunsmith-recipe-volant": {
+    "title": "Gunsmith Recipe - Volant",
+    "slug": "gunsmith-recipe-volant",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 6500,
+    "sell_display": "65 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Reynauld",
+      "Voyant the Rifleman"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Reynauld, Voyant the Rifleman at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 65 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "gunsmith-recipe-auster": {
+    "title": "Gunsmith Recipe - Auster",
+    "slug": "gunsmith-recipe-auster",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 3500,
+    "sell_display": "35 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 35 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "gunsmith-recipe-louisville": {
+    "title": "Gunsmith Recipe - Louisville",
+    "slug": "gunsmith-recipe-louisville",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 5600,
+    "sell_display": "56 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Reynauld"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Reynauld at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 56 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "honoured-agreement-brown-betty": {
+    "title": "Honoured Agreement - Brown Betty",
+    "slug": "honoured-agreement-brown-betty",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 170000,
+    "sell_display": "1700 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1700 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "hermit-halberd": {
+    "title": "Hermit - Halberd",
+    "slug": "hermit-halberd",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 887,
+    "sell_display": "8 Silver 87 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 8 Silver 87 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "loup-rapier": {
+    "title": "Loup - Rapier",
+    "slug": "loup-rapier",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 600,
+    "sell_display": "6 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "marcher-s-roll-leather-barrel-bag": {
+    "title": "Marcher's Roll - Leather Barrel Bag",
+    "slug": "marcher-s-roll-leather-barrel-bag",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 395,
+    "sell_display": "3 Silver 95 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 3 Silver 95 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "metallurgist-recipe-longsword": {
+    "title": "Metallurgist Recipe - Longsword",
+    "slug": "metallurgist-recipe-longsword",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 5250,
+    "sell_display": "52 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 52 Silver 50 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "metallurgist-recipe-mace": {
+    "title": "Metallurgist Recipe - Mace",
+    "slug": "metallurgist-recipe-mace",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 3240,
+    "sell_display": "32 Silver 40 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Henri"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Henri at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 32 Silver 40 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-burlap-haversack": {
+    "title": "Outfitter Recipe - Burlap Haversack",
+    "slug": "outfitter-recipe-burlap-haversack",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 2730,
+    "sell_display": "27 Silver 30 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Octave de Villiers"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Octave de Villiers at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 27 Silver 30 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-leather-cuirass": {
+    "title": "Outfitter Recipe - Leather Cuirass",
+    "slug": "outfitter-recipe-leather-cuirass",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 2430,
+    "sell_display": "24 Silver 30 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 24 Silver 30 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-leather-barrel-bag": {
+    "title": "Outfitter Recipe - Leather Barrel Bag",
+    "slug": "outfitter-recipe-leather-barrel-bag",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 3230,
+    "sell_display": "32 Silver 30 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 32 Silver 30 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-old-satchel": {
+    "title": "Outfitter Recipe - Old Satchel",
+    "slug": "outfitter-recipe-old-satchel",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 2520,
+    "sell_display": "25 Silver 20 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 25 Silver 20 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-ragged-sack": {
+    "title": "Outfitter Recipe - Ragged Sack",
+    "slug": "outfitter-recipe-ragged-sack",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1500,
+    "sell_display": "15 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Octave de Villiers"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Octave de Villiers at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 15 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-leather-helmet": {
+    "title": "Outfitter Recipe - Leather Helmet",
+    "slug": "outfitter-recipe-leather-helmet",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1700,
+    "sell_display": "17 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 17 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-leather-greaves": {
+    "title": "Outfitter Recipe - Leather Greaves",
+    "slug": "outfitter-recipe-leather-greaves",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1780,
+    "sell_display": "17 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 17 Silver 80 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-muriel-s-box": {
+    "title": "Outfitter Recipe - Muriel's Box",
+    "slug": "outfitter-recipe-muriel-s-box",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 3110,
+    "sell_display": "31 Silver 10 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Octave de Villiers"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Octave de Villiers at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 31 Silver 10 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "outfitter-recipe-threshing-basket": {
+    "title": "Outfitter Recipe - Threshing Basket",
+    "slug": "outfitter-recipe-threshing-basket",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 2200,
+    "sell_display": "22 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Octave de Villiers"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Octave de Villiers at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 22 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "padre-s-reply-axe": {
+    "title": "Padre's Reply - Axe",
+    "slug": "padre-s-reply-axe",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 908,
+    "sell_display": "9 Silver 8 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 9 Silver 8 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "partisan-spear": {
+    "title": "Partisan - Spear",
+    "slug": "partisan-spear",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 200000,
+    "sell_display": "2000 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 2000 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "physician-recipe-sealed-bloodbag": {
+    "title": "Physician Recipe - Sealed Bloodbag",
+    "slug": "physician-recipe-sealed-bloodbag",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 5310,
+    "sell_display": "53 Silver 10 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Henri",
+      "Piro"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Henri, Piro at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 53 Silver 10 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "physician-recipe-weak-antidote": {
+    "title": "Physician Recipe - Weak Antidote",
+    "slug": "physician-recipe-weak-antidote",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 1780,
+    "sell_display": "17 Silver 80 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [
+      "Henri"
+    ],
+    "unlocks": "If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu.",
+    "summary_intel": [
+      "• 🛒 **Merchant Stock :** Available from Henri at Chateau Hub",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 17 Silver 80 Copper",
+      "• 🔓 **Unlock Rule :** If you have the relevant profession, you can learn this Recipe whilst in the Chateau to add it to your Crafting menu."
+    ]
+  },
+  "recluse-axe": {
+    "title": "Recluse - Axe",
+    "slug": "recluse-axe",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 717,
+    "sell_display": "7 Silver 17 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 7 Silver 17 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "shashka-sabre": {
+    "title": "Shashka - Sabre",
+    "slug": "shashka-sabre",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 621,
+    "sell_display": "6 Silver 21 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 6 Silver 21 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "stag-dagger": {
+    "title": "Stag - Dagger",
+    "slug": "stag-dagger",
+    "rarity": "Rare",
+    "category": "schema",
+    "sell_copper": 117500,
+    "sell_display": "1175 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1175 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "argent-and-vert-brown-betty": {
+    "title": "Argent and Vert - Brown Betty",
+    "slug": "argent-and-vert-brown-betty",
+    "rarity": "Uncommon",
+    "category": "schema",
+    "sell_copper": 150,
+    "sell_display": "1 Silver 50 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 1 Silver 50 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "angler-s-sack-ragged-sack": {
+    "title": "Angler's Sack - Ragged Sack",
+    "slug": "angler-s-sack-ragged-sack",
+    "rarity": "Uncommon",
+    "category": "schema",
+    "sell_copper": 40400,
+    "sell_display": "404 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 404 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  },
+  "austrian-banner-damp-knapsack": {
+    "title": "Austrian Banner - Damp Knapsack",
+    "slug": "austrian-banner-damp-knapsack",
+    "rarity": "Uncommon",
+    "category": "schema",
+    "sell_copper": 1000,
+    "sell_display": "10 Silver 0 Copper",
+    "mob_drops": [],
+    "placed_drops": [],
+    "vendor_buys": [],
+    "unlocks": "Discover this Schema whilst in the Chateau to add it to your Appearance menu.",
+    "summary_intel": [
+      "• 🛒 **Vendor Stock :** Not sold by merchants (Raid Loot Exclusive)",
+      "• 🪙 **Vendor Resale :** Sells to vendors for 10 Silver 0 Copper",
+      "• 🔓 **Unlock Rule :** Discover this Schema whilst in the Chateau to add it to your Appearance menu."
+    ]
+  }
+}

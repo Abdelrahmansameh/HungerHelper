@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>document.documentElement.classList.add('js');
+    // Liens de PAGE construits en JS : même préfixe de langue que url() (/fr/items/…) ; jamais pour /api, /media, /assets.
+    window.HC_LP = "";
+    window.hcUrl = function (p) { p = String(p == null ? '' : p); var lp = window.HC_LP; return (!lp || p.charAt(0) !== '/' || p === lp || p.indexOf(lp + '/') === 0) ? p : lp + p; };</script>
+    <title>Monstrum Compendium — HUNGER Companion</title>
+    <meta name="description" content="The companion wiki for HUNGER: interactive maps, quests, NPCs, items, loot, containers, characters, recipes and more.">
+        <link rel="canonical" href="https://hunger-companion.com/bestiary">
+            <link rel="alternate" hreflang="en" href="https://hunger-companion.com/bestiary">
+        <link rel="alternate" hreflang="fr" href="https://hunger-companion.com/fr/bestiary">
+        <link rel="alternate" hreflang="de" href="https://hunger-companion.com/de/bestiary">
+        <link rel="alternate" hreflang="es" href="https://hunger-companion.com/es/bestiary">
+        <link rel="alternate" hreflang="it" href="https://hunger-companion.com/it/bestiary">
+        <link rel="alternate" hreflang="pt" href="https://hunger-companion.com/pt/bestiary">
+        <link rel="alternate" hreflang="ru" href="https://hunger-companion.com/ru/bestiary">
+        <link rel="alternate" hreflang="ja" href="https://hunger-companion.com/ja/bestiary">
+        <link rel="alternate" hreflang="ko" href="https://hunger-companion.com/ko/bestiary">
+        <link rel="alternate" hreflang="zh" href="https://hunger-companion.com/zh/bestiary">
+        <link rel="alternate" hreflang="x-default" href="https://hunger-companion.com/bestiary">
+                <meta name="robots" content="index, follow, max-image-preview:large">
+    <meta name="theme-color" content="#0b0b09">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="HUNGER Companion">
+    <meta property="og:title" content="Monstrum Compendium">
+    <meta property="og:description" content="The companion wiki for HUNGER: interactive maps, quests, NPCs, items, loot, containers, characters, recipes and more.">
+    <meta property="og:url" content="https://hunger-companion.com/bestiary">    <meta property="og:image" content="https://hunger-companion.com/og/section/bestiaire.png?v=68b07357e1">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/png">    <meta property="og:image:alt" content="Monstrum Compendium">
+    <meta property="og:locale" content="en_US">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Monstrum Compendium">
+    <meta name="twitter:description" content="The companion wiki for HUNGER: interactive maps, quests, NPCs, items, loot, containers, characters, recipes and more.">
+    <meta name="twitter:image" content="https://hunger-companion.com/og/section/bestiaire.png?v=68b07357e1">
+    <script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","name":"HUNGER Companion","url":"https:\/\/hunger-companion.com","inLanguage":"en","description":"The companion wiki for HUNGER: interactive maps, quests, NPCs, items, loot, containers, characters, recipes and more."},{"@type":"VideoGame","name":"HUNGER","applicationCategory":"Game","publisher":{"@type":"Organization","name":"Good Fun Corporation"}}]}</script>
+        <link rel="icon" href="/assets/img/favicon.png?v=1781881098">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IM+Fell+English:ital@0;1&family=Noto+Serif:ital@0;1&family=Spectral:wght@400;500;600&family=Spectral+SC:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/min/c7c32da1d8c50bc58928bb098afbe24a.1792629154.css">
+    <link rel="stylesheet" href="/assets/min/68c75c5443b1eb0f50973d28eacdabee.1792658449.css">
+        <!-- Statistiques anonymes (hc-stats v2, sans cookie) : chargées en premier pour voir aussi les erreurs des scripts de page.
+         Les admins ne sont pas comptés : hcTrack devient une fonction vide (les pages l'appellent sans test). -->
+    <script src="/assets/js/stats.js?v=1792629154"></script>    <!-- Store de progression dispo tôt (utilisé par les scripts inline des pages). -->
+    <script src="/assets/js/progress-core.js?v=1792176496"></script>
+    <!-- Pictogrammes JS (hcIcon) dispo tôt aussi : des scripts inline de page s'en servent dès leur exécution. -->
+    <script>window.HC_ICONS = {"lock":"<rect x=\"4\" y=\"11\" width=\"16\" height=\"10\"\/><path d=\"M8 11V7a4 4 0 0 1 8 0v4\"\/>","bookmark":"<path d=\"M6 3h12v18l-6-4-6 4z\"\/>","repeat":"<path d=\"M17 2l3 3-3 3\"\/><path d=\"M4 11V9a4 4 0 0 1 4-4h12M7 22l-3-3 3-3\"\/><path d=\"M20 13v2a4 4 0 0 1-4 4H4\"\/>","target":"<circle cx=\"12\" cy=\"12\" r=\"9\"\/><circle cx=\"12\" cy=\"12\" r=\"5\"\/><circle cx=\"12\" cy=\"12\" r=\"1\"\/>","check":"<path d=\"M5 12.5l4.5 4.5L19 7.5\"\/>"};
+    window.hcIcon = function (n) { var p = window.HC_ICONS[n]; return p ? '<svg class="ico ico--' + n + '" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + p + '</svg>' : ''; };</script>
+</head>
+<body class="" data-l10n-confirm="Confirm" data-l10n-confirm-q="Confirm?" data-l10n-cancel="Cancel" data-l10n-delete="Delete">
+<a href="#main" class="skip-link">Skip to content</a>
+<input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menu">
+<div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+    <a href="/" class="sidebar__brand">
+        <span class="brand__title">HUNGER</span>
+        <span class="brand__sub">Companion</span>
+    </a>
+    <nav class="snav">
+                <a href="/" class="snav__link "><svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3h7v7H3zM14 3h7v7h-7zM14 14h7v7h-7zM3 14h7v7H3z"/></svg><span>Home</span></a>
+        <span class="snav__group">The wiki</span>
+                    <a href="/maps" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2zM9 4v14M15 6v14"/></svg>                <span>Map</span>
+            </a>
+                    <a href="/quests" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>                <span>Quests</span>
+            </a>
+                    <a href="/items" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 7 12 3 4 7l8 4 8-4zM4 7v10l8 4 8-4V7M12 11v10"/></svg>                <span>Items</span>
+            </a>
+                    <a href="/professions" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 7l-1.5-1.5a3 3 0 0 0-4 4L4 13.5 6.5 16l3.5-4.5a3 3 0 0 0 4-4z"/><path d="M14 7l6 6-2 2-6-6"/></svg>                <span>Crafting</span>
+            </a>
+                    <a href="/characters" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></svg>                <span>Characters</span>
+            </a>
+                    <a href="/bestiary" class="snav__link snav__link--sec is-active" aria-current="page">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2a8 8 0 0 0-5 14v3a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-3a8 8 0 0 0-5-14z"/><circle cx="9" cy="11" r="1.4"/><circle cx="15" cy="11" r="1.4"/><path d="M12 15v3"/></svg>                <span>Bestiary</span>
+            </a>
+                    <a href="/simulation" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8.5 8.5h.01M15.5 15.5h.01M12 12h.01M15.5 8.5h.01M8.5 15.5h.01"/></svg>                <span>Simulation</span>
+            </a>
+                    <a href="/lore" class="snav__link snav__link--sec ">
+                <svg class="snav__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2zM9 7h7M9 11h5"/></svg>                <span>Compendium</span>
+            </a>
+                    <span class="snav__group">Community</span>
+    <a href="https://discord.gg/Z6qpCawpAa" class="snav__link snav__link--community" target="_blank" rel="noopener"
+       aria-label="Join the HUNGER Companion community on Discord (opens in a new tab)">
+        <span class="snav__icon snav__icon--brand" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.32 4.37A19.8 19.8 0 0 0 15.43 3c-.21.38-.46.88-.63 1.28a18.3 18.3 0 0 0-5.49 0C9.14 3.88 8.88 3.38 8.68 3a19.7 19.7 0 0 0-4.89 1.37C.7 9 .15 13.5.27 17.95a19.9 19.9 0 0 0 6.07 3.06c.49-.67.92-1.39 1.3-2.14-.72-.27-1.4-.6-2.04-.99.17-.13.34-.26.5-.4a14.2 14.2 0 0 0 12.2 0c.17.14.33.27.5.4-.64.39-1.32.72-2.04.99.37.75.81 1.47 1.3 2.14a19.9 19.9 0 0 0 6.07-3.06c.5-5.18-.84-9.64-3.5-13.58zM8.02 15.33c-1.18 0-2.16-1.08-2.16-2.41 0-1.34.95-2.42 2.16-2.42 1.2 0 2.18 1.09 2.16 2.42 0 1.33-.96 2.41-2.16 2.41zm7.96 0c-1.18 0-2.16-1.08-2.16-2.41 0-1.34.95-2.42 2.16-2.42 1.2 0 2.18 1.09 2.16 2.42 0 1.33-.95 2.41-2.16 2.41z"/></svg></span>
+        <span>Discord</span>
+        <span class="snav__badge">177 members</span>    </a>
+    <a href="https://ko-fi.com/kamille92" class="snav__link snav__link--community" target="_blank" rel="noopener"
+       aria-label="Support HUNGER Companion on Ko-fi (opens in a new tab)">
+        <span class="snav__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8h1.2a2.8 2.8 0 0 1 0 5.6H18"/><path d="M4 8h14v5.6A4.4 4.4 0 0 1 13.6 18H8.4A4.4 4.4 0 0 1 4 13.6z"/><path d="M8 3.5v2M11.5 3.5v2M15 3.5v2"/></svg></span>
+        <span>Support the project</span>
+    </a>
+
+                        <div class="snav__account">
+            <span class="snav__group">Account</span>
+                            <a href="/login" class="snav__link">Log in</a>
+                <a href="/register" class="snav__link snav__link--cta">Sign up</a>
+                    </div>
+    </nav>
+</aside>
+<label for="nav-toggle" class="sidebar__scrim" aria-hidden="true"></label>
+
+    <div class="app-body">
+        <header class="topbar">
+        <label for="nav-toggle" class="topbar__burger" id="topbar-burger" role="button" tabindex="0" aria-controls="sidebar" aria-expanded="false" aria-label="Site menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+        <span class="topbar__burger-lbl">Site menu</span>
+    </label>
+    <script>(function () {
+        var b = document.getElementById('topbar-burger'), c = document.getElementById('nav-toggle');
+        if (!b || !c) { return; }
+        c.tabIndex = -1;   // le burger porte le focus (une seule étape de tabulation)
+        var sync = function () { b.setAttribute('aria-expanded', c.checked ? 'true' : 'false'); };
+        c.addEventListener('change', sync);
+        b.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); c.checked = !c.checked; sync(); }
+        });
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape' && c.checked && !e.defaultPrevented) { e.preventDefault(); c.checked = false; sync(); b.focus(); }
+        });
+        sync();
+    })();</script>
+
+    <form class="topbar__search" action="/search" method="get" role="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="search" name="q" value="" placeholder="Search…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="search-results">
+        <kbd class="topbar__kbd" aria-hidden="true">Ctrl K</kbd>
+        <div class="search-results" id="search-results" data-empty="No results for “:q”" data-seeall="See all results for “:q”" hidden></div>
+    </form>
+
+    <div class="topbar__right">
+                    <a class="gv-badge" href="/patch-notes" title="Patch notes: what changed in Playtest 5.0 (build 48920)">
+                <span class="gv-badge__name">Playtest 5.0</span><span class="gv-badge__cl">48920</span>
+            </a>
+                <select class="lang-select" aria-label="Language"
+                onchange="if(this.value)location.href=this.value">
+                            <option value="/locale/en?r=%2Fbestiary" selected>English</option>
+                            <option value="/locale/fr?r=%2Fbestiary" >Français</option>
+                            <option value="/locale/de?r=%2Fbestiary" >Deutsch</option>
+                            <option value="/locale/es?r=%2Fbestiary" >Español</option>
+                            <option value="/locale/it?r=%2Fbestiary" >Italiano</option>
+                            <option value="/locale/pt?r=%2Fbestiary" >Português</option>
+                            <option value="/locale/ru?r=%2Fbestiary" >Русский</option>
+                            <option value="/locale/ja?r=%2Fbestiary" >日本語</option>
+                            <option value="/locale/ko?r=%2Fbestiary" >한국어</option>
+                            <option value="/locale/zh?r=%2Fbestiary" >中文</option>
+                    </select>
+        <div class="topbar__auth">
+                            <a href="/login" class="btn btn--ghost btn--sm">Log in</a>
+                <a href="/register" class="btn btn--primary btn--sm">Sign up</a>
+                    </div>
+    </div>
+</header>
+
+        <main id="main" class="site-main">
+            
+            
+            <nav class="sectabs" aria-label="Bestiary"><span class="sectabs__s">Bestiary</span><a href="/bestiary" class="sectabs__t is-on" aria-current="page">Creatures</a><a href="/traps" class="sectabs__t">Traps</a><a href="/effects" class="sectabs__t">Status effects</a></nav>            <div class="fx fx-ix ix-wide" data-ix="bestiary"><div class="pg"><main><header class="ih"><div class="fh-kind">Index · 10 creatures</div><h1>Monstrum Compendium</h1><p class="lead">The creatures of Hunger — stats, drops and where they spawn.</p><div class="acts"><a class="btn ghost" href="/simulation/damage"><svg class="ico ico--swords" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.5 17.5 3 6V3h3l11.5 11.5M13 19l6-6M16 16l4 4M19 21l2-2"/><path d="M9.5 6.5 18 3h3v3l-3.5 8.5"/></svg>Damage calc</a></div></header><div class="ix-body"><div class="pcd-grid pcd-grid--4"><a class="pcd" href="/bestiary/bloat"><span class="pcd__img"><img src="/media/bestiary/BP_Bloat_Parent__full.webp?v=db5a4454" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Bloat</b><span class="pcd__r">60 health</span></span></a><a class="pcd" href="/bestiary/brute"><span class="pcd__img"><img src="/media/bestiary/BP_Brute_Parent__full.webp?v=db2cd584" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Brute</b><span class="pcd__r">900 health</span></span></a><a class="pcd" href="/bestiary/pitchskin"><span class="pcd__img"><img src="/media/bestiary/BP_Brute_Elite_01a__full.webp?v=820ddc73" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Pitchskin</b><span class="pcd__r">1800 health · <span class="pcd__el">Elite of Brute</span></span></span></a><a class="pcd" href="/bestiary/dreg"><span class="pcd__img"><img src="/media/bestiary/BP_Dreg_Parent__full.webp?v=847a54e5" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Dreg</b><span class="pcd__r">85 health</span></span></a><a class="pcd" href="/bestiary/iron-dreg"><span class="pcd__img"><img src="/media/bestiary/BP_Dreg_Elite_01a__full.webp?v=f14c02e7" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Iron Dreg</b><span class="pcd__r">170 health · <span class="pcd__el">Elite of Dreg</span></span></span></a><a class="pcd" href="/bestiary/drooler"><span class="pcd__img"><img src="/media/bestiary/BP_Biter_Parent__full.webp?v=8a6e411e" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Drooler</b><span class="pcd__r">450 health</span></span></a><a class="pcd" href="/bestiary/pale-lady"><span class="pcd__img"><img src="/media/bestiary/BP_Biter_Elite_01a__full.webp?v=e1a08bdd" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Pale Lady</b><span class="pcd__r">900 health · <span class="pcd__el">Elite of Drooler</span></span></span></a><a class="pcd" href="/bestiary/shambler"><span class="pcd__img"><img src="/media/bestiary/BP_Shambler_Parent__full.webp?v=642d2fa0" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Shambler</b><span class="pcd__r">160 health</span></span></a><a class="pcd" href="/bestiary/iron-shambler"><span class="pcd__img"><img src="/media/bestiary/BP_Shambler_Elite_01a__full.webp?v=70d6b37d" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Iron Shambler</b><span class="pcd__r">320 health · <span class="pcd__el">Elite of Shambler</span></span></span></a><a class="pcd" href="/bestiary/waif"><span class="pcd__img"><img src="/media/bestiary/BP_Waif_Parent__full.webp?v=3435ac0e" alt="" loading="lazy" decoding="async"></span><span class="pcd__b"><b>Waif</b><span class="pcd__r">50 health</span></span></a></div><section class="ix-g"><div class="gh"><h2>Compare</h2><span class="c">10</span></div><div class="ixt"><div class="ixh" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)"><span></span><button type="button" class="ixs" data-ix-sort="0">Creature</button><button type="button" class="ixs r" data-ix-sort="1" data-num="1">Health</button><button type="button" class="ixs r" data-ix-sort="2" data-num="1">Damage</button><button type="button" class="ixs r" data-ix-sort="3" data-num="1">Move speed</button><span class="">Drops</span></div><a class="ix" href="/bestiary/bloat" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find=" bloat spine bloat" data-s0="bloat"><span class="im"><img src="/media/bestiary/BP_Bloat_Parent__face.webp?v=88c2fee5" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Bloat</b><span>Spawns in 16 groups</span><span class="figs"><span>Health <b>60</b></span><span>Damage <b>30</b></span><span>Move speed <b>0.5</b> m/s</span><span>Most likely: Bloat Spine</span></span></span><span class="c r" data-s="60">60</span><span class="c r" data-s="30">30</span><span class="c r" data-s="0.5">0.5<small>m/s</small></span><span class="c" data-s="388"><span class="tro"><b>388</b><img src="/media/items/T_UI_Trophy_BloatSpine.png" alt="" loading="lazy"><span>Bloat Spine</span><button type="button" class="odds b1" data-tip="58.8 % per kill">1/1.7</button></span></span></a><a class="ix" href="/bestiary/brute" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find=" brute foot brute" data-s0="brute"><span class="im"><img src="/media/bestiary/BP_Brute_Parent__face.webp?v=fec9284b" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Brute</b><span>Spawns in 6 groups</span><span class="figs"><span>Health <b>900</b></span><span>Damage <b>96</b></span><span>Move speed <b>0.7</b> m/s</span><span>Most likely: Brute Foot</span></span></span><span class="c r" data-s="900">900</span><span class="c r" data-s="96">96</span><span class="c r" data-s="0.7148">0.7<small>m/s</small></span><span class="c" data-s="308"><span class="tro"><b>308</b><img src="/media/items/T_UI_Trophy_BruteFoot.png" alt="" loading="lazy"><span>Brute Foot</span><button type="button" class="odds b1" data-tip="75.8 % per kill">1/1.3</button></span></span></a><a class="ix" href="/bestiary/pitchskin" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find="brute pitchskin foot pitchskin" data-s0="pitchskin"><span class="im"><img src="/media/bestiary/BP_Brute_Elite_01a__face.webp?v=51f53e87" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Pitchskin</b><span>Elite of Brute · Spawns in 5 groups</span><span class="figs"><span>Health <b>1800</b></span><span>Damage <b>96</b></span><span>Move speed <b>0.7</b> m/s</span><span>Most likely: Pitchskin Foot</span></span></span><span class="c r" data-s="1800">1800</span><span class="c r" data-s="96">96</span><span class="c r" data-s="0.7148">0.7<small>m/s</small></span><span class="c" data-s="235"><span class="tro"><b>235</b><img src="/media/items/T_UI_Trophy_BruteElite.png" alt="" loading="lazy"><span>Pitchskin Foot</span><button type="button" class="odds b1" data-tip="Guaranteed">Always</button></span></span></a><a class="ix" href="/bestiary/dreg" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find=" dreg head dreg" data-s0="dreg"><span class="im"><img src="/media/bestiary/BP_Dreg_Parent__face.webp?v=63090bf1" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Dreg</b><span>Spawns in 32 groups</span><span class="figs"><span>Health <b>85</b></span><span>Damage <b>30</b></span><span>Move speed <b>0.5</b> m/s</span><span>Most likely: Dreg Head</span></span></span><span class="c r" data-s="85">85</span><span class="c r" data-s="30">30</span><span class="c r" data-s="0.5">0.5<small>m/s</small></span><span class="c" data-s="480"><span class="tro"><b>480</b><img src="/media/items/T_UI_Trophy_DregHead.png" alt="" loading="lazy"><span>Dreg Head</span><button type="button" class="odds b1" data-tip="56.2 % per kill">1/1.8</button></span></span></a><a class="ix" href="/bestiary/iron-dreg" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find="dreg iron dreg head iron dreg" data-s0="iron dreg"><span class="im"><img src="/media/bestiary/BP_Dreg_Elite_01a__face.webp?v=49a78851" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Iron Dreg</b><span>Elite of Dreg · Spawns in 4 groups</span><span class="figs"><span>Health <b>170</b></span><span>Damage <b>36</b></span><span>Move speed <b>0.5</b> m/s</span><span>Most likely: Iron Dreg Head</span></span></span><span class="c r" data-s="170">170</span><span class="c r" data-s="36">36</span><span class="c r" data-s="0.5">0.5<small>m/s</small></span><span class="c" data-s="475"><span class="tro"><b>475</b><img src="/media/items/T_UI_Trophy_DregHeadElite.png" alt="" loading="lazy"><span>Iron Dreg Head</span><button type="button" class="odds b1" data-tip="51.9 % per kill">1/1.9</button></span></span></a><a class="ix" href="/bestiary/drooler" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find=" drooler jaw drooler" data-s0="drooler"><span class="im"><img src="/media/bestiary/BP_Biter_Parent__face.webp?v=093ea4a9" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Drooler</b><span>Spawns in 4 groups</span><span class="figs"><span>Health <b>450</b></span><span>Damage <b>36</b></span><span>Move speed <b>3.1</b> m/s</span><span>Most likely: Drooler Jaw</span></span></span><span class="c r" data-s="450">450</span><span class="c r" data-s="36">36</span><span class="c r" data-s="3.1246">3.1<small>m/s</small></span><span class="c" data-s="308"><span class="tro"><b>308</b><img src="/media/items/T_UI_Trophy_BiterJaw.png" alt="" loading="lazy"><span>Drooler Jaw</span><button type="button" class="odds b1" data-tip="75.8 % per kill">1/1.3</button></span></span></a><a class="ix" href="/bestiary/pale-lady" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find="drooler pale lady eye pale lady" data-s0="pale lady"><span class="im"><img src="/media/bestiary/BP_Biter_Elite_01a__face.webp?v=2282f7aa" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Pale Lady</b><span>Elite of Drooler · Spawns in 4 groups</span><span class="figs"><span>Health <b>900</b></span><span>Damage <b>36</b></span><span>Move speed <b>3.1</b> m/s</span><span>Most likely: Pale Lady Eye</span></span></span><span class="c r" data-s="900">900</span><span class="c r" data-s="36">36</span><span class="c r" data-s="3.12458">3.1<small>m/s</small></span><span class="c" data-s="235"><span class="tro"><b>235</b><img src="/media/items/T_UI_Trophy_BiterElite.png" alt="" loading="lazy"><span>Pale Lady Eye</span><button type="button" class="odds b1" data-tip="Guaranteed">Always</button></span></span></a><a class="ix" href="/bestiary/shambler" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find=" shambler hand shambler" data-s0="shambler"><span class="im"><img src="/media/bestiary/BP_Shambler_01a__face.webp?v=4b7e6c81" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Shambler</b><span>Spawns in 15 groups</span><span class="figs"><span>Health <b>160</b></span><span>Damage <b>45</b></span><span>Move speed <b>0.4</b> m/s</span><span>Most likely: Shambler Hand</span></span></span><span class="c r" data-s="160">160</span><span class="c r" data-s="45">45</span><span class="c r" data-s="0.4">0.4<small>m/s</small></span><span class="c" data-s="389"><span class="tro"><b>389</b><img src="/media/items/T_UI_Trophy_ShamblerHand.png" alt="" loading="lazy"><span>Shambler Hand</span><button type="button" class="odds b1" data-tip="66.4 % per kill">1/1.5</button></span></span></a><a class="ix" href="/bestiary/iron-shambler" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find="shambler iron shambler chestplate iron shambler" data-s0="iron shambler"><span class="im"><img src="/media/bestiary/BP_Shambler_Elite_01a__face.webp?v=79faf58c" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Iron Shambler</b><span>Elite of Shambler · Spawns in 3 groups</span><span class="figs"><span>Health <b>320</b></span><span>Damage <b>54</b></span><span>Move speed <b>0.4</b> m/s</span><span>Most likely: Iron Shambler Chestplate</span></span></span><span class="c r" data-s="320">320</span><span class="c r" data-s="54">54</span><span class="c r" data-s="0.4">0.4<small>m/s</small></span><span class="c" data-s="389"><span class="tro"><b>389</b><img src="/media/items/T_UI_Trophy_ShamblerHandElite.png" alt="" loading="lazy"><span>Iron Shambler Chestplate</span><button type="button" class="odds b1" data-tip="66.4 % per kill">1/1.5</button></span></span></a><a class="ix" href="/bestiary/waif" style="--cols:56px minmax(0,1.4fr) 76px 76px 92px minmax(0,1.6fr)" data-find=" waif head waif" data-s0="waif"><span class="im"><img src="/media/bestiary/BP_Waif_Parent__face.webp?v=8e136813" alt="" loading="lazy" decoding="async"></span><span class="nm"><b>Waif</b><span>Spawns in 9 groups</span><span class="figs"><span>Health <b>50</b></span><span>Damage <b>15</b></span><span>Move speed <b>1.9</b> m/s</span><span>Most likely: Waif Head</span></span></span><span class="c r" data-s="50">50</span><span class="c r" data-s="15">15</span><span class="c r" data-s="1.8555">1.9<small>m/s</small></span><span class="c" data-s="472"><span class="tro"><b>472</b><img src="/media/items/T_UI_Trophy_WaifHead.png" alt="" loading="lazy"><span>Waif Head</span><button type="button" class="odds b1" data-tip="55.5 % per kill">1/1.8</button></span></span></a></div></section><p class="ix-none" data-ix-none hidden>Nothing matches this search.</p></div></main></div></div>        </main>
+
+                <footer class="site-footer">
+                <p class="community-foot">
+        <a href="https://discord.gg/Z6qpCawpAa" class="community-foot__link" target="_blank" rel="noopener"
+           aria-label="Join the HUNGER Companion community on Discord (opens in a new tab)">
+            <span class="community-foot__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.32 4.37A19.8 19.8 0 0 0 15.43 3c-.21.38-.46.88-.63 1.28a18.3 18.3 0 0 0-5.49 0C9.14 3.88 8.88 3.38 8.68 3a19.7 19.7 0 0 0-4.89 1.37C.7 9 .15 13.5.27 17.95a19.9 19.9 0 0 0 6.07 3.06c.49-.67.92-1.39 1.3-2.14-.72-.27-1.4-.6-2.04-.99.17-.13.34-.26.5-.4a14.2 14.2 0 0 0 12.2 0c.17.14.33.27.5.4-.64.39-1.32.72-2.04.99.37.75.81 1.47 1.3 2.14a19.9 19.9 0 0 0 6.07-3.06c.5-5.18-.84-9.64-3.5-13.58zM8.02 15.33c-1.18 0-2.16-1.08-2.16-2.41 0-1.34.95-2.42 2.16-2.42 1.2 0 2.18 1.09 2.16 2.42 0 1.33-.96 2.41-2.16 2.41zm7.96 0c-1.18 0-2.16-1.08-2.16-2.41 0-1.34.95-2.42 2.16-2.42 1.2 0 2.18 1.09 2.16 2.42 0 1.33-.95 2.41-2.16 2.41z"/></svg></span>
+            <span>Join the Discord</span>
+            <span class="community-foot__badge">177 members</span>        </a>
+        <a href="https://ko-fi.com/kamille92" class="community-foot__link community-foot__link--kofi" target="_blank" rel="noopener"
+           aria-label="Support HUNGER Companion on Ko-fi (opens in a new tab)">
+            <span class="community-foot__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8h1.2a2.8 2.8 0 0 1 0 5.6H18"/><path d="M4 8h14v5.6A4.4 4.4 0 0 1 13.6 18H8.4A4.4 4.4 0 0 1 4 13.6z"/><path d="M8 3.5v2M11.5 3.5v2M15 3.5v2"/></svg></span>
+            <span>Support the project</span>
+        </a>
+    </p>
+    <p class="community-foot__note muted">Free and ad-free. Chat with us or support the project if you like it.</p>
+            <p class="site-footer__links">
+                <a href="/privacy">Privacy</a>
+                · <a href="/legal">Legal notice</a>
+                · <a href="/changelog">Changelog</a>
+            </p>
+            <p class="site-footer__disclaimer muted">Unofficial fan site — not affiliated with Good Fun Corporation. HUNGER and related content © Good Fun Corporation.</p>
+        </footer>
+            </div>
+</div>
+<nav class="tabbar" aria-label="Quick navigation">
+            <a href="/maps" class="tabbar__t "><svg class="tabbar__i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2zM9 4v14M15 6v14"/></svg><span>Map</span></a>
+            <a href="/quests" class="tabbar__t "><svg class="tabbar__i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span>Quests</span></a>
+            <a href="/items" class="tabbar__t "><svg class="tabbar__i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 7 12 3 4 7l8 4 8-4zM4 7v10l8 4 8-4V7M12 11v10"/></svg><span>Items</span></a>
+            <a href="/search" class="tabbar__t "><svg class="tabbar__i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="M20 20l-4.5-4.5"/></svg><span>Search</span></a>
+        <label for="nav-toggle" class="tabbar__t"><svg class="tabbar__i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 6h12M8 12h12M8 18h12M4 6h.01M4 12h.01M4 18h.01"/></svg><span>More</span></label>
+</nav>
+
+<!-- Leaflet n'est chargé que par les vues qui affichent une carte (map2_show, expedition, item_show, admin places). -->
+<script>window.HUNGER_ODDS = {"m":":n M","b":":n B"};
+window.HC_FX = {"lb":"Image viewer","close":"Close","prev":"Previous","next":"Next","view":"View :n","views":"Views","thumbs":"Thumbnails","hintMouse":"Click: zoom · ← → · ↑ other view · Esc","hintTouch":"Swipe: next · down: close · double tap: zoom","more":"Show the :n others","less":"Show less","found":":n found","lazy_err":"Could not load. Click the tab again."};</script>
+<script src="/assets/js/app.js?v=1782338109"></script>
+<script src="/assets/js/ui.js?v=1792576894"></script>
+<script src="/assets/js/search.js?v=1792576894"></script>
+<script src="/assets/js/tabs.js?v=1792319525"></script>
+<script src="/assets/js/fiche.js?v=1792672709" defer></script>
+<script>window.HC_CARD = {"api":"/api/item-card/","cats":["weapon","ammunition","medicine","armour","tool","food","drink","trinket","bag","key","schema","cosmetic","material","quest_item","currency","misc"],"rar":{"artifact":"Artifact","legendary":"Legendary","epic":"Epic","rare":"Rare","uncommon":"Uncommon","common":"Common"},"cat":{"weapon":"Weapons","ammunition":"Ammunition","medicine":"Medicine","armour":"Armour","tool":"Tools","food":"Food","drink":"Drink","trinket":"Trinkets","bag":"Bags","key":"Keys","schema":"Schemas","cosmetic":"Cosmetics","material":"Materials","quest_item":"Quest items","currency":"Currency","misc":"Misc"},"lbl":{"d":"Damage","f":"Fire rate","m":"Magazine","a":"Ammo","h":"Max health","e":"Effect","v":"Sell price","more":"Click for where to find it, chances and recipe."},"coin":{"gold":"/assets/img/currency/coin-gold.png?v=1784654379","silver":"/assets/img/currency/coin-silver.png?v=1784654379","copper":"/assets/img/currency/coin-copper.png?v=1784654379"}};</script>
+<script src="/assets/js/item-card.js?v=1792629154" defer></script>
+<script>window.HUNGER_AUTH = false; window.HUNGER_CSRF = "1fac6a80acbe7228e93ddd0af041d0cd120309a51410d59b2e12dda90b7be90e";</script>
+<script src="/assets/js/progress-sync.js?v=1792046337"></script>
+<div class="support-pop" id="support-pop" role="dialog" aria-modal="false"
+     aria-labelledby="support-pop-title" aria-describedby="support-pop-body"
+     data-kofi="https://ko-fi.com/kamille92" hidden>
+    <button type="button" class="support-pop__close" data-sp-close aria-label="Close">&times;</button>
+    <h2 class="support-pop__title" id="support-pop-title">❤️ Enjoying HUNGER Companion?</h2>
+    <p class="support-pop__body" id="support-pop-body">HUNGER Companion is completely free and ad-free. If this project is useful to you, you can support its development with a small donation. Every contribution helps fund hosting and infrastructure, and lets me spend more time improving the Companion.</p>
+    <div class="support-pop__actions">
+        <a class="btn btn--primary btn--sm" href="https://ko-fi.com/kamille92" target="_blank" rel="noopener" data-sp-cta>❤️ Support the project</a>
+        <button type="button" class="btn btn--ghost btn--sm" data-sp-later>Maybe later</button>
+        <button type="button" class="btn btn--ghost btn--sm support-pop__never" data-sp-never>Don&#039;t show again</button>
+    </div>
+</div>
+<script src="/assets/js/support.js?v=1782658161" defer></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a556acf98b3baab4',t:'MTc5MzgyNzM2Mg=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a556acf98b3baab4',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"5291ce2291cf466a8fa5e39f311eb2d9","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

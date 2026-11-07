@@ -1,0 +1,4950 @@
+{
+  "bacchus' wand": {
+    "name": "Bacchus' Wand",
+    "type": "weapon",
+    "target": "Longboy",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Longboy_01a.webp?v=85b30a90",
+    "fee": "Schema · 210 Copper",
+    "lore": "An undeniable work of craftsmanship, less so of taste. The words To my sweet Flavien are carefully engraved on the underside of the shaft.",
+    "materials": [
+      {
+        "name": "Royal Jelly",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RoyalJelly.png",
+        "slug": "royal-jelly"
+      },
+      {
+        "name": "Polished Rod",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PolishedRod.png",
+        "slug": "polished-rod"
+      },
+      {
+        "name": "White Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": "white-pearl"
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": "ivory-tusk"
+      },
+      {
+        "name": "Moist Pouch",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MoistPouch.png",
+        "slug": "moist-pouch"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "argent and vert": {
+    "name": "Argent and Vert",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_03a.webp?v=c4770e24",
+    "fee": "Schema · 150 Copper",
+    "lore": "Let the bells of Lucca toll. Let them wake the dead so that we may fight.",
+    "materials": [
+      {
+        "name": "Ash Solution",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_AshSolution.png",
+        "slug": "ash-solution"
+      }
+    ],
+    "resale_copper": 150,
+    "fee_clean": "150 Copper"
+  },
+  "frederick's revenge": {
+    "name": "Frederick's Revenge",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_11a.webp?v=fa7aecd3",
+    "fee": "Schema · 159 Copper",
+    "lore": "To Each, His Own",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": "lye-crumble"
+      },
+      {
+        "name": "Sootblack",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": "sootblack"
+      }
+    ],
+    "resale_copper": 159,
+    "fee_clean": "159 Copper"
+  },
+  "hohenzollern reborn": {
+    "name": "Hohenzollern Reborn",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_05a.webp?v=4c5c7f62",
+    "fee": "Schema · 204 Copper",
+    "lore": "We shall rebuild the Holy Empire.",
+    "materials": [
+      {
+        "name": "Pumice Stone",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PumiceStone.png",
+        "slug": "pumice-stone"
+      }
+    ],
+    "resale_copper": 204,
+    "fee_clean": "204 Copper"
+  },
+  "house of medici": {
+    "name": "House of Medici",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_06a.webp?v=86b1cafb",
+    "fee": "Schema · 150 Copper",
+    "lore": "Make haste slowly.",
+    "materials": [
+      {
+        "name": "Orange Clay",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_OrangeClay.png",
+        "slug": "orange-clay"
+      }
+    ],
+    "resale_copper": 150,
+    "fee_clean": "150 Copper"
+  },
+  "lion of rotterdam": {
+    "name": "Lion of Rotterdam",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_10a.webp?v=d3acdf6c",
+    "fee": "Schema · 125 Copper",
+    "lore": "Though Rotterdam was defended until the end by a single man, the strength of fire were as though one hundred fought.",
+    "materials": [
+      {
+        "name": "Basil",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Basil.png",
+        "slug": "basil"
+      },
+      {
+        "name": "Tarragon",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Tarragon.png",
+        "slug": "tarragon"
+      },
+      {
+        "name": "Chervil",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Chervil.png",
+        "slug": "chervil"
+      }
+    ],
+    "resale_copper": 125,
+    "fee_clean": "125 Copper"
+  },
+  "prussian eagle": {
+    "name": "Prussian Eagle",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_07a.webp?v=8f06802a",
+    "fee": "Schema · 45 Copper",
+    "lore": "Gott Mit Uns",
+    "materials": [
+      {
+        "name": "Wooden Fork",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_WoodenFork.png",
+        "slug": "wooden-fork"
+      },
+      {
+        "name": "Coarse Sand",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CoarseSand.png",
+        "slug": "coarse-sand"
+      }
+    ],
+    "resale_copper": 45,
+    "fee_clean": "45 Copper"
+  },
+  "sable and gules": {
+    "name": "Sable and Gules",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_04a.webp?v=6fba779e",
+    "fee": "Schema · 164 Copper",
+    "lore": "Sanguis ante Tenebras",
+    "materials": [
+      {
+        "name": "Pitch",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Pitch.png",
+        "slug": "pitch"
+      },
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": "madder-root"
+      }
+    ],
+    "resale_copper": 164,
+    "fee_clean": "164 Copper"
+  },
+  "treaty workhorse": {
+    "name": "Treaty Workhorse",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_09a.webp?v=91d046c5",
+    "fee": "Schema · 170 Copper",
+    "lore": "Taken from one of the dead among the North Treaty after their attempt to liberate Aachen.",
+    "materials": [
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": "indigo-flakes"
+      },
+      {
+        "name": "Grape Must",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GrapeMust.png",
+        "slug": "grape-must"
+      }
+    ],
+    "resale_copper": 170,
+    "fee_clean": "170 Copper"
+  },
+  "veenstra's swine": {
+    "name": "Veenstra's Swine",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BrownBetty_08a.webp?v=6c78f398",
+    "fee": "Schema · 715 Copper",
+    "lore": "Plucked from the cold hands of a Frisian nobleman.",
+    "materials": [
+      {
+        "name": "Fresh Egg",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_FreshEgg.png",
+        "slug": "fresh-egg"
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": "indigo-flakes"
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": "lye-crumble"
+      }
+    ],
+    "resale_copper": 715,
+    "fee_clean": "715 Copper"
+  },
+  "honoured agreement": {
+    "name": "Honoured Agreement",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_BrownBetty_02a.webp?v=3e165c54",
+    "fee": "Schema · 170000 Copper",
+    "lore": "Nemo plus iuris ad alium transferre potest quam ipse habet.",
+    "materials": [
+      {
+        "name": "Oxliver Oil",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": "oxliver-oil"
+      },
+      {
+        "name": "Iron File",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IronFile.png",
+        "slug": "iron-file"
+      }
+    ],
+    "resale_copper": 170000,
+    "fee_clean": "170000 Copper"
+  },
+  "eastern promise": {
+    "name": "Eastern Promise",
+    "type": "weapon",
+    "target": "Brown Betty",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_BrownBetty_01a.webp?v=514940e8",
+    "fee": "Schema · 1715 Copper",
+    "lore": "His gaze does not command - it endures. Through smoke and snow, war and winter, the face of the Lord remains unchanging: solemn, infinite, and still. It is said the icon darkened during the Great Famine, as though taking on the weight of the people's suffering.",
+    "materials": [
+      {
+        "name": "Pinchbeck",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Pinchbeck.png",
+        "slug": "pinchbeck"
+      },
+      {
+        "name": "Gunblue",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Gunblue.png",
+        "slug": "gunblue"
+      },
+      {
+        "name": "Linseed Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LinseedOil.png",
+        "slug": "linseed-oil"
+      }
+    ],
+    "resale_copper": 1715,
+    "fee_clean": "1715 Copper"
+  },
+  "padre's reply": {
+    "name": "Padre's Reply",
+    "type": "weapon",
+    "target": "Axe",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Axe_04a.webp?v=b00088d3",
+    "fee": "Schema · 908 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Polished Rod",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PolishedRod.png",
+        "slug": "polished-rod"
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Distilled Water",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_DistilledWater.png",
+        "slug": "distilled-water"
+      }
+    ],
+    "resale_copper": 908,
+    "fee_clean": "908 Copper"
+  },
+  "recluse": {
+    "name": "Recluse",
+    "type": "weapon",
+    "target": "Axe",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Axe_01a.webp?v=3aa1a030",
+    "fee": "Schema · 717 Copper",
+    "lore": "The product of a hermit who occupied the darkest places in Vosges' woods. An axe tempered in wild-flowing springs.",
+    "materials": [
+      {
+        "name": "Cold Iron",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Blacksand",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": "blacksand"
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": "leather-trimmings"
+      }
+    ],
+    "resale_copper": 717,
+    "fee_clean": "717 Copper"
+  },
+  "austrian banner": {
+    "name": "Austrian Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01d.webp?v=de9cb0de",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": "lye-crumble"
+      },
+      {
+        "name": "Sootblack",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": "sootblack"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "blucher's banner": {
+    "name": "Blucher's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01j.webp?v=7de591ab",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": "madder-root"
+      },
+      {
+        "name": "Fresh Apple",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Apple.png",
+        "slug": "fresh-apple"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "ferdinand's banner": {
+    "name": "Ferdinand's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01b.webp?v=343a389b",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": "red-ochre"
+      },
+      {
+        "name": "Ash Solution",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_AshSolution.png",
+        "slug": "ash-solution"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "george's cross": {
+    "name": "George's Cross",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01h.webp?v=8423130e",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Lime Slag",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LimeSlag.png",
+        "slug": "lime-slag"
+      },
+      {
+        "name": "Pine Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_PineOil.png",
+        "slug": "pine-oil"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "jefferson's banner": {
+    "name": "Jefferson's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01e.webp?v=b4ebcf0a",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Dank Tobacco",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": "dank-tobacco"
+      },
+      {
+        "name": "Old Riding Glove",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OldRidingGlove.png",
+        "slug": "old-riding-glove"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "jozef's banner": {
+    "name": "Jozef's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01c.webp?v=191292ec",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Beeswax",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Beeswax.png",
+        "slug": "beeswax"
+      },
+      {
+        "name": "Old Horsehair Brush",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OldHorsehairBrush.png",
+        "slug": "old-horsehair-brush"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "tricolour banner": {
+    "name": "Tricolour Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01i.webp?v=d797edbd",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Fresh Baguette",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_FreshBaguette.png",
+        "slug": "fresh-baguette"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "tsar's banner": {
+    "name": "Tsar's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01f.webp?v=8e0e01a0",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": "charcoal"
+      },
+      {
+        "name": "Lemon Peel",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LemonPeel.png",
+        "slug": "lemon-peel"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "union jack": {
+    "name": "Union Jack",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01k.webp?v=63ff1db4",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Coat Toggle",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CoatToggle.png",
+        "slug": "coat-toggle"
+      },
+      {
+        "name": "Jute Hat",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_JuteHat.png",
+        "slug": "jute-hat"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "william's banner": {
+    "name": "William's Banner",
+    "type": "bag",
+    "target": "Damp-knapsack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Common01_01g.webp?v=bdaaa0e7",
+    "fee": "Schema · 1000 Copper",
+    "lore": "",
+    "materials": [
+      {
+        "name": "Amber",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": "amber"
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": "chalkstone"
+      }
+    ],
+    "resale_copper": 1000,
+    "fee_clean": "1000 Copper"
+  },
+  "angler's sack": {
+    "name": "Angler's Sack",
+    "type": "bag",
+    "target": "Ragged-sack",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_HipBag_Uncommon01_01a.webp?v=a3469e9b",
+    "fee": "Schema · 40400 Copper",
+    "lore": "A comfort in the rushing waters.",
+    "materials": [
+      {
+        "name": "Tallow Balm",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_TallowBalm.png",
+        "slug": "tallow-balm"
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": "boiled-leather"
+      }
+    ],
+    "resale_copper": 40400,
+    "fee_clean": "40400 Copper"
+  },
+  "bosun's clasp": {
+    "name": "Bosun's Clasp",
+    "type": "bag",
+    "target": "Old-satchel",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_HipBag_Uncommon03_01a.webp?v=ebc1ef03",
+    "fee": "Schema · 244 Copper",
+    "lore": "Salt-cracked leather and a brass lock weathered by a hundred storms - this bag once hung at the waist of a ship's bosun who never left a deck without it.",
+    "materials": [
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": "marching-boots"
+      },
+      {
+        "name": "Pine Oil",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_PineOil.png",
+        "slug": "pine-oil"
+      },
+      {
+        "name": "Latch Hook",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LatchHook.png",
+        "slug": "latch-hook"
+      }
+    ],
+    "resale_copper": 244,
+    "fee_clean": "244 Copper"
+  },
+  "partisan": {
+    "name": "Partisan",
+    "type": "weapon",
+    "target": "Spear",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Spear_01a.webp?v=ad005546",
+    "fee": "Schema · 200000 Copper",
+    "lore": "In the last days of the End a peasant pulled iron from his yard and bound it with leather. It was not a soldier's weapon, nor the work of a smith. He made it for the men who came with fire and rope. You can see the hurry in its making, and the anger too.",
+    "materials": [
+      {
+        "name": "Hartshorn",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": "hartshorn"
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": "leather-trimmings"
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Blacksand",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": "blacksand"
+      }
+    ],
+    "resale_copper": 200000,
+    "fee_clean": "200000 Copper"
+  },
+  "hybernia": {
+    "name": "Hybernia",
+    "type": "weapon",
+    "target": "Spear",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Spear_02a.webp?v=53f7da56",
+    "fee": "Schema · 2573 Copper",
+    "lore": "A spike of blue metal, hammered straight. It is too heavy for hunting, too plain for ceremony. The point catches the light oddly, as if wet.",
+    "materials": [
+      {
+        "name": "Cold Iron",
+        "qty": "15",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": "cold-iron"
+      },
+      {
+        "name": "Distilled Water",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_DistilledWater.png",
+        "slug": "distilled-water"
+      }
+    ],
+    "resale_copper": 2573,
+    "fee_clean": "2573 Copper"
+  },
+  "peasant's burden": {
+    "name": "Peasant's Burden",
+    "type": "weapon",
+    "target": "Spear",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Spear_04a.webp?v=648a1307",
+    "fee": "Schema · 18 Copper",
+    "lore": "The poor man's weapon - easy to make, simple to use, and deadly enough when it matters.",
+    "materials": [
+      {
+        "name": "Tent Peg",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_TentPeg.png",
+        "slug": "tent-peg"
+      },
+      {
+        "name": "Thick Branch",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SolidBranch.png",
+        "slug": "thick-branch"
+      },
+      {
+        "name": "Impeccable Twine",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImpeccableTwine.png",
+        "slug": "impeccable-twine"
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum (eva)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_01a.webp?v=5b9d8cf4",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_01a.webp?v=5b9d8cf4",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp (eva)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_02a.webp?v=01e7f66a",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Common",
+    "img_url": "/media/skins/Eva_Cosmetic_02a.webp?v=01e7f66a",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Madder Root",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice (eva)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_03a.webp?v=6fd75236",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_03a.webp?v=6fd75236",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman (eva)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_04a.webp?v=97dae95e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Eva_Cosmetic_04a.webp?v=97dae95e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller (eva)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_05a.webp?v=c3b5547e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_05a.webp?v=c3b5547e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor (eva)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_06a.webp?v=273d9634",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Eva_Cosmetic_06a.webp?v=273d9634",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert (eva)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_07a.webp?v=3aaceae3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "White Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Milky Glass",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_MilkyGlass.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_07a.webp?v=3aaceae3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "White Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Milky Glass",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_MilkyGlass.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master (eva)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_08a.webp?v=eaf05ff2",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Romani Treads",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Shoes.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Candlestick",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CandleStick.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Eva_Cosmetic_08a.webp?v=eaf05ff2",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Romani Treads",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Shoes.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Candlestick",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CandleStick.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend (eva)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_09a.webp?v=35f1157d",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cameo Of Castor",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CameoOfCastor.png",
+        "slug": ""
+      },
+      {
+        "name": "Tail Hair",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TailHair.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      },
+      {
+        "name": "Old Horsehair Brush",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OldHorsehairBrush.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_09a.webp?v=35f1157d",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Cameo Of Castor",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CameoOfCastor.png",
+        "slug": ""
+      },
+      {
+        "name": "Tail Hair",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TailHair.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      },
+      {
+        "name": "Old Horsehair Brush",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OldHorsehairBrush.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: mademoiselle rouge (eva)": {
+    "name": "Prestige I: Mademoiselle Rouge",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_10a.webp?v=1cc9ff4b",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "White Pearl",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: mademoiselle rouge": {
+    "name": "Prestige I: Mademoiselle Rouge",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_10a.webp?v=1cc9ff4b",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "White Pearl",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_WhitePearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: iron vestal (eva)": {
+    "name": "Prestige II: Iron Vestal",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_11a.webp?v=12f185a3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Blood Of The Penitent",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BloodOfThePenitent.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: iron vestal": {
+    "name": "Prestige II: Iron Vestal",
+    "type": "character",
+    "target": "Eva",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Eva_Cosmetic_11a.webp?v=12f185a3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Eva.",
+    "materials": [
+      {
+        "name": "Blood Of The Penitent",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BloodOfThePenitent.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum (marie)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Common",
+    "img_url": "/media/skins/Marie_Cosmetic_01a.webp?v=8885d453",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "matriarch (marie)": {
+    "name": "Matriarch",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_11a.webp?v=85449bdf",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Lime Slag",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LimeSlag.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "matriarch": {
+    "name": "Matriarch",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_11a.webp?v=85449bdf",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Lime Slag",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LimeSlag.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp (marie)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Common",
+    "img_url": "/media/skins/Marie_Cosmetic_02a.webp?v=1162d266",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Twine Ball",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TwineBall.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice (marie)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Marie_Cosmetic_03a.webp?v=798eca93",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Walnut Husk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WalnutHusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman (marie)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Marie_Cosmetic_04a.webp?v=8891a8b2",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Tanned Hide",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Impeccable Twine",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ImpeccableTwine.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller (marie)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Marie_Cosmetic_05a.webp?v=93be5189",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Leather Trimmings",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Orange Clay",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OrangeClay.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor (marie)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Marie_Cosmetic_06a.webp?v=bf6153f7",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Silver Dish",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilverDish.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron File",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronFile.png",
+        "slug": ""
+      },
+      {
+        "name": "Walnut Husk",
+        "qty": "6",
+        "img_url": "/media/items/T_UI_Item_WalnutHusk.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert (marie)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_07a.webp?v=37a26902",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Ladies Girdle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Bolt of Cotton Cloth",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_BoltOfCottonCloth.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Reinforced Garter",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ReinforcedGarter.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master (marie)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_08a.webp?v=0c334d1c",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Delicate Chain",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_DelicateChain.png",
+        "slug": ""
+      },
+      {
+        "name": "Torn Damask",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      },
+      {
+        "name": "Coat Toggle",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_CoatToggle.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend (marie)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_09a.webp?v=412f84e8",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "Rosary Beads",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RosaryBeads.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Steelband",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Steelband.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: scarlet inquisitor (marie)": {
+    "name": "Prestige I: Scarlet Inquisitor",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_10a.webp?v=13174b9e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Jacobin Cipher",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_JacobinCipher.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cotton Bed Sheets",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_CottonBedSheet.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: scarlet inquisitor": {
+    "name": "Prestige I: Scarlet Inquisitor",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_10a.webp?v=13174b9e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Jacobin Cipher",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_JacobinCipher.png",
+        "slug": ""
+      },
+      {
+        "name": "Ladies Girdle",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LadiesGirdle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cotton Bed Sheets",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_CottonBedSheet.png",
+        "slug": ""
+      },
+      {
+        "name": "Lye Crumble",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LyeCrumble.png",
+        "slug": ""
+      },
+      {
+        "name": "Red Ochre",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "sister of the seventh depth (marie)": {
+    "name": "Sister of the Seventh Depth",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_12a.webp?v=e75c05c8",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Holland Thread",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_HollandThread.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "sister of the seventh depth": {
+    "name": "Sister of the Seventh Depth",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Marie_Cosmetic_12a.webp?v=e75c05c8",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Dirty Brocade Dress",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DirtyBrocadeDress.png",
+        "slug": ""
+      },
+      {
+        "name": "Holland Thread",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_HollandThread.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      },
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: sister of glass (marie)": {
+    "name": "Prestige II: Sister of Glass",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_13a.webp?v=86438847",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Fancy Silver Plaque",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_FancySilverPlaque.png",
+        "slug": ""
+      },
+      {
+        "name": "Oxliver Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Torn Damask",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: sister of glass": {
+    "name": "Prestige II: Sister of Glass",
+    "type": "character",
+    "target": "Marie",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Marie_Cosmetic_13a.webp?v=86438847",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Marie.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Fancy Silver Plaque",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_FancySilverPlaque.png",
+        "slug": ""
+      },
+      {
+        "name": "Oxliver Oil",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Torn Damask",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum (hugo)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Common",
+    "img_url": "/media/skins/Hugo_Cosmetic_01a.webp?v=966b4008",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp (hugo)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Common",
+    "img_url": "/media/skins/Hugo_Cosmetic_02a.webp?v=71facc43",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Boiled Leather",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice (hugo)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Hugo_Cosmetic_03a.webp?v=cb2e3bdf",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Tanned Hide",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Damp Rag",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_DampRag.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman (hugo)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Hugo_Cosmetic_04a.webp?v=ae73b5be",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Dank Tobacco",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller (hugo)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Hugo_Cosmetic_05a.webp?v=99372523",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      },
+      {
+        "name": "Tarnished Spoon",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TarnishedSpoon.png",
+        "slug": ""
+      },
+      {
+        "name": "Distilled Water",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DistilledWater.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor (hugo)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Hugo_Cosmetic_06a.webp?v=90b2382b",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Refined Tobacco",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_RefinedTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert (hugo)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Hugo_Cosmetic_07a.webp?v=8f29b323",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Opium Pipe",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_OpiumPipe.png",
+        "slug": ""
+      },
+      {
+        "name": "Opium",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_Opium.png",
+        "slug": ""
+      },
+      {
+        "name": "Tarnished Spoon",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TarnishedSpoon.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      },
+      {
+        "name": "Seamstress Needle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SeamstressNeedle.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master (hugo)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Hugo_Cosmetic_08a.webp?v=e1957401",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Arsenic",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Poison.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Dish",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_SilverDish.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Powder Tin",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_PowderTin.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend (hugo)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_09a.webp?v=d314ebb0",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Shagreen",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Shagreen.png",
+        "slug": ""
+      },
+      {
+        "name": "Tortoise Shell",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TortoiseShell.png",
+        "slug": ""
+      },
+      {
+        "name": "Bloodstone",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Bloodstone.png",
+        "slug": ""
+      },
+      {
+        "name": "Willow Bark",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_WillowBark.png",
+        "slug": ""
+      },
+      {
+        "name": "Cochineal",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_Cochineal.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: mad king (hugo)": {
+    "name": "Prestige I: Mad King",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_10a.webp?v=b5c46049",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "Gold Leaf",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Refined Tobacco",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RefinedTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: mad king": {
+    "name": "Prestige I: Mad King",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_10a.webp?v=b5c46049",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Silk Scarf",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilkScarf.png",
+        "slug": ""
+      },
+      {
+        "name": "Gold Leaf",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Refined Tobacco",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RefinedTobacco.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: penitent (hugo)": {
+    "name": "Prestige II: Penitent",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_11a.webp?v=3765d07a",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Flawless Diamond",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FlawlessDiamond.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: penitent": {
+    "name": "Prestige II: Penitent",
+    "type": "character",
+    "target": "Hugo",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Hugo_Cosmetic_11a.webp?v=3765d07a",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Hugo.",
+    "materials": [
+      {
+        "name": "Flawless Diamond",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FlawlessDiamond.png",
+        "slug": ""
+      },
+      {
+        "name": "Uncut Gems",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_UncutGems.png",
+        "slug": ""
+      },
+      {
+        "name": "Leather Trimmings",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum (gabriel)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Common",
+    "img_url": "/media/skins/Gabriel_Cosmetic_01a.webp?v=69df05ce",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "athos (gabriel)": {
+    "name": "Athos",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_11a.webp?v=3482e3e6",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Fraying Taffeta Waistcoat",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FrayingTaffetaWaistcoat.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "athos": {
+    "name": "Athos",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_11a.webp?v=3482e3e6",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Fraying Taffeta Waistcoat",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FrayingTaffetaWaistcoat.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp (gabriel)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Common",
+    "img_url": "/media/skins/Gabriel_Cosmetic_02a.webp?v=a65f308f",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Filthy Britches",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_FilthyBritches.png",
+        "slug": ""
+      },
+      {
+        "name": "Latch Hook",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_LatchHook.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice (gabriel)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Gabriel_Cosmetic_03a.webp?v=d0d23758",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Boiled Leather",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      },
+      {
+        "name": "Nettlecloth",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman (gabriel)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Gabriel_Cosmetic_04a.webp?v=26480bc7",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "7",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller (gabriel)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Gabriel_Cosmetic_05a.webp?v=1d05e73d",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Leather Trimmings",
+        "qty": "7",
+        "img_url": "/media/items/T_UI_Item_LeatherTrimmings.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Brass Plate",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Brassplate.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor (gabriel)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Gabriel_Cosmetic_06a.webp?v=80627596",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Steelband",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Steelband.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      },
+      {
+        "name": "Canvas Patch",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_CanvasPatch.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert (gabriel)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Gabriel_Cosmetic_07a.webp?v=60590faa",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cotton Bed Sheets",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CottonBedSheet.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      },
+      {
+        "name": "Coat Toggle",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CoatToggle.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master (gabriel)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Gabriel_Cosmetic_08a.webp?v=32a3640a",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Fancy Silver Plaque",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_FancySilverPlaque.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Oxliver Oil",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_OxliverOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Rusted Keyring",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_RustedKeyring.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend (gabriel)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_09a.webp?v=018bf9be",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Tail Hair",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TailHair.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Marching Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_LeatherBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Reinforced Garter",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ReinforcedGarter.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: silver oath (gabriel)": {
+    "name": "Prestige I: Silver Oath",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_10a.webp?v=57f383a3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: silver oath": {
+    "name": "Prestige I: Silver Oath",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_10a.webp?v=57f383a3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Madder Root",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_MadderRoot.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: gilded herald (gabriel)": {
+    "name": "Prestige II: Gilded Herald",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_12a.webp?v=3688adc0",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Gold Leaf",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Holdfast",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronHoldfast.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: gilded herald": {
+    "name": "Prestige II: Gilded Herald",
+    "type": "character",
+    "target": "Gabriel",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Gabriel_Cosmetic_12a.webp?v=3688adc0",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Gabriel.",
+    "materials": [
+      {
+        "name": "Gold Leaf",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_GoldLeaf.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Holdfast",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronHoldfast.png",
+        "slug": ""
+      },
+      {
+        "name": "Indigo Flakes",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IndigoFlakes.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum (otto)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Common",
+    "img_url": "/media/skins/Abel_Cosmetic_01a.webp?v=2e3c3cf0",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp (otto)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Common",
+    "img_url": "/media/skins/Abel_Cosmetic_02a.webp?v=e8273a1c",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Nettlecloth",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_Nettlecloth.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice (otto)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Abel_Cosmetic_03a.webp?v=aea86e89",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      },
+      {
+        "name": "Damp Rag",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_DampRag.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman (otto)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Abel_Cosmetic_04a.webp?v=a0b63289",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Linseed Oil",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_LinseedOil.png",
+        "slug": ""
+      },
+      {
+        "name": "Boiled Leather",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoiledLeather.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller (otto)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Abel_Cosmetic_05a.webp?v=51c29e5e",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Shellac.png",
+        "slug": ""
+      },
+      {
+        "name": "Beeswax",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Beeswax.png",
+        "slug": ""
+      },
+      {
+        "name": "Brass Plate",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_Brassplate.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor (otto)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Abel_Cosmetic_06a.webp?v=b5df7372",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Cold Iron",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      },
+      {
+        "name": "Tanned Hide",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_TannedHide.png",
+        "slug": ""
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert (otto)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Abel_Cosmetic_07a.webp?v=bad43d1a",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Amber Pearl",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_AmberPearl.png",
+        "slug": ""
+      },
+      {
+        "name": "Calfskin Boots",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_CalfskinBoots.png",
+        "slug": ""
+      },
+      {
+        "name": "Silver Dish",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_SilverDish.png",
+        "slug": ""
+      },
+      {
+        "name": "Old Riding Glove",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_OldRidingGlove.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master (otto)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Abel_Cosmetic_08a.webp?v=c575ed81",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Cashmere Shawl",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Large Silver Candlestick",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CandleHolder.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Holdfast",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IronHoldfast.png",
+        "slug": ""
+      },
+      {
+        "name": "Steelband",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Steelband.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend (otto)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_09a.webp?v=36e7fdcd",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      },
+      {
+        "name": "Gilded Tassels",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_GildedTassels.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: siegebreaker (otto)": {
+    "name": "Prestige I: Siegebreaker",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_10a.webp?v=deafdb50",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Damascus Steel",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DamascusSteel.png",
+        "slug": ""
+      },
+      {
+        "name": "Pinchbeck",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Pinchbeck.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksmith's Tongs",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BlacksmithsTongs.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: siegebreaker": {
+    "name": "Prestige I: Siegebreaker",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_10a.webp?v=deafdb50",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Damascus Steel",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_DamascusSteel.png",
+        "slug": ""
+      },
+      {
+        "name": "Pinchbeck",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Pinchbeck.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksmith's Tongs",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BlacksmithsTongs.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Belt Strap",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_BeltStrap.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: black reiter (otto)": {
+    "name": "Prestige II: Black Reiter",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_11a.webp?v=f92b8a2f",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Jug",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_Iron_Jug.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: black reiter": {
+    "name": "Prestige II: Black Reiter",
+    "type": "character",
+    "target": "Otto",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Abel_Cosmetic_11a.webp?v=f92b8a2f",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Otto.",
+    "materials": [
+      {
+        "name": "Imperial Eagle",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_ImperialEagle.png",
+        "slug": ""
+      },
+      {
+        "name": "Cashmere Shawl",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_CashmereShawl.png",
+        "slug": ""
+      },
+      {
+        "name": "Blacksand",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Blacksand.png",
+        "slug": ""
+      },
+      {
+        "name": "Sootblack",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Sootblack.png",
+        "slug": ""
+      },
+      {
+        "name": "Iron Jug",
+        "qty": "20",
+        "img_url": "/media/items/T_UI_Item_Iron_Jug.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "dirty scum (serine)": {
+    "name": "Dirty Scum",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Common",
+    "img_url": "/media/skins/Serine_Cosmetic_01a.webp?v=1f5f4706",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "fleeing whelp (serine)": {
+    "name": "Fleeing Whelp",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Common",
+    "img_url": "/media/skins/Serine_Cosmetic_02a.webp?v=bf8f0931",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Bone Char",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_BoneChar.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "deft apprentice (serine)": {
+    "name": "Deft Apprentice",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Serine_Cosmetic_03a.webp?v=35694b87",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Walnut Husk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_WalnutHusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Tallow Balm",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_TallowBalm.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "plucky journeyman (serine)": {
+    "name": "Plucky Journeyman",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Serine_Cosmetic_04a.webp?v=f5dd592f",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Red Ochre",
+        "qty": "4",
+        "img_url": "/media/items/T_UI_Item_RedOchre.png",
+        "slug": ""
+      },
+      {
+        "name": "Charcoal",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Charcoal.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "clever traveller (serine)": {
+    "name": "Clever Traveller",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Serine_Cosmetic_05a.webp?v=23623b74",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Shellac",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Shellac.png",
+        "slug": ""
+      },
+      {
+        "name": "Nacre Button",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_NacreButton.png",
+        "slug": ""
+      },
+      {
+        "name": "Amber",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "adept survivor (serine)": {
+    "name": "Adept Survivor",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Serine_Cosmetic_06a.webp?v=854a8606",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Torn Damask",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_TornDamask.png",
+        "slug": ""
+      },
+      {
+        "name": "Grape Must",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_GrapeMust.png",
+        "slug": ""
+      },
+      {
+        "name": "Brass Plate",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Brassplate.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "cunning expert (serine)": {
+    "name": "Cunning Expert",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Serine_Cosmetic_07a.webp?v=53e7d762",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Serpentstone",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_Serpentstone.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "high master (serine)": {
+    "name": "High Master",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Serine_Cosmetic_08a.webp?v=29c0e35c",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Fraying Taffeta Waistcoat",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FrayingTaffetaWaistcoat.png",
+        "slug": ""
+      },
+      {
+        "name": "Shiny Buckle",
+        "qty": "3",
+        "img_url": "/media/items/T_UI_Item_ShinyBuckle.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "8",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Ram’s Horn",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_RamsHorn.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "revered legend (serine)": {
+    "name": "Revered Legend",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_09a.webp?v=b42964f3",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Blood Of The Penitent",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_BloodOfThePenitent.png",
+        "slug": ""
+      },
+      {
+        "name": "Intact Femur",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IntactFemur.png",
+        "slug": ""
+      },
+      {
+        "name": "Fine File",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_FineFile.png",
+        "slug": ""
+      },
+      {
+        "name": "Delicate Chain",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_DelicateChain.png",
+        "slug": ""
+      },
+      {
+        "name": "Cold Iron",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_ColdIron.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: maroon bonemother (serine)": {
+    "name": "Prestige I: Maroon Bonemother",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_10a.webp?v=d31e8b3b",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige i: maroon bonemother": {
+    "name": "Prestige I: Maroon Bonemother",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_10a.webp?v=d31e8b3b",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Vicuna",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Vicuna.png",
+        "slug": ""
+      },
+      {
+        "name": "Ivory Tusk",
+        "qty": "1",
+        "img_url": "/media/items/T_UI_Item_IvoryTusk.png",
+        "slug": ""
+      },
+      {
+        "name": "Hartshorn",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Hartshorn.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Dank Tobacco",
+        "qty": "10",
+        "img_url": "/media/items/T_UI_Item_DankTobacco.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: mambo’s grace (serine)": {
+    "name": "Prestige II: Mambo’s Grace",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_11a.webp?v=7d9d8383",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Bloodwood",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Bloodwood.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Amber",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": ""
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "11",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "prestige ii: mambo’s grace": {
+    "name": "Prestige II: Mambo’s Grace",
+    "type": "character",
+    "target": "Serine",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Serine_Cosmetic_11a.webp?v=7d9d8383",
+    "fee": "Schema · 18 Copper",
+    "lore": "Tenue de confection officielle pour Serine.",
+    "materials": [
+      {
+        "name": "Bloodwood",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_Bloodwood.png",
+        "slug": ""
+      },
+      {
+        "name": "Wool Blanket",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_WoolBlanket.png",
+        "slug": ""
+      },
+      {
+        "name": "Sinew String",
+        "qty": "2",
+        "img_url": "/media/items/T_UI_Item_SinewString.png",
+        "slug": ""
+      },
+      {
+        "name": "Amber",
+        "qty": "5",
+        "img_url": "/media/items/T_UI_Item_Amber.png",
+        "slug": ""
+      },
+      {
+        "name": "Chalkstone",
+        "qty": "11",
+        "img_url": "/media/items/T_UI_Item_Chalkstone.png",
+        "slug": ""
+      }
+    ],
+    "resale_copper": 18,
+    "fee_clean": "18 Copper"
+  },
+  "road cask": {
+    "name": "Road Cask",
+    "type": "bag",
+    "target": "",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_BackBag_Uncommon03_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Barrel",
+        "qty": "1",
+        "slug": "barrel"
+      },
+      {
+        "name": "Bag",
+        "qty": "1",
+        "slug": "bag"
+      },
+      {
+        "name": "Gristle",
+        "qty": "1",
+        "slug": "gristle"
+      },
+      {
+        "name": "Wax",
+        "qty": "1",
+        "slug": "wax"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "argent purse": {
+    "name": "Argent Purse",
+    "type": "bag",
+    "target": "",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_HipBag_Rare01_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Purse",
+        "qty": "1",
+        "slug": "purse"
+      },
+      {
+        "name": "Shiny",
+        "qty": "1",
+        "slug": "shiny"
+      },
+      {
+        "name": "Buckle",
+        "qty": "1",
+        "slug": "buckle"
+      },
+      {
+        "name": "Delicate",
+        "qty": "1",
+        "slug": "delicate"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "bishop’s rebuke": {
+    "name": "Bishop’s Rebuke",
+    "type": "bag",
+    "target": "",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_BackBag_Common02_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Basket",
+        "qty": "1",
+        "slug": "basket"
+      },
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "slug": "shellac"
+      },
+      {
+        "name": "Lye",
+        "qty": "1",
+        "slug": "lye"
+      },
+      {
+        "name": "Crumble",
+        "qty": "1",
+        "slug": "crumble"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "marcher's roll": {
+    "name": "Marcher's Roll",
+    "type": "bag",
+    "target": "",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_BackBag_Uncommon03_03a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Barrel",
+        "qty": "1",
+        "slug": "barrel"
+      },
+      {
+        "name": "Bag",
+        "qty": "1",
+        "slug": "bag"
+      },
+      {
+        "name": "Oxliver",
+        "qty": "1",
+        "slug": "oxliver"
+      },
+      {
+        "name": "Oil",
+        "qty": "1",
+        "slug": "oil"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "penitent coinbox": {
+    "name": "Penitent Coinbox",
+    "type": "bag",
+    "target": "",
+    "rarity": "Epic",
+    "img_url": "/media/items/T_UI_Item_MisersPurse.png",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Purse",
+        "qty": "1",
+        "slug": "purse"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "sterling rebuke": {
+    "name": "Sterling Rebuke",
+    "type": "bag",
+    "target": "",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_BackBag_Common02_03a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Basket",
+        "qty": "1",
+        "slug": "basket"
+      },
+      {
+        "name": "Pinchbeck",
+        "qty": "1",
+        "slug": "pinchbeck"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "voltigeur's barrel": {
+    "name": "Voltigeur's Barrel",
+    "type": "bag",
+    "target": "",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_BackBag_Uncommon03_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Barrel",
+        "qty": "1",
+        "slug": "barrel"
+      },
+      {
+        "name": "Bag",
+        "qty": "1",
+        "slug": "bag"
+      },
+      {
+        "name": "Amber",
+        "qty": "1",
+        "slug": "amber"
+      },
+      {
+        "name": "Pearl",
+        "qty": "1",
+        "slug": "pearl"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "midas rebuke": {
+    "name": "Midas Rebuke",
+    "type": "bag",
+    "target": "",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Skin_BackBag_Common02_04a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the  in Hunger.",
+    "materials": [
+      {
+        "name": "Basket",
+        "qty": "1",
+        "slug": "basket"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "brute femur": {
+    "name": "Brute Femur",
+    "type": "weapon",
+    "target": "Club",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Club_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Club in Hunger.",
+    "materials": [
+      {
+        "name": "Club",
+        "qty": "1",
+        "slug": "club"
+      },
+      {
+        "name": "Intact",
+        "qty": "1",
+        "slug": "intact"
+      },
+      {
+        "name": "Femur",
+        "qty": "1",
+        "slug": "femur"
+      },
+      {
+        "name": "Crusty",
+        "qty": "1",
+        "slug": "crusty"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "crus sacrilege": {
+    "name": "Crus Sacrilege",
+    "type": "weapon",
+    "target": "Club",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Club_03a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Club in Hunger.",
+    "materials": [
+      {
+        "name": "Club",
+        "qty": "1",
+        "slug": "club"
+      },
+      {
+        "name": "Intact",
+        "qty": "1",
+        "slug": "intact"
+      },
+      {
+        "name": "Femur",
+        "qty": "1",
+        "slug": "femur"
+      },
+      {
+        "name": "Rosary",
+        "qty": "1",
+        "slug": "rosary"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "sindle": {
+    "name": "Sindle",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Dagger_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Chipped",
+        "qty": "1",
+        "slug": "chipped"
+      },
+      {
+        "name": "Flint",
+        "qty": "1",
+        "slug": "flint"
+      },
+      {
+        "name": "Boiled",
+        "qty": "1",
+        "slug": "boiled"
+      },
+      {
+        "name": "Leather",
+        "qty": "1",
+        "slug": "leather"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "tenebris": {
+    "name": "Tenebris",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Dagger_08a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Pewterhead",
+        "qty": "1",
+        "slug": "pewterhead"
+      },
+      {
+        "name": "Lard",
+        "qty": "1",
+        "slug": "lard"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "stag": {
+    "name": "Stag",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Dagger_05a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Hornbeam",
+        "qty": "1",
+        "slug": "hornbeam"
+      },
+      {
+        "name": "Iron",
+        "qty": "1",
+        "slug": "iron"
+      },
+      {
+        "name": "File",
+        "qty": "1",
+        "slug": "file"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "emperor's talon": {
+    "name": "Emperor's Talon",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Dagger_03a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Dagger",
+        "qty": "1",
+        "slug": "dagger"
+      },
+      {
+        "name": "Imperial",
+        "qty": "1",
+        "slug": "imperial"
+      },
+      {
+        "name": "Eagle",
+        "qty": "1",
+        "slug": "eagle"
+      },
+      {
+        "name": "Cold",
+        "qty": "1",
+        "slug": "cold"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "golgotha": {
+    "name": "Golgotha",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Dagger_06a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Rosary",
+        "qty": "1",
+        "slug": "rosary"
+      },
+      {
+        "name": "Beads",
+        "qty": "1",
+        "slug": "beads"
+      },
+      {
+        "name": "Ivory",
+        "qty": "1",
+        "slug": "ivory"
+      },
+      {
+        "name": "Tusk",
+        "qty": "1",
+        "slug": "tusk"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "trident": {
+    "name": "Trident",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Dagger_09a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Ebony",
+        "qty": "1",
+        "slug": "ebony"
+      },
+      {
+        "name": "Cold",
+        "qty": "1",
+        "slug": "cold"
+      },
+      {
+        "name": "Iron",
+        "qty": "1",
+        "slug": "iron"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "azrael’s lockpick": {
+    "name": "Azrael’s Lockpick",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Skin_Dagger_07a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Dagger",
+        "qty": "1",
+        "slug": "dagger"
+      },
+      {
+        "name": "Blood",
+        "qty": "1",
+        "slug": "blood"
+      },
+      {
+        "name": "Of",
+        "qty": "1",
+        "slug": "of"
+      },
+      {
+        "name": "The",
+        "qty": "1",
+        "slug": "the"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "misericorde": {
+    "name": "Misericorde",
+    "type": "weapon",
+    "target": "Dagger",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Skin_Dagger_04a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Dagger in Hunger.",
+    "materials": [
+      {
+        "name": "Damascus",
+        "qty": "1",
+        "slug": "damascus"
+      },
+      {
+        "name": "Steel",
+        "qty": "1",
+        "slug": "steel"
+      },
+      {
+        "name": "Fine",
+        "qty": "1",
+        "slug": "fine"
+      },
+      {
+        "name": "File",
+        "qty": "1",
+        "slug": "file"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "hermit": {
+    "name": "Hermit",
+    "type": "weapon",
+    "target": "Halberd",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Halberd_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Halberd in Hunger.",
+    "materials": [
+      {
+        "name": "Sinew",
+        "qty": "1",
+        "slug": "sinew"
+      },
+      {
+        "name": "String",
+        "qty": "1",
+        "slug": "string"
+      },
+      {
+        "name": "Crusty",
+        "qty": "1",
+        "slug": "crusty"
+      },
+      {
+        "name": "Faeces",
+        "qty": "1",
+        "slug": "faeces"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "noble": {
+    "name": "Noble",
+    "type": "weapon",
+    "target": "Halberd",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Halberd_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Halberd in Hunger.",
+    "materials": [
+      {
+        "name": "China",
+        "qty": "1",
+        "slug": "china"
+      },
+      {
+        "name": "Bowl",
+        "qty": "1",
+        "slug": "bowl"
+      },
+      {
+        "name": "Dirty",
+        "qty": "1",
+        "slug": "dirty"
+      },
+      {
+        "name": "Brocade",
+        "qty": "1",
+        "slug": "brocade"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "highlander": {
+    "name": "Highlander",
+    "type": "weapon",
+    "target": "Longsword",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Longsword_04a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Longsword in Hunger.",
+    "materials": [
+      {
+        "name": "Linseed",
+        "qty": "1",
+        "slug": "linseed"
+      },
+      {
+        "name": "Oil",
+        "qty": "1",
+        "slug": "oil"
+      },
+      {
+        "name": "Sturdy",
+        "qty": "1",
+        "slug": "sturdy"
+      },
+      {
+        "name": "Axe",
+        "qty": "1",
+        "slug": "axe"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "old iron": {
+    "name": "Old Iron",
+    "type": "weapon",
+    "target": "Longsword",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Longsword_03a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Longsword in Hunger.",
+    "materials": [
+      {
+        "name": "Longsword",
+        "qty": "1",
+        "slug": "longsword"
+      },
+      {
+        "name": "Hornbeam",
+        "qty": "1",
+        "slug": "hornbeam"
+      },
+      {
+        "name": "Iron",
+        "qty": "1",
+        "slug": "iron"
+      },
+      {
+        "name": "Holdfast",
+        "qty": "1",
+        "slug": "holdfast"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "italian standard": {
+    "name": "Italian Standard",
+    "type": "weapon",
+    "target": "Louisville",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Louisville_01h.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Louisville in Hunger.",
+    "materials": [
+      {
+        "name": "Louisville",
+        "qty": "1",
+        "slug": "louisville"
+      },
+      {
+        "name": "Madder",
+        "qty": "1",
+        "slug": "madder"
+      },
+      {
+        "name": "Root",
+        "qty": "1",
+        "slug": "root"
+      },
+      {
+        "name": "Twine",
+        "qty": "1",
+        "slug": "twine"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "peninsular campaign banner": {
+    "name": "Peninsular Campaign Banner",
+    "type": "weapon",
+    "target": "Louisville",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Louisville_01e.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Louisville in Hunger.",
+    "materials": [
+      {
+        "name": "Louisville",
+        "qty": "1",
+        "slug": "louisville"
+      },
+      {
+        "name": "Louisville",
+        "qty": "1",
+        "slug": "louisville"
+      },
+      {
+        "name": "Ornate",
+        "qty": "1",
+        "slug": "ornate"
+      },
+      {
+        "name": "Cushion",
+        "qty": "1",
+        "slug": "cushion"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "tricolour standard": {
+    "name": "Tricolour Standard",
+    "type": "weapon",
+    "target": "Louisville",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Louisville_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Louisville in Hunger.",
+    "materials": [
+      {
+        "name": "Louisville",
+        "qty": "1",
+        "slug": "louisville"
+      },
+      {
+        "name": "Red",
+        "qty": "1",
+        "slug": "red"
+      },
+      {
+        "name": "Ochre",
+        "qty": "1",
+        "slug": "ochre"
+      },
+      {
+        "name": "Indigo",
+        "qty": "1",
+        "slug": "indigo"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "wrapped prussian standard": {
+    "name": "Wrapped Prussian Standard",
+    "type": "weapon",
+    "target": "Louisville",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Louisville_01g.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Louisville in Hunger.",
+    "materials": [
+      {
+        "name": "Louisville",
+        "qty": "1",
+        "slug": "louisville"
+      },
+      {
+        "name": "Louisville",
+        "qty": "1",
+        "slug": "louisville"
+      },
+      {
+        "name": "Marching",
+        "qty": "1",
+        "slug": "marching"
+      },
+      {
+        "name": "Drum",
+        "qty": "1",
+        "slug": "drum"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "baton": {
+    "name": "Baton",
+    "type": "weapon",
+    "target": "Mace",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_Mace_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Mace in Hunger.",
+    "materials": [
+      {
+        "name": "Brass",
+        "qty": "1",
+        "slug": "brass"
+      },
+      {
+        "name": "Plate",
+        "qty": "1",
+        "slug": "plate"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "austerlitz": {
+    "name": "Austerlitz",
+    "type": "weapon",
+    "target": "Mace",
+    "rarity": "Legendary",
+    "img_url": "/media/skins/Skin_Mace_03a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Mace in Hunger.",
+    "materials": [
+      {
+        "name": "Imperial",
+        "qty": "1",
+        "slug": "imperial"
+      },
+      {
+        "name": "Eagle",
+        "qty": "1",
+        "slug": "eagle"
+      },
+      {
+        "name": "Gold",
+        "qty": "1",
+        "slug": "gold"
+      },
+      {
+        "name": "Leaf",
+        "qty": "1",
+        "slug": "leaf"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "loup": {
+    "name": "Loup",
+    "type": "weapon",
+    "target": "Rapier",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Rapier_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Rapier in Hunger.",
+    "materials": [
+      {
+        "name": "Fancy",
+        "qty": "1",
+        "slug": "fancy"
+      },
+      {
+        "name": "Silver",
+        "qty": "1",
+        "slug": "silver"
+      },
+      {
+        "name": "Plaque",
+        "qty": "1",
+        "slug": "plaque"
+      },
+      {
+        "name": "Blacksand",
+        "qty": "1",
+        "slug": "blacksand"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "basilisk": {
+    "name": "Basilisk",
+    "type": "weapon",
+    "target": "Rapier",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Rapier_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Rapier in Hunger.",
+    "materials": [
+      {
+        "name": "Damascus",
+        "qty": "1",
+        "slug": "damascus"
+      },
+      {
+        "name": "Steel",
+        "qty": "1",
+        "slug": "steel"
+      },
+      {
+        "name": "Serpentstone",
+        "qty": "1",
+        "slug": "serpentstone"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "shashka": {
+    "name": "Shashka",
+    "type": "weapon",
+    "target": "Saber",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_Saber_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Saber in Hunger.",
+    "materials": [
+      {
+        "name": "Polished",
+        "qty": "1",
+        "slug": "polished"
+      },
+      {
+        "name": "Handle",
+        "qty": "1",
+        "slug": "handle"
+      },
+      {
+        "name": "Red",
+        "qty": "1",
+        "slug": "red"
+      },
+      {
+        "name": "Ochre",
+        "qty": "1",
+        "slug": "ochre"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "schlag": {
+    "name": "Schlag",
+    "type": "weapon",
+    "target": "Short Sword",
+    "rarity": "Uncommon",
+    "img_url": "/media/skins/Skin_ShortSword_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Short Sword in Hunger.",
+    "materials": [
+      {
+        "name": "Short",
+        "qty": "1",
+        "slug": "short"
+      },
+      {
+        "name": "Sword",
+        "qty": "1",
+        "slug": "sword"
+      },
+      {
+        "name": "Tanned",
+        "qty": "1",
+        "slug": "tanned"
+      },
+      {
+        "name": "Hide",
+        "qty": "1",
+        "slug": "hide"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "danse macabre": {
+    "name": "Danse Macabre",
+    "type": "weapon",
+    "target": "Snub",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Snub_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Snub in Hunger.",
+    "materials": [
+      {
+        "name": "Snub",
+        "qty": "1",
+        "slug": "snub"
+      },
+      {
+        "name": "Oxliver",
+        "qty": "1",
+        "slug": "oxliver"
+      },
+      {
+        "name": "Oil",
+        "qty": "1",
+        "slug": "oil"
+      },
+      {
+        "name": "Pitch",
+        "qty": "1",
+        "slug": "pitch"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "solstice": {
+    "name": "Solstice",
+    "type": "weapon",
+    "target": "Vepr",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_Vepr_01.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the Vepr in Hunger.",
+    "materials": [
+      {
+        "name": "Pinchbeck",
+        "qty": "1",
+        "slug": "pinchbeck"
+      },
+      {
+        "name": "Ivory",
+        "qty": "1",
+        "slug": "ivory"
+      },
+      {
+        "name": "Tusk",
+        "qty": "1",
+        "slug": "tusk"
+      },
+      {
+        "name": "Hornbeam",
+        "qty": "1",
+        "slug": "hornbeam"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "frey": {
+    "name": "Frey",
+    "type": "weapon",
+    "target": "War Axe",
+    "rarity": "Rare",
+    "img_url": "/media/skins/Skin_WarAxe_01a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the War Axe in Hunger.",
+    "materials": [
+      {
+        "name": "War",
+        "qty": "1",
+        "slug": "war"
+      },
+      {
+        "name": "Axe",
+        "qty": "1",
+        "slug": "axe"
+      },
+      {
+        "name": "Cold",
+        "qty": "1",
+        "slug": "cold"
+      },
+      {
+        "name": "Iron",
+        "qty": "1",
+        "slug": "iron"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  },
+  "sacrament": {
+    "name": "Sacrament",
+    "type": "weapon",
+    "target": "War Axe",
+    "rarity": "Epic",
+    "img_url": "/media/skins/Skin_WarAxe_02a.webp",
+    "fee": "Schema · 210 Copper",
+    "lore": "Official cosmetic crafting blueprint for the War Axe in Hunger.",
+    "materials": [
+      {
+        "name": "War",
+        "qty": "1",
+        "slug": "war"
+      },
+      {
+        "name": "Axe",
+        "qty": "1",
+        "slug": "axe"
+      },
+      {
+        "name": "Gold",
+        "qty": "1",
+        "slug": "gold"
+      },
+      {
+        "name": "Leaf",
+        "qty": "1",
+        "slug": "leaf"
+      }
+    ],
+    "resale_copper": 210,
+    "fee_clean": "210 Copper"
+  }
+}

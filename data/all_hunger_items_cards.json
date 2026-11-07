@@ -1,0 +1,5077 @@
+{
+  "gunsmith-recipe-volcan": {
+    "t": "Gunsmith Recipe - Volcan",
+    "r": "artifact",
+    "c": "schema",
+    "v": 280000,
+    "slug": "gunsmith-recipe-volcan"
+  },
+  "outfitter-recipe-old-guard-helmet": {
+    "t": "Outfitter Recipe - Old Guard Helmet",
+    "r": "artifact",
+    "c": "schema",
+    "v": 216000,
+    "slug": "outfitter-recipe-old-guard-helmet"
+  },
+  "outfitter-recipe-coldstream-pack": {
+    "t": "Outfitter Recipe - Coldstream Pack",
+    "r": "artifact",
+    "c": "schema",
+    "v": 280000,
+    "slug": "outfitter-recipe-coldstream-pack"
+  },
+  "outfitter-recipe-old-guard-cuirass": {
+    "t": "Outfitter Recipe - Old Guard Cuirass",
+    "r": "artifact",
+    "c": "schema",
+    "v": 323000,
+    "slug": "outfitter-recipe-old-guard-cuirass"
+  },
+  "outfitter-recipe-sheath-of-the-four-winds": {
+    "t": "Outfitter Recipe - Sheath of the Four Winds",
+    "r": "artifact",
+    "c": "schema",
+    "v": 420000,
+    "slug": "outfitter-recipe-sheath-of-the-four-winds"
+  },
+  "cook-recipe-brioche": {
+    "t": "Cook Recipe - Brioche",
+    "r": "artifact",
+    "c": "schema",
+    "v": 428550,
+    "slug": "cook-recipe-brioche"
+  },
+  "outfitter-recipe-pegasus": {
+    "t": "Outfitter Recipe - Pegasus",
+    "r": "artifact",
+    "c": "schema",
+    "v": 250000,
+    "slug": "outfitter-recipe-pegasus"
+  },
+  "gunsmith-recipe-belier": {
+    "t": "Gunsmith Recipe - Belier",
+    "r": "artifact",
+    "c": "schema",
+    "v": 400000,
+    "slug": "gunsmith-recipe-belier"
+  },
+  "outfitter-recipe-old-guard-greaves": {
+    "t": "Outfitter Recipe - Old Guard Greaves",
+    "r": "artifact",
+    "c": "schema",
+    "v": 278000,
+    "slug": "outfitter-recipe-old-guard-greaves"
+  },
+  "cook-recipe-imperial-pot-au-feu": {
+    "t": "Cook Recipe - Imperial Pot-au-Feu",
+    "r": "artifact",
+    "c": "schema",
+    "v": 38700,
+    "slug": "cook-recipe-imperial-pot-au-feu"
+  },
+  "outfitter-recipe-charon-s-oyster": {
+    "t": "Outfitter Recipe - Charon's Oyster",
+    "r": "artifact",
+    "c": "schema",
+    "v": 4500000,
+    "slug": "outfitter-recipe-charon-s-oyster"
+  },
+  "gunsmith-recipe-drak": {
+    "t": "Gunsmith Recipe - Drak",
+    "r": "artifact",
+    "c": "schema",
+    "v": 425000,
+    "slug": "gunsmith-recipe-drak"
+  },
+  "artificer-recipe-clockwork-tongs": {
+    "t": "Artificer Recipe - Clockwork Tongs",
+    "r": "artifact",
+    "c": "schema",
+    "v": 661770,
+    "slug": "artificer-recipe-clockwork-tongs"
+  },
+  "cook-recipe-tarte-tatin": {
+    "t": "Cook Recipe - Tarte Tatin",
+    "r": "artifact",
+    "c": "schema",
+    "v": 43400,
+    "slug": "cook-recipe-tarte-tatin"
+  },
+  "artificer-recipe-damascus-armour-plate": {
+    "t": "Artificer Recipe - Damascus Armour Plate",
+    "r": "artifact",
+    "c": "schema",
+    "v": 135480,
+    "slug": "artificer-recipe-damascus-armour-plate"
+  },
+  "cook-recipe-evian-spring-water": {
+    "t": "Cook Recipe - \u00c9vian Spring Water",
+    "r": "artifact",
+    "c": "schema",
+    "v": 43400,
+    "slug": "cook-recipe-evian-spring-water"
+  },
+  "outfitter-recipe-zazel-s-carry": {
+    "t": "Outfitter Recipe - Zazel's Carry",
+    "r": "artifact",
+    "c": "schema",
+    "v": 185000,
+    "slug": "outfitter-recipe-zazel-s-carry"
+  },
+  "outfitter-recipe-apollo-holster": {
+    "t": "Outfitter Recipe - Apollo Holster",
+    "r": "artifact",
+    "c": "schema",
+    "v": 440000,
+    "slug": "outfitter-recipe-apollo-holster"
+  },
+  "cook-recipe-remy-of-barbadoes-rum": {
+    "t": "Cook Recipe - Remy of Barbadoes Rum",
+    "r": "artifact",
+    "c": "schema",
+    "v": 87000,
+    "slug": "cook-recipe-remy-of-barbadoes-rum"
+  },
+  "gunsmith-recipe-jager": {
+    "t": "Gunsmith Recipe - Jager",
+    "r": "artifact",
+    "c": "schema",
+    "v": 350000,
+    "slug": "gunsmith-recipe-jager"
+  },
+  "outfitter-recipe-zealot-s-tower": {
+    "t": "Outfitter Recipe - Zealot's Tower",
+    "r": "artifact",
+    "c": "schema",
+    "v": 370000,
+    "slug": "outfitter-recipe-zealot-s-tower"
+  },
+  "austerlitz-mace": {
+    "t": "Austerlitz - Mace",
+    "r": "legendary",
+    "c": "schema",
+    "v": 504500,
+    "slug": "austerlitz-mace"
+  },
+  "physician-recipe-ambrosia": {
+    "t": "Physician Recipe - Ambrosia",
+    "r": "artifact",
+    "c": "schema",
+    "v": 78660,
+    "slug": "physician-recipe-ambrosia"
+  },
+  "ambrose-s-tithe-key": {
+    "t": "Ambrose\u2019s Tithe Key",
+    "r": "legendary",
+    "c": "key",
+    "v": 8335,
+    "slug": "ambrose-s-tithe-key"
+  },
+  "artificer-recipe-steel-armour-plate": {
+    "t": "Artificer Recipe - Steel Armour Plate",
+    "r": "legendary",
+    "c": "schema",
+    "v": 65570,
+    "slug": "artificer-recipe-steel-armour-plate"
+  },
+  "apollo-holster": {
+    "t": "Apollo Holster",
+    "r": "legendary",
+    "c": "bag",
+    "v": 44000,
+    "slug": "apollo-holster"
+  },
+  "physician-recipe-the-psychopomp": {
+    "t": "Physician Recipe - The Psychopomp",
+    "r": "artifact",
+    "c": "schema",
+    "v": 735300,
+    "slug": "physician-recipe-the-psychopomp"
+  },
+  "azrael-s-lockpick-dagger": {
+    "t": "Azrael's Lockpick - Dagger",
+    "r": "legendary",
+    "c": "schema",
+    "v": 3336,
+    "slug": "azrael-s-lockpick-dagger"
+  },
+  "artificer-recipe-delicate-tongs": {
+    "t": "Artificer Recipe - Delicate Tongs",
+    "r": "legendary",
+    "c": "schema",
+    "v": 105140,
+    "slug": "artificer-recipe-delicate-tongs"
+  },
+  "bishop-s-crypt-key": {
+    "t": "Bishop's Crypt Key",
+    "r": "legendary",
+    "c": "key",
+    "v": 8335,
+    "slug": "bishop-s-crypt-key"
+  },
+  "ambrosia": {
+    "t": "Ambrosia",
+    "r": "legendary",
+    "c": "medicine",
+    "v": 7866,
+    "h": "+100",
+    "slug": "ambrosia"
+  },
+  "blood-of-the-penitent": {
+    "t": "Blood Of The Penitent",
+    "r": "legendary",
+    "c": "material",
+    "v": 2001,
+    "slug": "blood-of-the-penitent"
+  },
+  "an-almanac-of-the-world-after-the-end": {
+    "t": "An Almanac of the World After the End",
+    "r": "legendary",
+    "c": "quest_item",
+    "v": 2111,
+    "slug": "an-almanac-of-the-world-after-the-end"
+  },
+  "bloodbox-key": {
+    "t": "Bloodbox Key",
+    "r": "legendary",
+    "c": "key",
+    "v": 8335,
+    "slug": "bloodbox-key"
+  },
+  "bloodwood": {
+    "t": "Bloodwood",
+    "r": "legendary",
+    "c": "material",
+    "v": 1243,
+    "slug": "bloodwood"
+  },
+  "bloodrooms-key": {
+    "t": "Bloodrooms Key",
+    "r": "legendary",
+    "c": "key",
+    "v": 10199,
+    "slug": "bloodrooms-key"
+  },
+  "black-sacrament-key": {
+    "t": "Black Sacrament Key",
+    "r": "legendary",
+    "c": "key",
+    "v": 10251,
+    "slug": "black-sacrament-key"
+  },
+  "belier": {
+    "t": "Belier",
+    "r": "legendary",
+    "c": "weapon",
+    "v": 40000,
+    "a": "Heavy",
+    "w": "Rifle",
+    "d": "11",
+    "f": 706,
+    "m": 60,
+    "slug": "belier"
+  },
+  "cameo-of-pollux": {
+    "t": "Cameo Of Pollux",
+    "r": "legendary",
+    "c": "material",
+    "v": 1551,
+    "slug": "cameo-of-pollux"
+  },
+  "coldstream-pack": {
+    "t": "Coldstream Pack",
+    "r": "legendary",
+    "c": "bag",
+    "v": 28000,
+    "slug": "coldstream-pack"
+  },
+  "charon-s-oyster": {
+    "t": "Charon's Oyster",
+    "r": "legendary",
+    "c": "bag",
+    "v": 450000,
+    "slug": "charon-s-oyster"
+  },
+  "cook-recipe-burgundy-ragout": {
+    "t": "Cook Recipe - Burgundy Ragout",
+    "r": "legendary",
+    "c": "schema",
+    "v": 12240,
+    "slug": "cook-recipe-burgundy-ragout"
+  },
+  "cameo-of-castor": {
+    "t": "Cameo Of Castor",
+    "r": "legendary",
+    "c": "material",
+    "v": 1551,
+    "slug": "cameo-of-castor"
+  },
+  "cook-recipe-candied-apple": {
+    "t": "Cook Recipe - Candied Apple",
+    "r": "legendary",
+    "c": "schema",
+    "v": 880,
+    "slug": "cook-recipe-candied-apple"
+  },
+  "damascus-steel": {
+    "t": "Damascus Steel",
+    "r": "legendary",
+    "c": "material",
+    "v": 1738,
+    "slug": "damascus-steel"
+  },
+  "cook-recipe-spiced-bread": {
+    "t": "Cook Recipe - Spiced Bread",
+    "r": "legendary",
+    "c": "schema",
+    "v": 12240,
+    "slug": "cook-recipe-spiced-bread"
+  },
+  "clockwork-tongs": {
+    "t": "Clockwork Tongs",
+    "r": "legendary",
+    "c": "tool",
+    "v": 66177,
+    "slug": "clockwork-tongs"
+  },
+  "damascus-armour-plate": {
+    "t": "Damascus Armour Plate",
+    "r": "legendary",
+    "c": "tool",
+    "v": 13548,
+    "slug": "damascus-armour-plate"
+  },
+  "drak": {
+    "t": "Drak",
+    "r": "legendary",
+    "c": "weapon",
+    "v": 42500,
+    "a": "Exotic",
+    "w": "Rifle",
+    "d": "107",
+    "f": 120,
+    "m": 1,
+    "slug": "drak"
+  },
+  "flawless-diamond": {
+    "t": "Flawless Diamond",
+    "r": "legendary",
+    "c": "material",
+    "v": 2555,
+    "slug": "flawless-diamond"
+  },
+  "evian-spring-water": {
+    "t": "\u00c9vian Spring Water",
+    "r": "legendary",
+    "c": "drink",
+    "v": 8550,
+    "e": "Movement speed +25 % \u00b7 1.3 min",
+    "slug": "evian-spring-water"
+  },
+  "gold-bar": {
+    "t": "Gold Bar",
+    "r": "legendary",
+    "c": "material",
+    "v": 1635,
+    "slug": "gold-bar"
+  },
+  "distilled-mercury": {
+    "t": "Distilled Mercury",
+    "r": "legendary",
+    "c": "material",
+    "v": 3637,
+    "slug": "distilled-mercury"
+  },
+  "fury-s-mountain-key": {
+    "t": "Fury\u2019s Mountain Key",
+    "r": "legendary",
+    "c": "key",
+    "v": 10208,
+    "slug": "fury-s-mountain-key"
+  },
+  "bolt-of-silk-cloth": {
+    "t": "Bolt of Silk Cloth",
+    "r": "legendary",
+    "c": "material",
+    "v": 1705,
+    "slug": "bolt-of-silk-cloth"
+  },
+  "brioche": {
+    "t": "Brioche",
+    "r": "legendary",
+    "c": "food",
+    "v": 9358,
+    "e": "Reload speed +30 % \u00b7 30 min",
+    "slug": "brioche"
+  },
+  "gold-leaf": {
+    "t": "Gold Leaf",
+    "r": "legendary",
+    "c": "material",
+    "v": 821,
+    "slug": "gold-leaf"
+  },
+  "gunsmith-recipe-lionne": {
+    "t": "Gunsmith Recipe - Lionne",
+    "r": "legendary",
+    "c": "schema",
+    "v": 70000,
+    "slug": "gunsmith-recipe-lionne"
+  },
+  "gold-ore": {
+    "t": "Gold Ore",
+    "r": "legendary",
+    "c": "material",
+    "v": 743,
+    "slug": "gold-ore"
+  },
+  "gunsmith-recipe-lasher": {
+    "t": "Gunsmith Recipe - Lasher",
+    "r": "legendary",
+    "c": "schema",
+    "v": 86000,
+    "slug": "gunsmith-recipe-lasher"
+  },
+  "gunsmith-recipe-swan": {
+    "t": "Gunsmith Recipe - Swan",
+    "r": "legendary",
+    "c": "schema",
+    "v": 92000,
+    "slug": "gunsmith-recipe-swan"
+  },
+  "gunsmith-recipe-refined-ammunition": {
+    "t": "Gunsmith Recipe - Refined Ammunition",
+    "r": "legendary",
+    "c": "schema",
+    "v": 250000,
+    "slug": "gunsmith-recipe-refined-ammunition"
+  },
+  "gunsmith-recipe-voir": {
+    "t": "Gunsmith Recipe - Voir",
+    "r": "legendary",
+    "c": "schema",
+    "v": 84000,
+    "slug": "gunsmith-recipe-voir"
+  },
+  "gunsmith-recipe-morgan": {
+    "t": "Gunsmith Recipe - Morgan",
+    "r": "legendary",
+    "c": "schema",
+    "v": 45000,
+    "slug": "gunsmith-recipe-morgan"
+  },
+  "isinglass": {
+    "t": "Isinglass",
+    "r": "legendary",
+    "c": "material",
+    "v": 2100,
+    "slug": "isinglass"
+  },
+  "gunsmith-recipe-exotic-ammunition": {
+    "t": "Gunsmith Recipe - Exotic Ammunition",
+    "r": "legendary",
+    "c": "schema",
+    "v": 1200000,
+    "slug": "gunsmith-recipe-exotic-ammunition"
+  },
+  "imperial-eagle": {
+    "t": "Imperial Eagle",
+    "r": "legendary",
+    "c": "material",
+    "v": 755,
+    "slug": "imperial-eagle"
+  },
+  "imperial-pot-au-feu": {
+    "t": "Imperial Pot-au-Feu",
+    "r": "legendary",
+    "c": "food",
+    "v": 8126,
+    "e": "Stamina regen +100 % \u00b7 50 min",
+    "slug": "imperial-pot-au-feu"
+  },
+  "gunsmith-recipe-borodino": {
+    "t": "Gunsmith Recipe - Borodino",
+    "r": "legendary",
+    "c": "schema",
+    "v": 52000,
+    "slug": "gunsmith-recipe-borodino"
+  },
+  "jager": {
+    "t": "Jager",
+    "r": "legendary",
+    "c": "weapon",
+    "v": 35000,
+    "a": "Refined",
+    "w": "Rifle",
+    "d": "82",
+    "f": 120,
+    "m": 1,
+    "slug": "jager"
+  },
+  "malabar-pepper": {
+    "t": "Malabar Pepper",
+    "r": "legendary",
+    "c": "material",
+    "v": 3531,
+    "slug": "malabar-pepper"
+  },
+  "jacobin-cipher": {
+    "t": "Jacobin Cipher",
+    "r": "legendary",
+    "c": "material",
+    "v": 920,
+    "slug": "jacobin-cipher"
+  },
+  "foie-gras": {
+    "t": "Foie Gras",
+    "r": "legendary",
+    "c": "material",
+    "v": 1999,
+    "slug": "foie-gras"
+  },
+  "metallurgist-recipe-halberd": {
+    "t": "Metallurgist Recipe - Halberd",
+    "r": "legendary",
+    "c": "schema",
+    "v": 48000,
+    "slug": "metallurgist-recipe-halberd"
+  },
+  "marksman-s-spine": {
+    "t": "Marksman's Spine",
+    "r": "legendary",
+    "c": "material",
+    "v": 10009,
+    "slug": "marksman-s-spine"
+  },
+  "farsight-drak": {
+    "t": "Farsight Drak",
+    "r": "legendary",
+    "c": "weapon",
+    "a": "Exotic",
+    "w": "Rifle",
+    "d": "107",
+    "f": 120,
+    "m": 1,
+    "slug": "farsight-drak"
+  },
+  "milk-of-poppy": {
+    "t": "Milk of Poppy",
+    "r": "legendary",
+    "c": "material",
+    "v": 2512,
+    "slug": "milk-of-poppy"
+  },
+  "misericorde-dagger": {
+    "t": "Misericorde - Dagger",
+    "r": "legendary",
+    "c": "schema",
+    "v": 3638,
+    "slug": "misericorde-dagger"
+  },
+  "old-guard-cuirass": {
+    "t": "Old Guard Cuirass",
+    "r": "legendary",
+    "c": "armour",
+    "v": 32300,
+    "slug": "old-guard-cuirass"
+  },
+  "midas-rebuke-foraging-basket": {
+    "t": "Midas Rebuke - Foraging Basket",
+    "r": "legendary",
+    "c": "schema",
+    "v": 2052,
+    "slug": "midas-rebuke-foraging-basket"
+  },
+  "old-guard-greaves": {
+    "t": "Old Guard Greaves",
+    "r": "legendary",
+    "c": "armour",
+    "v": 27800,
+    "slug": "old-guard-greaves"
+  },
+  "outfitter-recipe-black-dragoon-greaves": {
+    "t": "Outfitter Recipe - Black Dragoon Greaves",
+    "r": "legendary",
+    "c": "schema",
+    "v": 42000,
+    "slug": "outfitter-recipe-black-dragoon-greaves"
+  },
+  "outfitter-recipe-black-dragoon-helmet": {
+    "t": "Outfitter Recipe - Black Dragoon Helmet",
+    "r": "legendary",
+    "c": "schema",
+    "v": 36320,
+    "slug": "outfitter-recipe-black-dragoon-helmet"
+  },
+  "outfitter-recipe-boutet-s-riflecase": {
+    "t": "Outfitter Recipe - Boutet's Riflecase",
+    "r": "legendary",
+    "c": "schema",
+    "v": 68000,
+    "slug": "outfitter-recipe-boutet-s-riflecase"
+  },
+  "outfitter-recipe-black-dragoon-cuirass": {
+    "t": "Outfitter Recipe - Black Dragoon Cuirass",
+    "r": "legendary",
+    "c": "schema",
+    "v": 51500,
+    "slug": "outfitter-recipe-black-dragoon-cuirass"
+  },
+  "outfitter-recipe-miser-s-purse": {
+    "t": "Outfitter Recipe - Miser's Purse",
+    "r": "legendary",
+    "c": "schema",
+    "v": 52000,
+    "slug": "outfitter-recipe-miser-s-purse"
+  },
+  "outfitter-recipe-butterfly-cannister": {
+    "t": "Outfitter Recipe - Butterfly Cannister",
+    "r": "legendary",
+    "c": "schema",
+    "v": 45000,
+    "slug": "outfitter-recipe-butterfly-cannister"
+  },
+  "outfitter-recipe-bag-of-maratha": {
+    "t": "Outfitter Recipe - Bag of Maratha",
+    "r": "legendary",
+    "c": "schema",
+    "v": 64000,
+    "slug": "outfitter-recipe-bag-of-maratha"
+  },
+  "old-guard-helmet": {
+    "t": "Old Guard Helmet",
+    "r": "legendary",
+    "c": "armour",
+    "v": 21600,
+    "slug": "old-guard-helmet"
+  },
+  "outfitter-recipe-trevallion-s-valise": {
+    "t": "Outfitter Recipe - Trevallion's Valise",
+    "r": "legendary",
+    "c": "schema",
+    "v": 58000,
+    "slug": "outfitter-recipe-trevallion-s-valise"
+  },
+  "pegasus": {
+    "t": "Pegasus",
+    "r": "legendary",
+    "c": "bag",
+    "v": 25000,
+    "slug": "pegasus"
+  },
+  "physician-recipe-scarlet-return": {
+    "t": "Physician Recipe - Scarlet Return",
+    "r": "legendary",
+    "c": "schema",
+    "v": 116830,
+    "slug": "physician-recipe-scarlet-return"
+  },
+  "royal-jelly": {
+    "t": "Royal Jelly",
+    "r": "legendary",
+    "c": "material",
+    "v": 777,
+    "slug": "royal-jelly"
+  },
+  "sealed-gold-reliquary": {
+    "t": "Sealed Gold Reliquary",
+    "r": "legendary",
+    "c": "material",
+    "v": 830,
+    "slug": "sealed-gold-reliquary"
+  },
+  "raw-peppercorn": {
+    "t": "Raw Peppercorn",
+    "r": "legendary",
+    "c": "material",
+    "v": 321,
+    "slug": "raw-peppercorn"
+  },
+  "silk": {
+    "t": "Silk",
+    "r": "legendary",
+    "c": "material",
+    "v": 775,
+    "slug": "silk"
+  },
+  "silk-scarf": {
+    "t": "Silk Scarf",
+    "r": "legendary",
+    "c": "material",
+    "v": 1482,
+    "slug": "silk-scarf"
+  },
+  "sheath-of-the-four-winds": {
+    "t": "Sheath of the Four Winds",
+    "r": "legendary",
+    "c": "bag",
+    "v": 42000,
+    "slug": "sheath-of-the-four-winds"
+  },
+  "poppy": {
+    "t": "Poppy",
+    "r": "legendary",
+    "c": "material",
+    "v": 457,
+    "slug": "poppy"
+  },
+  "shagreen": {
+    "t": "Shagreen",
+    "r": "legendary",
+    "c": "material",
+    "v": 803,
+    "slug": "shagreen"
+  },
+  "tarnished-quicksilver": {
+    "t": "Tarnished Quicksilver",
+    "r": "legendary",
+    "c": "material",
+    "v": 1653,
+    "slug": "tarnished-quicksilver"
+  },
+  "the-erosion-of-conscience-note02": {
+    "t": "The Erosion of Conscience",
+    "r": "legendary",
+    "c": "quest_item",
+    "v": 2111,
+    "q": "Legendary",
+    "slug": "the-erosion-of-conscience-note02"
+  },
+  "the-psychopomp": {
+    "t": "The Psychopomp",
+    "r": "legendary",
+    "c": "medicine",
+    "v": 73530,
+    "slug": "the-psychopomp"
+  },
+  "smooth-bore-barrel": {
+    "t": "Smooth Bore Barrel",
+    "r": "legendary",
+    "c": "material",
+    "v": 9099,
+    "slug": "smooth-bore-barrel"
+  },
+  "topaz": {
+    "t": "Topaz",
+    "r": "legendary",
+    "c": "material",
+    "v": 920,
+    "slug": "topaz"
+  },
+  "tarte-tatin": {
+    "t": "Tarte Tatin",
+    "r": "legendary",
+    "c": "food",
+    "v": 10329,
+    "e": "Looting speed +100 % \u00b7 50 min",
+    "slug": "tarte-tatin"
+  },
+  "sword-hilt-of-molay": {
+    "t": "Sword Hilt Of Molay",
+    "r": "legendary",
+    "c": "material",
+    "v": 3134,
+    "slug": "sword-hilt-of-molay"
+  },
+  "volcan": {
+    "t": "Volcan",
+    "r": "legendary",
+    "c": "weapon",
+    "v": 28000,
+    "a": "Refined",
+    "w": "Pistol",
+    "d": "36",
+    "f": 80,
+    "m": 8,
+    "slug": "volcan"
+  },
+  "vicuna": {
+    "t": "Vicuna",
+    "r": "legendary",
+    "c": "material",
+    "v": 1094,
+    "slug": "vicuna"
+  },
+  "zazel-s-carry": {
+    "t": "Zazel's Carry",
+    "r": "legendary",
+    "c": "bag",
+    "v": 18500,
+    "slug": "zazel-s-carry"
+  },
+  "zealot-s-tower": {
+    "t": "Zealot's Tower",
+    "r": "legendary",
+    "c": "bag",
+    "v": 37000,
+    "slug": "zealot-s-tower"
+  },
+  "amber-pearl": {
+    "t": "Amber Pearl",
+    "r": "epic",
+    "c": "material",
+    "v": 410,
+    "slug": "amber-pearl"
+  },
+  "artificer-recipe-machinist-tongs": {
+    "t": "Artificer Recipe - Machinist Tongs",
+    "r": "epic",
+    "c": "schema",
+    "v": 17690,
+    "slug": "artificer-recipe-machinist-tongs"
+  },
+  "zweihander": {
+    "t": "Zweihander",
+    "r": "legendary",
+    "c": "weapon",
+    "v": 38000,
+    "w": "Melee",
+    "d": "52\u201382",
+    "slug": "zweihander"
+  },
+  "arsenic": {
+    "t": "Arsenic",
+    "r": "epic",
+    "c": "material",
+    "v": 420,
+    "slug": "arsenic"
+  },
+  "bag-of-maratha": {
+    "t": "Bag of Maratha",
+    "r": "epic",
+    "c": "bag",
+    "v": 6400,
+    "slug": "bag-of-maratha"
+  },
+  "artificer-recipe-ceramic-armour-plate": {
+    "t": "Artificer Recipe - Ceramic Armour Plate",
+    "r": "epic",
+    "c": "schema",
+    "v": 10730,
+    "slug": "artificer-recipe-ceramic-armour-plate"
+  },
+  "baleen": {
+    "t": "Baleen",
+    "r": "epic",
+    "c": "material",
+    "v": 748,
+    "slug": "baleen"
+  },
+  "bacchus-wand-longboy": {
+    "t": "Bacchus' Wand - Longboy",
+    "r": "epic",
+    "c": "schema",
+    "v": 210,
+    "slug": "bacchus-wand-longboy"
+  },
+  "barrow-vein": {
+    "t": "Barrow Vein",
+    "r": "epic",
+    "c": "material",
+    "v": 974,
+    "slug": "barrow-vein"
+  },
+  "black-dragoon-helmet": {
+    "t": "Black Dragoon Helmet",
+    "r": "epic",
+    "c": "armour",
+    "v": 3632,
+    "slug": "black-dragoon-helmet"
+  },
+  "black-dragoon-greaves": {
+    "t": "Black Dragoon Greaves",
+    "r": "epic",
+    "c": "armour",
+    "v": 4200,
+    "slug": "black-dragoon-greaves"
+  },
+  "bolt-of-fine-wool": {
+    "t": "Bolt of Fine Wool",
+    "r": "epic",
+    "c": "material",
+    "v": 350,
+    "slug": "bolt-of-fine-wool"
+  },
+  "basilisk-rapier": {
+    "t": "Basilisk - Rapier",
+    "r": "epic",
+    "c": "schema",
+    "v": 2585,
+    "slug": "basilisk-rapier"
+  },
+  "black-dragoon-cuirass": {
+    "t": "Black Dragoon Cuirass",
+    "r": "epic",
+    "c": "armour",
+    "v": 5150,
+    "slug": "black-dragoon-cuirass"
+  },
+  "bloodstone": {
+    "t": "Bloodstone",
+    "r": "epic",
+    "c": "material",
+    "v": 282,
+    "slug": "bloodstone"
+  },
+  "boutet-s-riflecase": {
+    "t": "Boutet's Riflecase",
+    "r": "epic",
+    "c": "bag",
+    "v": 6800,
+    "slug": "boutet-s-riflecase"
+  },
+  "borodino": {
+    "t": "Borodino",
+    "r": "epic",
+    "c": "weapon",
+    "v": 5200,
+    "a": "Heavy",
+    "w": "Pistol",
+    "d": "34",
+    "f": 120,
+    "m": 5,
+    "slug": "borodino"
+  },
+  "brute-foot": {
+    "t": "Brute Foot",
+    "r": "epic",
+    "c": "trinket",
+    "v": 100,
+    "slug": "brute-foot"
+  },
+  "burgundy-ragout": {
+    "t": "Burgundy Ragout",
+    "r": "epic",
+    "c": "food",
+    "v": 3933,
+    "e": "Stamina regen +80 % \u00b7 40 min",
+    "slug": "burgundy-ragout"
+  },
+  "butterfly-cannister": {
+    "t": "Butterfly Cannister",
+    "r": "epic",
+    "c": "bag",
+    "v": 4500,
+    "slug": "butterfly-cannister"
+  },
+  "case-of-the-old-guard": {
+    "t": "Case of the Old Guard",
+    "r": "epic",
+    "c": "bag",
+    "v": 3800,
+    "slug": "case-of-the-old-guard"
+  },
+  "candied-apple": {
+    "t": "Candied Apple",
+    "r": "epic",
+    "c": "food",
+    "v": 4998,
+    "e": "Looting speed +80 % \u00b7 40 min",
+    "slug": "candied-apple"
+  },
+  "cashmere-shawl": {
+    "t": "Cashmere Shawl",
+    "r": "epic",
+    "c": "material",
+    "v": 678,
+    "slug": "cashmere-shawl"
+  },
+  "cook-recipe-apple-pie": {
+    "t": "Cook Recipe - Apple Pie",
+    "r": "epic",
+    "c": "schema",
+    "v": 880,
+    "slug": "cook-recipe-apple-pie"
+  },
+  "chromatic-lens": {
+    "t": "Chromatic Lens",
+    "r": "epic",
+    "c": "material",
+    "v": 376,
+    "slug": "chromatic-lens"
+  },
+  "cook-recipe-fougasse-bread": {
+    "t": "Cook Recipe - Fougasse Bread",
+    "r": "epic",
+    "c": "schema",
+    "v": 1250,
+    "slug": "cook-recipe-fougasse-bread"
+  },
+  "cook-recipe-regimental-reserve": {
+    "t": "Cook Recipe - Regimental Reserve",
+    "r": "epic",
+    "c": "schema",
+    "v": 880,
+    "slug": "cook-recipe-regimental-reserve"
+  },
+  "convex-glass": {
+    "t": "Convex Glass",
+    "r": "epic",
+    "c": "material",
+    "v": 188,
+    "slug": "convex-glass"
+  },
+  "china-bowl": {
+    "t": "China Bowl",
+    "r": "epic",
+    "c": "material",
+    "v": 310,
+    "slug": "china-bowl"
+  },
+  "cook-recipe-kedgeree": {
+    "t": "Cook Recipe - Kedgeree",
+    "r": "epic",
+    "c": "schema",
+    "v": 1550,
+    "slug": "cook-recipe-kedgeree"
+  },
+  "delicate-tongs": {
+    "t": "Delicate Tongs",
+    "r": "epic",
+    "c": "tool",
+    "v": 10514,
+    "slug": "delicate-tongs"
+  },
+  "dirty-brocade-dress": {
+    "t": "Dirty Brocade Dress",
+    "r": "epic",
+    "c": "material",
+    "v": 551,
+    "slug": "dirty-brocade-dress"
+  },
+  "cook-recipe-naval-rum": {
+    "t": "Cook Recipe - Naval Rum",
+    "r": "epic",
+    "c": "schema",
+    "v": 42000,
+    "slug": "cook-recipe-naval-rum"
+  },
+  "crus-sacrilege-club": {
+    "t": "Crus Sacrilege - Club",
+    "r": "epic",
+    "c": "schema",
+    "v": 2573,
+    "slug": "crus-sacrilege-club"
+  },
+  "danse-macabre-snub": {
+    "t": "Danse Macabre - Snub",
+    "r": "epic",
+    "c": "schema",
+    "v": 210,
+    "slug": "danse-macabre-snub"
+  },
+  "cook-recipe-purified-water": {
+    "t": "Cook Recipe - Purified Water",
+    "r": "epic",
+    "c": "schema",
+    "v": 880,
+    "slug": "cook-recipe-purified-water"
+  },
+  "cook-recipe-rum-of-the-indies": {
+    "t": "Cook Recipe - Rum of the Indies",
+    "r": "epic",
+    "c": "schema",
+    "v": 6850,
+    "slug": "cook-recipe-rum-of-the-indies"
+  },
+  "dried-grapes": {
+    "t": "Dried Grapes",
+    "r": "epic",
+    "c": "material",
+    "v": 381,
+    "slug": "dried-grapes"
+  },
+  "eastern-promise-brown-betty": {
+    "t": "Eastern Promise - Brown Betty",
+    "r": "epic",
+    "c": "schema",
+    "v": 1715,
+    "slug": "eastern-promise-brown-betty"
+  },
+  "drooler-jaw": {
+    "t": "Drooler Jaw",
+    "r": "epic",
+    "c": "trinket",
+    "v": 100,
+    "slug": "drooler-jaw"
+  },
+  "remy-of-barbados": {
+    "t": "Remy of Barbados",
+    "r": "legendary",
+    "c": "drink",
+    "v": 8700,
+    "e": "food.attr. \u00b7 30 s",
+    "slug": "remy-of-barbados"
+  },
+  "ebony": {
+    "t": "Ebony",
+    "r": "epic",
+    "c": "material",
+    "v": 225,
+    "slug": "ebony"
+  },
+  "emperor-s-talon-dagger": {
+    "t": "Emperor's Talon - Dagger",
+    "r": "epic",
+    "c": "schema",
+    "v": 3242,
+    "slug": "emperor-s-talon-dagger"
+  },
+  "effigy-of-the-nobleman": {
+    "t": "Effigy of the Nobleman",
+    "r": "epic",
+    "c": "material",
+    "v": 3000,
+    "slug": "effigy-of-the-nobleman"
+  },
+  "exotic-ammunition": {
+    "t": "Exotic Ammunition",
+    "r": "epic",
+    "c": "ammunition",
+    "v": 8000,
+    "slug": "exotic-ammunition"
+  },
+  "fancy-silver-plaque": {
+    "t": "Fancy Silver Plaque",
+    "r": "epic",
+    "c": "material",
+    "v": 333,
+    "slug": "fancy-silver-plaque"
+  },
+  "effigy-of-the-peasant": {
+    "t": "Effigy of the Peasant",
+    "r": "epic",
+    "c": "material",
+    "v": 3000,
+    "slug": "effigy-of-the-peasant"
+  },
+  "empusa-s-tonic": {
+    "t": "Empusa's Tonic",
+    "r": "epic",
+    "c": "medicine",
+    "v": 3807,
+    "h": "+75",
+    "slug": "empusa-s-tonic"
+  },
+  "experiment-eighteen": {
+    "t": "Experiment Eighteen",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 5781,
+    "slug": "experiment-eighteen"
+  },
+  "farsight-swan": {
+    "t": "Farsight Swan",
+    "r": "epic",
+    "c": "weapon",
+    "a": "Heavy",
+    "w": "Rifle",
+    "d": "40",
+    "f": 120,
+    "m": 6,
+    "slug": "farsight-swan"
+  },
+  "fraying-taffeta-waistcoat": {
+    "t": "Fraying Taffeta Waistcoat",
+    "r": "epic",
+    "c": "material",
+    "v": 423,
+    "slug": "fraying-taffeta-waistcoat"
+  },
+  "fungal-unguent": {
+    "t": "Fungal Unguent",
+    "r": "epic",
+    "c": "material",
+    "v": 555,
+    "slug": "fungal-unguent"
+  },
+  "fine-file": {
+    "t": "Fine File",
+    "r": "epic",
+    "c": "material",
+    "v": 641,
+    "slug": "fine-file"
+  },
+  "fargot-s-hiding-place": {
+    "t": "Fargot's Hiding Place",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 4185,
+    "slug": "fargot-s-hiding-place"
+  },
+  "glass-vial": {
+    "t": "Glass Vial",
+    "r": "epic",
+    "c": "material",
+    "v": 455,
+    "slug": "glass-vial"
+  },
+  "farsight-voir": {
+    "t": "Farsight Voir",
+    "r": "epic",
+    "c": "weapon",
+    "a": "Medium",
+    "w": "Rifle",
+    "d": "55",
+    "f": 60,
+    "m": 1,
+    "slug": "farsight-voir"
+  },
+  "gold-coin": {
+    "t": "Gold Coin",
+    "r": "epic",
+    "c": "currency",
+    "v": 10000,
+    "slug": "gold-coin"
+  },
+  "gold-coin-fargoth": {
+    "t": "Gold Coin",
+    "r": "epic",
+    "c": "currency",
+    "v": 10000,
+    "q": "Fargot's Hiding Place",
+    "slug": "gold-coin-fargoth"
+  },
+  "gold-key": {
+    "t": "Gold Key",
+    "r": "epic",
+    "c": "key",
+    "v": 2560,
+    "slug": "gold-key"
+  },
+  "golgotha-dagger": {
+    "t": "Golgotha - Dagger",
+    "r": "epic",
+    "c": "schema",
+    "v": 1792,
+    "slug": "golgotha-dagger"
+  },
+  "gunblue": {
+    "t": "Gunblue",
+    "r": "epic",
+    "c": "material",
+    "v": 702,
+    "slug": "gunblue"
+  },
+  "gunsmith-recipe-heavy-ammunition": {
+    "t": "Gunsmith Recipe - Heavy Ammunition",
+    "r": "epic",
+    "c": "schema",
+    "v": 40000,
+    "slug": "gunsmith-recipe-heavy-ammunition"
+  },
+  "gunsmith-recipe-cavalier": {
+    "t": "Gunsmith Recipe - Cavalier",
+    "r": "epic",
+    "c": "schema",
+    "v": 9180,
+    "slug": "gunsmith-recipe-cavalier"
+  },
+  "gunsmith-recipe-vepr": {
+    "t": "Gunsmith Recipe - Vepr",
+    "r": "epic",
+    "c": "schema",
+    "v": 10300,
+    "slug": "gunsmith-recipe-vepr"
+  },
+  "hartwood": {
+    "t": "Hartwood",
+    "r": "epic",
+    "c": "material",
+    "v": 670,
+    "slug": "hartwood"
+  },
+  "gunsmith-recipe-kompas": {
+    "t": "Gunsmith Recipe - Kompas",
+    "r": "epic",
+    "c": "schema",
+    "v": 12100,
+    "slug": "gunsmith-recipe-kompas"
+  },
+  "halberd": {
+    "t": "Halberd",
+    "r": "epic",
+    "c": "weapon",
+    "v": 4800,
+    "w": "Melee",
+    "d": "41.4\u201370",
+    "slug": "halberd"
+  },
+  "hybernia-spear": {
+    "t": "Hybernia - Spear",
+    "r": "epic",
+    "c": "schema",
+    "v": 2573,
+    "slug": "hybernia-spear"
+  },
+  "large-silver-candlestick": {
+    "t": "Large Silver Candlestick",
+    "r": "epic",
+    "c": "material",
+    "v": 624,
+    "slug": "large-silver-candlestick"
+  },
+  "intact-femur": {
+    "t": "Intact Femur",
+    "r": "epic",
+    "c": "material",
+    "v": 582,
+    "slug": "intact-femur"
+  },
+  "ivory-tusk": {
+    "t": "Ivory Tusk",
+    "r": "epic",
+    "c": "material",
+    "v": 696,
+    "slug": "ivory-tusk"
+  },
+  "lasher": {
+    "t": "Lasher",
+    "r": "epic",
+    "c": "weapon",
+    "v": 8600,
+    "a": "Heavy",
+    "w": "Rifle",
+    "d": "30",
+    "f": 300,
+    "m": 14,
+    "slug": "lasher"
+  },
+  "holland-thread": {
+    "t": "Holland Thread",
+    "r": "epic",
+    "c": "material",
+    "v": 418,
+    "slug": "holland-thread"
+  },
+  "lionne": {
+    "t": "Lionne",
+    "r": "epic",
+    "c": "weapon",
+    "v": 7000,
+    "a": "Heavy",
+    "w": "Rifle",
+    "d": "38",
+    "f": 67,
+    "m": 8,
+    "slug": "lionne"
+  },
+  "ladies-girdle": {
+    "t": "Ladies Girdle",
+    "r": "epic",
+    "c": "material",
+    "v": 269,
+    "slug": "ladies-girdle"
+  },
+  "mammoth-grain": {
+    "t": "Mammoth Grain",
+    "r": "epic",
+    "c": "material",
+    "v": 1000,
+    "slug": "mammoth-grain"
+  },
+  "jacques-folly-key": {
+    "t": "Jacques Folly Key",
+    "r": "epic",
+    "c": "key",
+    "v": 8212,
+    "slug": "jacques-folly-key"
+  },
+  "lockspring-steel": {
+    "t": "Lockspring Steel",
+    "r": "epic",
+    "c": "material",
+    "v": 2286,
+    "slug": "lockspring-steel"
+  },
+  "marion-s-final-note": {
+    "t": "Marion's Final Note",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 6495,
+    "slug": "marion-s-final-note"
+  },
+  "marengo": {
+    "t": "Marengo",
+    "r": "epic",
+    "c": "weapon",
+    "v": 4200,
+    "a": "Heavy",
+    "w": "Pistol",
+    "d": "39",
+    "f": 120,
+    "m": 6,
+    "slug": "marengo"
+  },
+  "medicinal-fungi": {
+    "t": "Medicinal Fungi",
+    "r": "epic",
+    "c": "material",
+    "v": 101,
+    "slug": "medicinal-fungi"
+  },
+  "mother-s-blood": {
+    "t": "Mother\u2019s Blood",
+    "r": "epic",
+    "c": "medicine",
+    "v": 4100,
+    "slug": "mother-s-blood"
+  },
+  "metallurgist-recipe-waraxe": {
+    "t": "Metallurgist Recipe - WarAxe",
+    "r": "epic",
+    "c": "schema",
+    "v": 10000,
+    "slug": "metallurgist-recipe-waraxe"
+  },
+  "metallurgist-recipe-spear": {
+    "t": "Metallurgist Recipe - Spear",
+    "r": "epic",
+    "c": "schema",
+    "v": 9200,
+    "slug": "metallurgist-recipe-spear"
+  },
+  "metallurgist-recipe-axe": {
+    "t": "Metallurgist Recipe - Axe",
+    "r": "epic",
+    "c": "schema",
+    "v": 6500,
+    "slug": "metallurgist-recipe-axe"
+  },
+  "miser-s-purse": {
+    "t": "Miser's Purse",
+    "r": "epic",
+    "c": "bag",
+    "v": 5200,
+    "slug": "miser-s-purse"
+  },
+  "my-dearest-marion": {
+    "t": "My Dearest Marion",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 3184,
+    "slug": "my-dearest-marion"
+  },
+  "morgan": {
+    "t": "Morgan",
+    "r": "epic",
+    "c": "weapon",
+    "v": 4500,
+    "a": "Refined",
+    "w": "Pistol",
+    "d": "43",
+    "f": 240,
+    "m": 4,
+    "slug": "morgan"
+  },
+  "naval-rum": {
+    "t": "Naval Rum",
+    "r": "epic",
+    "c": "drink",
+    "v": 4200,
+    "e": "food.attr. \u00b7 25 s",
+    "slug": "naval-rum"
+  },
+  "oiled-spring": {
+    "t": "Oiled Spring",
+    "r": "epic",
+    "c": "material",
+    "v": 2078,
+    "slug": "oiled-spring"
+  },
+  "opium-pipe": {
+    "t": "Opium Pipe",
+    "r": "epic",
+    "c": "material",
+    "v": 736,
+    "slug": "opium-pipe"
+  },
+  "old-iron-longsword": {
+    "t": "Old Iron - Longsword",
+    "r": "epic",
+    "c": "schema",
+    "v": 1877,
+    "slug": "old-iron-longsword"
+  },
+  "oak-gall": {
+    "t": "Oak Gall",
+    "r": "epic",
+    "c": "material",
+    "v": 364,
+    "slug": "oak-gall"
+  },
+  "origins-and-spread-of-the-bacterium": {
+    "t": "Origins and Spread of the Bacterium",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 5955,
+    "slug": "origins-and-spread-of-the-bacterium"
+  },
+  "outfitter-recipe-grubber-s-purse": {
+    "t": "Outfitter Recipe - Grubber's Purse",
+    "r": "epic",
+    "c": "schema",
+    "v": 9380,
+    "slug": "outfitter-recipe-grubber-s-purse"
+  },
+  "outfitter-recipe-attaches-fold": {
+    "t": "Outfitter Recipe - Attach\u00e9s Fold",
+    "r": "epic",
+    "c": "schema",
+    "v": 10520,
+    "slug": "outfitter-recipe-attaches-fold"
+  },
+  "outfitter-recipe-grenadier-s-battlepack": {
+    "t": "Outfitter Recipe - Grenadier's Battlepack",
+    "r": "epic",
+    "c": "schema",
+    "v": 14920,
+    "slug": "outfitter-recipe-grenadier-s-battlepack"
+  },
+  "noble-halberd": {
+    "t": "Noble - Halberd",
+    "r": "epic",
+    "c": "schema",
+    "v": 275000,
+    "slug": "noble-halberd"
+  },
+  "outfitter-recipe-sapper-s-cuirass": {
+    "t": "Outfitter Recipe - Sapper's Cuirass",
+    "r": "epic",
+    "c": "schema",
+    "v": 7870,
+    "slug": "outfitter-recipe-sapper-s-cuirass"
+  },
+  "outfitter-recipe-ludwig-s-drumcase": {
+    "t": "Outfitter Recipe - Ludwig's Drumcase",
+    "r": "epic",
+    "c": "schema",
+    "v": 12650,
+    "slug": "outfitter-recipe-ludwig-s-drumcase"
+  },
+  "outfitter-recipe-sapper-s-greaves": {
+    "t": "Outfitter Recipe - Sapper's Greaves",
+    "r": "epic",
+    "c": "schema",
+    "v": 6800,
+    "slug": "outfitter-recipe-sapper-s-greaves"
+  },
+  "pale-lady-eye": {
+    "t": "Pale Lady Eye",
+    "r": "epic",
+    "c": "trinket",
+    "v": 10000,
+    "slug": "pale-lady-eye"
+  },
+  "outfitter-recipe-sapper-s-helmet": {
+    "t": "Outfitter Recipe - Sapper's Helmet",
+    "r": "epic",
+    "c": "schema",
+    "v": 7180,
+    "slug": "outfitter-recipe-sapper-s-helmet"
+  },
+  "outfitter-recipe-hunting-sling": {
+    "t": "Outfitter Recipe - Hunting Sling",
+    "r": "epic",
+    "c": "schema",
+    "v": 17500,
+    "slug": "outfitter-recipe-hunting-sling"
+  },
+  "peasant-s-burden-spear": {
+    "t": "Peasant's Burden - Spear",
+    "r": "epic",
+    "c": "schema",
+    "v": 18,
+    "slug": "peasant-s-burden-spear"
+  },
+  "physician-recipe-pressurised-bloodbag": {
+    "t": "Physician Recipe - Pressurised Bloodbag",
+    "r": "epic",
+    "c": "schema",
+    "v": 19660,
+    "slug": "physician-recipe-pressurised-bloodbag"
+  },
+  "physician-recipe-robust-antidote": {
+    "t": "Physician Recipe - Robust Antidote",
+    "r": "epic",
+    "c": "schema",
+    "v": 6900,
+    "slug": "physician-recipe-robust-antidote"
+  },
+  "pinchbeck": {
+    "t": "Pinchbeck",
+    "r": "epic",
+    "c": "material",
+    "v": 637,
+    "slug": "pinchbeck"
+  },
+  "penitent-coinbox-miser-s-purse": {
+    "t": "Penitent Coinbox - Miser's Purse",
+    "r": "epic",
+    "c": "schema",
+    "v": 1955,
+    "slug": "penitent-coinbox-miser-s-purse"
+  },
+  "pitchskin-foot": {
+    "t": "Pitchskin Foot",
+    "r": "epic",
+    "c": "trinket",
+    "v": 10000,
+    "slug": "pitchskin-foot"
+  },
+  "polished-rod": {
+    "t": "Polished Rod",
+    "r": "epic",
+    "c": "material",
+    "v": 512,
+    "slug": "polished-rod"
+  },
+  "recovered-note-jacques-bridge-tower-armoury": {
+    "t": "Recovered Note - Jacques Bridge Tower Armoury",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 8884,
+    "slug": "recovered-note-jacques-bridge-tower-armoury"
+  },
+  "pure-honey": {
+    "t": "Pure Honey",
+    "r": "epic",
+    "c": "material",
+    "v": 201,
+    "slug": "pure-honey"
+  },
+  "rider-s-dispatch-number-46": {
+    "t": "Rider's Dispatch Number 46",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 5128,
+    "slug": "rider-s-dispatch-number-46"
+  },
+  "refined-ammunition": {
+    "t": "Refined Ammunition",
+    "r": "epic",
+    "c": "ammunition",
+    "v": 2500,
+    "slug": "refined-ammunition"
+  },
+  "powder-cake": {
+    "t": "Powder Cake",
+    "r": "epic",
+    "c": "material",
+    "v": 500,
+    "slug": "powder-cake"
+  },
+  "pitchskin": {
+    "t": "Pitchskin",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 7439,
+    "slug": "pitchskin"
+  },
+  "regimental-reserve": {
+    "t": "Regimental Reserve",
+    "r": "epic",
+    "c": "drink",
+    "v": 4100,
+    "e": "Movement speed +20 % \u00b7 1 min",
+    "slug": "regimental-reserve"
+  },
+  "romani-treads": {
+    "t": "Romani Treads",
+    "r": "epic",
+    "c": "material",
+    "v": 618,
+    "slug": "romani-treads"
+  },
+  "rosary-beads": {
+    "t": "Rosary Beads",
+    "r": "epic",
+    "c": "material",
+    "v": 472,
+    "slug": "rosary-beads"
+  },
+  "saffron-threads": {
+    "t": "Saffron Threads",
+    "r": "epic",
+    "c": "material",
+    "v": 814,
+    "slug": "saffron-threads"
+  },
+  "sabre": {
+    "t": "Sabre",
+    "r": "epic",
+    "c": "weapon",
+    "v": 3800,
+    "w": "Melee",
+    "d": "34\u201350",
+    "slug": "sabre"
+  },
+  "sealed-silver-reliquary": {
+    "t": "Sealed Silver Reliquary",
+    "r": "epic",
+    "c": "material",
+    "v": 530,
+    "slug": "sealed-silver-reliquary"
+  },
+  "sacrament-war-axe": {
+    "t": "Sacrament - War Axe",
+    "r": "epic",
+    "c": "schema",
+    "v": 3727,
+    "slug": "sacrament-war-axe"
+  },
+  "roue-de-cantal": {
+    "t": "Roue De Cantal",
+    "r": "epic",
+    "c": "material",
+    "v": 683,
+    "slug": "roue-de-cantal"
+  },
+  "scarlet-return": {
+    "t": "Scarlet Return",
+    "r": "epic",
+    "c": "medicine",
+    "v": 11683,
+    "slug": "scarlet-return"
+  },
+  "saffron-flower": {
+    "t": "Saffron Flower",
+    "r": "epic",
+    "c": "material",
+    "v": 74,
+    "slug": "saffron-flower"
+  },
+  "silver-bar": {
+    "t": "Silver Bar",
+    "r": "epic",
+    "c": "material",
+    "v": 380,
+    "slug": "silver-bar"
+  },
+  "serpentstone": {
+    "t": "Serpentstone",
+    "r": "epic",
+    "c": "material",
+    "v": 330,
+    "slug": "serpentstone"
+  },
+  "silver-ore": {
+    "t": "Silver Ore",
+    "r": "epic",
+    "c": "material",
+    "v": 172,
+    "slug": "silver-ore"
+  },
+  "sister-of-the-seventh-depth-marie": {
+    "t": "Sister of the Seventh Depth - Marie",
+    "r": "epic",
+    "c": "schema",
+    "v": 818200,
+    "slug": "sister-of-the-seventh-depth-marie"
+  },
+  "sterling-rebuke-foraging-basket": {
+    "t": "Sterling Rebuke - Foraging Basket",
+    "r": "epic",
+    "c": "schema",
+    "v": 1592,
+    "slug": "sterling-rebuke-foraging-basket"
+  },
+  "silver-pocket": {
+    "t": "Silver Pocket",
+    "r": "epic",
+    "c": "bag",
+    "v": 62000,
+    "slug": "silver-pocket"
+  },
+  "solstice-vepr": {
+    "t": "Solstice - Vepr",
+    "r": "epic",
+    "c": "schema",
+    "v": 2161,
+    "slug": "solstice-vepr"
+  },
+  "swan": {
+    "t": "Swan",
+    "r": "epic",
+    "c": "weapon",
+    "v": 9200,
+    "a": "Refined",
+    "w": "Rifle",
+    "d": "40",
+    "f": 120,
+    "m": 6,
+    "slug": "swan"
+  },
+  "spiced-bread": {
+    "t": "Spiced Bread",
+    "r": "epic",
+    "c": "food",
+    "v": 4529,
+    "e": "Reload speed +25 % \u00b7 20 min",
+    "slug": "spiced-bread"
+  },
+  "steel-armour-plate": {
+    "t": "Steel Armour Plate",
+    "r": "epic",
+    "c": "tool",
+    "v": 6557,
+    "slug": "steel-armour-plate"
+  },
+  "the-bacterium-takes-hold": {
+    "t": "The Bacterium Takes Hold",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 7412,
+    "slug": "the-bacterium-takes-hold"
+  },
+  "the-bergerac-letter": {
+    "t": "The Bergerac Letter",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 4444,
+    "slug": "the-bergerac-letter"
+  },
+  "tail-hair": {
+    "t": "Tail Hair",
+    "r": "epic",
+    "c": "material",
+    "v": 637,
+    "slug": "tail-hair"
+  },
+  "the-lefevre-findings": {
+    "t": "The Lef\u00e8vre Findings",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 6751,
+    "slug": "the-lefevre-findings"
+  },
+  "the-green-ghost": {
+    "t": "The Green Ghost",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 9151,
+    "slug": "the-green-ghost"
+  },
+  "the-treaty": {
+    "t": "The Treaty",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 512,
+    "slug": "the-treaty"
+  },
+  "the-pit-key": {
+    "t": "The Pit Key",
+    "r": "epic",
+    "c": "key",
+    "v": 8152,
+    "slug": "the-pit-key"
+  },
+  "trident-dagger": {
+    "t": "Trident - Dagger",
+    "r": "epic",
+    "c": "schema",
+    "v": 903,
+    "slug": "trident-dagger"
+  },
+  "tortoise-shell": {
+    "t": "Tortoise Shell",
+    "r": "epic",
+    "c": "material",
+    "v": 620,
+    "slug": "tortoise-shell"
+  },
+  "tianlong-gravy-boat": {
+    "t": "Tianlong Gravy Boat",
+    "r": "epic",
+    "c": "material",
+    "v": 257,
+    "slug": "tianlong-gravy-boat"
+  },
+  "trevallion-s-valise": {
+    "t": "Trevallion's Valise",
+    "r": "epic",
+    "c": "bag",
+    "v": 5800,
+    "slug": "trevallion-s-valise"
+  },
+  "valon-marsh": {
+    "t": "Valon Marsh",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 512,
+    "slug": "valon-marsh"
+  },
+  "undercroft-key": {
+    "t": "Undercroft Key",
+    "r": "epic",
+    "c": "key",
+    "v": 8335,
+    "slug": "undercroft-key"
+  },
+  "uncut-diamonds": {
+    "t": "Uncut Diamonds",
+    "r": "epic",
+    "c": "material",
+    "v": 356,
+    "slug": "uncut-diamonds"
+  },
+  "wool": {
+    "t": "Wool",
+    "r": "epic",
+    "c": "material",
+    "v": 159,
+    "slug": "wool"
+  },
+  "voir": {
+    "t": "Voir",
+    "r": "epic",
+    "c": "weapon",
+    "v": 8400,
+    "a": "Heavy",
+    "w": "Rifle",
+    "d": "55",
+    "f": 60,
+    "m": 1,
+    "slug": "voir"
+  },
+  "uncut-gems": {
+    "t": "Uncut Gems",
+    "r": "epic",
+    "c": "material",
+    "v": 281,
+    "slug": "uncut-gems"
+  },
+  "white-pearl": {
+    "t": "White Pearl",
+    "r": "epic",
+    "c": "material",
+    "v": 423,
+    "slug": "white-pearl"
+  },
+  "voltigeur-s-barrel-leather-barrel-bag": {
+    "t": "Voltigeur's Barrel - Leather Barrel Bag",
+    "r": "epic",
+    "c": "schema",
+    "v": 1385,
+    "slug": "voltigeur-s-barrel-leather-barrel-bag"
+  },
+  "wool-blanket": {
+    "t": "Wool Blanket",
+    "r": "epic",
+    "c": "material",
+    "v": 342,
+    "slug": "wool-blanket"
+  },
+  "a-successful-defence": {
+    "t": "A Successful Defence",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 124,
+    "slug": "a-successful-defence"
+  },
+  "a-soldier-s-goodbye": {
+    "t": "A Soldier's Goodbye",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 154,
+    "slug": "a-soldier-s-goodbye"
+  },
+  "annette-s-letter": {
+    "t": "Annette's Letter",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 8,
+    "slug": "annette-s-letter"
+  },
+  "agarwood-necklace": {
+    "t": "Agarwood Necklace",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 155,
+    "slug": "agarwood-necklace"
+  },
+  "a-piece-of-paris": {
+    "t": "A Piece of Paris",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 183,
+    "slug": "a-piece-of-paris"
+  },
+  "artificer-recipe-journeyman-tongs": {
+    "t": "Artificer Recipe - Journeyman Tongs",
+    "r": "rare",
+    "c": "schema",
+    "v": 4770,
+    "slug": "artificer-recipe-journeyman-tongs"
+  },
+  "argent-purse-grubber-s-purse": {
+    "t": "Argent Purse - Grubber's Purse",
+    "r": "rare",
+    "c": "schema",
+    "v": 1812,
+    "slug": "argent-purse-grubber-s-purse"
+  },
+  "apple-pie": {
+    "t": "Apple Pie",
+    "r": "rare",
+    "c": "food",
+    "v": 819,
+    "e": "Looting speed +60 % \u00b7 30 min",
+    "slug": "apple-pie"
+  },
+  "ambergris": {
+    "t": "Ambergris",
+    "r": "rare",
+    "c": "material",
+    "v": 186,
+    "slug": "ambergris"
+  },
+  "artificer-recipe-leather-armour-plate": {
+    "t": "Artificer Recipe - Leather Armour Plate",
+    "r": "rare",
+    "c": "schema",
+    "v": 2720,
+    "slug": "artificer-recipe-leather-armour-plate"
+  },
+  "attaches-fold": {
+    "t": "Attach\u00e9s Fold",
+    "r": "rare",
+    "c": "bag",
+    "v": 1052,
+    "slug": "attaches-fold"
+  },
+  "axe": {
+    "t": "Axe",
+    "r": "rare",
+    "c": "weapon",
+    "v": 650,
+    "w": "Melee",
+    "d": "15\u201344",
+    "slug": "axe"
+  },
+  "blacksmith-s-tongs": {
+    "t": "Blacksmith's Tongs",
+    "r": "rare",
+    "c": "material",
+    "v": 134,
+    "slug": "blacksmith-s-tongs"
+  },
+  "blacksand": {
+    "t": "Blacksand",
+    "r": "rare",
+    "c": "material",
+    "v": 20,
+    "slug": "blacksand"
+  },
+  "blackened-striker": {
+    "t": "Blackened Striker",
+    "r": "rare",
+    "c": "material",
+    "v": 530,
+    "slug": "blackened-striker"
+  },
+  "bishop-s-rebuke-foraging-basket": {
+    "t": "Bishop\u2019s Rebuke - Foraging Basket",
+    "r": "rare",
+    "c": "schema",
+    "v": 1201,
+    "slug": "bishop-s-rebuke-foraging-basket"
+  },
+  "brown-onion": {
+    "t": "Brown Onion",
+    "r": "rare",
+    "c": "material",
+    "v": 52,
+    "slug": "brown-onion"
+  },
+  "bloat-spine": {
+    "t": "Bloat Spine",
+    "r": "rare",
+    "c": "trinket",
+    "v": 50,
+    "slug": "bloat-spine"
+  },
+  "brute-femur-club": {
+    "t": "Brute Femur - Club",
+    "r": "rare",
+    "c": "schema",
+    "v": 852,
+    "slug": "brute-femur-club"
+  },
+  "cinnamon-bark": {
+    "t": "Cinnamon Bark",
+    "r": "rare",
+    "c": "material",
+    "v": 18,
+    "slug": "cinnamon-bark"
+  },
+  "bolt-of-cotton-cloth": {
+    "t": "Bolt of Cotton Cloth",
+    "r": "rare",
+    "c": "material",
+    "v": 90,
+    "slug": "bolt-of-cotton-cloth"
+  },
+  "burr-walnut": {
+    "t": "Burr Walnut",
+    "r": "rare",
+    "c": "material",
+    "v": 117,
+    "slug": "burr-walnut"
+  },
+  "chives": {
+    "t": "Chives",
+    "r": "rare",
+    "c": "material",
+    "v": 29,
+    "slug": "chives"
+  },
+  "ceramic-armour-plate": {
+    "t": "Ceramic Armour Plate",
+    "r": "rare",
+    "c": "tool",
+    "v": 1073,
+    "slug": "ceramic-armour-plate"
+  },
+  "cold-iron": {
+    "t": "Cold Iron",
+    "r": "rare",
+    "c": "material",
+    "v": 91,
+    "slug": "cold-iron"
+  },
+  "cochineal": {
+    "t": "Cochineal",
+    "r": "rare",
+    "c": "material",
+    "v": 173,
+    "slug": "cochineal"
+  },
+  "calfskin-boots": {
+    "t": "Calfskin Boots",
+    "r": "rare",
+    "c": "material",
+    "v": 78,
+    "slug": "calfskin-boots"
+  },
+  "cavalier": {
+    "t": "Cavalier",
+    "r": "rare",
+    "c": "weapon",
+    "v": 918,
+    "a": "Heavy",
+    "w": "Pistol",
+    "d": "65",
+    "f": 120,
+    "m": 1,
+    "slug": "cavalier"
+  },
+  "concerning-father-marais": {
+    "t": "Concerning Father Marais",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 144,
+    "slug": "concerning-father-marais"
+  },
+  "the-erosion-of-conscience": {
+    "t": "The Erosion of Conscience",
+    "r": "epic",
+    "c": "quest_item",
+    "v": 6233,
+    "q": "Epic",
+    "slug": "the-erosion-of-conscience"
+  },
+  "cook-recipe-boiled-water": {
+    "t": "Cook Recipe - Boiled Water",
+    "r": "rare",
+    "c": "schema",
+    "v": 550,
+    "slug": "cook-recipe-boiled-water"
+  },
+  "cook-recipe-cabbage-soup": {
+    "t": "Cook Recipe - Cabbage Soup",
+    "r": "rare",
+    "c": "schema",
+    "v": 600,
+    "slug": "cook-recipe-cabbage-soup"
+  },
+  "cook-recipe-jellied-apple": {
+    "t": "Cook Recipe - Jellied Apple",
+    "r": "rare",
+    "c": "schema",
+    "v": 600,
+    "slug": "cook-recipe-jellied-apple"
+  },
+  "cook-recipe-fresh-baguette": {
+    "t": "Cook Recipe - Fresh Baguette",
+    "r": "rare",
+    "c": "schema",
+    "v": 600,
+    "slug": "cook-recipe-fresh-baguette"
+  },
+  "cotton-bed-sheets": {
+    "t": "Cotton Bed Sheets",
+    "r": "rare",
+    "c": "material",
+    "v": 121,
+    "slug": "cotton-bed-sheets"
+  },
+  "cook-recipe-sweet-rum": {
+    "t": "Cook Recipe - Sweet Rum",
+    "r": "rare",
+    "c": "schema",
+    "v": 1750,
+    "slug": "cook-recipe-sweet-rum"
+  },
+  "cotton": {
+    "t": "Cotton",
+    "r": "rare",
+    "c": "material",
+    "v": 41,
+    "slug": "cotton"
+  },
+  "filthy-francois-secret-diary": {
+    "t": "Filthy Fran\u00e7ois' Secret Diary",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 111,
+    "slug": "filthy-francois-secret-diary"
+  },
+  "crises-of-faith": {
+    "t": "Crises of Faith",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 159,
+    "slug": "crises-of-faith"
+  },
+  "delicate-chain": {
+    "t": "Delicate Chain",
+    "r": "rare",
+    "c": "material",
+    "v": 120,
+    "slug": "delicate-chain"
+  },
+  "examinations-of-the-shambler": {
+    "t": "Examinations of the Shambler",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 191,
+    "slug": "examinations-of-the-shambler"
+  },
+  "golden-leaf-tobacco": {
+    "t": "Golden Leaf Tobacco",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "golden-leaf-tobacco"
+  },
+  "frey-war-axe": {
+    "t": "Frey - War Axe",
+    "r": "rare",
+    "c": "schema",
+    "v": 717,
+    "slug": "frey-war-axe"
+  },
+  "deux": {
+    "t": "Deux",
+    "r": "rare",
+    "c": "weapon",
+    "v": 881,
+    "a": "Crude",
+    "w": "Pistol",
+    "d": "54",
+    "f": 30,
+    "m": 2,
+    "slug": "deux"
+  },
+  "grenadier-s-battlepack": {
+    "t": "Grenadier's Battlepack",
+    "r": "rare",
+    "c": "bag",
+    "v": 1492,
+    "slug": "grenadier-s-battlepack"
+  },
+  "fine-cinnamon": {
+    "t": "Fine Cinnamon",
+    "r": "rare",
+    "c": "material",
+    "v": 194,
+    "slug": "fine-cinnamon"
+  },
+  "fougasse-bread": {
+    "t": "Fougasse Bread",
+    "r": "rare",
+    "c": "food",
+    "v": 741,
+    "e": "Reload speed +20 % \u00b7 12 min",
+    "slug": "fougasse-bread"
+  },
+  "gilded-tassels": {
+    "t": "Gilded Tassels",
+    "r": "rare",
+    "c": "material",
+    "v": 81,
+    "slug": "gilded-tassels"
+  },
+  "grotesquerie-bloat": {
+    "t": "Grotesquerie - Bloat",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 188,
+    "slug": "grotesquerie-bloat"
+  },
+  "grubber-s-purse": {
+    "t": "Grubber's Purse",
+    "r": "rare",
+    "c": "bag",
+    "v": 938,
+    "slug": "grubber-s-purse"
+  },
+  "gunsmith-recipe-volant": {
+    "t": "Gunsmith Recipe - Volant",
+    "r": "rare",
+    "c": "schema",
+    "v": 6500,
+    "slug": "gunsmith-recipe-volant"
+  },
+  "gunsmith-recipe-auster": {
+    "t": "Gunsmith Recipe - Auster",
+    "r": "rare",
+    "c": "schema",
+    "v": 3500,
+    "slug": "gunsmith-recipe-auster"
+  },
+  "gunsmith-recipe-louisville": {
+    "t": "Gunsmith Recipe - Louisville",
+    "r": "rare",
+    "c": "schema",
+    "v": 5600,
+    "slug": "gunsmith-recipe-louisville"
+  },
+  "heavy-ammunition": {
+    "t": "Heavy Ammunition",
+    "r": "rare",
+    "c": "ammunition",
+    "v": 200,
+    "slug": "heavy-ammunition"
+  },
+  "hartshorn": {
+    "t": "Hartshorn",
+    "r": "rare",
+    "c": "material",
+    "v": 110,
+    "slug": "hartshorn"
+  },
+  "honoured-agreement-brown-betty": {
+    "t": "Honoured Agreement - Brown Betty",
+    "r": "rare",
+    "c": "schema",
+    "v": 170000,
+    "slug": "honoured-agreement-brown-betty"
+  },
+  "hunting-sling": {
+    "t": "Hunting Sling",
+    "r": "rare",
+    "c": "bag",
+    "v": 1750,
+    "slug": "hunting-sling"
+  },
+  "iron-bar": {
+    "t": "Iron Bar",
+    "r": "rare",
+    "c": "material",
+    "v": 94,
+    "slug": "iron-bar"
+  },
+  "kedgeree": {
+    "t": "Kedgeree",
+    "r": "rare",
+    "c": "food",
+    "v": 643,
+    "e": "Stamina regen +60 % \u00b7 30 min",
+    "slug": "kedgeree"
+  },
+  "hermit-halberd": {
+    "t": "Hermit - Halberd",
+    "r": "rare",
+    "c": "schema",
+    "v": 887,
+    "slug": "hermit-halberd"
+  },
+  "hornbeam": {
+    "t": "Hornbeam",
+    "r": "rare",
+    "c": "material",
+    "v": 88,
+    "slug": "hornbeam"
+  },
+  "kompas": {
+    "t": "Kompas",
+    "r": "rare",
+    "c": "weapon",
+    "v": 1253,
+    "a": "Heavy",
+    "w": "Rifle",
+    "d": "36",
+    "f": 100,
+    "m": 4,
+    "slug": "kompas"
+  },
+  "iron-holdfast": {
+    "t": "Iron Holdfast",
+    "r": "rare",
+    "c": "material",
+    "v": 103,
+    "slug": "iron-holdfast"
+  },
+  "loup-rapier": {
+    "t": "Loup - Rapier",
+    "r": "rare",
+    "c": "schema",
+    "v": 600,
+    "slug": "loup-rapier"
+  },
+  "iron-ore": {
+    "t": "Iron Ore",
+    "r": "rare",
+    "c": "material",
+    "v": 43,
+    "slug": "iron-ore"
+  },
+  "machinist-tongs": {
+    "t": "Machinist Tongs",
+    "r": "rare",
+    "c": "tool",
+    "v": 1769,
+    "slug": "machinist-tongs"
+  },
+  "iron-shambler-chestplate": {
+    "t": "Iron Shambler Chestplate",
+    "r": "rare",
+    "c": "trinket",
+    "v": 50,
+    "slug": "iron-shambler-chestplate"
+  },
+  "leather-trimmings": {
+    "t": "Leather Trimmings",
+    "r": "rare",
+    "c": "material",
+    "v": 88,
+    "slug": "leather-trimmings"
+  },
+  "ludwig-s-drumcase": {
+    "t": "Ludwig's Drumcase",
+    "r": "rare",
+    "c": "bag",
+    "v": 1265,
+    "slug": "ludwig-s-drumcase"
+  },
+  "marcher-s-roll-leather-barrel-bag": {
+    "t": "Marcher's Roll - Leather Barrel Bag",
+    "r": "rare",
+    "c": "schema",
+    "v": 395,
+    "slug": "marcher-s-roll-leather-barrel-bag"
+  },
+  "marching-drum": {
+    "t": "Marching Drum",
+    "r": "rare",
+    "c": "material",
+    "v": 202,
+    "slug": "marching-drum"
+  },
+  "marjoram": {
+    "t": "Marjoram",
+    "r": "rare",
+    "c": "material",
+    "v": 31,
+    "slug": "marjoram"
+  },
+  "metallurgist-recipe-longsword": {
+    "t": "Metallurgist Recipe - Longsword",
+    "r": "rare",
+    "c": "schema",
+    "v": 5250,
+    "slug": "metallurgist-recipe-longsword"
+  },
+  "metallurgist-recipe-mace": {
+    "t": "Metallurgist Recipe - Mace",
+    "r": "rare",
+    "c": "schema",
+    "v": 3240,
+    "slug": "metallurgist-recipe-mace"
+  },
+  "opium": {
+    "t": "Opium",
+    "r": "rare",
+    "c": "material",
+    "v": 141,
+    "slug": "opium"
+  },
+  "mortar": {
+    "t": "Mortar",
+    "r": "rare",
+    "c": "material",
+    "v": 95,
+    "slug": "mortar"
+  },
+  "outfitter-recipe-burlap-haversack": {
+    "t": "Outfitter Recipe - Burlap Haversack",
+    "r": "rare",
+    "c": "schema",
+    "v": 2730,
+    "slug": "outfitter-recipe-burlap-haversack"
+  },
+  "outfitter-recipe-leather-cuirass": {
+    "t": "Outfitter Recipe - Leather Cuirass",
+    "r": "rare",
+    "c": "schema",
+    "v": 2430,
+    "slug": "outfitter-recipe-leather-cuirass"
+  },
+  "outfitter-recipe-leather-barrel-bag": {
+    "t": "Outfitter Recipe - Leather Barrel Bag",
+    "r": "rare",
+    "c": "schema",
+    "v": 3230,
+    "slug": "outfitter-recipe-leather-barrel-bag"
+  },
+  "nacre-button": {
+    "t": "Nacre Button",
+    "r": "rare",
+    "c": "material",
+    "v": 182,
+    "slug": "nacre-button"
+  },
+  "outfitter-recipe-old-satchel": {
+    "t": "Outfitter Recipe - Old Satchel",
+    "r": "rare",
+    "c": "schema",
+    "v": 2520,
+    "slug": "outfitter-recipe-old-satchel"
+  },
+  "outfitter-recipe-ragged-sack": {
+    "t": "Outfitter Recipe - Ragged Sack",
+    "r": "rare",
+    "c": "schema",
+    "v": 1500,
+    "slug": "outfitter-recipe-ragged-sack"
+  },
+  "outfitter-recipe-leather-helmet": {
+    "t": "Outfitter Recipe - Leather Helmet",
+    "r": "rare",
+    "c": "schema",
+    "v": 1700,
+    "slug": "outfitter-recipe-leather-helmet"
+  },
+  "ornate-cushion": {
+    "t": "Ornate Cushion",
+    "r": "rare",
+    "c": "material",
+    "v": 187,
+    "slug": "ornate-cushion"
+  },
+  "outfitter-recipe-leather-greaves": {
+    "t": "Outfitter Recipe - Leather Greaves",
+    "r": "rare",
+    "c": "schema",
+    "v": 1780,
+    "slug": "outfitter-recipe-leather-greaves"
+  },
+  "outfitter-recipe-muriel-s-box": {
+    "t": "Outfitter Recipe - Muriel's Box",
+    "r": "rare",
+    "c": "schema",
+    "v": 3110,
+    "slug": "outfitter-recipe-muriel-s-box"
+  },
+  "outfitter-recipe-threshing-basket": {
+    "t": "Outfitter Recipe - Threshing Basket",
+    "r": "rare",
+    "c": "schema",
+    "v": 2200,
+    "slug": "outfitter-recipe-threshing-basket"
+  },
+  "oxliver-oil": {
+    "t": "Oxliver Oil",
+    "r": "rare",
+    "c": "material",
+    "v": 182,
+    "slug": "oxliver-oil"
+  },
+  "padre-s-reply-axe": {
+    "t": "Padre's Reply - Axe",
+    "r": "rare",
+    "c": "schema",
+    "v": 908,
+    "slug": "padre-s-reply-axe"
+  },
+  "pestle": {
+    "t": "Pestle",
+    "r": "rare",
+    "c": "material",
+    "v": 85,
+    "slug": "pestle"
+  },
+  "partisan-spear": {
+    "t": "Partisan - Spear",
+    "r": "rare",
+    "c": "schema",
+    "v": 200000,
+    "slug": "partisan-spear"
+  },
+  "physician-recipe-sealed-bloodbag": {
+    "t": "Physician Recipe - Sealed Bloodbag",
+    "r": "rare",
+    "c": "schema",
+    "v": 5310,
+    "slug": "physician-recipe-sealed-bloodbag"
+  },
+  "physician-recipe-weak-antidote": {
+    "t": "Physician Recipe - Weak Antidote",
+    "r": "rare",
+    "c": "schema",
+    "v": 1780,
+    "slug": "physician-recipe-weak-antidote"
+  },
+  "polished-firing-pin": {
+    "t": "Polished Firing Pin",
+    "r": "rare",
+    "c": "material",
+    "v": 584,
+    "slug": "polished-firing-pin"
+  },
+  "pickaxe": {
+    "t": "Pickaxe",
+    "r": "rare",
+    "c": "material",
+    "v": 112,
+    "slug": "pickaxe"
+  },
+  "purified-water": {
+    "t": "Purified Water",
+    "r": "rare",
+    "c": "drink",
+    "v": 665,
+    "e": "Movement speed +15 % \u00b7 50 s",
+    "slug": "purified-water"
+  },
+  "polished-handle": {
+    "t": "Polished Handle",
+    "r": "rare",
+    "c": "material",
+    "v": 167,
+    "slug": "polished-handle"
+  },
+  "pressurised-bloodbag": {
+    "t": "Pressurised Bloodbag",
+    "r": "rare",
+    "c": "medicine",
+    "v": 1966,
+    "slug": "pressurised-bloodbag"
+  },
+  "recluse-axe": {
+    "t": "Recluse - Axe",
+    "r": "rare",
+    "c": "schema",
+    "v": 717,
+    "slug": "recluse-axe"
+  },
+  "refined-tobacco": {
+    "t": "Refined Tobacco",
+    "r": "rare",
+    "c": "material",
+    "v": 66,
+    "slug": "refined-tobacco"
+  },
+  "rum-of-the-indies": {
+    "t": "Rum of the Indies",
+    "r": "rare",
+    "c": "drink",
+    "v": 685,
+    "e": "food.attr. \u00b7 20 s",
+    "slug": "rum-of-the-indies"
+  },
+  "rapier": {
+    "t": "Rapier",
+    "r": "rare",
+    "c": "weapon",
+    "v": 600,
+    "w": "Melee",
+    "d": "25.2\u201342",
+    "slug": "rapier"
+  },
+  "sarlat-s-whale": {
+    "t": "Sarlat's Whale",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 161,
+    "slug": "sarlat-s-whale"
+  },
+  "sapper-s-cuirass": {
+    "t": "Sapper's Cuirass",
+    "r": "rare",
+    "c": "armour",
+    "v": 787,
+    "slug": "sapper-s-cuirass"
+  },
+  "sapper-s-greaves": {
+    "t": "Sapper's Greaves",
+    "r": "rare",
+    "c": "armour",
+    "v": 680,
+    "slug": "sapper-s-greaves"
+  },
+  "sapper-s-helmet": {
+    "t": "Sapper's Helmet",
+    "r": "rare",
+    "c": "armour",
+    "v": 718,
+    "slug": "sapper-s-helmet"
+  },
+  "robust-ampoule": {
+    "t": "Robust Ampoule",
+    "r": "rare",
+    "c": "medicine",
+    "v": 623,
+    "h": "+50",
+    "slug": "robust-ampoule"
+  },
+  "reflections-on-riflemen": {
+    "t": "Reflections on Riflemen",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 162,
+    "slug": "reflections-on-riflemen"
+  },
+  "pumice-stone": {
+    "t": "Pumice Stone",
+    "r": "rare",
+    "c": "material",
+    "v": 163,
+    "slug": "pumice-stone"
+  },
+  "robust-antidote": {
+    "t": "Robust Antidote",
+    "r": "rare",
+    "c": "medicine",
+    "v": 690,
+    "slug": "robust-antidote"
+  },
+  "shashka-sabre": {
+    "t": "Shashka - Sabre",
+    "r": "rare",
+    "c": "schema",
+    "v": 621,
+    "slug": "shashka-sabre"
+  },
+  "sealed-bronze-reliquary": {
+    "t": "Sealed Bronze Reliquary",
+    "r": "rare",
+    "c": "material",
+    "v": 206,
+    "slug": "sealed-bronze-reliquary"
+  },
+  "shambler-hand": {
+    "t": "Shambler Hand",
+    "r": "rare",
+    "c": "trinket",
+    "v": 50,
+    "slug": "shambler-hand"
+  },
+  "shellac": {
+    "t": "Shellac",
+    "r": "rare",
+    "c": "material",
+    "v": 188,
+    "slug": "shellac"
+  },
+  "shiny-buckle": {
+    "t": "Shiny Buckle",
+    "r": "rare",
+    "c": "material",
+    "v": 155,
+    "slug": "shiny-buckle"
+  },
+  "silver-coin": {
+    "t": "Silver Coin",
+    "r": "rare",
+    "c": "currency",
+    "v": 100,
+    "slug": "silver-coin"
+  },
+  "silver-dish": {
+    "t": "Silver Dish",
+    "r": "rare",
+    "c": "material",
+    "v": 138,
+    "slug": "silver-dish"
+  },
+  "silver-candlestick": {
+    "t": "Silver Candlestick",
+    "r": "rare",
+    "c": "material",
+    "v": 142,
+    "slug": "silver-candlestick"
+  },
+  "spanish-shako": {
+    "t": "Spanish Shako",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 155,
+    "slug": "spanish-shako"
+  },
+  "spear": {
+    "t": "Spear",
+    "r": "rare",
+    "c": "weapon",
+    "v": 920,
+    "w": "Melee",
+    "d": "37.8\u201358",
+    "slug": "spear"
+  },
+  "smokesilver": {
+    "t": "Smokesilver",
+    "r": "rare",
+    "c": "material",
+    "v": 192,
+    "slug": "smokesilver"
+  },
+  "the-company-of-one-dutchman": {
+    "t": "The Company of One Dutchman",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 255,
+    "slug": "the-company-of-one-dutchman"
+  },
+  "stag-dagger": {
+    "t": "Stag - Dagger",
+    "r": "rare",
+    "c": "schema",
+    "v": 117500,
+    "slug": "stag-dagger"
+  },
+  "silver-key": {
+    "t": "Silver Key",
+    "r": "rare",
+    "c": "key",
+    "v": 1260,
+    "slug": "silver-key"
+  },
+  "torn-damask": {
+    "t": "Torn Damask",
+    "r": "rare",
+    "c": "material",
+    "v": 88,
+    "slug": "torn-damask"
+  },
+  "sturdy-axe-handle": {
+    "t": "Sturdy Axe Handle",
+    "r": "rare",
+    "c": "material",
+    "v": 48,
+    "slug": "sturdy-axe-handle"
+  },
+  "sun-ripened-haunch": {
+    "t": "Sun Ripened Haunch",
+    "r": "rare",
+    "c": "material",
+    "v": 133,
+    "slug": "sun-ripened-haunch"
+  },
+  "sinew-string": {
+    "t": "Sinew String",
+    "r": "rare",
+    "c": "material",
+    "v": 176,
+    "slug": "sinew-string"
+  },
+  "war-axe": {
+    "t": "War Axe",
+    "r": "rare",
+    "c": "weapon",
+    "v": 1000,
+    "w": "Melee",
+    "d": "32\u201360",
+    "slug": "war-axe"
+  },
+  "steelband": {
+    "t": "Steelband",
+    "r": "rare",
+    "c": "material",
+    "v": 133,
+    "slug": "steelband"
+  },
+  "vepr": {
+    "t": "Vepr",
+    "r": "rare",
+    "c": "weapon",
+    "v": 1030,
+    "a": "Medium",
+    "w": "Rifle",
+    "d": "34",
+    "f": 100,
+    "m": 12,
+    "slug": "vepr"
+  },
+  "waterlogged-note": {
+    "t": "Waterlogged Note",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 151,
+    "slug": "waterlogged-note"
+  },
+  "the-musings-of-a-weaponsmith": {
+    "t": "The Musings Of A Weaponsmith",
+    "r": "rare",
+    "c": "quest_item",
+    "v": 111,
+    "slug": "the-musings-of-a-weaponsmith"
+  },
+  "whale-oil": {
+    "t": "Whale Oil",
+    "r": "rare",
+    "c": "material",
+    "v": 85,
+    "slug": "whale-oil"
+  },
+  "willow-bark": {
+    "t": "Willow Bark",
+    "r": "rare",
+    "c": "material",
+    "v": 155,
+    "slug": "willow-bark"
+  },
+  "yarrow": {
+    "t": "Yarrow",
+    "r": "rare",
+    "c": "material",
+    "v": 24,
+    "slug": "yarrow"
+  },
+  "yarrow-dust": {
+    "t": "Yarrow Dust",
+    "r": "rare",
+    "c": "material",
+    "v": 133,
+    "slug": "yarrow-dust"
+  },
+  "windfall": {
+    "t": "Windfall",
+    "r": "rare",
+    "c": "material",
+    "v": 72,
+    "slug": "windfall"
+  },
+  "argent-and-vert-brown-betty": {
+    "t": "Argent and Vert - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 150,
+    "slug": "argent-and-vert-brown-betty"
+  },
+  "auster": {
+    "t": "Auster",
+    "r": "uncommon",
+    "c": "weapon",
+    "v": 350,
+    "a": "Crude",
+    "w": "Pistol",
+    "d": "48",
+    "f": 240,
+    "m": 2,
+    "slug": "auster"
+  },
+  "and-rosemary-too": {
+    "t": "And Rosemary Too",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 56,
+    "slug": "and-rosemary-too"
+  },
+  "accursed-clout": {
+    "t": "Accursed Clout",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 55,
+    "slug": "accursed-clout"
+  },
+  "angler-s-sack-ragged-sack": {
+    "t": "Angler's Sack - Ragged Sack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 40400,
+    "slug": "angler-s-sack-ragged-sack"
+  },
+  "apprentice-materials": {
+    "t": "Apprentice Materials",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 60,
+    "slug": "apprentice-materials"
+  },
+  "austrian-banner-damp-knapsack": {
+    "t": "Austrian Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "austrian-banner-damp-knapsack"
+  },
+  "amber": {
+    "t": "Amber",
+    "r": "uncommon",
+    "c": "material",
+    "v": 62,
+    "slug": "amber"
+  },
+  "artificer-recipe-cloth-armour-plate": {
+    "t": "Artificer Recipe - Cloth Armour Plate",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 550,
+    "slug": "artificer-recipe-cloth-armour-plate"
+  },
+  "basil": {
+    "t": "Basil",
+    "r": "uncommon",
+    "c": "material",
+    "v": 9,
+    "slug": "basil"
+  },
+  "beeswax": {
+    "t": "Beeswax",
+    "r": "uncommon",
+    "c": "material",
+    "v": 25,
+    "slug": "beeswax"
+  },
+  "artificer-recipe-rusty-tongs": {
+    "t": "Artificer Recipe - Rusty Tongs",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 750,
+    "slug": "artificer-recipe-rusty-tongs"
+  },
+  "bezoar": {
+    "t": "Bezoar",
+    "r": "uncommon",
+    "c": "material",
+    "v": 105,
+    "slug": "bezoar"
+  },
+  "basic-ampoule": {
+    "t": "Basic Ampoule",
+    "r": "uncommon",
+    "c": "medicine",
+    "v": 158,
+    "h": "+25",
+    "slug": "basic-ampoule"
+  },
+  "belt-strap": {
+    "t": "Belt Strap",
+    "r": "uncommon",
+    "c": "material",
+    "v": 19,
+    "slug": "belt-strap"
+  },
+  "baton-mace": {
+    "t": "Baton - Mace",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 245,
+    "slug": "baton-mace"
+  },
+  "blood-sample-four": {
+    "t": "Blood Sample Four",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "blood-sample-four"
+  },
+  "blood-sample-one": {
+    "t": "Blood Sample One",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "blood-sample-one"
+  },
+  "blood-sample-six": {
+    "t": "Blood Sample Six",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "blood-sample-six"
+  },
+  "blood-sample-five": {
+    "t": "Blood Sample Five",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "blood-sample-five"
+  },
+  "blood-sample-three": {
+    "t": "Blood Sample Three",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "blood-sample-three"
+  },
+  "blood-sample-two": {
+    "t": "Blood Sample Two",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "blood-sample-two"
+  },
+  "burlap-haversack": {
+    "t": "Burlap Haversack",
+    "r": "uncommon",
+    "c": "bag",
+    "v": 273,
+    "slug": "burlap-haversack"
+  },
+  "boiled-water": {
+    "t": "Boiled Water",
+    "r": "uncommon",
+    "c": "drink",
+    "v": 168,
+    "e": "Movement speed +10 % \u00b7 40 s",
+    "slug": "boiled-water"
+  },
+  "bronze-key": {
+    "t": "Bronze Key",
+    "r": "uncommon",
+    "c": "key",
+    "v": 460,
+    "slug": "bronze-key"
+  },
+  "bolt-of-linen-cloth": {
+    "t": "Bolt Of Linen Cloth",
+    "r": "uncommon",
+    "c": "material",
+    "v": 30,
+    "slug": "bolt-of-linen-cloth"
+  },
+  "cellar-key-of-chevalier-s-remise": {
+    "t": "Cellar Key of Chevalier's Remise",
+    "r": "uncommon",
+    "c": "key",
+    "v": 18,
+    "slug": "cellar-key-of-chevalier-s-remise"
+  },
+  "bosun-s-clasp-old-satchel": {
+    "t": "Bosun's Clasp - Old Satchel",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 244,
+    "slug": "bosun-s-clasp-old-satchel"
+  },
+  "blucher-s-banner-damp-knapsack": {
+    "t": "Blucher's Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "blucher-s-banner-damp-knapsack"
+  },
+  "census-of-1806": {
+    "t": "Census of 1806",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "census-of-1806"
+  },
+  "catechisme-of-christian-doctrine-1567": {
+    "t": "Catechisme of Christian Doctrine, 1567",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "catechisme-of-christian-doctrine-1567"
+  },
+  "cabbage-soup": {
+    "t": "Cabbage Soup",
+    "r": "uncommon",
+    "c": "food",
+    "v": 163,
+    "e": "Stamina regen +40 % \u00b7 20 min",
+    "slug": "cabbage-soup"
+  },
+  "brined-flesh": {
+    "t": "Brined Flesh",
+    "r": "uncommon",
+    "c": "material",
+    "v": 15,
+    "slug": "brined-flesh"
+  },
+  "cloves-for-oil": {
+    "t": "Cloves For Oil",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 57,
+    "slug": "cloves-for-oil"
+  },
+  "clove-bud": {
+    "t": "Clove Bud",
+    "r": "uncommon",
+    "c": "material",
+    "v": 4,
+    "slug": "clove-bud"
+  },
+  "charcoal": {
+    "t": "Charcoal",
+    "r": "uncommon",
+    "c": "material",
+    "v": 23,
+    "slug": "charcoal"
+  },
+  "cook-recipe-mouldy-baguette": {
+    "t": "Cook Recipe - Mouldy Baguette",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 280,
+    "slug": "cook-recipe-mouldy-baguette"
+  },
+  "cook-recipe-stewed-apple": {
+    "t": "Cook Recipe - Stewed Apple",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 120,
+    "slug": "cook-recipe-stewed-apple"
+  },
+  "coat-toggle": {
+    "t": "Coat Toggle",
+    "r": "uncommon",
+    "c": "material",
+    "v": 27,
+    "slug": "coat-toggle"
+  },
+  "cook-recipe-spoiled-rum": {
+    "t": "Cook Recipe - Spoiled Rum",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 240,
+    "slug": "cook-recipe-spoiled-rum"
+  },
+  "cook-recipe-thin-gruel": {
+    "t": "Cook Recipe - Thin Gruel",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 190,
+    "slug": "cook-recipe-thin-gruel"
+  },
+  "cook-recipe-tepid-water": {
+    "t": "Cook Recipe - Tepid Water",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 180,
+    "slug": "cook-recipe-tepid-water"
+  },
+  "copper-bar": {
+    "t": "Copper Bar",
+    "r": "uncommon",
+    "c": "material",
+    "v": 32,
+    "slug": "copper-bar"
+  },
+  "copper-coin": {
+    "t": "Copper Coin",
+    "r": "uncommon",
+    "c": "currency",
+    "v": 1,
+    "slug": "copper-coin"
+  },
+  "copper-deposits-near-jacques-bridge": {
+    "t": "Copper Deposits near Jacques Bridge",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 55,
+    "slug": "copper-deposits-near-jacques-bridge"
+  },
+  "course-in-civil-architecture-rondelet": {
+    "t": "Course in Civil Architecture - Rondelet",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "course-in-civil-architecture-rondelet"
+  },
+  "crisp-carrot": {
+    "t": "Crisp Carrot",
+    "r": "uncommon",
+    "c": "material",
+    "v": 19,
+    "slug": "crisp-carrot"
+  },
+  "copper-ore": {
+    "t": "Copper Ore",
+    "r": "uncommon",
+    "c": "material",
+    "v": 15,
+    "slug": "copper-ore"
+  },
+  "course-in-agriculture-rozier": {
+    "t": "Course in Agriculture - Rozier",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "course-in-agriculture-rozier"
+  },
+  "distilled-water": {
+    "t": "Distilled Water",
+    "r": "uncommon",
+    "c": "material",
+    "v": 8,
+    "slug": "distilled-water"
+  },
+  "dear-mr-prosper": {
+    "t": "Dear Mr Prosper",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 31,
+    "slug": "dear-mr-prosper"
+  },
+  "dank-tobacco": {
+    "t": "Dank Tobacco",
+    "r": "uncommon",
+    "c": "material",
+    "v": 18,
+    "slug": "dank-tobacco"
+  },
+  "de-molay-s-diary": {
+    "t": "De Molay\u2019s Diary",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "de-molay-s-diary"
+  },
+  "easy-slags-in-sarlat": {
+    "t": "Easy Slags in Sarlat",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 58,
+    "slug": "easy-slags-in-sarlat"
+  },
+  "dreg-head": {
+    "t": "Dreg Head",
+    "r": "uncommon",
+    "c": "trinket",
+    "v": 25,
+    "slug": "dreg-head"
+  },
+  "copper-in-the-sombre-forest-region": {
+    "t": "Copper in the Sombre Forest Region",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 27,
+    "slug": "copper-in-the-sombre-forest-region"
+  },
+  "dried-rosemary": {
+    "t": "Dried Rosemary",
+    "r": "uncommon",
+    "c": "material",
+    "v": 28,
+    "slug": "dried-rosemary"
+  },
+  "fantine-s-handkerchief": {
+    "t": "Fantine's Handkerchief",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "fantine-s-handkerchief"
+  },
+  "family-ring": {
+    "t": "Family Ring",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "family-ring"
+  },
+  "ferdinand-s-banner-damp-knapsack": {
+    "t": "Ferdinand's Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "ferdinand-s-banner-damp-knapsack"
+  },
+  "ferrite": {
+    "t": "Ferrite",
+    "r": "uncommon",
+    "c": "material",
+    "v": 84,
+    "slug": "ferrite"
+  },
+  "fine-sand": {
+    "t": "Fine Sand",
+    "r": "uncommon",
+    "c": "material",
+    "v": 14,
+    "slug": "fine-sand"
+  },
+  "fondling-bulbs": {
+    "t": "Fondling Bulbs",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 25,
+    "slug": "fondling-bulbs"
+  },
+  "flax-along-the-rivers": {
+    "t": "Flax Along the Rivers",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 53,
+    "slug": "flax-along-the-rivers"
+  },
+  "fresh-egg": {
+    "t": "Fresh Egg",
+    "r": "uncommon",
+    "c": "material",
+    "v": 16,
+    "slug": "fresh-egg"
+  },
+  "feverfew": {
+    "t": "Feverfew",
+    "r": "uncommon",
+    "c": "material",
+    "v": 55,
+    "slug": "feverfew"
+  },
+  "grape-must": {
+    "t": "Grape Must",
+    "r": "uncommon",
+    "c": "material",
+    "v": 77,
+    "slug": "grape-must"
+  },
+  "fresh-baguette": {
+    "t": "Fresh Baguette",
+    "r": "uncommon",
+    "c": "food",
+    "v": 188,
+    "e": "Reload speed +15 % \u00b7 8 min",
+    "slug": "fresh-baguette"
+  },
+  "grotesquerie-dreg": {
+    "t": "Grotesquerie - Dreg",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 55,
+    "slug": "grotesquerie-dreg"
+  },
+  "gristle-wax": {
+    "t": "Gristle Wax",
+    "r": "uncommon",
+    "c": "material",
+    "v": 37,
+    "slug": "gristle-wax"
+  },
+  "frederick-s-revenge-brown-betty": {
+    "t": "Frederick's Revenge - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 159,
+    "slug": "frederick-s-revenge-brown-betty"
+  },
+  "george-s-cross-damp-knapsack": {
+    "t": "George's Cross - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "george-s-cross-damp-knapsack"
+  },
+  "grotesquerie-waif": {
+    "t": "Grotesquerie - Waif",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 55,
+    "slug": "grotesquerie-waif"
+  },
+  "grotesquerie-cherub": {
+    "t": "Grotesquerie - Cherub",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 55,
+    "slug": "grotesquerie-cherub"
+  },
+  "gathering-garlic": {
+    "t": "Gathering Garlic",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 23,
+    "slug": "gathering-garlic"
+  },
+  "growth-of-burlap-on-the-marette-river": {
+    "t": "Growth of Burlap on the Marette River",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 28,
+    "slug": "growth-of-burlap-on-the-marette-river"
+  },
+  "gunsmith-recipe-longboy": {
+    "t": "Gunsmith Recipe - Longboy",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1510,
+    "slug": "gunsmith-recipe-longboy"
+  },
+  "highlander-longsword": {
+    "t": "Highlander - Longsword",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 208,
+    "slug": "highlander-longsword"
+  },
+  "gunsmith-recipe-brown-betty": {
+    "t": "Gunsmith Recipe - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 730,
+    "slug": "gunsmith-recipe-brown-betty"
+  },
+  "handfuls-of-buds": {
+    "t": "Handfuls of Buds",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 58,
+    "slug": "handfuls-of-buds"
+  },
+  "hohenzollern-reborn-brown-betty": {
+    "t": "Hohenzollern Reborn - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 204,
+    "slug": "hohenzollern-reborn-brown-betty"
+  },
+  "iron-dreg-head": {
+    "t": "Iron Dreg Head",
+    "r": "uncommon",
+    "c": "trinket",
+    "v": 25,
+    "slug": "iron-dreg-head"
+  },
+  "intact-leather-gasket": {
+    "t": "Intact Leather Gasket",
+    "r": "uncommon",
+    "c": "material",
+    "v": 48,
+    "slug": "intact-leather-gasket"
+  },
+  "italian-standard-louisville": {
+    "t": "Italian Standard - Louisville",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 202,
+    "slug": "italian-standard-louisville"
+  },
+  "iron-file": {
+    "t": "Iron File",
+    "r": "uncommon",
+    "c": "material",
+    "v": 61,
+    "slug": "iron-file"
+  },
+  "indigo-flakes": {
+    "t": "Indigo Flakes",
+    "r": "uncommon",
+    "c": "material",
+    "v": 59,
+    "slug": "indigo-flakes"
+  },
+  "jacques-bridge-map": {
+    "t": "Jacques Bridge Map",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 117,
+    "slug": "jacques-bridge-map"
+  },
+  "jellied-apple": {
+    "t": "Jellied Apple",
+    "r": "uncommon",
+    "c": "food",
+    "v": 208,
+    "e": "Looting speed +40 % \u00b7 20 min",
+    "slug": "jellied-apple"
+  },
+  "house-of-medici-brown-betty": {
+    "t": "House of Medici - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 150,
+    "slug": "house-of-medici-brown-betty"
+  },
+  "jefferson-s-banner-damp-knapsack": {
+    "t": "Jefferson's Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "jefferson-s-banner-damp-knapsack"
+  },
+  "journeyman-tongs": {
+    "t": "Journeyman Tongs",
+    "r": "uncommon",
+    "c": "tool",
+    "v": 477,
+    "slug": "journeyman-tongs"
+  },
+  "jacques-bridge-fungus-sample": {
+    "t": "Jacques Bridge Fungus Sample",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "jacques-bridge-fungus-sample"
+  },
+  "lambgut": {
+    "t": "Lambgut",
+    "r": "uncommon",
+    "c": "material",
+    "v": 63,
+    "slug": "lambgut"
+  },
+  "jacques-bridge-spring-sample": {
+    "t": "Jacques Bridge Spring Sample",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "jacques-bridge-spring-sample"
+  },
+  "leather-cuirass": {
+    "t": "Leather Cuirass",
+    "r": "uncommon",
+    "c": "armour",
+    "v": 243,
+    "slug": "leather-cuirass"
+  },
+  "lavender-for-elodie": {
+    "t": "Lavender For Elodie",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 18,
+    "slug": "lavender-for-elodie"
+  },
+  "leather-barrel-bag": {
+    "t": "Leather Barrel Bag",
+    "r": "uncommon",
+    "c": "bag",
+    "v": 323,
+    "slug": "leather-barrel-bag"
+  },
+  "jozef-s-banner-damp-knapsack": {
+    "t": "Jozef's Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "jozef-s-banner-damp-knapsack"
+  },
+  "lead-discovered-near-jacques-bridge": {
+    "t": "Lead Discovered Near Jacques Bridge",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 26,
+    "slug": "lead-discovered-near-jacques-bridge"
+  },
+  "leather-armour-plate": {
+    "t": "Leather Armour Plate",
+    "r": "uncommon",
+    "c": "tool",
+    "v": 272,
+    "slug": "leather-armour-plate"
+  },
+  "leather-greaves": {
+    "t": "Leather Greaves",
+    "r": "uncommon",
+    "c": "armour",
+    "v": 178,
+    "slug": "leather-greaves"
+  },
+  "leather-helmet": {
+    "t": "Leather Helmet",
+    "r": "uncommon",
+    "c": "armour",
+    "v": 170,
+    "slug": "leather-helmet"
+  },
+  "linseed-oil": {
+    "t": "Linseed Oil",
+    "r": "uncommon",
+    "c": "material",
+    "v": 33,
+    "slug": "linseed-oil"
+  },
+  "longsword": {
+    "t": "Longsword",
+    "r": "uncommon",
+    "c": "weapon",
+    "v": 525,
+    "w": "Melee",
+    "d": "38\u201349",
+    "slug": "longsword"
+  },
+  "lion-of-rotterdam-brown-betty": {
+    "t": "Lion of Rotterdam - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 125,
+    "slug": "lion-of-rotterdam-brown-betty"
+  },
+  "lodestone-slag": {
+    "t": "Lodestone Slag",
+    "r": "uncommon",
+    "c": "material",
+    "v": 38,
+    "slug": "lodestone-slag"
+  },
+  "lever-arm": {
+    "t": "Lever Arm",
+    "r": "uncommon",
+    "c": "misc",
+    "v": 194,
+    "slug": "lever-arm"
+  },
+  "lime-slag": {
+    "t": "Lime Slag",
+    "r": "uncommon",
+    "c": "material",
+    "v": 72,
+    "slug": "lime-slag"
+  },
+  "louisville": {
+    "t": "Louisville",
+    "r": "uncommon",
+    "c": "weapon",
+    "v": 560,
+    "a": "Crude",
+    "w": "Rifle",
+    "d": "74",
+    "f": 120,
+    "m": 1,
+    "slug": "louisville"
+  },
+  "linen": {
+    "t": "Linen",
+    "r": "uncommon",
+    "c": "material",
+    "v": 14,
+    "slug": "linen"
+  },
+  "madder-root": {
+    "t": "Madder Root",
+    "r": "uncommon",
+    "c": "material",
+    "v": 71,
+    "slug": "madder-root"
+  },
+  "lye-crumble": {
+    "t": "Lye Crumble",
+    "r": "uncommon",
+    "c": "material",
+    "v": 67,
+    "slug": "lye-crumble"
+  },
+  "louis-mother-s-locket": {
+    "t": "Louis' Mother's Locket",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "louis-mother-s-locket"
+  },
+  "marching-boots": {
+    "t": "Marching Boots",
+    "r": "uncommon",
+    "c": "material",
+    "v": 22,
+    "slug": "marching-boots"
+  },
+  "metallurgist-recipe-club": {
+    "t": "Metallurgist Recipe - Club",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 2480,
+    "slug": "metallurgist-recipe-club"
+  },
+  "mortuary-record": {
+    "t": "Mortuary Record",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "mortuary-record"
+  },
+  "mace": {
+    "t": "Mace",
+    "r": "uncommon",
+    "c": "weapon",
+    "v": 324,
+    "w": "Melee",
+    "d": "24\u201340",
+    "slug": "mace"
+  },
+  "muriel-s-box": {
+    "t": "Muriel's Box",
+    "r": "uncommon",
+    "c": "bag",
+    "v": 311,
+    "slug": "muriel-s-box"
+  },
+  "natural-history-general-and-particular-buffon": {
+    "t": "Natural History, General and Particular - Buffon",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "natural-history-general-and-particular-buffon"
+  },
+  "medium-ammunition": {
+    "t": "Medium Ammunition",
+    "r": "uncommon",
+    "c": "ammunition",
+    "v": 8,
+    "slug": "medium-ammunition"
+  },
+  "old-satchel": {
+    "t": "Old Satchel",
+    "r": "uncommon",
+    "c": "bag",
+    "v": 252,
+    "slug": "old-satchel"
+  },
+  "oil-of-clove": {
+    "t": "Oil of Clove",
+    "r": "uncommon",
+    "c": "material",
+    "v": 40,
+    "slug": "oil-of-clove"
+  },
+  "outfitter-recipe-foraging-basket": {
+    "t": "Outfitter Recipe - Foraging Basket",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 900,
+    "slug": "outfitter-recipe-foraging-basket"
+  },
+  "outfitter-recipe-rusty-bucket": {
+    "t": "Outfitter Recipe - Rusty Bucket",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 440,
+    "slug": "outfitter-recipe-rusty-bucket"
+  },
+  "pewterhead": {
+    "t": "Pewterhead",
+    "r": "uncommon",
+    "c": "material",
+    "v": 58,
+    "slug": "pewterhead"
+  },
+  "outfitter-recipe-damp-knapsack": {
+    "t": "Outfitter Recipe - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 780,
+    "slug": "outfitter-recipe-damp-knapsack"
+  },
+  "outfitter-recipe-quilted-cuirass": {
+    "t": "Outfitter Recipe - Quilted Cuirass",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 940,
+    "slug": "outfitter-recipe-quilted-cuirass"
+  },
+  "pine-rosin": {
+    "t": "Pine Rosin",
+    "r": "uncommon",
+    "c": "material",
+    "v": 53,
+    "slug": "pine-rosin"
+  },
+  "physician-recipe-crude-bloodbag": {
+    "t": "Physician Recipe - Crude Bloodbag",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1300,
+    "slug": "physician-recipe-crude-bloodbag"
+  },
+  "pitch": {
+    "t": "Pitch",
+    "r": "uncommon",
+    "c": "material",
+    "v": 60,
+    "slug": "pitch"
+  },
+  "poor-grandpapa": {
+    "t": "Poor Grandpapa",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 44,
+    "slug": "poor-grandpapa"
+  },
+  "piro-s-lens": {
+    "t": "Piro's Lens",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "piro-s-lens"
+  },
+  "precious-box": {
+    "t": "Precious Box",
+    "r": "uncommon",
+    "c": "material",
+    "v": 141,
+    "slug": "precious-box"
+  },
+  "powder-tin": {
+    "t": "Powder Tin",
+    "r": "uncommon",
+    "c": "material",
+    "v": 42,
+    "slug": "powder-tin"
+  },
+  "preserved-hand": {
+    "t": "Preserved Hand",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "preserved-hand"
+  },
+  "quarantine-diary": {
+    "t": "Quarantine Diary",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "quarantine-diary"
+  },
+  "prussian-standard-louisville": {
+    "t": "Prussian Standard - Louisville",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 247,
+    "slug": "prussian-standard-louisville"
+  },
+  "prussian-eagle-brown-betty": {
+    "t": "Prussian Eagle - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 45,
+    "slug": "prussian-eagle-brown-betty"
+  },
+  "ragged-sack": {
+    "t": "Ragged Sack",
+    "r": "uncommon",
+    "c": "bag",
+    "v": 150,
+    "slug": "ragged-sack"
+  },
+  "ram-s-horn": {
+    "t": "Ram\u2019s Horn",
+    "r": "uncommon",
+    "c": "material",
+    "v": 71,
+    "slug": "ram-s-horn"
+  },
+  "red-ribbon": {
+    "t": "Red Ribbon",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "red-ribbon"
+  },
+  "reinforced-garter": {
+    "t": "Reinforced Garter",
+    "r": "uncommon",
+    "c": "material",
+    "v": 16,
+    "slug": "reinforced-garter"
+  },
+  "rottenstone": {
+    "t": "Rottenstone",
+    "r": "uncommon",
+    "c": "material",
+    "v": 49,
+    "slug": "rottenstone"
+  },
+  "rosemary": {
+    "t": "Rosemary",
+    "r": "uncommon",
+    "c": "material",
+    "v": 5,
+    "slug": "rosemary"
+  },
+  "sarlat-farm-spring-sample": {
+    "t": "Sarlat Farm Spring Sample",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "sarlat-farm-spring-sample"
+  },
+  "sable-and-gules-brown-betty": {
+    "t": "Sable and Gules - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 164,
+    "slug": "sable-and-gules-brown-betty"
+  },
+  "road-cask-leather-barrel-bag": {
+    "t": "Road Cask - Leather Barrel Bag",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 50500,
+    "slug": "road-cask-leather-barrel-bag"
+  },
+  "schlag-short-sword": {
+    "t": "Schlag - Short Sword",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 348,
+    "slug": "schlag-short-sword"
+  },
+  "sarlat-fungus-sample": {
+    "t": "Sarlat Fungus Sample",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "sarlat-fungus-sample"
+  },
+  "sarlat-farm-map": {
+    "t": "Sarlat Farm Map",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 88,
+    "slug": "sarlat-farm-map"
+  },
+  "red-ochre": {
+    "t": "Red Ochre",
+    "r": "uncommon",
+    "c": "material",
+    "v": 110,
+    "slug": "red-ochre"
+  },
+  "sealed-bloodbag": {
+    "t": "Sealed Bloodbag",
+    "r": "uncommon",
+    "c": "medicine",
+    "v": 531,
+    "slug": "sealed-bloodbag"
+  },
+  "short-sword": {
+    "t": "Short Sword",
+    "r": "uncommon",
+    "c": "weapon",
+    "v": 296,
+    "w": "Melee",
+    "d": "26\u201334",
+    "slug": "short-sword"
+  },
+  "sindle-dagger": {
+    "t": "Sindle - Dagger",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 101,
+    "slug": "sindle-dagger"
+  },
+  "sombre-forest-map": {
+    "t": "Sombre Forest Map",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 142,
+    "slug": "sombre-forest-map"
+  },
+  "silver-candleholder": {
+    "t": "Silver Candleholder",
+    "r": "uncommon",
+    "c": "material",
+    "v": 30,
+    "slug": "silver-candleholder"
+  },
+  "sombre-forest-fungus-sample": {
+    "t": "Sombre Forest Fungus Sample",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "sombre-forest-fungus-sample"
+  },
+  "sweet-rum": {
+    "t": "Sweet Rum",
+    "r": "uncommon",
+    "c": "drink",
+    "v": 175,
+    "e": "food.attr. \u00b7 15 s",
+    "slug": "sweet-rum"
+  },
+  "peninsular-campaign-banner-louisville": {
+    "t": "Peninsular Campaign Banner - Louisville",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 233,
+    "slug": "peninsular-campaign-banner-louisville"
+  },
+  "tanned-hide": {
+    "t": "Tanned Hide",
+    "r": "uncommon",
+    "c": "material",
+    "v": 26,
+    "slug": "tanned-hide"
+  },
+  "tarragon": {
+    "t": "Tarragon",
+    "r": "uncommon",
+    "c": "material",
+    "v": 7,
+    "slug": "tarragon"
+  },
+  "tempered-trigger-arm": {
+    "t": "Tempered Trigger Arm",
+    "r": "uncommon",
+    "c": "material",
+    "v": 213,
+    "slug": "tempered-trigger-arm"
+  },
+  "sombre-forest-spring-sample": {
+    "t": "Sombre Forest Spring Sample",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "sombre-forest-spring-sample"
+  },
+  "pewter-bowl": {
+    "t": "Pewter Bowl",
+    "r": "uncommon",
+    "c": "material",
+    "v": 22,
+    "slug": "pewter-bowl"
+  },
+  "tarnished-spoon": {
+    "t": "Tarnished Spoon",
+    "r": "uncommon",
+    "c": "material",
+    "v": 33,
+    "slug": "tarnished-spoon"
+  },
+  "the-torturer-s-apology": {
+    "t": "The Torturer's Apology",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 59,
+    "slug": "the-torturer-s-apology"
+  },
+  "the-spirit-of-the-laws-montesquieu": {
+    "t": "The Spirit of the Laws - Montesquieu",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "the-spirit-of-the-laws-montesquieu"
+  },
+  "the-stone-shield": {
+    "t": "The Stone Shield",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 72,
+    "slug": "the-stone-shield"
+  },
+  "tent-peg": {
+    "t": "Tent Peg",
+    "r": "uncommon",
+    "c": "material",
+    "v": 38,
+    "slug": "tent-peg"
+  },
+  "tenebris-dagger": {
+    "t": "Tenebris - Dagger",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 231,
+    "slug": "tenebris-dagger"
+  },
+  "toy-doll": {
+    "t": "Toy Doll",
+    "r": "uncommon",
+    "c": "material",
+    "v": 172,
+    "slug": "toy-doll"
+  },
+  "threshing-basket": {
+    "t": "Threshing Basket",
+    "r": "uncommon",
+    "c": "bag",
+    "v": 220,
+    "slug": "threshing-basket"
+  },
+  "treaty-workhorse-brown-betty": {
+    "t": "Treaty Workhorse - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 170,
+    "slug": "treaty-workhorse-brown-betty"
+  },
+  "tsar-s-banner-damp-knapsack": {
+    "t": "Tsar's Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "tsar-s-banner-damp-knapsack"
+  },
+  "tricolour-damp-knapsack": {
+    "t": "Tricolour - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "tricolour-damp-knapsack"
+  },
+  "volant": {
+    "t": "Volant",
+    "r": "uncommon",
+    "c": "weapon",
+    "v": 650,
+    "a": "Medium",
+    "w": "Rifle",
+    "d": "22",
+    "f": 71,
+    "m": 9,
+    "slug": "volant"
+  },
+  "union-jack-damp-knapsack": {
+    "t": "Union Jack - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "union-jack-damp-knapsack"
+  },
+  "verily-shake-it": {
+    "t": "Verily, Shake It",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 67,
+    "slug": "verily-shake-it"
+  },
+  "votive-candle": {
+    "t": "Votive Candle",
+    "r": "uncommon",
+    "c": "quest_item",
+    "v": 1,
+    "slug": "votive-candle"
+  },
+  "veenstra-s-swine-brown-betty": {
+    "t": "Veenstra's Swine - Brown Betty",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 715,
+    "slug": "veenstra-s-swine-brown-betty"
+  },
+  "william-s-banner-damp-knapsack": {
+    "t": "William's Banner - Damp Knapsack",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 1000,
+    "slug": "william-s-banner-damp-knapsack"
+  },
+  "waif-head": {
+    "t": "Waif Head",
+    "r": "uncommon",
+    "c": "trinket",
+    "v": 14,
+    "slug": "waif-head"
+  },
+  "weak-antidote": {
+    "t": "Weak Antidote",
+    "r": "uncommon",
+    "c": "medicine",
+    "v": 178,
+    "slug": "weak-antidote"
+  },
+  "a-miner-s-guide-to-lead-sombre-forest": {
+    "t": "A Miner\u2019s Guide to Lead: Sombre Forest",
+    "r": "common",
+    "c": "quest_item",
+    "v": 25,
+    "slug": "a-miner-s-guide-to-lead-sombre-forest"
+  },
+  "walnut-husk": {
+    "t": "Walnut Husk",
+    "r": "uncommon",
+    "c": "material",
+    "v": 57,
+    "slug": "walnut-husk"
+  },
+  "ash-solution": {
+    "t": "Ash Solution",
+    "r": "common",
+    "c": "material",
+    "v": 12,
+    "slug": "ash-solution"
+  },
+  "berry-paste": {
+    "t": "Berry Paste",
+    "r": "common",
+    "c": "material",
+    "v": 8,
+    "slug": "berry-paste"
+  },
+  "bog-iron": {
+    "t": "Bog Iron",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "bog-iron"
+  },
+  "boiled-leather": {
+    "t": "Boiled Leather",
+    "r": "common",
+    "c": "material",
+    "v": 41,
+    "slug": "boiled-leather"
+  },
+  "ambrose-s-diary": {
+    "t": "Ambrose's Diary",
+    "r": "common",
+    "c": "quest_item",
+    "v": 35,
+    "slug": "ambrose-s-diary"
+  },
+  "wrapped-tricolour-louisville": {
+    "t": "Wrapped Tricolour - Louisville",
+    "r": "uncommon",
+    "c": "schema",
+    "v": 280,
+    "slug": "wrapped-tricolour-louisville"
+  },
+  "brown-betty": {
+    "t": "Brown Betty",
+    "r": "common",
+    "c": "weapon",
+    "v": 151,
+    "a": "Crude",
+    "w": "Rifle",
+    "d": "67",
+    "f": 120,
+    "m": 1,
+    "slug": "brown-betty"
+  },
+  "brass-plate": {
+    "t": "Brass Plate",
+    "r": "common",
+    "c": "material",
+    "v": 49,
+    "slug": "brass-plate"
+  },
+  "bolt-of-burlap-cloth": {
+    "t": "Bolt Of Burlap Cloth",
+    "r": "common",
+    "c": "material",
+    "v": 10,
+    "slug": "bolt-of-burlap-cloth"
+  },
+  "bone-char": {
+    "t": "Bone Char",
+    "r": "common",
+    "c": "material",
+    "v": 7,
+    "slug": "bone-char"
+  },
+  "cabinet-handle": {
+    "t": "Cabinet Handle",
+    "r": "common",
+    "c": "material",
+    "v": 9,
+    "slug": "cabinet-handle"
+  },
+  "burlap": {
+    "t": "Burlap",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "burlap"
+  },
+  "club": {
+    "t": "Club",
+    "r": "common",
+    "c": "weapon",
+    "v": 248,
+    "w": "Melee",
+    "d": "17\u201343",
+    "slug": "club"
+  },
+  "chervil": {
+    "t": "Chervil",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "chervil"
+  },
+  "carrion-shank": {
+    "t": "Carrion Shank",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "carrion-shank"
+  },
+  "canvas-patch": {
+    "t": "Canvas Patch",
+    "r": "common",
+    "c": "material",
+    "v": 7,
+    "slug": "canvas-patch"
+  },
+  "cloth-armour-plate": {
+    "t": "Cloth Armour Plate",
+    "r": "common",
+    "c": "tool",
+    "v": 55,
+    "slug": "cloth-armour-plate"
+  },
+  "coarse-sand": {
+    "t": "Coarse Sand",
+    "r": "common",
+    "c": "material",
+    "v": 3,
+    "slug": "coarse-sand"
+  },
+  "chalkstone": {
+    "t": "Chalkstone",
+    "r": "common",
+    "c": "material",
+    "v": 10,
+    "slug": "chalkstone"
+  },
+  "coal-tar": {
+    "t": "Coal Tar",
+    "r": "common",
+    "c": "material",
+    "v": 35,
+    "slug": "coal-tar"
+  },
+  "copper-twine": {
+    "t": "Copper Twine",
+    "r": "common",
+    "c": "material",
+    "v": 16,
+    "slug": "copper-twine"
+  },
+  "cold-meat-pottage": {
+    "t": "Cold Meat Pottage",
+    "r": "common",
+    "c": "food",
+    "v": 6,
+    "slug": "cold-meat-pottage"
+  },
+  "chipped-flint": {
+    "t": "Chipped Flint",
+    "r": "common",
+    "c": "material",
+    "v": 20,
+    "slug": "chipped-flint"
+  },
+  "cork-stopper": {
+    "t": "Cork Stopper",
+    "r": "common",
+    "c": "material",
+    "v": 6,
+    "slug": "cork-stopper"
+  },
+  "crude-ampoule": {
+    "t": "Crude Ampoule",
+    "r": "common",
+    "c": "medicine",
+    "v": 32,
+    "slug": "crude-ampoule"
+  },
+  "copper-filament": {
+    "t": "Copper Filament",
+    "r": "common",
+    "c": "material",
+    "v": 36,
+    "slug": "copper-filament"
+  },
+  "crude-ammunition": {
+    "t": "Crude Ammunition",
+    "r": "common",
+    "c": "ammunition",
+    "v": 3,
+    "slug": "crude-ammunition"
+  },
+  "crude-preserving-jar": {
+    "t": "Crude Preserving Jar",
+    "r": "common",
+    "c": "material",
+    "v": 8,
+    "slug": "crude-preserving-jar"
+  },
+  "crude-bloodbag": {
+    "t": "Crude Bloodbag",
+    "r": "common",
+    "c": "medicine",
+    "v": 130,
+    "slug": "crude-bloodbag"
+  },
+  "crusty-faeces": {
+    "t": "Crusty Faeces",
+    "r": "common",
+    "c": "material",
+    "v": 5,
+    "slug": "crusty-faeces"
+  },
+  "damaged-screws": {
+    "t": "Damaged Screws",
+    "r": "common",
+    "c": "material",
+    "v": 77,
+    "slug": "damaged-screws"
+  },
+  "etienne-s-logbook": {
+    "t": "Etienne's Logbook",
+    "r": "common",
+    "c": "quest_item",
+    "v": 26,
+    "slug": "etienne-s-logbook"
+  },
+  "damp-knapsack": {
+    "t": "Damp Knapsack",
+    "r": "common",
+    "c": "bag",
+    "v": 78,
+    "slug": "damp-knapsack"
+  },
+  "cutter-s-note": {
+    "t": "Cutter's Note",
+    "r": "common",
+    "c": "quest_item",
+    "v": 13,
+    "slug": "cutter-s-note"
+  },
+  "dagger": {
+    "t": "Dagger",
+    "r": "common",
+    "c": "weapon",
+    "v": 94,
+    "w": "Melee",
+    "d": "21.6\u201330",
+    "slug": "dagger"
+  },
+  "damp-rag": {
+    "t": "Damp Rag",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "damp-rag"
+  },
+  "ducrocq-s-folly": {
+    "t": "Ducrocq\u2019s Folly",
+    "r": "common",
+    "c": "quest_item",
+    "v": 32,
+    "slug": "ducrocq-s-folly"
+  },
+  "decree-of-condemnation-and-confiscation": {
+    "t": "Decree of Condemnation and Confiscation",
+    "r": "common",
+    "c": "quest_item",
+    "v": 26,
+    "slug": "decree-of-condemnation-and-confiscation"
+  },
+  "foraging-basket": {
+    "t": "Foraging Basket",
+    "r": "common",
+    "c": "bag",
+    "v": 90,
+    "slug": "foraging-basket"
+  },
+  "for-louis": {
+    "t": "For Louis",
+    "r": "common",
+    "c": "quest_item",
+    "v": 15,
+    "slug": "for-louis"
+  },
+  "flour": {
+    "t": "Flour",
+    "r": "common",
+    "c": "material",
+    "v": 3,
+    "slug": "flour"
+  },
+  "filthy-britches": {
+    "t": "Filthy Britches",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "filthy-britches"
+  },
+  "farmhands-wanted": {
+    "t": "Farmhands Wanted",
+    "r": "common",
+    "c": "quest_item",
+    "v": 9,
+    "slug": "farmhands-wanted"
+  },
+  "going-for-help": {
+    "t": "Going For Help",
+    "r": "common",
+    "c": "quest_item",
+    "v": 22,
+    "slug": "going-for-help"
+  },
+  "etienne-s-last-words": {
+    "t": "Etienne\u2019s Last Words",
+    "r": "common",
+    "c": "quest_item",
+    "v": 26,
+    "slug": "etienne-s-last-words"
+  },
+  "fresh-apple": {
+    "t": "Fresh Apple",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "fresh-apple"
+  },
+  "fresh-gunpowder": {
+    "t": "Fresh Gunpowder",
+    "r": "common",
+    "c": "material",
+    "v": 2,
+    "slug": "fresh-gunpowder"
+  },
+  "grey-ham": {
+    "t": "Grey Ham",
+    "r": "common",
+    "c": "food",
+    "v": 26,
+    "slug": "grey-ham"
+  },
+  "garlic-bulb": {
+    "t": "Garlic Bulb",
+    "r": "common",
+    "c": "material",
+    "v": 2,
+    "slug": "garlic-bulb"
+  },
+  "impeccable-twine": {
+    "t": "Impeccable Twine",
+    "r": "common",
+    "c": "material",
+    "v": 12,
+    "slug": "impeccable-twine"
+  },
+  "iron-pot": {
+    "t": "Iron Pot",
+    "r": "common",
+    "c": "material",
+    "v": 8,
+    "slug": "iron-pot"
+  },
+  "iron-jug": {
+    "t": "Iron Jug",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "iron-jug"
+  },
+  "jute-hat": {
+    "t": "Jute Hat",
+    "r": "common",
+    "c": "material",
+    "v": 11,
+    "slug": "jute-hat"
+  },
+  "latch-hook": {
+    "t": "Latch Hook",
+    "r": "common",
+    "c": "material",
+    "v": 14,
+    "slug": "latch-hook"
+  },
+  "iron-nails": {
+    "t": "Iron Nails",
+    "r": "common",
+    "c": "material",
+    "v": 5,
+    "slug": "iron-nails"
+  },
+  "lead-bar": {
+    "t": "Lead Bar",
+    "r": "common",
+    "c": "material",
+    "v": 12,
+    "slug": "lead-bar"
+  },
+  "lead-ore": {
+    "t": "Lead Ore",
+    "r": "common",
+    "c": "material",
+    "v": 5,
+    "slug": "lead-ore"
+  },
+  "lard": {
+    "t": "Lard",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "lard"
+  },
+  "longboy": {
+    "t": "Longboy",
+    "r": "common",
+    "c": "weapon",
+    "v": 131,
+    "a": "Crude",
+    "w": "Pistol",
+    "d": "56",
+    "f": 120,
+    "m": 1,
+    "slug": "longboy"
+  },
+  "lavender-oil": {
+    "t": "Lavender Oil",
+    "r": "common",
+    "c": "material",
+    "v": 16,
+    "slug": "lavender-oil"
+  },
+  "lavender": {
+    "t": "Lavender",
+    "r": "common",
+    "c": "material",
+    "v": 3,
+    "slug": "lavender"
+  },
+  "milky-glass": {
+    "t": "Milky Glass",
+    "r": "common",
+    "c": "material",
+    "v": 2,
+    "slug": "milky-glass"
+  },
+  "ode-to-broussard": {
+    "t": "Ode to Broussard",
+    "r": "common",
+    "c": "quest_item",
+    "v": 17,
+    "slug": "ode-to-broussard"
+  },
+  "lemon-peel": {
+    "t": "Lemon Peel",
+    "r": "common",
+    "c": "material",
+    "v": 6,
+    "slug": "lemon-peel"
+  },
+  "milking-pail": {
+    "t": "Milking Pail",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "milking-pail"
+  },
+  "old-gunpowder": {
+    "t": "Old Gunpowder",
+    "r": "common",
+    "c": "material",
+    "v": 1,
+    "slug": "old-gunpowder"
+  },
+  "mouldy-baguette": {
+    "t": "Mouldy Baguette",
+    "r": "common",
+    "c": "food",
+    "v": 38,
+    "e": "Reload speed +10 % \u00b7 4 min",
+    "slug": "mouldy-baguette"
+  },
+  "moist-pouch": {
+    "t": "Moist Pouch",
+    "r": "common",
+    "c": "bag",
+    "v": 38,
+    "slug": "moist-pouch"
+  },
+  "nettlecloth": {
+    "t": "Nettlecloth",
+    "r": "common",
+    "c": "material",
+    "v": 8,
+    "slug": "nettlecloth"
+  },
+  "old-horsehair-brush": {
+    "t": "Old Horsehair Brush",
+    "r": "common",
+    "c": "material",
+    "v": 43,
+    "slug": "old-horsehair-brush"
+  },
+  "old-riding-glove": {
+    "t": "Old Riding Glove",
+    "r": "common",
+    "c": "material",
+    "v": 27,
+    "slug": "old-riding-glove"
+  },
+  "orange-clay": {
+    "t": "Orange Clay",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "orange-clay"
+  },
+  "recipe-for-cider": {
+    "t": "Recipe for Cider",
+    "r": "common",
+    "c": "quest_item",
+    "v": 28,
+    "slug": "recipe-for-cider"
+  },
+  "old-horseshoe": {
+    "t": "Old Horseshoe",
+    "r": "common",
+    "c": "material",
+    "v": 9,
+    "slug": "old-horseshoe"
+  },
+  "rusted-keyring": {
+    "t": "Rusted Keyring",
+    "r": "common",
+    "c": "material",
+    "v": 23,
+    "slug": "rusted-keyring"
+  },
+  "rotten-egg": {
+    "t": "Rotten Egg",
+    "r": "common",
+    "c": "material",
+    "v": 1,
+    "slug": "rotten-egg"
+  },
+  "quilted-cuirass": {
+    "t": "Quilted Cuirass",
+    "r": "common",
+    "c": "armour",
+    "v": 94,
+    "slug": "quilted-cuirass"
+  },
+  "pine-oil": {
+    "t": "Pine Oil",
+    "r": "common",
+    "c": "material",
+    "v": 42,
+    "slug": "pine-oil"
+  },
+  "pricker": {
+    "t": "Pricker",
+    "r": "common",
+    "c": "weapon",
+    "v": 1,
+    "w": "Melee",
+    "d": "18\u201325",
+    "slug": "pricker"
+  },
+  "report-of-the-voltigeur": {
+    "t": "Report of the Voltigeur",
+    "r": "common",
+    "c": "quest_item",
+    "v": 26,
+    "slug": "report-of-the-voltigeur"
+  },
+  "rye": {
+    "t": "Rye",
+    "r": "common",
+    "c": "material",
+    "v": 3,
+    "slug": "rye"
+  },
+  "saltpetre": {
+    "t": "Saltpetre",
+    "r": "common",
+    "c": "material",
+    "v": 3,
+    "slug": "saltpetre"
+  },
+  "packing-list": {
+    "t": "Packing List",
+    "r": "common",
+    "c": "quest_item",
+    "v": 8,
+    "slug": "packing-list"
+  },
+  "rusty-bucket": {
+    "t": "Rusty Bucket",
+    "r": "common",
+    "c": "bag",
+    "v": 44,
+    "slug": "rusty-bucket"
+  },
+  "sea-salt": {
+    "t": "Sea Salt",
+    "r": "common",
+    "c": "material",
+    "v": 1,
+    "slug": "sea-salt"
+  },
+  "rusty-tongs": {
+    "t": "Rusty Tongs",
+    "r": "common",
+    "c": "tool",
+    "v": 75,
+    "slug": "rusty-tongs"
+  },
+  "sharp-screws": {
+    "t": "Sharp Screws",
+    "r": "common",
+    "c": "material",
+    "v": 85,
+    "slug": "sharp-screws"
+  },
+  "recipe-for-sweetbreads": {
+    "t": "Recipe for Sweetbreads",
+    "r": "common",
+    "c": "quest_item",
+    "v": 22,
+    "slug": "recipe-for-sweetbreads"
+  },
+  "seamstress-needle": {
+    "t": "Seamstress Needle",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "seamstress-needle"
+  },
+  "sootblack": {
+    "t": "Sootblack",
+    "r": "common",
+    "c": "material",
+    "v": 20,
+    "slug": "sootblack"
+  },
+  "spindle-pulley": {
+    "t": "Spindle Pulley",
+    "r": "common",
+    "c": "material",
+    "v": 25,
+    "slug": "spindle-pulley"
+  },
+  "spoiled-rum": {
+    "t": "Spoiled Rum",
+    "r": "common",
+    "c": "drink",
+    "v": 24,
+    "e": "food.attr. \u00b7 10 s",
+    "slug": "spoiled-rum"
+  },
+  "sour-garlic": {
+    "t": "Sour Garlic",
+    "r": "common",
+    "c": "material",
+    "v": 22,
+    "slug": "sour-garlic"
+  },
+  "snub": {
+    "t": "Snub",
+    "r": "common",
+    "c": "weapon",
+    "v": 112,
+    "a": "Crude",
+    "w": "Pistol",
+    "d": "49",
+    "f": 120,
+    "m": 1,
+    "slug": "snub"
+  },
+  "tavern-wine": {
+    "t": "Tavern Wine",
+    "r": "common",
+    "c": "drink",
+    "v": 18,
+    "slug": "tavern-wine"
+  },
+  "tallow-balm": {
+    "t": "Tallow Balm",
+    "r": "common",
+    "c": "material",
+    "v": 6,
+    "slug": "tallow-balm"
+  },
+  "stewed-apple": {
+    "t": "Stewed Apple",
+    "r": "common",
+    "c": "food",
+    "v": 42,
+    "e": "Looting speed +20 % \u00b7 10 min",
+    "slug": "stewed-apple"
+  },
+  "sprouting-tuber": {
+    "t": "Sprouting Tuber",
+    "r": "common",
+    "c": "material",
+    "v": 5,
+    "slug": "sprouting-tuber"
+  },
+  "thick-branch": {
+    "t": "Thick Branch",
+    "r": "common",
+    "c": "material",
+    "v": 18,
+    "slug": "thick-branch"
+  },
+  "stale-piss": {
+    "t": "Stale Piss",
+    "r": "common",
+    "c": "material",
+    "v": 5,
+    "slug": "stale-piss"
+  },
+  "thin-gruel": {
+    "t": "Thin Gruel",
+    "r": "common",
+    "c": "food",
+    "v": 33,
+    "e": "Stamina regen +20 % \u00b7 10 min",
+    "slug": "thin-gruel"
+  },
+  "twine-ball": {
+    "t": "Twine Ball",
+    "r": "common",
+    "c": "material",
+    "v": 4,
+    "slug": "twine-ball"
+  },
+  "wet-cabbage": {
+    "t": "Wet Cabbage",
+    "r": "common",
+    "c": "material",
+    "v": 6,
+    "slug": "wet-cabbage"
+  },
+  "tepid-water": {
+    "t": "Tepid Water",
+    "r": "common",
+    "c": "drink",
+    "v": 22,
+    "e": "Movement speed +5 % \u00b7 30 s",
+    "slug": "tepid-water"
+  },
+  "thin-mead": {
+    "t": "Thin Mead",
+    "r": "common",
+    "c": "drink",
+    "v": 11,
+    "slug": "thin-mead"
+  },
+  "whetstone": {
+    "t": "Whetstone",
+    "r": "common",
+    "c": "material",
+    "v": 15,
+    "slug": "whetstone"
+  },
+  "wooden-fork": {
+    "t": "Wooden Fork",
+    "r": "common",
+    "c": "material",
+    "v": 11,
+    "slug": "wooden-fork"
+  },
+  "thyme": {
+    "t": "Thyme",
+    "r": "common",
+    "c": "material",
+    "v": 3,
+    "slug": "thyme"
+  },
+  "woodchips": {
+    "t": "Woodchips",
+    "r": "common",
+    "c": "material",
+    "v": 2,
+    "slug": "woodchips"
+  }
+}
