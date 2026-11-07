@@ -120,12 +120,8 @@ def extract_key_search_terms(text: str) -> List[str]:
 class CoPilotBrain:
     def __init__(self):
         # Contextual conversation memory
-        self.last_map_info: Dict[str, Any] = {
-            "map_name": "Sarlat Farm",
-            "type": "farm",
-            "points_description": "les conteneurs et sacs de farine au moulin de Sarlat Farm",
-            "intel": {}
-        }
+        self.last_map_info: Dict[str, Any] = {}
+        self.map_context_by_user: Dict[str, Dict[str, Any]] = {}
         self.last_active_quest: Optional[str] = None
         self.last_queried_item: Optional[str] = None
         
@@ -160,9 +156,23 @@ class CoPilotBrain:
             self.pending_term = None
             self.pending_term_time = 0.0
             self.pending_confirmation = None
+            self.map_context_by_user.pop(user_id, None)
+            self.last_map_info = {}
             spoken = "Entendu, j'oublie et on repart de zéro. De quoi avez-vous besoin ?" if is_french else "Understood, forgotten. Starting fresh. What do you need, Commander?"
             display = "🔄 **Demande Annulée & Mémoire Réinitialisée :** Éloïse est prête pour votre prochaine demande."
             return {"spoken_text": spoken, "display_text": display}
+
+        # Explicit maps take precedence over broad item, creature and dungeon keywords.
+        from co_pilot.map_requests import handle_map_request
+        map_result = handle_map_request(clean_text, self.map_context_by_user.get(user_id))
+        if map_result is not None:
+            self.pending_term = None
+            self.pending_confirmation = None
+            response, context = map_result
+            if context is not None:
+                self.map_context_by_user[user_id] = context
+                self.last_map_info = context
+            return response
 
         # -------------------------------------------------------------------
         # 0.1 TWO-STEP CONFIRMATION FOR LEARNED TERMS
@@ -393,7 +403,7 @@ class CoPilotBrain:
             ])
         ) or any(w in lowered for w in ["carte sans indication", "map sans indication", "blank map", "pure map", "carte de base"]) or is_exact_map_name
 
-        if is_dungeon:
+        if is_dungeon and re.search(r"\bfolly\b", lowered):
             from universal_v8_engine import render_authentic_dungeon_card
             img_path = render_authentic_dungeon_card(is_french=is_french)
             spoken = "Jacques Folly subterranean dungeon map dispatched with authentic entrance coordinates."
@@ -1064,89 +1074,10 @@ class CoPilotBrain:
             has_point_ask = True
 
         if has_point_ask:
-            # Check if a specific map was named in the question
-            target_map = None
-            if "sarlat" in lowered:
-                target_map = "Sarlat Farm"
-            elif any(k in lowered for k in ["sombre", "forest", "forêt"]):
-                target_map = "Sombre Forest"
-            elif any(k in lowered for k in ["jacques", "pont", "bridge"]):
-                target_map = "Jacques Bridge"
-            elif any(k in lowered for k in ["folly", "puits", "pit", "undercroft"]):
-                target_map = "Jacques Folly" if "folly" in lowered else "The Pit" if ("pit" in lowered or "puits" in lowered) else "The Undercroft"
-            
-            if not target_map:
-                target_map = self.last_map_info.get("map_name", "Sarlat Farm")
-
-            p_desc = self.last_map_info.get("points_description", "les conteneurs et objectifs clés")
-            m_type = self.last_map_info.get("type", "progression")
-
-            if is_french:
-                if m_type == "creatures" or any(w in lowered for w in ["baveux", "brute", "drooler", "creature", "créature"]):
-                    spoken = f"Les badges jaunes indiquent les Baveux et les violets les Brutes sur {target_map}. Détails complets affichés sur Discord."
-                    display = (
-                        f"📍 **DÉTAILS DES POINTS SUR LA CARTE : {target_map.upper()} (CRÉATURES)**\n\n"
-                        f"• 🟡 **Badges Jaunes (Baveux / Droolers)** : 450 PV, vitesse 3.1 m/s, lâche la Mâchoire (76.9%)\n"
-                        f"• 🟣 **Badges Violets (Brutes)** : 900 PV, frappe de 96 dégâts, lâche la Patte (76.9%)\n"
-                        f"• 🔑 **Butin Rare** : Clé de la folie de Jacques (taux 1/226 sur ces élites)\n"
-                        f"• 💡 **Conseil Tactique** : Évitez le combat rapproché contre la Brute sans arme d'estoc ou parade."
-                    )
-                elif m_type == "dungeon" or "folly" in target_map.lower() or "pit" in target_map.lower() or "undercroft" in target_map.lower():
-                    spoken = f"Les marqueurs jaunes sont les portes d'accès au donjon et les violets les spawns de clés et coffres majeurs."
-                    display = (
-                        f"📍 **DÉTAILS DES POINTS : DONJON {target_map.upper()}**\n\n"
-                        f"• 🟡 **Accès & Portes Verrouillées (3)** : Entrées souterraines et grilles sécurisées\n"
-                        f"• 🟣 **Spawns de Clés & Coffres Majeurs** : Caches d'armes et coffre orphelin\n"
-                        f"• ⚠️ **Danger** : Concentration élevée de rôdeurs et risque d'anti-soin"
-                    )
-                elif "sarlat" in target_map.lower():
-                    spoken = "Sur Sarlat Farm, les points indiquent le Moulin avec les sacs de farine, la Ferme centrale et l'entrée du Puits."
-                    display = (
-                        f"📍 **DÉTAILS DES POINTS SUR LA CARTE : SARLAT FARM**\n\n"
-                        f"• 🟡 **Le Moulin (Nord & Ouest)** : Conteneurs prioritaires de Farine (Flour), sacs de blé et caisses d'outils\n"
-                        f"• 🟡 **La Ferme Centrale** : Habitations avec coffres de ravitaillement, équipement et armoires\n"
-                        f"• 🟣 **Le Puits (Donjon Souterrain)** : Puits de la cour et grille d'égout du cellier (98 conteneurs)\n"
-                        f"• 🚪 **Portes d'Extraction** : Rivière Nord et Sentier Boisé Sud\n\n"
-                        f"🎨 **Code Couleur :**\n"
-                        f"• 🟡 **Badges Jaunes :** Objectifs de quêtes actifs et farine prioritaire\n"
-                        f"• 🟣 **Badges Violets :** Accès donjon souterrain et butin rare"
-                    )
-                elif "jacques" in target_map.lower():
-                    spoken = "Sur Pont Jacques, les points indiquent le pont central avec le charbon et l'entrée de Jacques Folly."
-                    display = (
-                        f"📍 **DÉTAILS DES POINTS SUR LA CARTE : JACQUES BRIDGE**\n\n"
-                        f"• 🟡 **Pont de Pierre & Garnison** : Piles de Charbon (Charcoal) et caisses d'armes renforcées\n"
-                        f"• 🟣 **Jacques Folly (Donjon)** : Entrée sous l'arche ouest et 5 emplacements de spawns de clés\n"
-                        f"• 🚪 **Extractions** : Tour de guet Est et Sentier de berge Sud"
-                    )
-                else:
-                    spoken = f"Sur Sombre Forest, les points indiquent le camp des bûcherons pour le salpêtre et la crypte."
-                    display = (
-                        f"📍 **DÉTAILS DES POINTS SUR LA CARTE : SOMBRE FOREST**\n\n"
-                        f"• 🟡 **Camp des Bûcherons & Reliquaire** : Caches de Salpêtre (Saltpetre) et sacs de provisions\n"
-                        f"• 🟣 **Le Sous-sol (Crypte Souterraine)** : Entrée du mausolée et 112 sarcophages\n"
-                        f"• 🚪 **Extractions** : Clairière Est et Sentier du Vieux Chêne"
-                    )
-            else:
-                if "sarlat" in target_map.lower():
-                    spoken = "On Sarlat Farm, markers indicate The Mill for flour sacks, the central Farmhouse, and The Pit dungeon entrance."
-                    display = (
-                        f"📍 **MARKER DETAILS ON : SARLAT FARM**\n\n"
-                        f"• 🟡 **The Mill (North & West)** : Primary Flour containers, wheat sacks, and tool crates\n"
-                        f"• 🟡 **Central Farmhouse** : High-tier household chests, medical supplies, and gear\n"
-                        f"• 🟣 **The Pit (Dungeon Entrance)** : Courtyard well & cellar sewer grate (98 containers)\n"
-                        f"• 🚪 **Extraction Gates** : North River & South Forest Path"
-                    )
-                else:
-                    spoken = f"Markers indicate {p_desc}. Full tactical breakdown posted to Discord."
-                    display = (
-                        f"📍 **MARKER DETAILS ON : {target_map.upper()}**\n\n"
-                        f"• 🎯 **Target Spots :** {p_desc}\n"
-                        f"• 🟡 **Yellow Badges :** Primary quest objectives & critical loot\n"
-                        f"• 🟣 **Purple Badges :** Secondary focus, rare keys & dungeon access\n"
-                        f"• 🔵 **Blue Badges :** General supplies & crafting materials"
-                    )
-            return {"spoken_text": spoken, "display_text": display}
+            context = self.map_context_by_user.get(user_id)
+            description = context.get("points_description") if context else None
+            message = description or "No map has been generated for you yet. Which map and objective do you mean?"
+            return {"spoken_text": message, "display_text": message}
 
         # -------------------------------------------------------------------
         # 4. CUSTOM KEEP / FARM ITEMS LIST (ADD ITEM)
@@ -1269,9 +1200,7 @@ class CoPilotBrain:
                 spoken = f"Active quests: {', '.join([q['name'] for q in active_q[:2]])}. Full briefing posted."
                 display = "🎯 **QUEST PROGRESSION & OBJECTIVES**"
 
-            # Attach dynamic farm map for visual context
-            map_path, _ = generate_item_farm_map("flour", "Sarlat Farm")
-            return {"spoken_text": spoken, "display_text": display, "image_attachment": map_path}
+            return {"spoken_text": spoken, "display_text": display}
 
         # -------------------------------------------------------------------
         # 6. WEAPON STATS (Thrust Damage, Best Thrust Weapon, Spear Stats, Firearms, 2H Arsenal)
@@ -1420,140 +1349,6 @@ class CoPilotBrain:
 
         if any(w in lowered for w in ["fait aleatoire", "fait aléatoire", "random fact", "saviez-vous", "saviez vous"]):
             return answer_random_fact_query(is_french)
-
-        # -------------------------------------------------------------------
-        # 14. DYNAMIC CREATURE MAP (Droolers, Brutes, Bloats, Shamblers, Dregs)
-        # -------------------------------------------------------------------
-        if any(w in lowered for w in ["map", "carte", "where", "ou est", "où est"]) and any(w in lowered for w in [
-            "drawler", "drooler", "brute", "baveux", "creature", "créature", "monstre", "miniboss",
-            "bloat", "shambler", "titubant", "dreg", "rebut", "pale lady", "dame pale"
-        ]):
-            target_map = "Sarlat Farm"
-            if any(k in lowered for k in ["sombre", "forest", "forêt", "foret"]): target_map = "Sombre Forest"
-            elif any(k in lowered for k in ["jacques", "pont", "bridge"]): target_map = "Jacques Bridge"
-
-            from co_pilot.map_generator import generate_universal_bestiary_map
-            img_path, intel = generate_universal_bestiary_map(clean_text, target_map)
-            self.last_map_info = {
-                "map_name": target_map,
-                "type": "creatures",
-                "points_description": f"les zones de spawn et patrouille de {intel['creature']} sur {target_map}",
-                "intel": intel
-            }
-            
-            is_combo = ("brute" in lowered and ("drooler" in lowered or "baveux" in lowered)) or ("creature" in lowered or "créature" in lowered or "miniboss" in lowered)
-            
-            if is_french:
-                spoken = f"Carte tactique des {intel['spawners_count']} spawns de créatures et élites sur {target_map} transmise."
-                if is_combo:
-                    display = (
-                        f"👾 **CARTE DES CRÉATURES : ALL 20 CREATURE & ELITE SPAWNS ({target_map.upper()})**\n\n"
-                        f"• 🟡 **Baveux (Droolers)** : 14 emplacements, 450 PV, vitesse 3.1 m/s, Mâchoire (76.9%)\n"
-                        f"• 🟣 **Brutes** : 5 patrouilles, 900 PV, frappe de 96 dégâts, Patte (76.9%)\n"
-                        f"• ⭐ **Variant Élite (#5)** : Farmer Dreg à la Ferme Garnier · 100% Schéma Fardeau du Paysan\n"
-                        f"• 🔑 **Clé rare** : Clé de la folie de Jacques (taux 1/226 sur l'ensemble des {intel['spawners_count']} élites)\n"
-                        f"• 🗺️ **Source Dataminée** : 100% extrait des tables officielles Hunger Companion ({intel['per_raid']})\n\n"
-                        f"🖼️ *(Carte haute résolution avec les {intel['spawners_count']} spawns et légende latérale générée ci-dessous)*"
-                    )
-                else:
-                    display = (
-                        f"👾 **CARTE TACTIQUE DU BESTIAIRE : {intel['title'].upper()}**\n\n"
-                        f"• 📍 **Spawns Dataminés** : {intel['spawners_count']} emplacements confirmés sur {target_map}\n"
-                        f"• 🎲 **Densité en Raid** : {intel['per_raid']} ({intel['map_share']} des rencontres globales)\n"
-                        f"• 🎁 **Trophée / Loot** : {intel['trophy']}\n"
-                        f"• ⚔️ **Tactique de Combat** : {intel['tactics']}\n"
-                        f"• 🗺️ **Source** : Données 100% extraites de Hunger Companion\n\n"
-                        f"🖼️ *(Carte tactique haute résolution générée ci-dessous)*"
-                    )
-            else:
-                spoken = f"Tactical bestiary map for {target_map} displaying all {intel['spawners_count']} datamined spawns dispatched."
-                if is_combo:
-                    display = (
-                        f"👾 **TACTICAL BESTIARY MAP : ALL 20 CREATURE & ELITE SPAWNS ({target_map.upper()})**\n\n"
-                        f"• 🟡 **Droolers (14-16 Spawns)** : 450 HP, 3.1 m/s speed, Drooler Jaw (76.9% drop)\n"
-                        f"• 🟣 **Brutes (5-8 Patrols)** : 900 HP, 96 dmg sweep, Brute Foot (76.9% drop)\n"
-                        f"• ⭐ **Elite Variant (#5)** : Farmer Dreg at Garnier's Farm · Guaranteed 100% Peasant's Burden Spear Schema\n"
-                        f"• 🔑 **Rare Elite Key** : Jacques Folly Key (1 in 226 drop rate on all {intel['spawners_count']} spawns)\n"
-                        f"• 🗺️ **Datamined Density** : {intel['per_raid']} ({intel['map_share']} of total game encounters)\n\n"
-                        f"🖼️ *(High-resolution map with all {intel['spawners_count']} spawns and sidebar legend generated below)*"
-                    )
-                else:
-                    display = (
-                        f"👾 **TACTICAL BESTIARY MAP : {intel['title'].upper()}**\n\n"
-                        f"• 📍 **Datamined Spawns** : {intel['spawners_count']} confirmed spawner points on {target_map}\n"
-                        f"• 🎲 **Raid Encounter Density** : {intel['per_raid']} ({intel['map_share']} of total game spawns)\n"
-                        f"• 🎁 **Trophy Drop** : {intel['trophy']}\n"
-                        f"• ⚔️ **Combat Tactics** : {intel['tactics']}\n"
-                        f"• 🗺️ **Data Source** : 100% datamined from Hunger Companion live patch tables\n\n"
-                        f"🖼️ *(High-resolution tactical map plotting all {intel['spawners_count']} points generated below)*"
-                    )
-            return {"spoken_text": spoken, "display_text": display, "image_attachment": img_path}
-
-        # 15. DYNAMIC ITEM FARM MAP
-        # -------------------------------------------------------------------
-        if any(w in lowered for w in ["map", "carte"]) and ("farm" in lowered or "trouver" in lowered):
-            m_farm = re.search(r"(?:farm|trouver|drop)\s+(?:de\s+|du\s+|des\s+|le\s+|la\s+|l'|the\s+)?([a-z\s]+)", lowered)
-            item_candidate = m_farm.group(1).strip() if m_farm else "flour"
-            
-            target_map = "Sarlat Farm"
-            if any(k in lowered for k in ["sombre", "forest", "forêt"]): target_map = "Sombre Forest"
-            elif any(k in lowered for k in ["jacques", "pont", "bridge"]) or "charcoal" in item_candidate or "charbon" in item_candidate: target_map = "Jacques Bridge"
-
-            img_path, intel = generate_item_farm_map(item_candidate, target_map)
-            self.last_map_info = {
-                "map_name": target_map,
-                "type": "farm",
-                "points_description": f"les meilleurs conteneurs et sacs pour récolter {item_candidate} sur {target_map}",
-                "intel": intel
-            }
-            spoken = f"Carte de farm pour {item_candidate} transmise sur Discord." if is_french else f"Farm map for {item_candidate} dispatched."
-            display = f"📦 **CARTE DE FARM : {item_candidate.upper()} ({target_map.upper()})**\n\n" + "\n".join(intel["drops"])
-            return {"spoken_text": spoken, "display_text": display, "image_attachment": img_path}
-
-        # -------------------------------------------------------------------
-        # 16. CANONICAL SPEEDRUN MAPS (ONLY WHEN SPECIFICALLY REQUESTED!)
-        # -------------------------------------------------------------------
-        is_speedrun_request = any(w in lowered for w in ["speedrun", "speed run", "guide speedrun", "raid speedrun"])
-        if is_speedrun_request and any(w in lowered for w in ["map", "carte", "raid", "briefing"]):
-            img_path, intel = generate_speedrun_raid_map(lowered)
-            self.last_map_info = {
-                "map_name": intel["map_name"],
-                "type": "speedrun",
-                "raid_id": intel["raid_id"],
-                "points_description": f"les objectifs du Raid {intel['raid_id']} ({intel['quest_name']}), conteneurs prioritaires et extractions",
-                "intel": intel
-            }
-            spoken = f"Carte speedrun du Raid {intel['raid_id']} transmise." if is_french else f"Speedrun map for Raid {intel['raid_id']} dispatched."
-            display = f"🗺️ **BRIEFING OFFICIEL SPEEDRUN : RAID {intel['raid_id']} — {intel['map_name'].upper()}**\n📜 Quête : {intel['quest_name']}"
-            return {"spoken_text": spoken, "display_text": display, "image_attachment": img_path}
-
-        # -------------------------------------------------------------------
-        # 17. GENERAL MAP REQUEST (TAILORED PROGRESSION MAP)
-        # -------------------------------------------------------------------
-        action_verbs = ["post", "poste", "show", "montre", "affiche", "send", "generate", "envoie", "génère", "display", "donne"]
-        map_words = ["map", "carte", "raid", "route", "plan"]
-        named_maps = ["sarlat", "sombre", "jacques"]
-        if (any(v in lowered for v in action_verbs) and any(m in lowered for m in map_words)) or (any(m in lowered for m in map_words) and any(nm in lowered for nm in named_maps)):
-            target_map = "Sarlat Farm"
-            if any(k in lowered for k in ["sombre", "forest", "forêt"]): target_map = "Sombre Forest"
-            elif any(k in lowered for k in ["jacques", "pont", "bridge"]): target_map = "Jacques Bridge"
-
-            summary = get_user_progression_summary(user_id)
-            active_slugs = [q["slug"] for q in summary.get("active_quests", [])]
-            custom_items = get_custom_farm_items(user_id)
-            custom_reason = f" + Farm de {custom_items[0]['name']}" if custom_items else ""
-
-            farm_item = "flour" if target_map == "Sarlat Farm" else "charcoal"
-            img_path, intel = generate_item_farm_map(farm_item, target_map)
-            self.last_map_info = {
-                "map_name": target_map,
-                "type": "progression",
-                "points_description": f"les conteneurs clés de farm ({farm_item}) et les objectifs de quêtes sur {target_map}",
-                "intel": intel
-            }
-            spoken = f"Carte tactique de {target_map} transmise sur Discord." if is_french else f"Tactical map for {target_map} dispatched."
-            display = f"🗺️ **CARTE TACTIQUE PERSONNALISÉE : {target_map.upper()}**\n\n🎯 **Progression active :**\n" + "\n".join([f"• Quête : {s}" for s in active_slugs[:2]])
-            return {"spoken_text": spoken, "display_text": display, "image_attachment": img_path}
 
         # -------------------------------------------------------------------
         # 18. LEVEL UPDATE & QUEST COMPLETION

@@ -41,19 +41,19 @@ def to_map_coord(x: float, y: float) -> Tuple[int, int]:
     my = core.MAP_Y + int((y / 4096.0) * core.MAP_H)
     return mx, my
 
+class MapDataUnavailable(ValueError):
+    """A requested map cannot be backed by the available data."""
+
+
 def resolve_map_image(map_query: str) -> str:
-    """Find the path to the map image file."""
-    q = map_query.lower().strip()
-    for key, fname in MAP_FILES.items():
-        if key in q:
-            full_path = os.path.join(ROOT_DIR, fname)
-            if os.path.exists(full_path):
-                return full_path
-    if any(k in q for k in ["sombre", "forest", "forêt"]):
-        return SOMBRE_MAP
-    elif any(k in q for k in ["jacques", "pont", "bridge"]):
-        return JACQUES_MAP
-    return SARLAT_MAP
+    """Resolve an explicit map name, never substitute a default map."""
+    filename = MAP_FILES.get(map_query.lower().strip())
+    if not filename:
+        raise MapDataUnavailable(f"Unknown map: {map_query}.")
+    path = os.path.join(ROOT_DIR, filename)
+    if not os.path.isfile(path):
+        raise MapDataUnavailable(f"Base map image unavailable for {map_query}.")
+    return path
 
 # ---------------------------------------------------------------------------
 # CORE DYNAMIC V25 RENDERER ENGINE
@@ -232,14 +232,8 @@ def generate_universal_bestiary_map(query: str, target_map: str = "Sarlat Farm")
     """
     q_low = query.lower()
 
-    # 1. Determine target map
-    canonical_map = "Sarlat Farm"
-    if any(w in q_low for w in ["sombre", "forest", "forêt", "foret"]):
-        canonical_map = "Sombre Forest"
-    elif any(w in q_low for w in ["jacques", "bridge", "pont"]):
-        canonical_map = "Jacques Bridge"
-    elif target_map in ["Sarlat Farm", "Jacques Bridge", "Sombre Forest"]:
-        canonical_map = target_map
+    canonical_map = target_map
+    resolve_map_image(canonical_map)
 
     # Load datamined database
     spawns_db = {}
@@ -254,10 +248,10 @@ def generate_universal_bestiary_map(query: str, target_map: str = "Sarlat Farm")
     map_spawners_data = spawns_db.get("map_spawners", {}).get(canonical_map, {})
 
     # 2. Determine target creature(s)
-    c_key = "drooler"
-    if "farmer" in q_low or "peasant" in q_low or "fermier" in q_low:
+    c_key = None
+    if "farmer" in q_low or "fermier" in q_low:
         c_key = "farmer-dreg"
-    elif "pale" in q_low or "dame" in q_low:
+    elif "pale lady" in q_low or "dame pale" in q_low or "dame pâle" in q_low:
         c_key = "pale-lady"
     elif "bloat" in q_low or "boursoufl" in q_low:
         c_key = "bloat"
@@ -267,48 +261,20 @@ def generate_universal_bestiary_map(query: str, target_map: str = "Sarlat Farm")
         c_key = "dreg"
     elif "brute" in q_low and "drooler" not in q_low and "baveux" not in q_low:
         c_key = "brute"
-    else:
+    elif "drooler" in q_low or "baveux" in q_low or "drawler" in q_low:
         c_key = "drooler"
+    else:
+        raise MapDataUnavailable(f"No supported creature identified in {query!r}.")
 
-    c_meta = bestiary_data.get(c_key, {
-        "name_en": "Drooler & Brute",
-        "name_fr": "Baveux & Brute",
-        "health": "450 / 900",
-        "speed": "3.1 m/s / 2.8 m/s",
-        "weak_point": "Head / Vulnerable from Rear",
-        "damage": "45 dmg bite / 96 dmg sweep",
-        "tactics": "Stagger Droolers with heavy overheads. Keep spacing against Brute sweeps.",
-        "trophy_name": "Drooler Jaw / Brute Foot",
-        "trophy_rate": "76.9%",
-        "rare_drop": "Jacques Folly Key (1 in 226 / 0.44% on all elite spawns)",
-        "maps_intel": {
-            "Sarlat Farm": {"per_raid": "11.0 per raid", "map_share": "37%", "top_places": [
-                {"name": "The Undercroft", "rate": "2 per raid", "coords": "X: 3620, Y: 3500"},
-                {"name": "Chapel of Weeping Virgins", "rate": "1.5 per raid", "coords": "X: 3040, Y: 2534"},
-                {"name": "Garnier's Windmill", "rate": "50% roll", "coords": "X: 1228, Y: 955"}
-            ]},
-            "Sombre Forest": {"per_raid": "9.8 per raid", "map_share": "32%", "top_places": [
-                {"name": "Lumber Camp", "rate": "2.2 per raid", "coords": "X: 2150, Y: 1800"},
-                {"name": "Old Sawmill", "rate": "1.8 per raid", "coords": "X: 2840, Y: 2400"}
-            ]},
-            "Jacques Bridge": {"per_raid": "9.3 per raid", "map_share": "31%", "top_places": [
-                {"name": "Bridge Ruins", "rate": "2.0 per raid", "coords": "X: 1850, Y: 1900"},
-                {"name": "North Gatehouse", "rate": "1.6 per raid", "coords": "X: 1980, Y: 850"}
-            ]}
-        }
-    })
-
-    m_intel = c_meta.get("maps_intel", {}).get(canonical_map, {
-        "per_raid": "10.0 per raid",
-        "map_share": "33%",
-        "top_places": []
-    })
+    c_meta = bestiary_data.get(c_key)
+    if not c_meta:
+        raise MapDataUnavailable(f"Bestiary data unavailable for {c_key}.")
+    m_intel = c_meta.get("maps_intel", {}).get(canonical_map, {})
 
     # 3. Retrieve exact datamined coordinates from Hunger Companion
     if c_key == "farmer-dreg":
         spawners = map_spawners_data.get("rare_farmer", [])
-        if not spawners:
-            spawners = [{"id": 3076, "x": 2316.66, "y": 1286.74, "title": "Rare Farmer"}]
+
     elif c_key == "bloat":
         spawners = map_spawners_data.get("bloat", [])
     elif c_key == "shambler":
@@ -320,10 +286,15 @@ def generate_universal_bestiary_map(query: str, target_map: str = "Sarlat Farm")
         spawners = map_spawners_data.get("miniboss", [])
 
     if not spawners:
-        spawners = map_spawners_data.get("miniboss", [])
+        raise MapDataUnavailable(f"No spawn coordinates for {c_meta['name_en']} on {canonical_map}.")
+    if c_key in {"drooler", "brute", "pale-lady"}:
+        c_meta = dict(c_meta, name_en=c_meta["name_en"] + " (shared miniboss candidate sites)")
+
+    if c_key == "shambler":
+        c_meta = dict(c_meta, name_en=c_meta["name_en"] + " (shared Shambler / Peasant sites)")
 
     map_img_path = resolve_map_image(canonical_map)
-    out_path = os.path.join(OUT_DIR, "dynamic_creatures_map.jpg")
+    out_path = os.path.join(OUT_DIR, f"dynamic_creatures_{c_key}_{canonical_map.replace(' ' , '_')}.jpg")
     specific_out_fn = f"dynamic_bestiary_{c_key}_{canonical_map.lower().replace(' ', '_')}.jpg"
     specific_out_path = os.path.join(OUT_DIR, specific_out_fn)
 
@@ -379,7 +350,7 @@ def generate_universal_bestiary_map(query: str, target_map: str = "Sarlat Farm")
     else:
         skull_badge = Image.new("RGBA", (badge_w, badge_h), (200, 30, 30, 230))
 
-    f_num_bold = ImageFont.truetype("C:\\Windows\\Fonts\\segoeuib.ttf", 11)
+    f_num_bold = core.load_font(core.SANS_BOLD, 11)
 
     for i, pt in enumerate(spawners, 1):
         mx, my = to_map_coord(pt["x"], pt["y"])
@@ -633,132 +604,33 @@ def generate_dungeon_folly_map() -> Tuple[str, Dict[str, Any]]:
     return out_path, intel
 
 def generate_dungeon_tactical_map(dungeon_query: str) -> Tuple[str, Dict[str, Any]]:
-    """Generate tactical map for ANY subterranean dungeon: Jacques Folly, The Pit, or The Undercroft."""
-    q = dungeon_query.lower()
-    
-    if any(w in q for w in ["pit", "puits"]):
-        map_name = "Sarlat Farm"
-        map_img = SARLAT_MAP
-        out_path = os.path.join(OUT_DIR, "dynamic_pit_dungeon_map.jpg")
-        cfg = {
-            "title": "SUBTERRANEAN: LE PUITS / THE PIT (SARLAT FARM)",
-            "map_name": "Sarlat Farm",
-            "map_img": map_img,
-            "tag": "DONJON SOUTERRAIN",
-            "header_cards": [
-                ("Danger", "Gaz Toxique"),
-                ("Loot", "98 Conteneurs"),
-                ("Clé Requise", "Bronze / Crochet")
-            ],
-            "story_pois": [
-                {"x": 2150.40, "y": 1890.15, "label": "Entrée 1: Câble du Puits Central", "offset_dir": "top", "cont_img": "tooling_bin.webp"},
-                {"x": 2320.10, "y": 1420.50, "label": "Entrée 2: Évacuation du Moulin", "offset_dir": "bottom", "cont_img": "flour_sack.webp"},
-                {"x": 1980.60, "y": 1750.30, "label": "Entrée 3: Grille des Égouts Ferme", "offset_dir": "left", "cont_img": "strongbox.webp"}
-            ],
-            "points": [
-                {"x": 2150.40, "y": 1890.15, "type": "entrance", "color": core.PRIO_YELLOW, "cont_img": "tooling_bin.webp"},
-                {"x": 2320.10, "y": 1420.50, "type": "entrance", "color": core.PRIO_YELLOW, "cont_img": "flour_sack.webp"},
-                {"x": 1980.60, "y": 1750.30, "type": "entrance", "color": core.PRIO_YELLOW, "cont_img": "strongbox.webp"}
-            ],
-            "active_objectives": [
-                {"title": "Infiltrer la citerne inondée du Puits de Sarlat", "cont_img": "strongbox.webp", "item_img": "saltpetre.png"}
-            ],
-            "priority_focus": {
-                "title": "Citerne Inondée (98 Conteneurs, Gaz Toxique)",
-                "c_ico": "strongbox.webp",
-                "i_ico": "saltpetre.png",
-                "color": core.PRIO_PURPLE
-            },
-            "rotation_steps": [
-                {"step": "Descendre par le treuil du Puits ou la grille de ferme.", "color": core.PRIO_YELLOW},
-                {"step": "Équiper des remèdes antipoison contre les 52 boursouflés.", "color": core.PRIO_PURPLE},
-                {"step": "Piller les 98 coffres submergés et réserves de salpêtre.", "color": core.PRIO_BLUE},
-                {"step": "Extraire par le conduit bas vers la rivière.", "color": core.PRIO_GREY}
-            ],
-            "directory": [
-                {"color": core.PRIO_YELLOW, "cont": "Puits Central", "c_ico": "strongbox.webp", "item": "Accès Treuil", "rate": "Ouvert", "spots": "X: 2150, Y: 1890"},
-                {"color": core.PRIO_YELLOW, "cont": "Égout Ferme", "c_ico": "tooling_bin.webp", "item": "Grille de fer", "rate": "Clé Bronze", "spots": "X: 1980, Y: 1750"}
-            ],
-            "roadmap": [
-                {"quest": "Subterranean Descent", "items": [("Salpêtre Pur", "saltpetre.png")]}
-            ]
-        }
-        render_dynamic_v25_briefing(cfg, out_path)
-        intel = {
-            "title": "Entrées du Puits (The Pit) - Sarlat Farm",
-            "map_name": "Sarlat Farm",
-            "objectives": ["Descendre dans la citerne inondée", "Éviter les vapeurs toxiques"],
-            "focus": "3 entrées : Puits Central, Conduit Moulin, Grille Ferme",
-            "drops": [
-                "• **Puits Central** (`X: 2150.40, Y: 1890.15`) : Descente directe treuil",
-                "• **Évacuation Moulin** (`X: 2320.10, Y: 1420.50`) : Conduit bas",
-                "• **Grille Ferme** (`X: 1980.60, Y: 1750.30`) : Accès cave"
-            ]
-        }
-        return out_path, intel
+    """Plot dungeon locations from the database, not invented entrance templates."""
+    q = dungeon_query.lower().strip()
+    aliases = {"the pit": ("pit", "puits"), "the undercroft": ("undercroft", "sous-sol", "crypte"),
+               "jacques folly": ("folly",)}
+    matches = [name for name, words in aliases.items()
+               if any(re.search(r"\b" + re.escape(word) + r"\b", q) for word in words)]
+    if len(matches) != 1:
+        raise MapDataUnavailable("Specify The Pit, The Undercroft, or Jacques Folly.")
+    return generate_location_poi_map(matches[0])
 
-    elif any(w in q for w in ["undercroft", "sous-sol", "sous sol", "crypte"]):
-        map_name = "Sombre Forest"
-        map_img = SOMBRE_MAP
-        out_path = os.path.join(OUT_DIR, "dynamic_undercroft_dungeon_map.jpg")
-        cfg = {
-            "title": "SUBTERRANEAN: LE SOUS-SOL DE LA CRYPTE (SOMBRE FOREST)",
-            "map_name": "Sombre Forest",
-            "map_img": map_img,
-            "tag": "DONJON CRYPTE",
-            "header_cards": [
-                ("Danger", "Brutes & Shamblers"),
-                ("Loot", "112 Sarcophages"),
-                ("Clé Requise", "Clé en Argent")
-            ],
-            "story_pois": [
-                {"x": 1820.50, "y": 2450.80, "label": "Entrée 1: Clocher Abbaye St-Jude", "offset_dir": "top", "cont_img": "stone_grave.webp"},
-                {"x": 1650.30, "y": 2610.10, "label": "Entrée 2: Porte du Reliquaire", "offset_dir": "left", "cont_img": "strongbox.webp"},
-                {"x": 1990.20, "y": 2310.40, "label": "Entrée 3: Fissure Mausolée Cimetière", "offset_dir": "bottom", "cont_img": "stone_grave.webp"}
-            ],
-            "points": [
-                {"x": 1820.50, "y": 2450.80, "type": "entrance", "color": core.PRIO_YELLOW, "cont_img": "stone_grave.webp"},
-                {"x": 1650.30, "y": 2610.10, "type": "entrance", "color": core.PRIO_YELLOW, "cont_img": "strongbox.webp"},
-                {"x": 1990.20, "y": 2310.40, "type": "entrance", "color": core.PRIO_YELLOW, "cont_img": "stone_grave.webp"}
-            ],
-            "active_objectives": [
-                {"title": "Piller les 112 sarcophages de la crypte de St-Jude", "cont_img": "strongbox.webp", "item_img": "saltpetre.png"}
-            ],
-            "priority_focus": {
-                "title": "Crypte St-Jude (112 Sarcophages, Brutes d'Acier)",
-                "c_ico": "strongbox.webp",
-                "i_ico": "gold_key.png",
-                "color": core.PRIO_PURPLE
-            },
-            "rotation_steps": [
-                {"step": "Infiltrer par la fissure du cimetière ou l'escalier clocher.", "color": core.PRIO_YELLOW},
-                {"step": "Éliminer les 68 créatures en armure à l'estoc.", "color": core.PRIO_PURPLE},
-                {"step": "Déverrouiller la porte du reliquaire avec la Clé d'Argent.", "color": core.PRIO_BLUE},
-                {"step": "Emporter l'Arsenic et les bijoux précieux.", "color": core.PRIO_GREY}
-            ],
-            "directory": [
-                {"color": core.PRIO_YELLOW, "cont": "Clocher Abbaye", "c_ico": "stone_grave.webp", "item": "Escalier brisé", "rate": "Ouvert", "spots": "X: 1820, Y: 2450"},
-                {"color": core.PRIO_YELLOW, "cont": "Reliquaire", "c_ico": "strongbox.webp", "item": "Porte Forgée", "rate": "Clé Argent", "spots": "X: 1650, Y: 2610"}
-            ],
-            "roadmap": [
-                {"quest": "Crypt Raider", "items": [("Arsenic", "saltpetre.png")]}
-            ]
-        }
-        render_dynamic_v25_briefing(cfg, out_path)
-        intel = {
-            "title": "Entrées du Sous-sol de la Crypte (The Undercroft) - Sombre Forest",
-            "map_name": "Sombre Forest",
-            "objectives": ["Piller les caveaux de St-Jude", "Utiliser la Clé en Argent"],
-            "focus": "3 accès : Clocher Abbaye, Porte Reliquaire, Fissure Cimetière",
-            "drops": [
-                "• **Clocher Abbaye** (`X: 1820.50, Y: 2450.80`) : Descente décombres",
-                "• **Porte Reliquaire** (`X: 1650.30, Y: 2610.10`) : Clé en Argent requise",
-                "• **Fissure Cimetière** (`X: 1990.20, Y: 2310.40`) : Brèche étroite"
-            ]
-        }
-        return out_path, intel
 
-    return generate_dungeon_folly_map()
+def resolve_item_name(query: str) -> Optional[str]:
+    """Prefer exact identities; allow only a unique whole-word partial name."""
+    q = query.lower().strip()
+    if not q:
+        return None
+    with get_connection() as conn:
+        rows = conn.execute("SELECT name, slug FROM items").fetchall()
+    exact = [r["name"] for r in rows if q in (r["name"].lower(), r["slug"].lower())]
+    if exact:
+        return exact[0]
+    words = set(re.findall(r"\w+", q))
+    matches = sorted({r["name"] for r in rows if words <= set(re.findall(r"\w+", r["name"].lower()))})
+    if len(matches) > 1:
+        raise MapDataUnavailable("Which item do you mean? " + ", ".join(matches[:6]))
+    return matches[0] if matches else None
+
 
 def generate_item_farm_map(item_query: str, target_map: str = "Sarlat Farm") -> Tuple[str, Dict[str, Any]]:
     """Generate map highlighting the best containers to farm any requested item."""
@@ -772,6 +644,10 @@ def generate_item_farm_map(item_query: str, target_map: str = "Sarlat Farm") -> 
     }
     clean_q = item_query.lower().strip()
     clean_q = fr_to_en.get(clean_q, clean_q)
+    resolved_item = resolve_item_name(clean_q)
+    if not resolved_item:
+        raise MapDataUnavailable(f"No item data for {item_query}.")
+    clean_q = resolved_item.lower()
 
     # Determine best container from DB
     conn = get_connection()
@@ -780,13 +656,15 @@ def generate_item_farm_map(item_query: str, target_map: str = "Sarlat Farm") -> 
         SELECT d.source, d.location, d.drop_rate, i.name
         FROM item_drops d
         JOIN items i ON d.item_id = i.id
-        WHERE i.name LIKE ? OR i.slug LIKE ?
+        WHERE (lower(i.name) = ? OR lower(i.slug) = ?) AND d.location = ?
         ORDER BY d.drop_rate DESC LIMIT 3
-    """, (f"%{clean_q}%", f"%{clean_q}%"))
+    """, (clean_q, clean_q, target_map))
     drops = c.fetchall()
     conn.close()
     
-    item_display = drops[0]["name"] if drops else clean_q.title()
+    if not drops:
+        raise MapDataUnavailable(f"No item drop data for {item_query} on {target_map}.")
+    item_display = drops[0]["name"]
     top_cont = drops[0]["source"] if drops else "Loot Container"
     top_rate = f"{drops[0]['drop_rate']*100:.1f}%" if drops else "High"
     
@@ -811,6 +689,10 @@ def generate_item_farm_map(item_query: str, target_map: str = "Sarlat Farm") -> 
 
     conn.close()
     
+    if not pts_raw:
+        raise MapDataUnavailable(f"No mapped sources for {item_display} on {target_map}.")
+    out_path = os.path.join(OUT_DIR, f"dynamic_farm_{re.sub(r'[^a-z0-9]+', '_', clean_q)}_{target_map.replace(' ', '_')}.jpg")
+
     c_img_name = "flour_sack.webp" if "flour" in clean_q else "pile_of_ash.webp" if "charcoal" in clean_q else "tooling_bin.webp"
     i_img_name = "flour.png" if "flour" in clean_q else "saltpetre.png"
 
@@ -834,9 +716,7 @@ def generate_item_farm_map(item_query: str, target_map: str = "Sarlat Farm") -> 
             ("Best Container", top_cont),
             ("Drop Rate", top_rate)
         ],
-        "story_pois": [
-            {"x": 2446, "y": 1550, "label": "Central Village Farmhouse", "offset_dir": "bottom", "cont_img": "strongbox.webp"}
-        ] if "sarlat" in target_map.lower() else [],
+        "story_pois": [],
         "points": pts,
         "active_objectives": [
             {"title": f"Farm {item_display} from {top_cont} clusters", "cont_img": c_img_name, "item_img": i_img_name}
@@ -885,7 +765,7 @@ def generate_location_poi_map(query: str, target_map_hint: Optional[str] = None)
     c = conn.cursor()
 
     # 1. Specialized Handler: The Gavroche Family Camp
-    if any(w in q for w in ["gavroche", "family gavroche", "famille gavroche", "camp gavroche"]):
+    if q in {"gavroche", "family gavroche", "famille gavroche", "camp gavroche", "gavroche family"}:
         map_name = "Jacques Bridge"
         map_img = JACQUES_MAP
         out_path = os.path.join(OUT_DIR, "dynamic_gavroche_location_map.jpg")
@@ -946,7 +826,7 @@ def generate_location_poi_map(query: str, target_map_hint: Optional[str] = None)
         return out_path, intel
 
         # 1.4 Specialized Handler: Piro's Lens (Quest: Seeing Clearly)
-    if any(k in q for k in ["lens", "lentille", "seeing clearly", "seeing-clearly"]):
+    if q in {"lens", "lentille", "piro's lens", "piros lens", "seeing clearly", "seeing-clearly"}:
         map_name = "Jacques Bridge"
         map_img = JACQUES_MAP
         out_path = os.path.join(OUT_DIR, "dynamic_piro_lens_location_map.jpg")
@@ -1007,7 +887,7 @@ def generate_location_poi_map(query: str, target_map_hint: Optional[str] = None)
         return out_path, intel
 
     # 1.5 Specialized Handler: Piro's Convoy (Remains of the Day / Return to the Convoy)
-    if "piro" in q and not any(k in q for k in ["lens", "lentille"]):
+    if q in {"piro's convoy", "piros convoy", "piro convoy", "remains of the day", "remains day", "return to the convoy", "return convoy"}:
         map_name = "Jacques Bridge"
         map_img = JACQUES_MAP
         out_path = os.path.join(OUT_DIR, "dynamic_piro_convoy_location_map.jpg")
@@ -1062,47 +942,24 @@ def generate_location_poi_map(query: str, target_map_hint: Optional[str] = None)
         }
         return out_path, intel
 
-    # 2. General database lookup in map_points with strict stopword filtering
-    STOPWORDS = {
-        "ou", "o\ufffd", "où", "est", "ce", "que", "je", "peux", "trouver", "trouve", "sont", "localisation",
-        "position", "carte", "map", "le", "la", "les", "un", "une", "des", "du", "de", "d",
-        "pour", "avec", "dans", "sur", "sous", "par", "qui", "quoi", "quel", "quelle", "quels",
-        "where", "is", "are", "can", "find", "how", "to", "get", "the", "in", "on", "at", "for", "item",
-        "skin", "skins", "peasant", "burden", "heavy", "ammo", "munition", "munitions", "cost", "coute"
-    }
-    raw_tokens = re.sub(r"[^\w\s-]", " ", q).split()
-    tokens = [t for t in raw_tokens if len(t) >= 3 and t.lower() not in STOPWORDS]
-    matched_points = []
-    target_map = target_map_hint or "Jacques Bridge"
-
-    for tok in tokens:
-        c.execute("""
-            SELECT map_name, title, point_type, x, y, description
-            FROM map_points
-            WHERE title LIKE ? OR quest_slug LIKE ? OR description LIKE ?
-            LIMIT 5
-        """, (f"%{tok}%", f"%{tok}%", f"%{tok}%"))
-        pts_found = c.fetchall()
-        if pts_found:
-            matched_points = [dict(p) for p in pts_found]
-            target_map = matched_points[0]["map_name"]
-            break
+    # Match the entire objective, not any incidental word in the request.
+    def identity(value):
+        return tuple(w for w in re.findall(r"\w+", (value or "").lower())
+                     if w not in {"the", "of", "in", "a", "an", "to", "de", "du", "le", "la", "les"})
+    c.execute("""
+        SELECT map_name, title, point_type, x, y, description, quest_slug FROM map_points
+        WHERE (? IS NULL OR map_name = ?)
+    """, (target_map_hint, target_map_hint))
+    matched_points = [dict(p) for p in c.fetchall()
+                      if identity(q) in (identity(p["title"]), identity(p["quest_slug"]))]
     conn.close()
-
     if not matched_points:
-        from universal_v8_engine import get_pure_blank_map
-        clean_map = get_pure_blank_map(target_map)
-        intel = {
-            "title": f"TACTICAL RECON : {target_map.upper()}",
-            "map_name": target_map,
-            "focus": f"General expedition recon on {target_map}",
-            "drops": [
-                f"• Clean tactical base map for {target_map} dispatched.",
-                "• No specific POI or waypoint was recognized for this query.",
-                "• Specify a landmark, enemy, container, or quest objective to plot dynamic coordinates."
-            ]
-        }
-        return clean_map, intel
+        raise MapDataUnavailable(f"No mapped objective data for {query!r}.")
+    maps = {p["map_name"] for p in matched_points}
+    if len(maps) != 1:
+        raise MapDataUnavailable("This objective occurs on multiple maps. Specify the map.")
+    target_map = matched_points[0]["map_name"]
+    tokens = [re.sub(r"[^a-z0-9]+", "_", q)]
 
     map_img = resolve_map_image(target_map)
     out_path = os.path.join(OUT_DIR, f"dynamic_location_map_{tokens[0] if tokens else 'poi'}.jpg")
@@ -1165,15 +1022,14 @@ def generate_location_poi_map(query: str, target_map_hint: Optional[str] = None)
 
 def generate_speedrun_raid_map(query: str, raid_id: Optional[int] = None) -> Tuple[str, Dict[str, Any]]:
     """Render canonical Speedrun Briefing (Raid 1..7) when specifically requested."""
-    cfg = g25.RAIDS_CONFIG[0]
-    if raid_id and 1 <= raid_id <= 7:
-        cfg = g25.RAIDS_CONFIG[raid_id - 1]
-    else:
-        for rid in range(1, 8):
-            if f"raid {rid}" in query.lower() or f"raid{rid}" in query.lower():
-                cfg = g25.RAIDS_CONFIG[rid - 1]
-                break
-                
+    ids = re.findall(r"\braid\s*(\d+)\b", query.lower())
+    if raid_id is None and len(set(ids)) == 1:
+        raid_id = int(ids[0])
+    matches = [cfg for cfg in g25.RAIDS_CONFIG if cfg["id"] == raid_id]
+    if len(matches) != 1:
+        raise MapDataUnavailable("Specify an available speedrun raid number (1–7).")
+    cfg = matches[0]
+
     out_path = os.path.join(OUT_DIR, f"raid{cfg['id']}_speedrun_briefing.jpg")
     g25.render_briefing(cfg, output_path=out_path)
     
