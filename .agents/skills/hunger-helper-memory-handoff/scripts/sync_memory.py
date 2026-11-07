@@ -41,8 +41,9 @@ def extract_prompts_from_transcript(t_path):
                     step_idx = obj.get("step_index", len(prompts))
                     created_at = obj.get("created_at", "")
                     if content:
-                        # Automatically redact secret tokens
-                        content = re.sub(r'(?:[a-zA-Z0-9_\-]{24}\.[a-zA-Z0-9_\-]{6}\.[a-zA-Z0-9_\-]{27,38}|AQ\.[a-zA-Z0-9_\-]{30,})', '[REDACTED_SECRET]', content)
+                        # Automatically redact secret tokens (Discord bot tokens, Gemini API keys, etc.)
+                        content = re.sub(r'[A-Za-z0-9_\-]{20,32}\.[A-Za-z0-9_\-]{6}\.[A-Za-z0-9_\-]{20,45}', '[DISCORD_BOT_TOKEN_REDACTED]', content)
+                        content = re.sub(r'(?:AQ\.[a-zA-Z0-9_\-]{20,}|AIza[0-9A-Za-z-_]{35})', '[GEMINI_API_KEY_REDACTED]', content)
                         if not any(p["content"] == content for p in prompts):
                             prompts.append({
                                 "step": step_idx,

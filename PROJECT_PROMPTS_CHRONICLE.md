@@ -706,7 +706,7 @@ The current local time is: 2026-11-04T14:13:38-05:00.
 ```text
 Here's the key, make sure it doesn't use all my tokens, i want it to run the most efficient way possible 
 
-AQ.Ab8RN6IZF6u3V5WXpLorVZPb9AXgCy1oTn-uMzKs8md4wmrXrQ
+[GEMINI_API_KEY_REDACTED]
 
 <ADDITIONAL_METADATA>
 The current local time is: 2026-11-04T14:26:34-05:00.
